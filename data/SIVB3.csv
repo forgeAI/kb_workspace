@@ -1,70 +1,4 @@
 ﻿GRAPH,NODE DISTANCE,STARTING NODE,ENDING NODE,INTENSITY
-Svb Financial Group,3,Cooper Tire And Rubber Co,Corporate Capital Trust Inc,0.009144206
-Svb Financial Group,3,Arbutus Biopharma Cp,Assembly Biosciences,0.009208119
-Svb Financial Group,3,United States Steel Corp,Physicians Realty Trust,0.009499624
-Svb Financial Group,3,Royal Bank Of Canada,Aurinia Pharm Ord,0.009989102
-Svb Financial Group,3,Sunesis Pharmaceuticals Inc,Atara Biotherapeutics Inc,0.01003275
-Svb Financial Group,3,Nextera Energy Partners Lp,Fitbit Inc,0.01004678
-Svb Financial Group,3,Vertex Pharmaceuticals Inc / Ma,Eloxx Pharmaceuticals Inc,0.010110692
-Svb Financial Group,3,Maiden Holdings Ltd,Mortgageit Holdings Inc,0.010148105
-Svb Financial Group,3,Bridge Bancorp Inc,58Com Inc,0.010155899
-Svb Financial Group,3,Nasdaq Inc,Essa Pharma,0.010288401
-Svb Financial Group,3,State Bank Of India,Vedanta Ltd,0.010307107
-Svb Financial Group,3,Marathon Patent Group Inc,Sourcefire Inc,0.01046611
-Svb Financial Group,3,Federal Home Loan Mortgage Corp,Countrywide Financial Corp,0.010484816
-Svb Financial Group,3,Exelixis Inc,Genentech Inc,0.011360889
-Svb Financial Group,3,Synaptics Inc,Renesas Electronics Corp,0.01153548
-Svb Financial Group,3,Orbcomm Inc,Komatsu Ltd,0.011841014
-Svb Financial Group,3,China Mobile [Hong Kong] Ltd,China Telecom Corp Ltd,0.012003135
-Svb Financial Group,3,Danaher Corp,Quidel Cp,0.012243197
-Svb Financial Group,3,Thomson Reuters Corp,China Communications Construction Co Ltd,0.012271257
-Svb Financial Group,3,Seattle Genetics Inc,Cascadian Therapeutics Inc,0.012289963
-Svb Financial Group,3,Tracon Pharmaceuticals Inc,Imab,0.012406877
-Svb Financial Group,3,Ambac Financial Group Inc,Countrywide Plc,0.012411553
-Svb Financial Group,3,Northrop Grumman Corp,Eca Marcellus Trust I,0.012703058
-Svb Financial Group,3,Qualcomm Inc/De,Fih Mobile Ltd,0.012803344
-Svb Financial Group,3,Dine Brands Global Inc,Cheesecake Factory Inc,0.013000798
-Svb Financial Group,3,Foamix Pharmaceuticals Ltd,Biopharmx Corp,0.013243978
-Svb Financial Group,3,Public Service Enterprise Group Inc,Emcor Group,0.013576013
-Svb Financial Group,3,Nissan Motor Co Ltd,Toyota Motor Corp,0.01367422
-Svb Financial Group,3,Next Plc,Boohoocom Plc,0.013817635
-Svb Financial Group,3,Ra Pharmaceuticals Inc,Central European Media Enterprises Ltd,0.014060815
-Svb Financial Group,3,Ebay Inc,Live Nation Entertainment,0.014372585
-Svb Financial Group,3,Soligenix Inc,Acadia Healthcare Company Inc,0.014478586
-Svb Financial Group,3,Ugi Corp,Amerigas Partners Lp,0.015130185
-Svb Financial Group,3,Apellis Pharmaceuticals Inc,Biotime Inc,0.015702283
-Svb Financial Group,3,Equifax Inc,Lifelock Inc,0.016012493
-Svb Financial Group,3,Visa Inc,Netspend Holdings Inc,0.016134084
-Svb Financial Group,3,Annexon Inc,Ophthotech Corp,0.016162143
-Svb Financial Group,3,Arca Biopharma Inc,Astoria Financial Corp,0.01636947
-Svb Financial Group,3,Blueprint Medicines Corp,Stemline Therapeutics Inc,0.016448971
-Svb Financial Group,3,Teradata Corp,Flex Ltd,0.016480148
-Svb Financial Group,3,Sage Therapeutics Inc,Shionogi And Co Ltd,0.016779447
-Svb Financial Group,3,Conocophillips Co,Cenovus Energy Inc,0.017194101
-Svb Financial Group,3,Canadian Pacific Railway Ltd/Cn,National Bank Of Canada,0.017321926
-Svb Financial Group,3,Nordson Corp,Prosperity Bancshares Inc,0.017448193
-Svb Financial Group,3,Actinium Pharmaceuticals Inc,Magenta Therapeutics Inc,0.017552636
-Svb Financial Group,3,Bmo Financial Group,Sears Canada Inc,0.017945466
-Svb Financial Group,3,Abbvie Inc,Cadila Healthcare Limited,0.018473916
-Svb Financial Group,3,Orbital Atk Inc,Spirit Aerosystems Holdings,0.018575241
-Svb Financial Group,3,Widepoint Corp,Playags Inc,0.019282958
-Svb Financial Group,3,Springworks Therapeutics Inc,Precision Biosciences Inc,0.019356224
-Svb Financial Group,3,Allogene Therapeutics Inc,Pall Corp,0.020165266
-Svb Financial Group,3,Allena Pharmaceuticals Inc,Selecta Biosciences Inc,0.020244768
-Svb Financial Group,3,Ovid Therapeutics Inc,H Lundbeck A/S,0.020304004
-Svb Financial Group,3,Armstrong Flooring Inc,Physicians Realty Trust,0.021164488
-Svb Financial Group,3,Visa Inc,Global Payments Inc,0.021379609
-Svb Financial Group,3,Imax Corp,Cineworld Group Plc,0.021437287
-Svb Financial Group,3,Charles And Colvard,Halcon Resources Corp,0.022341419
-Svb Financial Group,3,Ra Pharmaceuticals Inc,Anixter International Inc,0.022681248
-Svb Financial Group,3,State Street Corp,Transenterix Inc,0.022812191
-Svb Financial Group,3,Adaptimmune Therapeutics Plc,Alpine Immune Sciences Inc,0.023523026
-Svb Financial Group,3,Titan Pharmaceuticals Inc,Cara Therapeutics,0.023772442
-Svb Financial Group,3,Ameren Corp,First Mortgage Bonds,0.024313363
-Svb Financial Group,3,Sprint Corp,Clearwire Corp /De,0.024664883
-Svb Financial Group,3,Apollo Global Management Llc,Wsfs Financial Corp,0.024687486
-Svb Financial Group,3,Fujitsu Ltd,Denso Corporation,0.025097464
-Svb Financial Group,3,Sangamo Therapeutics Inc,Advantage Oil And Gas Ltd,0.025837917
 Svb Financial Group,3,Univar Usa Inc,China Botanic Pharmaceutical,0.026210481
 Svb Financial Group,3,Sanofi Sa,Denali Therapeutics Inc,0.026313365
 Svb Financial Group,3,American International Group Inc,Unity Biotechnology Inc,0.02632116
@@ -575,7 +509,6 @@ Svb Financial Group,2,Sumo Logic, Graylog,87
 Svb Financial Group,2,Slack, Asana,88
 Svb Financial Group,2,Docker, IBM,88
 Svb Financial Group,2,Nutanix, VMware,89
-Svb Financial Group,2,SurveyMonkey, Qualtrics,89
 Svb Financial Group,2,Zuora, Salesforce,89
 Svb Financial Group,2,Asana, Smartsheet,91
 Svb Financial Group,2,Pluralsight, Treehouse,91
