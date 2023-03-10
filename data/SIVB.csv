@@ -1,0 +1,882 @@
+﻿GRAPH,NODE_DISTANCE,STARTING_NODE,ENDING_NODE,DOCYEAR,IEVENT,INTENSITY
+svb_financial_group,3,meiragtx_holdings_plc,spark_therapeutics_inc,2022,CLINICAL TRIAL,20108
+svb_financial_group,3,spectrum_pharmaceuticals_inc,rain_therapeutics_inc,2022,RESEARCH,124
+svb_financial_group,3,quanta_services_inc,tns_inc,2019,BREACH OF CONTRACT,325
+svb_financial_group,3,kempharm_inc,johnson_matthey_plc,2018,CLINICAL TRIAL,3576
+svb_financial_group,3,alphabet_inc,vodafone_group_plc,2019,LITIGATION,72972
+svb_financial_group,3,enanta_pharmaceuticals_inc,tobira_therapeutics_inc,2019,CLINICAL TRIAL,1668
+svb_financial_group,3,lendingclub_corp,nbt_bancorp_inc,2014,FRAUD,13590
+svb_financial_group,3,good_gaming_inc,hugoton_royalty_trust,2017,BREACH,73
+svb_financial_group,3,agios_pharmaceuticals_inc,global_blood_therapeutics_inc,2022,CLINICAL TRIAL,15276
+svb_financial_group,3,aviva_plc,gemalto_nv,2019,BREACH,180
+svb_financial_group,3,sempra_energy,oao_gazprom,2022,BREACH OF CONTRACT,32460
+svb_financial_group,3,thomson_reuters_corp,the_swatch_group_ltd,2020,INVESTIGATION,5740
+svb_financial_group,3,mimedx_group_inc,osiris_therapeutics_inc,2021,BREACH OF CONTRACT,288
+svb_financial_group,3,histogenics_cp,vericel_corp,2023,CLINICAL TRIAL,2824
+svb_financial_group,3,news_corp,allianzgi_international_and_premium_strategy_fund,2013,BREACH,105542
+svb_financial_group,3,blueprint_medicines_corp,xencor_inc,2020,CLINICAL TRIAL,44208
+svb_financial_group,2,hertz_global_holdings_inc,ascena_retail_group_inc,2020,BANKRUPTCY,1
+svb_financial_group,2,intercontinental_exchange,cpi_aerostructures_inc,2020,INVESTIGATION,1
+svb_financial_group,2,intercontinental_exchange,58com_inc,2020,BREACH,1
+svb_financial_group,2,kura_oncology,cooper_industries_plc,2017,CLINICAL TRIAL,20
+svb_financial_group,2,nasdaq_inc,haymaker_acquisition_corp,2020,BREACH,1
+svb_financial_group,2,brainstorm_cell_therapeutics_inc,catalent_inc,2022,CLINICAL TRIAL,1400
+svb_financial_group,2,psivida_corp,santen_pharmaceutical_co_ltd,2020,CLINICAL TRIAL,24
+svb_financial_group,2,geron_co_ltd,imago_biosciences_inc,2021,INVESTIGATION,36
+svb_financial_group,2,nasdaq_inc,intra-cellular_therapies_inc,2020,CLINICAL TRIAL,1
+svb_financial_group,3,mcdermott_inc,brookfield_dtla_fund_office_trust_investor_inc,2020,BANKRUPTCY,60
+svb_financial_group,3,ocwen_financial_corp,phh_corp,2019,LITIGATION,38611
+svb_financial_group,2,intercontinental_exchange,rexahn_pharmaceuticals,2020,INVESTIGATION,1
+svb_financial_group,2,reata_pharmaceuticals_inc,lexicon_pharmaceuticals_inc,2022,CLINICAL TRIAL,18
+svb_financial_group,2,ziopharm_oncology_inc,intrexon_corp,2017,BREACH,40765
+svb_financial_group,2,us_bancorp,uber_technologies_inc,2018,RANSOMWARE ATTACK,8632
+svb_financial_group,1,svb_financial_group,onebeacon_insurance_group_ltd,2018,DATA BREACH,1
+svb_financial_group,3,walter_investment_management_corp,credit_suisse_ag,2017,BREACH,434925
+svb_financial_group,3,nasdaq_inc,wd_40_co,2020,DISRUPTION,1808
+svb_financial_group,3,synopsys_inc,magma_design_automation_inc,2012,DISRUPTION,1769
+svb_financial_group,3,abraxas_petroleum_corp,gmx_resources_inc,2014,BANKRUPTCY,8
+svb_financial_group,3,22nd_century_group_inc,vector_ltd_ord,2013,CLINICAL TRIAL,132
+svb_financial_group,3,xpo_logistics,c_h_robinson_worldwide_inc,2013,BREACH OF CONTRACT,66368
+svb_financial_group,3,acadia_pharmaceuticals_inc,catalent_inc,2018,FRAUD,124828
+svb_financial_group,3,tupperware_brands_corp,kraft_foods_group_inc,2016,REORGANIZATION,9852
+svb_financial_group,3,altaba_inc,equifax_inc,2019,DATA BREACH,2108598
+svb_financial_group,3,equity_residential,avalonbay_communities_inc,2013,LITIGATION,284064
+svb_financial_group,3,akamai_technologies_inc,imperva_inc,2020,DDOS ATTACK,2056
+svb_financial_group,3,vornado_realty_trust,partner_communications_co_ltd,2013,BANKRUPTCY,26356
+svb_financial_group,3,bluebird_bio,glycomimetics_inc,2014,INVESTIGATION,3444
+svb_financial_group,3,intrepid_potash_inc,mosaic_company,2020,LITIGATION,68808
+svb_financial_group,3,mitsubishi_heavy_industries_ltd,nippon_steel_and_sumitomo_metal_corp,2020,BREACH,560
+svb_financial_group,3,kbl_merger_corp_iv,evotec_ag_ord,2022,RESEARCH,1440
+svb_financial_group,3,altaba_inc,verizon_communications_inc,2020,DATA BREACH,5507047
+svb_financial_group,3,sears_holdings_corp,kmart_holding_corp,2014,INVESTIGATION,420
+svb_financial_group,3,advanced_micro_devices_inc,aib_group_plc,2017,INTERRUPTION,82698
+svb_financial_group,2,maiden_holdings_ltd,mortgageit_holdings_inc,2018,BREACH,252
+svb_financial_group,2,goodyear_tire_and_rubber_co_/oh/,stoneridge_inc,2012,BREACH,4512
+svb_financial_group,3,sm_energy_co,endeavour_international_corp,2012,LITIGATION,882
+svb_financial_group,2,intercontinental_exchange,ultra_petroleum_corp,2020,BANKRUPTCY,1
+svb_financial_group,3,caretrust_reit_inc,ensign_group_inc,2018,LITIGATION,1620
+svb_financial_group,3,cooper_tire_and_rubber_co,corporate_capital_trust_inc,2015,LITIGATION,5866
+svb_financial_group,3,nanoviricides_inc,shionogi_and_co_ltd,2022,CLINICAL TRIAL,16580
+svb_financial_group,3,regenxbio_inc,clearside_biomedical_inc,2019,CLINICAL TRIAL,6944
+svb_financial_group,3,alliance_data_systems_corp,santander_consumer_usa_holdings,2023,REMOVAL,480
+svb_financial_group,3,hortonworks,cloudera_inc,2018,REORGANIZATION,6375
+svb_financial_group,3,mimedx_group_inc,osiris_therapeutics_inc,2023,BREACH OF CONTRACT,180
+svb_financial_group,3,bwx_technologies_inc,ani_pharmaceuticals_inc,2016,BREACH,3080
+svb_financial_group,3,dynegy_inc,peabody_energy_corp,2012,BREACH,258
+svb_financial_group,3,abbvie_inc,biogen_inc,2018,CLINICAL TRIAL,1650
+svb_financial_group,3,vereit_inc,crown_castle_international_corp,2015,BREACH,425803
+svb_financial_group,3,madison_square_garden_co,msg_entertainment_spinco_inc,2020,BREACH,170
+svb_financial_group,3,sound_financial_bancorp_inc,columbia_banking_system_inc,2015,LITIGATION,26
+svb_financial_group,3,crispr_therapeutics_inc,vertex_pharmaceuticals_inc_/_ma,2019,CLINICAL TRIAL,189656
+svb_financial_group,3,thomson_reuters_corp,sra_international_inc,2019,HACKING,150
+svb_financial_group,3,graco_inc,carlisle_companies_inc,2018,LITIGATION,84
+svb_financial_group,3,yelp_inc,tripadvisor_inc,2019,INVESTIGATION,108768
+svb_financial_group,3,amag_pharmaceuticals,idacorp_inc,2012,RESEARCH,275260
+svb_financial_group,3,sequenom_inc,natera_inc,2014,LITIGATION,552
+svb_financial_group,2,intercontinental_exchange,celadon_group_inc,2019,BANKRUPTCY PROTECTION,1
+svb_financial_group,2,geron_co_ltd,energy_services_of_america_corp,2016,CLINICAL TRIAL,6
+svb_financial_group,2,intercontinental_exchange,golden_star_resources_ltd,2020,INVESTIGATION,1
+svb_financial_group,2,intercontinental_exchange,consolidated_edison_inc,2020,BREACH,1
+svb_financial_group,2,amarin_corp_plc,health_net_inc,2022,LITIGATION,204
+svb_financial_group,2,psivida_corp,alimera_sciences_inc,2018,BREACH,1275
+svb_financial_group,2,intercontinental_exchange,rockwell_collins_inc,2020,BREACH OF CONTRACT,1
+svb_financial_group,2,amarin_corp_plc,goldman_sachs_group_inc,2019,FRAUD,3099777
+svb_financial_group,3,soligenix_inc,monopar_therapeutics,2019,INVESTIGATION,126
+svb_financial_group,3,sabre_corp,pinnacle_airlines_corp,2021,BANKRUPTCY PROTECTION,54
+svb_financial_group,2,bruker_corp,waters_corp,2020,INVESTIGATION,4905
+svb_financial_group,2,moodys_corp_/de/,washington_prime_group_inc,2020,STORE CLOSURE,217
+svb_financial_group,2,intercontinental_exchange,seadrill_ltd,2020,BANKRUPTCY,1
+svb_financial_group,2,geron_co_ltd,karyopharm_therapeutics_inc,2021,INVESTIGATION,156
+svb_financial_group,3,southern_co_gas,southern_company,2017,INVESTIGATION,2322221
+svb_financial_group,3,rambus_inc,waste_connections_inc,2014,SANCTIONS,104960
+svb_financial_group,3,nanoviricides_inc,alcon_inc,2014,CLINICAL TRIAL,72
+svb_financial_group,3,innovate_biopharmaceuticals_inc,comfortdelgro_corp_ltd,2022,CLINICAL TRIAL,4314
+svb_financial_group,3,aimmune_therapeutics_inc,dbv_technologies_ads,2020,CLINICAL TRIAL,20976
+svb_financial_group,3,energy_fuels_inc,largo_resources_ltd,2021,REMOVAL,540
+svb_financial_group,3,gap_inc,inditex_sa,2020,INVESTIGATION,736
+svb_financial_group,3,dst_systems_inc,state_street_corp,2017,BREACH,3814392
+svb_financial_group,3,american_states_water_co,dreamworks_animation_llc,2012,INVESTIGATION,48363
+svb_financial_group,3,franklin_covey_co,top_ships_inc,2013,BREACH OF CONTRACT,336
+svb_financial_group,3,thomson_reuters_corp,crrc_corp_ltd,2020,SANCTIONS,1771
+svb_financial_group,3,pnc_financial_services_group_inc,eyegate_pharmaceuticals_inc,2016,MONEY LAUNDERING,7035
+svb_financial_group,3,autoliv_inc,takata_corp,2023,BANKRUPTCY PROTECTION,181
+svb_financial_group,3,rayonier_advanced_materials_inc,eastman_chemical_company,2020,LITIGATION,25655
+svb_financial_group,3,ugi_corp,paa_natural_gas_storage_lp,2013,INVESTIGATION,15371
+svb_financial_group,2,medtronic_public_limited_company,china_botanic_pharmaceutical,2017,SANCTIONS,54
+svb_financial_group,2,royal_bank_of_canada,pnc_financial_services_group_inc,2020,LITIGATION,103
+svb_financial_group,2,amarin_corp_plc,hikma_pharmaceuticals_plc,2021,LITIGATION,12
+svb_financial_group,2,jp_morgan_chase_and_co,ambac_financial_group_inc,2012,BREACH OF CONTRACT,7992
+svb_financial_group,2,psivida_corp,alimera_sciences_inc,2012,CLINICAL TRIAL,660
+svb_financial_group,2,jp_morgan_chase_and_co,ubs_group_ag,2016,BREACH,49249
+svb_financial_group,2,nasdaq_inc,glycomimetics_inc,2020,CLINICAL TRIAL,1
+svb_financial_group,2,twitter_inc,clicks_group_ltd,2020,SHUTDOWN,1
+svb_financial_group,3,healthcare_corp,white_energy_company_ltd,2013,BANKRUPTCY,18
+svb_financial_group,3,signet_jewelers_ltd,childrens_place_inc,2020,BANKRUPTCY,3153
+svb_financial_group,3,fti_consulting_inc,lecg_corp,2014,LITIGATION,152
+svb_financial_group,2,nasdaq_inc,universal_logistics_holdings_inc,2020,SHUTDOWN,1
+svb_financial_group,2,nuance_communications_inc,heritage_financial_corp_/wa/,2020,RANSOMWARE ATTACK,1
+svb_financial_group,2,psivida_corp,alimera_sciences_inc,2019,BREACH,844
+svb_financial_group,3,arca_biopharma_inc,laboratory_corp_of_america_holdings,2023,CLINICAL TRIAL,12738
+svb_financial_group,3,oasis_midstream_partners_lp,oasis_petroleum_inc,2020,BANKRUPTCY PROTECTION,332520
+svb_financial_group,3,nvidia_corp,keysight_technologies_inc,2020,SHUTDOWN,21141
+svb_financial_group,3,relay_therapeutics_inc,erasca_inc,2023,CLINICAL TRIAL,16
+svb_financial_group,3,cumulus_media_inc,entercom_communications_corp,2014,BREACH,32576
+svb_financial_group,3,albireo_pharma_inc,unilife_corp,2016,BREACH,8012
+svb_financial_group,3,document_security_systems_inc,fortress_investment_group_llc,2020,LITIGATION,4344
+svb_financial_group,3,mosys_inc,dextera_surgical_inc,2021,REORGANIZATION,39
+svb_financial_group,3,valeant_pharmaceuticals_international_inc,anacor_pharmaceuticals_inc,2013,RESEARCH,543
+svb_financial_group,3,energy_fuels_inc,hallador_energy_co,2021,REMOVAL,453
+svb_financial_group,3,tupperware_brands_corp,kraft_foods_group_inc,2019,REORGANIZATION,1695
+svb_financial_group,3,jc_penney,stage_stores_inc,2020,BANKRUPTCY,1084
+svb_financial_group,3,home_bancshares_inc,hanesbrands_inc,2013,INVESTIGATION,17315
+svb_financial_group,3,bhp_billiton_ltd,vale_sa,2020,DISRUPTION,35672
+svb_financial_group,3,icahn_enterprises_lp,vivus_inc,2023,BANKRUPTCY,2652
+svb_financial_group,3,mannkind_corp,amphastar_pharmaceuticals_inc,2019,BANKRUPTCY,8940
+svb_financial_group,2,codexis_inc,takeda_pharmaceutical_co,2022,RESEARCH,2540
+svb_financial_group,2,dare_bioscience_inc,chemours_co,2015,BREACH,72
+svb_financial_group,2,bank_of_america_corp,boohoocom_plc,2020,INVESTIGATION,1
+svb_financial_group,2,ophthotech_corp,proqr_therapeutics,2022,CLINICAL TRIAL,456
+svb_financial_group,2,jp_morgan_chase_and_co,home_depot_inc,2014,DATA BREACH,485
+svb_financial_group,2,vital_therapies_inc,compass_diversified_holdings,2015,CLINICAL TRIAL,2250
+svb_financial_group,2,jp_morgan_chase_and_co,altaba_inc,2019,BREACH,1
+svb_financial_group,2,pfizer_inc,icu_medical_inc/de,2019,LITIGATION,1620
+svb_financial_group,3,fortress_investment_group_llc,sei_investments_co,2020,RANSOMWARE ATTACK,2334
+svb_financial_group,3,nike_inc,thyssenkrupp_ag,2019,BANKRUPTCY,468
+svb_financial_group,3,biospecifics_technologies_corp,exela_technologies_inc,2016,DISPUTE,29392
+svb_financial_group,3,jakks_pacific_inc,oaktree_capital_group_llc,2016,BREACH,61614
+svb_financial_group,3,las_vegas_sands_corp,galaxy_entertainment_group_ltd,2022,LITIGATION,574
+svb_financial_group,3,playags_inc,brookdale_senior_living_inc,2020,LITIGATION,81692
+svb_financial_group,3,newtek_business_services_corp,american_strategic_income_portfolio_inc_ii,2018,INVESTIGATION,4109
+svb_financial_group,3,mgm_resorts,oci_partners_lp,2013,BREACH OF CONTRACT,234
+svb_financial_group,3,altaba_inc,anthem_inc,2020,DATA BREACH,1823464
+svb_financial_group,3,geron_co_ltd,imago_biosciences_inc,2020,CLINICAL TRIAL,78
+svb_financial_group,3,envestnet_inc,yodlee_inc,2019,FRAUD,120
+svb_financial_group,3,vaxart_inc,global_partners_lp,2016,CLINICAL TRIAL,34650
+svb_financial_group,3,corepoint_lodging_inc,la_quinta_holdings_inc,2020,BANKRUPTCY,44
+svb_financial_group,3,international_business_machines_corp,seagate_technology_plc,2014,DISRUPTION,99344
+svb_financial_group,2,jp_morgan_chase_and_co,cymabay_therapeutics,2020,CLINICAL TRIAL,1
+svb_financial_group,2,codexis_inc,dyadic_international,2015,BREACH,30
+svb_financial_group,2,psivida_corp,pfizer_inc,2012,CLINICAL TRIAL,303606
+svb_financial_group,2,jp_morgan_chase_and_co,ambac_financial_group_inc,2013,BREACH OF CONTRACT,4590
+svb_financial_group,2,hertz_global_holdings_inc,mcdermott_inc,2020,BANKRUPTCY,1
+svb_financial_group,2,pacific_biosciences_of_california_inc,enbridge_inc,2015,REMOVAL,87
+svb_financial_group,2,intercontinental_exchange,bridge_bancorp_inc,2020,BREACH,1
+svb_financial_group,2,nasdaq_inc,evelo_biosciences_inc,2020,CLINICAL TRIAL,1
+svb_financial_group,2,jp_morgan_chase_and_co,biomerica_inc,2020,INVESTIGATION,1
+svb_financial_group,2,microsoft_corp,novartis_ag,2019,CLINICAL TRIAL,973
+svb_financial_group,2,bruker_corp,intertek_group_plc,2020,INVESTIGATION,1
+svb_financial_group,2,amarin_corp_plc,hikma_pharmaceuticals_plc,2020,LITIGATION,36
+svb_financial_group,2,intercontinental_exchange,gain_capital_holdings,2020,BREACH,1
+svb_financial_group,1,svb_financial_group,gci_liberty_inc,2022,BREACH,360
+svb_financial_group,3,f5_networks_inc,radware_ltd,2018,LITIGATION,4368
+svb_financial_group,3,braemar_hotels_and_resorts_inc,armada_hoffler_properties_inc,2016,LITIGATION,4308
+svb_financial_group,3,morphic_holding_inc,pliant_therapeutics_inc,2021,CLINICAL TRIAL,102
+svb_financial_group,3,delek_us_holdings,altair_corp,2021,BREACH OF CONTRACT,858
+svb_financial_group,3,precipio_inc,fox_chase_bancorp_inc,2017,BREACH OF CONTRACT,882
+svb_financial_group,2,twitter_inc,transgene_sa,2020,CLINICAL TRIAL,1
+svb_financial_group,3,hess_corp,wpx_energy_inc,2020,SHUTDOWN,20052
+svb_financial_group,3,corenergy_infrastructure_trust_inc,energy_xxi_gulf_coast_inc,2019,LITIGATION,12
+svb_financial_group,3,intuitive_surgical_inc,navigators_group_inc,2017,BREACH OF CONTRACT,588
+svb_financial_group,3,armstrong_world_industries_inc,owens_corning_inc,2013,INVESTIGATION,8680
+svb_financial_group,3,hd_supply_inc,aib_group_plc,2015,INVESTIGATION,149670
+svb_financial_group,3,qualcomm_inc/de,fih_mobile_ltd,2018,BREACH,14080
+svb_financial_group,3,rite_aid_corp,humana_inc,2023,BREACH OF CONTRACT,230272
+svb_financial_group,3,lyft_inc,hertz_global_holdings_inc,2020,BANKRUPTCY,597414
+svb_financial_group,3,overseas_shipholding_group_inc,international_seaways_inc,2016,BANKRUPTCY,690
+svb_financial_group,3,amrep_corp,worldgate_communications_inc,2013,LITIGATION,66
+svb_financial_group,3,galectin_therapeutics_inc,oncobiologics_inc,2017,CLINICAL TRIAL,5328
+svb_financial_group,3,pc_connection_inc,hewlett_packard_enterprise_comp,2021,DISRUPTION,413382
+svb_financial_group,3,rhythm_pharmaceuticals_inc,soleno_therapeutics_inc,2020,CLINICAL TRIAL,2448
+svb_financial_group,3,new_residential_investment_corp,onemain_holdings_inc,2021,BANKRUPTCY,16972
+svb_financial_group,3,horizon_pharma_plc,hyperion_therapeutics_inc,2020,CLINICAL TRIAL,1184
+svb_financial_group,3,las_vegas_sands_corp,wynn_resorts_ltd,2020,SANCTIONS,12552
+svb_financial_group,2,geron_co_ltd,lixte_biotechnology_holdings_inc,2021,CLINICAL TRIAL,24
+svb_financial_group,2,nuvasive_inc,gain_capital_holdings,2019,LITIGATION,20
+svb_financial_group,2,geron_co_ltd,lixte_biotechnology_holdings_inc,2020,CLINICAL TRIAL,36
+svb_financial_group,2,nasdaq_inc,dbv_technologies_ads,2020,INVESTIGATION,1
+svb_financial_group,2,nasdaq_inc,niu_technologies,2020,ARREST,1
+svb_financial_group,3,sandridge_energy_inc,sandridge_mississippian_trust_ii,2019,INVESTIGATION,550
+svb_financial_group,3,retrophin_inc,oramed_pharmaceuticals_inc,2020,RESEARCH,1270
+svb_financial_group,2,hertz_global_holdings_inc,libbey_inc,2020,BANKRUPTCY,1
+svb_financial_group,2,intercontinental_exchange,eastman_chemical_company,2020,INVESTIGATION,1
+svb_financial_group,2,nasdaq_inc,stoke_therapeutics_inc,2020,CLINICAL TRIAL,1
+svb_financial_group,2,dare_bioscience_inc,bayer_ag_ord,2020,CLINICAL TRIAL,1560
+svb_financial_group,3,apple_inc,delta_electronics_inc,2019,SANCTIONS,288
+svb_financial_group,3,kbr_inc,prudential_financial_inc,2015,LITIGATION,1357528
+svb_financial_group,3,crossamerica_partners_lp,southcross_energy_llc,2020,BANKRUPTCY,80
+svb_financial_group,3,paccar_inc,volkswagen_ag,2023,RESEARCH,174724
+svb_financial_group,3,avangrid_inc,superior_offshore_international_inc,2018,INVESTIGATION,302
+svb_financial_group,3,ultralife_corp,arista_power_inc,2016,BREACH,252
+svb_financial_group,3,expedia_group_inc,nuveen_california_muni_value_fund,2017,INVESTIGATION,7392
+svb_financial_group,3,exone_co,voxeljet_ag,2018,BREACH,250
+svb_financial_group,3,pulmatrix_inc,savara_inc,2016,CLINICAL TRIAL,15640
+svb_financial_group,3,google,globant_sa,2016,DISRUPTION,1400
+svb_financial_group,3,supportcom_inc,match_group_inc,2018,LITIGATION,228
+svb_financial_group,3,four_corners_property_trust_in,darden_restaurants_inc,2022,BANKRUPTCY,3174
+svb_financial_group,3,fortress_biotech_inc,tg_therapeutics_inc,2022,RESEARCH,8238
+svb_financial_group,3,cboe_global_markets_inc,international_securities_exchange_holdings_inc,2015,LITIGATION,751
+svb_financial_group,3,apellis_pharmaceuticals_inc,omeros_corp,2019,CLINICAL TRIAL,52750
+svb_financial_group,3,exone_co,voxeljet_ag,2020,BREACH,475
+svb_financial_group,3,news_corp,smithfield_foods_inc,2016,LITIGATION,3661
+svb_financial_group,3,turning_point_brands,standard_diversified_opportunities_inc,2021,REORGANIZATION,93
+svb_financial_group,3,hms_holdings_corp,affiliated_managers_group,2017,BREACH OF CONTRACT,19292
+svb_financial_group,3,abraxas_petroleum_corp,gasco_energy_inc,2014,BANKRUPTCY,8
+svb_financial_group,2,moodys_corp_/de/,foresight_energy_lp,2020,BANKRUPTCY,1
+svb_financial_group,2,nasdaq_inc,fresenius_se_and_co_kgaa,2020,RESEARCH,1
+svb_financial_group,2,amgen_inc,abbvie_inc,2019,LITIGATION,16937
+svb_financial_group,2,intercontinental_exchange,chembio_diagnostics,2020,FRAUD,1
+svb_financial_group,2,intercontinental_exchange,contura_energy_inc,2020,INVESTIGATION,1
+svb_financial_group,1,svb_financial_group,iterum_therapeutics_plc,2020,CLINICAL TRIAL,1
+svb_financial_group,3,equitrans_midstream_corporation,eqt_midstream_partners_lp,2023,LITIGATION,2556
+svb_financial_group,3,honeywell_international_inc,acer_therapeutics_inc,2020,INVESTIGATION,16761
+svb_financial_group,3,spectranetics_corp,legg_mason_inc,2016,REMOVAL,17385
+svb_financial_group,3,mbia_inc,credit_suisse_group,2018,LITIGATION,759226
+svb_financial_group,3,american_airlines_group_inc,riverview_financial_corp,2019,INVESTIGATION,6996
+svb_financial_group,3,ritter_pharmaceuticals_inc,wuxi_pharmatech_(cayman)_inc,2022,CLINICAL TRIAL,9
+svb_financial_group,3,alnylam_pharmaceuticals_inc,eidos_therapeutics_inc,2023,CLINICAL TRIAL,282
+svb_financial_group,3,arca_biopharma_inc,astoria_financial_corp,2018,CLINICAL TRIAL,10501
+svb_financial_group,3,lantheus_holdings,endocyte_inc,2022,DISPUTE,954
+svb_financial_group,3,alnylam_pharmaceuticals_inc,dicerna_pharmaceuticals_inc,2016,REMOVAL,10110
+svb_financial_group,3,arbutus_biopharma_cp,vaccitech_limited,2023,CLINICAL TRIAL,150
+svb_financial_group,3,fibrogen_inc,3sbio_inc,2020,CLINICAL TRIAL,7600
+svb_financial_group,3,neuronetics_inc,brainsway_ltd,2022,LITIGATION,23
+svb_financial_group,3,xilinx_inc,zte_corp,2022,SANCTIONS,6552
+svb_financial_group,3,synopsys_inc,magma_design_automation_inc,2013,DISRUPTION,516
+svb_financial_group,3,nextera_energy_partners_lp,fitbit_inc,2015,LITIGATION,6445
+svb_financial_group,3,american_homes_4_rent,gorman-rupp_company,2017,INVESTIGATION,25298
+svb_financial_group,2,twitter_inc,blackbaud_inc,2020,DATA BREACH,1
+svb_financial_group,2,nasdaq_inc,longfin_corp,2019,ACCOUNTING FRAUD,1
+svb_financial_group,2,visa_inc,global_payments_inc,2012,BREACH,1
+svb_financial_group,2,nasdaq_inc,allakos_inc,2020,BREACH,1
+svb_financial_group,2,moodys_corp_/de/,centerpoint_energy_inc,2020,FRAUD,1
+svb_financial_group,2,reata_pharmaceuticals_inc,glenmark_pharmaceuticals_limited,2023,CLINICAL TRIAL,280
+svb_financial_group,2,reata_pharmaceuticals_inc,eliem_therapeutics_inc,2022,CLINICAL TRIAL,6
+svb_financial_group,2,moodys_corp_/de/,nissan_motor_co_ltd,2020,ARREST,1
+svb_financial_group,1,svb_financial_group,verona_pharma_plc,2020,CLINICAL TRIAL,1
+svb_financial_group,3,volkswagen_ag,celadon_group_inc,2020,BANKRUPTCY,375
+svb_financial_group,2,apollo_global_management_llc,ares_management_gp_llc,2020,BANKRUPTCY,1
+svb_financial_group,3,microsoft_corp,quantum_computing_inc,2019,INVESTIGATION,328
+svb_financial_group,3,sunpower_corp,au_optronics_corp,2016,BREACH,2770
+svb_financial_group,3,soligenix_inc,monopar_therapeutics,2020,INVESTIGATION,84
+svb_financial_group,3,williams_companies_inc,energy_transfer_lp__1,2019,BREACH,1390080
+svb_financial_group,3,nike_inc,factset_research_systems_inc,2019,STORE CLOSURE,453220
+svb_financial_group,3,arcosa_inc,hyster-yale_materials_handling_inc,2020,LITIGATION,646
+svb_financial_group,3,thomson_reuters_corp,centrais_electricas_brazil,2020,FRAUD,24600
+svb_financial_group,3,intercontinental_exchange,mobile_telesystems,2019,INVESTIGATION,4112
+svb_financial_group,3,halcon_resources_corp,advance_auto_parts_inc,2019,REORGANIZATION,49835
+svb_financial_group,3,alnylam_pharmaceuticals_inc,dicerna_pharmaceuticals_inc,2018,LITIGATION,2763
+svb_financial_group,3,hms_holdings_corp,performant_financial_corp,2014,FRAUD,36
+svb_financial_group,3,nic_inc,micro_focus_intl_plc,2013,BREACH,13488
+svb_financial_group,3,uniti_group_inc,csl_ltd,2015,DISPUTE,70952
+svb_financial_group,3,sequenom_inc,natera_inc,2015,LITIGATION,3429
+svb_financial_group,3,accuray_inc,tomotherapy_inc,2022,DISRUPTION,12967
+svb_financial_group,3,celldex_therapeutics,cascadian_therapeutics_inc,2014,CLINICAL TRIAL,226
+svb_financial_group,3,home_depot_inc,pentair_plc,2019,INVESTIGATION,49240
+svb_financial_group,2,scynexis_inc,unilife_corp,2022,BANKRUPTCY,20
+svb_financial_group,2,nasdaq_inc,jakks_pacific_inc,2020,BREACH,289
+svb_financial_group,2,abeona_therapeutics,vicon_industries_inc,2017,CLINICAL TRIAL,471
+svb_financial_group,2,eyenovia_inc,valeant_pharmaceuticals_international_inc,2022,CLINICAL TRIAL,432
+svb_financial_group,2,intercontinental_exchange,kirby_corp,2020,INVESTIGATION,1
+svb_financial_group,2,twitter_inc,graham_corp,2019,SANCTIONS,1
+svb_financial_group,2,nasdaq_inc,gossamer_bio_inc,2020,INVESTIGATION,1
+svb_financial_group,2,intercontinental_exchange,lilis_energy_inc,2020,BANKRUPTCY,1
+svb_financial_group,2,bankrate_inc,leapfrog_enterprises_inc,2012,FRAUD,310
+svb_financial_group,3,realogy_holdings_corp,phh_corp,2017,LITIGATION,4070
+svb_financial_group,3,mvc_capital_inc,bexil_cp,2020,LITIGATION,13
+svb_financial_group,3,agios_pharmaceuticals_inc,geron_co_ltd,2022,CLINICAL TRIAL,87924
+svb_financial_group,2,moodys_corp_/de/,korea_electric_power_corp,2020,DISRUPTION,1
+svb_financial_group,2,fair_isaac_corp,pegasystems_inc,2021,FRAUD,60
+svb_financial_group,2,fair_isaac_corp,aci_worldwide_inc,2021,FRAUD,24
+svb_financial_group,3,digital_ally_inc,axon_enterprise_inc,2022,LITIGATION,21665
+svb_financial_group,3,molecular_templates_inc,bristol-myers_squibb_company,2012,INVESTIGATION,2319229
+svb_financial_group,3,pernix_therapeutics_holdings_inc,recro_pharma_inc,2017,LITIGATION,132
+svb_financial_group,3,vir_biotechnology_inc,sab_biotherapeutics_inc,2023,CLINICAL TRIAL,8
+svb_financial_group,3,akamai_technologies_inc,limelight_networks,2020,LITIGATION,11185
+svb_financial_group,3,biospecifics_technologies_corp,auxilium_pharmaceuticals_inc,2014,CLINICAL TRIAL,3559
+svb_financial_group,3,humanigen_inc,avax_technologies_inc,2016,BANKRUPTCY,12
+svb_financial_group,3,express_scripts_holding_co,rockford_corp,2018,BREACH OF CONTRACT,422
+svb_financial_group,3,credit_suisse_ag,nymox_pharmaceutical_corp,2020,RESEARCH,1952
+svb_financial_group,3,codexis_inc,dyadic_international,2015,BREACH,1200
+svb_financial_group,3,steris_plc,steris_corp,2023,LITIGATION,27
+svb_financial_group,3,spherix_inc,adtran_inc,2018,LITIGATION,236
+svb_financial_group,3,sandridge_energy_inc,sandridge_mississippian_trust_i,2020,INVESTIGATION,650
+svb_financial_group,3,nordstrom_inc,jc_penney,2020,STORE CLOSURE,342671
+svb_financial_group,3,enova_international_inc,central_pacific_financial_corp,2015,FRAUD,360
+svb_financial_group,3,kempharm_inc,johnson_matthey_plc,2020,CLINICAL TRIAL,2032
+svb_financial_group,3,natera_inc,progenity_inc,2023,LITIGATION,21
+svb_financial_group,3,meiragtx_holdings_plc,4d_molecular_therapeutics_inc,2022,CLINICAL TRIAL,420
+svb_financial_group,3,nissan_motor_co_ltd,toyota_motor_corp,2016,DISRUPTION,8772
+svb_financial_group,3,seagate_technology_plc,tdk_corp,2020,BREACH OF CONTRACT,2000
+svb_financial_group,3,bwx_technologies_inc,ani_pharmaceuticals_inc,2014,BREACH,17085
+svb_financial_group,3,icici_bank_ltd,atlas,2020,LITIGATION,47280
+svb_financial_group,3,ares_capital_corp,allied_capital_corp,2021,REORGANIZATION,5850
+svb_financial_group,2,royal_bank_of_canada,aurinia_pharm_ord,2020,RESEARCH,1
+svb_financial_group,2,nasdaq_inc,medidata_solutions_gmbh,2020,CLINICAL TRIAL,1
+svb_financial_group,2,medtronic_public_limited_company,caribou_coffee_company_inc,2019,CYBER BREACH,1
+svb_financial_group,2,nasdaq_inc,telenav_inc,2020,BREACH,1
+svb_financial_group,2,neogenomics_inc,health_discovery_corp,2019,LITIGATION,78
+svb_financial_group,2,gilead_sciences_inc,galmed_pharmaceuticals_ltd,2020,CLINICAL TRIAL,1
+svb_financial_group,3,nasdaq_inc,arca_biopharma_inc,2020,CLINICAL TRIAL,4660
+svb_financial_group,2,nasdaq_inc,news_corp,2017,INVESTIGATION,781
+svb_financial_group,2,bank_of_america_corp,countrywide_financial_corp,2020,FRAUD,1
+svb_financial_group,2,jp_morgan_chase_and_co,bbandt_corp,2020,SANCTIONS,1
+svb_financial_group,3,ziopharm_oncology_inc,mustang_bio_inc,2021,CLINICAL TRIAL,4442
+svb_financial_group,3,galectin_therapeutics_inc,oncobiologics_inc,2016,CLINICAL TRIAL,176
+svb_financial_group,3,energy_fuels_inc,ur-energy_inc,2018,INVESTIGATION,490
+svb_financial_group,3,jernigan_capital_inc,spring_bank_pharmaceuticals_inc,2020,BREACH,34488
+svb_financial_group,3,thomson_reuters_corp,steinhoff_international_holdings_nv,2020,ACCOUNTING FRAUD,1722
+svb_financial_group,3,molecular_templates_inc,pfizer_inc,2012,INVESTIGATION,15005466
+svb_financial_group,3,ford_motor_company,metro_inc,2019,LEGAL DISPUTE,322660
+svb_financial_group,3,amc_entertainment_inc,cineworld_group_plc,2020,BREACH OF CONTRACT,5008
+svb_financial_group,3,infinity_pharmaceuticals_inc,verastem_inc,2017,LITIGATION,46625
+svb_financial_group,3,fih_mobile_ltd,qualcomm_inc/de,2017,BREACH,203126
+svb_financial_group,3,avalara_inc,platinum_underwriters_holdings_ltd,2018,BREACH OF CONTRACT,1645
+svb_financial_group,3,anpac_bio-medical_science_co_ltd,imab,2020,CLINICAL TRIAL,34212
+svb_financial_group,3,apple_inc,broadcom_ltd,2017,RESEARCH,2755161
+svb_financial_group,3,bitauto_holdings_ltd,58com_inc,2020,BREACH,6515
+svb_financial_group,3,qualcomm_inc/de,fih_mobile_ltd,2017,BREACH,3520
+svb_financial_group,3,array_biopharma_inc,genentech_inc,2017,BREACH,22475
+svb_financial_group,3,barclays_plc,acasti_pharma,2020,RESEARCH,14070
+svb_financial_group,2,geron_co_ltd,celgene_corp,2020,INVESTIGATION,5101
+svb_financial_group,2,neogenomics_inc,health_discovery_corp,2020,LITIGATION,31
+svb_financial_group,2,geron_co_ltd,keros_therapeutics_inc,2021,CLINICAL TRIAL,30
+svb_financial_group,2,visa_inc,canadian_pacific_railway_ltd/cn,2012,BREACH,4716
+svb_financial_group,3,pedevco_corp,blue_dolphin_energy_co,2020,BANKRUPTCY,9
+svb_financial_group,3,nasdaq_inc,cue_biopharma_inc,2020,CLINICAL TRIAL,450
+svb_financial_group,2,trevi_therapeutics_inc,menlo_therapeutics_inc,2020,CLINICAL TRIAL,5
+svb_financial_group,2,moodys_corp_/de/,tailored_brands_inc,2020,BANKRUPTCY,1
+svb_financial_group,3,amtrust_financial_services_inc,maiden_holdings_ltd,2014,REGULATORY INVESTIGATION,2076876
+svb_financial_group,3,hms_holdings_corp,cotiviti_holdings,2016,FRAUD,131
+svb_financial_group,3,interdigital_capital_inc,lg_electronics_inc,2013,INVESTIGATION,24080
+svb_financial_group,3,iovance_biotherapeutics_inc,checkmate_pharmaceuticals_inc,2021,CLINICAL TRIAL,706
+svb_financial_group,3,camping_world_inc,thor_industries_inc,2023,INTERRUPTION,1304
+svb_financial_group,3,graham_corp,graham_holdings_company,2019,FRAUD,2571
+svb_financial_group,3,clear_channel_outdoor_holdings,clear_media_ltd,2023,INVESTIGATION,630
+svb_financial_group,3,euronext_nv,transgene_sa,2020,CLINICAL TRIAL,8350
+svb_financial_group,3,ophthotech_corp,proqr_therapeutics,2021,CLINICAL TRIAL,24560
+svb_financial_group,3,netflix_inc,helios_and_matheson_analytics_inc,2020,BANKRUPTCY,132
+svb_financial_group,3,intercontinental_exchange,mayville_engineering_company_inc,2020,INVESTIGATION,102
+svb_financial_group,3,soligenix_inc,monopar_therapeutics,2021,INVESTIGATION,84
+svb_financial_group,3,arena_pharmaceuticals_inc,eisai_co_ltd,2017,CLINICAL TRIAL,1054544
+svb_financial_group,3,arcellx_inc,celyad_sa_ads,2022,CLINICAL TRIAL,4800
+svb_financial_group,3,imax_corp,regal_entertainment_group,2022,REORGANIZATION,518
+svb_financial_group,2,nasdaq_inc,axcella_health_inc,2020,RESEARCH,1
+svb_financial_group,2,apollo_global_management_llc,wsfs_financial_corp,2018,BREACH,160
+svb_financial_group,2,reata_pharmaceuticals_inc,lexicon_pharmaceuticals_inc,2023,CLINICAL TRIAL,18
+svb_financial_group,2,nasdaq_inc,pilgrims_pride_corp,2020,INVESTIGATION,1
+svb_financial_group,2,intercontinental_exchange,sunworks_inc,2020,BREACH,1
+svb_financial_group,2,medtronic_public_limited_company,china_botanic_pharmaceutical,2016,SANCTIONS,54
+svb_financial_group,2,nasdaq_inc,zurich_insurance_co_ltd,2020,DISRUPTION,1
+svb_financial_group,1,svb_financial_group,crispr_therapeutics_inc,2019,CLINICAL TRIAL,1
+svb_financial_group,3,gemphire_therapeutics_inc,syneos_health_inc,2020,CLINICAL TRIAL,16500
+svb_financial_group,3,atn_international_ltd,atlas_energy_resources_llc,2018,BREACH,180
+svb_financial_group,3,servicemaster_global_holdings_inc,pimco_dynamic_credit_income_fun,2018,BREACH,486514
+svb_financial_group,2,visa_inc,wells_fargo_and_company,2020,CRIMINAL INVESTIGATION,771121
+svb_financial_group,3,marathon_petroleum_corp,new_york_times_co,2018,INVESTIGATION,179574
+svb_financial_group,3,berkshire_hathaway_inc,bnsf_railway_co,2023,INVESTIGATION,29545
+svb_financial_group,3,jc_penney,j_crew_group_inc,2020,BANKRUPTCY,271
+svb_financial_group,3,clear_channel_outdoor_holdings,clear_media_ltd,2021,INVESTIGATION,1780
+svb_financial_group,3,thomson_reuters_corp,zalando_se,2020,INVESTIGATION,1312
+svb_financial_group,3,siga_technologies_inc,altimmune_inc,2015,LITIGATION,164350
+svb_financial_group,3,vertex_pharmaceuticals_inc_/_ma,abbvie_inc,2023,CLINICAL TRIAL,2211576
+svb_financial_group,3,amag_pharmaceuticals,ciber_inc,2016,CLINICAL TRIAL,71814
+svb_financial_group,3,monaker_group_inc,ids_inc,2020,LITIGATION,814
+svb_financial_group,3,acacia_communications_inc,viasat_inc,2017,BREACH,23308
+svb_financial_group,3,syros_pharmaceuticals,ashland_global_holdings_inc,2018,CLINICAL TRIAL,316396
+svb_financial_group,3,viveve_medical,stryker_corp,2013,CLINICAL TRIAL,579096
+svb_financial_group,3,aes_corp,aes_gener_sa,2021,SANCTIONS,51200
+svb_financial_group,3,arrow_electronics_inc,allied_capital_corp,2014,BANKRUPTCY,15064
+svb_financial_group,3,urban_edge_properties,uniroyal_global_engineered_products_inc,2017,INVESTIGATION,84
+svb_financial_group,3,argan_inc,exelon_corp,2020,BREACH OF CONTRACT,88072
+svb_financial_group,2,nasdaq_inc,arca_biopharma_inc,2020,CLINICAL TRIAL,1
+svb_financial_group,2,visa_inc,facebook_inc,2019,MONEY LAUNDERING,35221
+svb_financial_group,1,svb_financial_group,geron_co_ltd,2021,CLINICAL TRIAL,1
+svb_financial_group,3,metlife_inc,sun_life_financial_inc,2017,LITIGATION,499086
+svb_financial_group,3,amyris_inc,givaudan_sa,2021,RESEARCH,320
+svb_financial_group,3,relay_therapeutics_inc,monte_rosa_therapeutics_inc,2023,CLINICAL TRIAL,27
+svb_financial_group,2,nasdaq_inc,windstream_holdings_inc,2020,REORGANIZATION,1
+svb_financial_group,2,royal_bank_of_canada,cytosorbents_corp,2020,RESEARCH,1
+svb_financial_group,2,netlist_inc,samsung_electronics_gmbh,2021,BREACH OF CONTRACT,3264
+svb_financial_group,2,abeona_therapeutics,amag_pharmaceuticals,2019,REORGANIZATION,376
+svb_financial_group,2,moodys_corp_/de/,first_hawaiian_inc,2020,DISRUPTION,1
+svb_financial_group,3,inovio_pharmaceuticals_inc,astrazeneca_plc,2021,CLINICAL TRIAL,2355847
+svb_financial_group,3,netlist_inc,sk_hynix_inc,2020,INVESTIGATION,256545
+svb_financial_group,3,plains_all_american_pipeline_lp,concho_resources_inc,2017,LITIGATION,14910
+svb_financial_group,3,beam_therapeutics_inc,sana_biotechnology_inc,2022,RESEARCH,201
+svb_financial_group,3,home_depot_inc,stanley_black_and_decker_inc,2019,BANKRUPTCY PROTECTION,12342
+svb_financial_group,3,warrior_met_coal_inc,arch_coal_inc,2020,BANKRUPTCY,3426
+svb_financial_group,3,energy_fuels_inc,great_panther_silver_ltd,2021,REMOVAL,810
+svb_financial_group,3,oncomed_pharmaceuticals_inc,mirenco_inc,2019,REORGANIZATION,336
+svb_financial_group,3,harborone_bancorp_inc,berkshire_hathaway_inc,2016,BANKRUPTCY,8412912
+svb_financial_group,3,agios_pharmaceuticals_inc,mynd_analytics_inc,2022,CLINICAL TRIAL,4390
+svb_financial_group,3,conagra_brands_inc,lamb_weston_holdings_inc,2019,LITIGATION,48450
+svb_financial_group,3,liberty_latin_america_ltd,telefonica_sa,2020,BREACH,90712
+svb_financial_group,3,centene_corp,moodys_corp_/de/,2013,DISPUTE,614215
+svb_financial_group,2,mednax_inc,guaranty_bancorp,2017,BANKRUPTCY,88
+svb_financial_group,2,si-bone_inc,phi_inc,2019,BREACH,156
+svb_financial_group,2,codexis_inc,azurrx_biopharma_inc,2023,CLINICAL TRIAL,20
+svb_financial_group,2,oracle_corp,microsoft_corp,2012,INVESTIGATION,100876
+svb_financial_group,2,intercontinental_exchange,vishay_precision_group,2020,DISRUPTION,1
+svb_financial_group,2,visa_inc,centerpoint_energy_inc,2019,LITIGATION,1
+svb_financial_group,2,bank_of_america_corp,blackberry_ltd,2019,HACKING,1
+svb_financial_group,3,general_motors_limited,peugeot_sa,2021,BREACH,31680
+svb_financial_group,2,maiden_holdings_ltd,eclipse_resources_corp,2017,BREACH,20970
+svb_financial_group,2,nasdaq_inc,futu_holdings_ltd,2020,INVESTIGATION,1
+svb_financial_group,2,ophthotech_corp,proqr_therapeutics,2021,CLINICAL TRIAL,848
+svb_financial_group,2,nasdaq_inc,criteo_ltd,2019,DISRUPTION,1
+svb_financial_group,3,ritter_pharmaceuticals_inc,wuxi_apptec_co_ltd,2021,CLINICAL TRIAL,1356
+svb_financial_group,3,imax_corp,cineworld_group_plc,2022,REORGANIZATION,13752
+svb_financial_group,3,shire_plc,haemonetics_corp,2016,CLINICAL TRIAL,49112
+svb_financial_group,3,las_vegas_sands_corp,galaxy_entertainment_group_ltd,2020,LITIGATION,392
+svb_financial_group,3,arcbest_corp,alphabet_inc,2019,INVESTIGATION,4556244
+svb_financial_group,3,pubmatic_inc,sizmek_inc,2021,BANKRUPTCY,8
+svb_financial_group,3,aquinox_pharmaceuticals_inc,flagship_global_corp,2014,CLINICAL TRIAL,15
+svb_financial_group,3,appliance_recycling_centers_of_america_inc_/mn,gea_group_aktiengesellschaft,2021,BREACH OF CONTRACT,3642
+svb_financial_group,3,blueprint_medicines_corp,stemline_therapeutics_inc,2022,CLINICAL TRIAL,416
+svb_financial_group,3,pareteum_corp,spindle_inc,2012,FRAUD,216
+svb_financial_group,3,thomson_reuters_corp,rizal_commercial_banking_corporation,2020,MONEY LAUNDERING,912
+svb_financial_group,3,patterson_companies,jbs_s/a,2022,RANSOMWARE ATTACK,1400
+svb_financial_group,3,alj_regional_holdings_inc,ttec_holdings_inc,2022,LITIGATION,1848
+svb_financial_group,3,public_service_enterprise_group_inc,emcor_group,2012,LITIGATION,8709
+svb_financial_group,3,dean_foods_co,kkr_group_ltd,2020,BANKRUPTCY,5008212
+svb_financial_group,3,samsung_electronics_gmbh,korea_telecom_corp,2019,BREACH,2850
+svb_financial_group,2,visa_inc,capital_one_financial_corp,2020,DATA BREACH,1
+svb_financial_group,2,biolife_solutions_inc,cellular_biomedicine_group_inc,2018,CLINICAL TRIAL,16
+svb_financial_group,2,intercontinental_exchange,vivint_solar_inc,2020,INVESTIGATION,1
+svb_financial_group,2,gilead_sciences_inc,first_american_financial_corp,2014,REMOVAL,22
+svb_financial_group,2,hertz_global_holdings_inc,j_crew_group_inc,2020,BANKRUPTCY,1
+svb_financial_group,2,nasdaq_inc,azurrx_biopharma_inc,2020,RESEARCH,1
+svb_financial_group,2,geron_co_ltd,westpac_banking_corp,2020,MONEY LAUNDERING,481
+svb_financial_group,3,qualcomm_inc/de,parkervision_inc,2018,INVESTIGATION,1760
+svb_financial_group,3,air_lease_corp,american_international_group_inc,2013,BREACH,22268895
+svb_financial_group,2,crispr_therapeutics_inc,vertex_pharmaceuticals_inc_/_ma,2023,CLINICAL TRIAL,4152
+svb_financial_group,2,goldman_sachs_group_inc,viela_bio_inc,2020,RESEARCH,1
+svb_financial_group,2,visa_inc,apple_inc,2015,FRAUD,10661
+svb_financial_group,1,svb_financial_group,boston_private_financial_holdings_inc,2021,BREACH,8610
+svb_financial_group,3,foamix_pharmaceuticals_ltd,biopharmx_corp,2019,CLINICAL TRIAL,7722
+svb_financial_group,3,medidata_solutions_gmbh,datatrak_intl_inc,2017,LITIGATION,212
+svb_financial_group,3,amrep_corp,worldgate_communications_inc,2014,LITIGATION,6
+svb_financial_group,3,arca_biopharma_inc,astoria_financial_corp,2017,CLINICAL TRIAL,19935
+svb_financial_group,3,brainstorm_cell_therapeutics_inc,cytokinetics_inc,2020,CLINICAL TRIAL,480784
+svb_financial_group,3,iqvia_holdings_inc__1,ims_health_inc,2023,SANCTIONS,7295
+svb_financial_group,3,airbus,pt_bnk_cent_asia,2019,INVESTIGATION,2585
+svb_financial_group,3,lifepoint_health,lifepoint_inc,2015,LITIGATION,707
+svb_financial_group,3,avidity_biosciences_inc,aeterna_zentaris_inc,2021,CLINICAL TRIAL,24
+svb_financial_group,3,energy_fuels_inc,ur-energy_inc,2021,REMOVAL,750
+svb_financial_group,3,alnylam_pharmaceuticals_inc,dicerna_pharmaceuticals_inc,2020,LITIGATION,42264
+svb_financial_group,3,las_vegas_sands_corp,galaxy_entertainment_group_ltd,2021,LITIGATION,672
+svb_financial_group,3,xenon_pharmaceuticals_inc,neurocrine_biosciences_inc,2022,CLINICAL TRIAL,11575
+svb_financial_group,3,graco_inc,carlisle_companies_inc,2016,LITIGATION,759
+svb_financial_group,3,contura_energy_inc,cloud_peak_energy_inc,2020,BANKRUPTCY,4
+svb_financial_group,3,herc_holdings_inc,hertz_global_holdings_inc,2015,BANKRUPTCY PROTECTION,467778
+svb_financial_group,3,novanta_inc,nds_group_ltd,2014,BREACH,214633
+svb_financial_group,3,lemonade_inc,hannover_ruck_se,2023,INVESTIGATION,602
+svb_financial_group,2,codexis_inc,shire_plc,2021,RESEARCH,2000
+svb_financial_group,2,visa_inc,mastercard_inc,2014,RESEARCH,67627
+svb_financial_group,2,nasdaq_inc,information_services_group_inc,2020,BREACH,1
+svb_financial_group,2,apollo_global_management_llc,intelsat_sa,2020,BANKRUPTCY,1
+svb_financial_group,2,hertz_global_holdings_inc,delta_air_lines_inc,2020,BANKRUPTCY,21
+svb_financial_group,2,aon_plc,hsbc_holdings_plc,2012,LITIGATION,4824
+svb_financial_group,2,visa_inc,tencent_holdings_ltd,2020,SANCTIONS,1
+svb_financial_group,3,swisher_hygiene_inc,integrated_biopharma_inc,2017,BREACH,110
+svb_financial_group,3,abbvie_inc,sun_pharmaceutical_industries_inc,2022,LITIGATION,114228
+svb_financial_group,3,grubhub_inc,tailored_brands_inc,2020,BANKRUPTCY,12810
+svb_financial_group,3,asta_funding_inc,alpine_total_dynamic_dividend,2015,INVESTIGATION,4
+svb_financial_group,2,intercontinental_exchange,otelco_inc,2020,BREACH,1
+svb_financial_group,3,contl_ag_bearer_shs,umicore_sa,2020,DISRUPTION,1056
+svb_financial_group,3,mcewen_mining_inc,antofagasta_plc_ord,2012,LITIGATION,126
+svb_financial_group,2,nasdaq_inc,aura_biosciences_inc,2020,CLINICAL TRIAL,1
+svb_financial_group,2,mednax_inc,r1_rcm_inc,2021,BREACH,432
+svb_financial_group,3,ftd_companies,united_online_inc,2013,LITIGATION,20839
+svb_financial_group,3,veeva_systems_inc,medidata_solutions_gmbh,2020,LITIGATION,1032
+svb_financial_group,3,bank_of_america_corp,total_system_services_inc,2020,BANKRUPTCY,1956
+svb_financial_group,3,pubmatic_inc,sizmek_inc,2023,BANKRUPTCY,2
+svb_financial_group,3,gamestop_corp,blockbuster_inc,2019,BANKRUPTCY,204
+svb_financial_group,3,tronox_holdings_plc,eramet_group,2021,INVESTIGATION,150
+svb_financial_group,3,bitauto_holdings_ltd,dime_community_bancshares_inc,2020,BREACH,15020
+svb_financial_group,3,nci_building_systems_inc,ply_gem_holdings_inc,2021,INVESTIGATION,620
+svb_financial_group,3,walter_investment_management_corp,walter_energy_inc,2013,LITIGATION,28
+svb_financial_group,3,firstenergy_corp,icahn_enterprises_lp,2022,INVESTIGATION,453776
+svb_financial_group,3,intuitive_surgical_inc,navigators_group_inc,2016,BREACH OF CONTRACT,196
+svb_financial_group,3,xperi_corp,asustek_computer_inc,2017,INVESTIGATION,5169
+svb_financial_group,3,hms_holdings_corp,guidewire_software_inc,2021,REMOVAL,596
+svb_financial_group,3,wandt_offshore_inc,axa_sa,2013,REMOVAL,1872
+svb_financial_group,3,jp_morgan_chase_and_co,galectin_therapeutics_inc,2020,RESEARCH,3696
+svb_financial_group,2,microsoft_corp,jb_hi-fi,2020,HACK,1
+svb_financial_group,2,regeneron_pharmaceuticals_inc,alnylam_pharmaceuticals_inc,2021,CLINICAL TRIAL,2928
+svb_financial_group,2,iterum_therapeutics_plc,nabriva_therapeutics_plc,2018,CLINICAL TRIAL,16
+svb_financial_group,2,intercontinental_exchange,african_barrick_gold_plc,2020,DISPUTE,1
+svb_financial_group,3,bank_of_america_corp,countrywide_plc,2020,BREACH,272922
+svb_financial_group,3,durect_corp,santen_pharmaceutical_co_ltd,2022,RESEARCH,810
+svb_financial_group,2,jp_morgan_chase_and_co,ucb_sa,2020,RESEARCH,1
+svb_financial_group,2,bank_of_america_corp,athersys_inc_/_new,2020,RESEARCH,1
+svb_financial_group,3,sarepta_therapeutics,biogen_inc,2020,CLINICAL TRIAL,1006379
+svb_financial_group,3,fireeye_inc,sony_corp,2019,DATA BREACH,1068075
+svb_financial_group,3,meritage_homes_corp,beazer_homes_usa_inc,2016,BREACH OF CONTRACT,1012
+svb_financial_group,3,spectrum_pharmaceuticals_inc,allergan_plc,2012,CLINICAL TRIAL,44136
+svb_financial_group,3,ashford_hospitality_trust_inc,ashford_inc,2020,INVESTIGATION,143974
+svb_financial_group,3,canadian_pacific_railway_ltd/cn,postmedia_network_canada,2018,BANKRUPTCY,2016
+svb_financial_group,3,hc2_holdings_inc,universal_travel_group,2017,LITIGATION,353
+svb_financial_group,3,first_foundation,first_trust_enhanced_equity_income_fund,2017,SANCTIONS,1174
+svb_financial_group,3,hologic_inc,minerva_surgical_inc,2020,LITIGATION,750
+svb_financial_group,3,advanced_micro_devices_inc,aib_group_plc,2018,INTERRUPTION,58614
+svb_financial_group,3,comtech_telecommunications_corp_/de/,gilat_satellite_networks_ltd,2022,LITIGATION,54
+svb_financial_group,3,prosperity_bancshares_inc,legacytexas_financial_group_inc,2019,REORGANIZATION,984
+svb_financial_group,3,contravir_pharmaceuticals_inc,virpax_pharmaceuticals_inc,2021,RESEARCH,12
+svb_financial_group,3,apple_inc,gt_advanced_technologies_inc,2019,BANKRUPTCY,1344
+svb_financial_group,3,enpro_industries_inc,anchor_bancorp,2012,REORGANIZATION,5283
+svb_financial_group,3,lyft_inc,london_stock_exchange_group_plc,2022,SANCTIONS,664596
+svb_financial_group,3,adaptive_biotechnologies_corp,10x_genomics_inc,2022,CLINICAL TRIAL,104
+svb_financial_group,3,xpresspa_group_inc,aol_inc,2013,LITIGATION,12671
+svb_financial_group,2,geron_co_ltd,constellation_pharmaceuticals_inc,2020,INVESTIGATION,61
+svb_financial_group,2,intercontinental_exchange,volkswagen_ag,2017,MANIPULATION,1
+svb_financial_group,2,nasdaq_inc,sandt_bancorp_inc,2020,INVESTIGATION,1
+svb_financial_group,2,trevi_therapeutics_inc,glaxosmithkline_plc,2020,CLINICAL TRIAL,1849
+svb_financial_group,2,bank_of_america_corp,mbia_inc,2015,LITIGATION,43776
+svb_financial_group,2,nasdaq_inc,essa_pharma,2020,CLINICAL TRIAL,1
+svb_financial_group,2,nasdaq_inc,cue_biopharma_inc,2020,CLINICAL TRIAL,1
+svb_financial_group,1,svb_financial_group,eargo_inc,2021,CRIMINAL INVESTIGATION,1
+svb_financial_group,3,kezar_life_sciences_inc,presidio_inc,2022,CLINICAL TRIAL,2460
+svb_financial_group,2,nasdaq_inc,wd_40_co,2020,DISRUPTION,1
+svb_financial_group,2,ziopharm_oncology_inc,northwest_biotherapeutics_inc,2021,CLINICAL TRIAL,20
+svb_financial_group,2,cme_group_inc,principal_financial_group_inc,2012,BANKRUPTCY,3384
+svb_financial_group,2,zoom_video_communications_inc,peloton_interactive_inc,2020,SHUTDOWN,1
+svb_financial_group,2,ophthotech_corp,editas_medicine,2021,CLINICAL TRIAL,940
+svb_financial_group,2,bank_of_america_corp,total_system_services_inc,2020,BANKRUPTCY,1
+svb_financial_group,2,achieve_life_sciences_inc,teva_pharmaceutical_industries_ltd,2016,RESEARCH,27528
+svb_financial_group,3,people's_united_financial_inc,united_bankshares_inc_[va],2016,DOWNGRADE,2300
+svb_financial_group,3,hms_holdings_corp,phase_forward_inc,2012,REMOVAL,3609
+svb_financial_group,3,ingredion_inc,sweegen_inc,2020,DISPUTE,162
+svb_financial_group,3,lakeland_industries_inc,chino_commercial_bcp,2012,DISPUTE,12
+svb_financial_group,3,stryker_corp,k2m_group_holdings_inc,2020,BANKRUPTCY,3314
+svb_financial_group,3,trevena_inc,cytokinetics_inc,2014,CLINICAL TRIAL,70172
+svb_financial_group,3,xencor_inc,igm_biosciences_inc,2023,CLINICAL TRIAL,176
+svb_financial_group,3,dicerna_pharmaceuticals_inc,assembly_biosciences,2021,RESEARCH,6261
+svb_financial_group,3,xenon_pharmaceuticals_inc,neurocrine_biosciences_inc,2021,CLINICAL TRIAL,57725
+svb_financial_group,3,hms_holdings_corp,cms_bancorp_inc,2015,BREACH,337144
+svb_financial_group,2,microsoft_corp,interdigital_capital_inc,2020,INVESTIGATION,1
+svb_financial_group,2,nasdaq_inc,atlantic_acquisition_corp,2020,INVESTIGATION,1
+svb_financial_group,2,crispr_therapeutics_inc,vertex_pharmaceuticals_inc_/_ma,2019,CLINICAL TRIAL,8000
+svb_financial_group,2,nasdaq_inc,camden_national_corp,2020,FRAUD,1
+svb_financial_group,2,moodys_corp_/de/,gnc_holdings_inc,2020,STORE CLOSURE,1
+svb_financial_group,2,intercontinental_exchange,gap_inc,2019,INVESTIGATION,2041
+svb_financial_group,3,national_health_investors_inc,american_spectrum_realty_inc,2020,REORGANIZATION,184
+svb_financial_group,3,hess_midstream_lp,spectra_energy_partners_gp_llc,2023,REMOVAL,9625
+svb_financial_group,3,fiat_chrysler_automobiles_nv,suzuki_motor_corp,2020,INVESTIGATION,236
+svb_financial_group,3,medtronic_public_limited_company,caribou_coffee_company_inc,2019,CYBER BREACH,472
+svb_financial_group,3,apple_inc,centerstate_bank_corp,2019,INVESTIGATION,771
+svb_financial_group,3,emergent_biosolutions,opiant_pharmaceuticals_inc,2022,LITIGATION,144
+svb_financial_group,3,exone_co,voxeljet_ag,2021,BREACH,225
+svb_financial_group,3,lions_gate_entertainment_corp_/cn/,mgm_resorts,2020,BANKRUPTCY,196399
+svb_financial_group,3,astrazeneca_plc,starpharma_hldgs,2019,CLINICAL TRIAL,270
+svb_financial_group,3,arbutus_biopharma_cp,daily_journal_cp,2016,LITIGATION,50
+svb_financial_group,3,equitrans_midstream_corporation,edgewell_personal_care_co,2018,REORGANIZATION,35468
+svb_financial_group,3,pool_corp,lithium_americas_corp,2012,BANKRUPTCY,38530
+svb_financial_group,3,medley_capital_corp,medley_llc,2013,FRAUD,1441
+svb_financial_group,2,geron_co_ltd,imago_biosciences_inc,2020,CLINICAL TRIAL,6
+svb_financial_group,2,intercontinental_exchange,fti_consulting_inc,2020,DISPUTE,1
+svb_financial_group,2,apollo_global_management_llc,talos_energy_inc,2020,BREACH,451
+svb_financial_group,2,moodys_corp_/de/,santander_consumer_usa_holdings,2019,FRAUD,2401
+svb_financial_group,2,amarin_corp_plc,tredegar_corp,2018,INVESTIGATION,232
+svb_financial_group,2,trevi_therapeutics_inc,cara_therapeutics,2021,CLINICAL TRIAL,10
+svb_financial_group,2,nasdaq_inc,vbi_vaccines_inc,2020,CLINICAL TRIAL,1
+svb_financial_group,2,visa_inc,cadence_bancorporation,2018,INVESTIGATION,66
+svb_financial_group,2,kura_oncology,cooper_industries_plc,2016,CLINICAL TRIAL,76
+svb_financial_group,3,entellus_medical_inc,us_xpress_enterprises_inc,2017,LITIGATION,56
+svb_financial_group,3,stifel_financial_corp,ca_inc,2016,FRAUD,37600
+svb_financial_group,2,nasdaq_inc,madrigal_pharmaceuticals_inc,2020,CLINICAL TRIAL,33
+svb_financial_group,2,fair_isaac_corp,aci_worldwide_inc,2022,FRAUD,16
+svb_financial_group,3,first_commonwealth_financial_corp,fcb_financial_holdings_inc,2012,FRAUD,16732
+svb_financial_group,3,kezar_life_sciences_inc,presidio_inc,2021,CLINICAL TRIAL,141096
+svb_financial_group,3,alnylam_pharmaceuticals_inc,silence_therapeutics,2019,LITIGATION,19565
+svb_financial_group,3,oncosec_medical_inc,alpha_holdings_inc,2021,LITIGATION,21
+svb_financial_group,3,sunpower_corp,solarcity_corp,2012,LITIGATION,20
+svb_financial_group,3,firstenergy_corp,forum_energy_technologies_inc,2012,BREACH,59740
+svb_financial_group,3,federal_home_loan_mortgage_corp,countrywide_financial_corp,2020,FRAUD,6726
+svb_financial_group,3,aerpio_pharmaceuticals_inc,abraxis_bioscience_inc,2021,RESEARCH,351
+svb_financial_group,3,apple_inc,quarterhill_inc,2020,LITIGATION,13062
+svb_financial_group,3,google,criteo_ltd,2019,DISRUPTION,1584
+svb_financial_group,3,live_ventures_inc,c_h_robinson_worldwide_inc,2020,BREACH OF CONTRACT,264
+svb_financial_group,3,pacific_gas_and_electric_co,sed_international_holdings_inc,2019,INVESTIGATION,307594
+svb_financial_group,3,viasat_inc,loral_space_and_communications_inc,2020,BREACH OF CONTRACT,88
+svb_financial_group,3,servicenow_inc,bmc_software_inc,2016,LITIGATION,1012
+svb_financial_group,3,verizon_communications_inc,fairpoint_communications_inc,2014,BANKRUPTCY,18767
+svb_financial_group,3,alphatec_holdings,nuvasive_inc,2022,LITIGATION,27468
+svb_financial_group,2,apollo_global_management_llc,federal_agricultural_mortgage_corp,2013,BANKRUPTCY,4760
+svb_financial_group,2,trevi_therapeutics_inc,cara_therapeutics,2020,CLINICAL TRIAL,25
+svb_financial_group,2,twitter_inc,doordash_inc,2020,DATA BREACH,1
+svb_financial_group,2,netlist_inc,sandisk_corp,2016,LITIGATION,210
+svb_financial_group,2,nasdaq_inc,myokardia_inc,2020,CLINICAL TRIAL,1
+svb_financial_group,2,oracle_corp,red_hat_inc,2020,CLINICAL TRIAL,121
+svb_financial_group,3,alexion_pharmaceuticals_inc,stealth_biotherapeutics_corp,2021,CLINICAL TRIAL,2998
+svb_financial_group,3,e_trade_financial_corp,tribune_media_co,2014,BANKRUPTCY,8762
+svb_financial_group,3,appliance_recycling_centers_of_america_inc_/mn,gea_group_aktiengesellschaft,2020,BREACH OF CONTRACT,32568
+svb_financial_group,3,menlo_therapeutics_inc,japan_tobacco,2018,CLINICAL TRIAL,90600
+svb_financial_group,3,paypal_holdings,chase_corp,2019,FRAUD,48464
+svb_financial_group,3,china_mobile_[hong_kong]_ltd,china_telecom_corp_ltd,2020,DISRUPTION,7700
+svb_financial_group,3,genentech_inc,celgene_corp,2018,CLINICAL TRIAL,410
+svb_financial_group,3,catabasis_pharmaceuticals_inc,wave_life_sciences_ltd,2019,CLINICAL TRIAL,7818
+svb_financial_group,3,centene_corp,health_net_inc,2020,FRAUD,194
+svb_financial_group,3,mercadolibre_inc,pagnie_financiere_ri,2013,LITIGATION,224
+svb_financial_group,3,aldeyra_therapeutics_inc,cae_inc,2018,CLINICAL TRIAL,424
+svb_financial_group,3,3m_company,cabot_microelectronics_corp,2013,BREACH OF CONTRACT,49404
+svb_financial_group,3,medpace_holdings_inc,cymabay_therapeutics,2020,CLINICAL TRIAL,11160
+svb_financial_group,3,ntn_buzztime_inc,buffalo_wild_wings_inc,2015,BREACH,356
+svb_financial_group,3,calgon_carbon_corp,advanced_emissions_solutions_inc,2012,LITIGATION,688
+svb_financial_group,3,occidental_petroleum_corp,sanchez_energy_corp,2022,REORGANIZATION,128
+svb_financial_group,3,deutsche_bank,haier_electronics_group_co_ltd,2020,RESEARCH,3444
+svb_financial_group,3,liberty_tax_inc,cap_gemini_sogeti_s,2020,FRAUD,13419
+svb_financial_group,3,delek_us_holdings,alon_usa_energy_inc,2022,BREACH,1183
+svb_financial_group,3,avadel_pharmaceuticals_plc,bioscrip_inc,2021,BANKRUPTCY,11476
+svb_financial_group,3,navient_cp,slm_corp,2014,LITIGATION,632528
+svb_financial_group,3,dbv_technologies_ads,aimmune_therapeutics_inc,2021,CLINICAL TRIAL,9224
+svb_financial_group,3,ocwen_financial_corp,phh_corp,2020,LITIGATION,2443
+svb_financial_group,2,aveo_pharmaceuticals_inc,aeterna_zentaris_inc,2014,CLINICAL TRIAL,24
+svb_financial_group,2,fireeye_inc,the_blackstone_group_lp,2021,BANKRUPTCY,6390
+svb_financial_group,3,agios_pharmaceuticals_inc,synlogic_inc,2023,CLINICAL TRIAL,1728
+svb_financial_group,3,comerica_inc_/new/,visa_inc,2022,LITIGATION,4076886
+svb_financial_group,3,anacor_pharmaceuticals_inc,medicis_pharmaceutical_corp,2014,LITIGATION,36
+svb_financial_group,3,mitsubishi_corp,fiat_chrysler_automobiles_nv,2020,INVESTIGATION,1909288
+svb_financial_group,2,nasdaq_inc,sage_therapeutics_inc,2020,INVESTIGATION,1
+svb_financial_group,2,intercontinental_exchange,tal_education_group,2020,FRAUD,1
+svb_financial_group,2,apollo_global_management_llc,adt_inc,2021,LITIGATION,480
+svb_financial_group,2,brainstorm_cell_therapeutics_inc,neuralstem_inc,2021,CLINICAL TRIAL,28
+svb_financial_group,3,advanced_micro_devices_inc,quarterhill_inc,2019,LITIGATION,2904
+svb_financial_group,3,rigel_pharmaceuticals_inc,daiichi_sankyo_co_ltd,2022,CLINICAL TRIAL,92240
+svb_financial_group,3,document_security_systems_inc,nec_corp,2015,LITIGATION,6865
+svb_financial_group,3,natural_gas_services_group_inc,legacy_reserves_inc,2021,BANKRUPTCY,128
+svb_financial_group,3,quest_resource_holding_corp,avangrid_inc,2012,BREACH,1647
+svb_financial_group,3,dicerna_pharmaceuticals_inc,adial_pharmaceuticals_inc,2021,RESEARCH,52
+svb_financial_group,3,intercontinental_exchange,canntrust_holdings_inc,2019,INVESTIGATION,1040
+svb_financial_group,3,msa_safety_inc,alleghany_corp,2015,BREACH,930
+svb_financial_group,3,entergy_corp,entergy_arkansas_inc,2022,INVESTIGATION,18450
+svb_financial_group,3,amarin_corp_plc,catabasis_pharmaceuticals_inc,2013,CLINICAL TRIAL,1000
+svb_financial_group,3,home_depot_inc,washington_federal_inc,2020,FRAUD,240
+svb_financial_group,3,dr_pepper_snapple_group_inc,keurig_dr_pepper_inc,2022,BREACH,22062
+svb_financial_group,3,energy_fuels_inc,vista_gold_corp,2021,REMOVAL,900
+svb_financial_group,2,nustar_energy_lp,marathon_petroleum_corp,2021,INTERRUPTION,225
+svb_financial_group,2,apollo_global_management_llc,global_eagle_entertainment_inc,2020,BANKRUPTCY,1
+svb_financial_group,2,intercontinental_exchange,publicis_groupe,2020,REORGANIZATION,1
+svb_financial_group,2,triplepoint_venture_growth_bdc,medallia_inc,2021,REMOVAL,88
+svb_financial_group,2,nasdaq_inc,iqiyi_inc,2020,INVESTIGATION,1
+svb_financial_group,2,medtronic_public_limited_company,k2m_group_holdings_inc,2020,BANKRUPTCY,55
+svb_financial_group,2,nasdaq_inc,lightbridge_corp,2020,RESEARCH,1
+svb_financial_group,2,hertz_global_holdings_inc,united_states_steel_corp,2016,BREACH,780
+svb_financial_group,2,regeneron_pharmaceuticals_inc,teva_pharmaceutical_industries_ltd,2018,LITIGATION,7840
+svb_financial_group,2,jp_morgan_chase_and_co,cel_sci_corp,2020,RESEARCH,1
+svb_financial_group,3,supportcom_inc,match_group_inc,2017,LITIGATION,13188
+svb_financial_group,1,svb_financial_group,medical_transcription_billing_corp,2022,CORPORATE MISCONDUCT,1
+svb_financial_group,3,graco_inc,carlisle_companies_inc,2015,LITIGATION,684
+svb_financial_group,3,mvc_capital_inc,equus_total_return_inc,2014,REORGANIZATION,5
+svb_financial_group,3,cenveo_inc,westmoreland_coal_company,2020,BANKRUPTCY,168
+svb_financial_group,3,voyager_therapeutics_inc,neurocrine_biosciences_inc,2019,CLINICAL TRIAL,32075
+svb_financial_group,3,hms_holdings_corp,performant_financial_corp,2016,FRAUD,36
+svb_financial_group,3,dentsply_sirona_inc,dillard's,2012,LITIGATION,4160
+svb_financial_group,3,one_liberty_properties_inc,cec_entertainment_inc,2021,BANKRUPTCY,6
+svb_financial_group,3,post_holdings_inc,monster_beverage_corp,2013,REMOVAL,84287
+svb_financial_group,3,apollo_global_management_llc,wsfs_financial_corp,2016,BREACH,15837
+svb_financial_group,3,pulmatrix_inc,savara_inc,2017,CLINICAL TRIAL,1584290
+svb_financial_group,3,griffin_industrial_realty_inc,webster_financial_corp,2017,LITIGATION,6636
+svb_financial_group,3,alexandria_real_estate_equities_inc,pgande_corp,2022,BANKRUPTCY,9844740
+svb_financial_group,3,contravir_pharmaceuticals_inc,inhibitex_inc,2016,CLINICAL TRIAL,4212
+svb_financial_group,3,cabot_oil_and_gas_corp,cimarex_energy_co,2023,RESEARCH,1972
+svb_financial_group,3,springworks_therapeutics_inc,beigene_ltd,2022,CLINICAL TRIAL,380359
+svb_financial_group,2,bankrate_inc,leapfrog_enterprises_inc,2013,FRAUD,60
+svb_financial_group,2,bank_of_america_corp,china_mobile_[hong_kong]_ltd,2012,BREACH OF CONTRACT,191520
+svb_financial_group,2,intercontinental_exchange,rite_aid_corp,2019,STORE CLOSURE,19
+svb_financial_group,2,goldman_sachs_group_inc,marcus_corp,2019,LITIGATION,1409
+svb_financial_group,2,twitter_inc,denso_corporation,2020,RESEARCH,1
+svb_financial_group,3,visa_inc,gamestop_corp,2014,FRAUD,50465
+svb_financial_group,2,aon_plc,hewitt_associates_inc,2013,INVESTIGATION,296
+svb_financial_group,3,ligand_pharmaceuticals_inc,blueprint_medicines_corp,2019,CLINICAL TRIAL,11415
+svb_financial_group,3,sk_hynix_inc,samsung_electronics_gmbh,2019,SANCTIONS,64668
+svb_financial_group,3,covidien_plc,given_imaging_ltd,2013,LITIGATION,552
+svb_financial_group,3,eastman_kodak_co,colonial_properties_trust,2016,BREACH,5634
+svb_financial_group,3,mitsubishi_corp,kia_motors,2020,BANKRUPTCY,1510
+svb_financial_group,3,thomson_reuters_corp,china_communications_construction_co_ltd,2020,SANCTIONS,7872
+svb_financial_group,3,drive_shack_inc,new_residential_investment_corp,2014,BREACH,130680
+svb_financial_group,3,american_airlines_group_inc,united_continental_holdings,2019,LITIGATION,431244
+svb_financial_group,3,cms_energy_corp,consumers_energy_co,2020,REMOVAL,26717
+svb_financial_group,3,lsc_communications_inc,essendant_inc,2019,BANKRUPTCY,706
+svb_financial_group,3,22nd_century_group_inc,vector_ltd_ord,2014,CLINICAL TRIAL,156
+svb_financial_group,3,honeywell_international_inc,petroleo_brasileiro_sa_petrobras,2021,INVESTIGATION,31924
+svb_financial_group,3,document_security_systems_inc,inventergy_global_inc,2021,LITIGATION,1072
+svb_financial_group,3,turning_point_therapeutics_inc,blueprint_medicines_corp,2022,CLINICAL TRIAL,4245
+svb_financial_group,3,codexis_inc,dyadic_international,2014,BREACH,4400
+svb_financial_group,3,fuelcell_energy_inc,exxon_mobil_corp,2023,RESEARCH,757404
+svb_financial_group,3,biomarin_pharmaceutical_inc,sangamo_therapeutics_inc,2020,CLINICAL TRIAL,74150
+svb_financial_group,3,bridgebio_pharma_llc,eidos_therapeutics_inc,2019,CLINICAL TRIAL,282
+svb_financial_group,2,nasdaq_inc,entasis_therapeutics_holdings_inc,2020,LITIGATION,3
+svb_financial_group,2,amgen_inc,ritter_pharmaceuticals_inc,2020,CLINICAL TRIAL,1
+svb_financial_group,2,intercontinental_exchange,intralinks_holdings_inc,2015,BREACH,72
+svb_financial_group,2,nasdaq_inc,aerpio_pharmaceuticals_inc,2020,CLINICAL TRIAL,1
+svb_financial_group,2,hertz_global_holdings_inc,jc_penney,2020,BANKRUPTCY,1
+svb_financial_group,2,nasdaq_inc,mannatech_inc,2020,LITIGATION,1
+svb_financial_group,2,svb_financial_group,gci_liberty_inc,2022,BREACH,320
+svb_financial_group,2,intercontinental_exchange,luckin_coffee_inc,2020,FRAUD,1
+svb_financial_group,2,apollo_global_management_llc,umb_financial_corp,2017,BREACH,180
+svb_financial_group,3,genmark_diagnostics,myriad_genetics_inc,2018,LITIGATION,108080
+svb_financial_group,3,macerich_co,sears_holdings_corp,2019,BANKRUPTCY,494529
+svb_financial_group,3,crestwood_equity_partners_lp,suburban_propane_partners_lp,2012,BREACH,1914
+svb_financial_group,3,arcellx_inc,cellular_biomedicine_group_inc,2022,CLINICAL TRIAL,416
+svb_financial_group,3,altaba_inc,getty_images_inc,2020,HACK,45990
+svb_financial_group,3,evoke_pharma_inc,teva_pharmaceutical_industries_ltd,2022,LITIGATION,3920448
+svb_financial_group,3,aphria_inc,columbia_care_inc,2020,FRAUD,1178
+svb_financial_group,3,chiasma_inc,crinetics_pharmaceuticals_inc,2021,CLINICAL TRIAL,612
+svb_financial_group,3,altimmune_inc,siga_technologies_inc,2013,BREACH OF CONTRACT,25089
+svb_financial_group,3,spherix_inc,cincinnati_bell_inc,2018,LITIGATION,65095
+svb_financial_group,3,green_dot_corp,ball_corp,2013,FRAUD,37566
+svb_financial_group,3,avalonbay_communities_inc,edgewater_bancorp_inc,2017,INVESTIGATION,24
+svb_financial_group,3,apple_inc,wirecard_ag,2019,FRAUD,8984
+svb_financial_group,3,santander_consumer_usa_holdings,santander_uk,2019,SANCTIONS,1784
+svb_financial_group,2,moodys_corp_/de/,allegiant_travel_co,2020,DOWNGRADE,1
+svb_financial_group,2,fireeye_inc,sony_corp,2020,HACKING,226
+svb_financial_group,2,intercontinental_exchange,canntrust_holdings_inc,2019,INVESTIGATION,1
+svb_financial_group,2,nasdaq_inc,mirati_therapeutics,2020,INVESTIGATION,17
+svb_financial_group,2,nuvasive_inc,alphatec_holdings,2020,BREACH,10
+svb_financial_group,3,ultralife_corp,arista_power_inc,2017,BREACH OF CONTRACT,252
+svb_financial_group,3,springworks_therapeutics_inc,precision_biosciences_inc,2022,CLINICAL TRIAL,12417
+svb_financial_group,2,hertz_global_holdings_inc,american_airlines_group_inc,2020,BANKRUPTCY,1
+svb_financial_group,2,nasdaq_inc,clearside_biomedical_inc,2020,CLINICAL TRIAL,1
+svb_financial_group,2,nasdaq_inc,anaptysbio_inc,2020,INVESTIGATION,1
+svb_financial_group,2,nasdaq_inc,yintech_investment_holdings_ltd,2020,INVESTIGATION,1
+svb_financial_group,2,microsoft_corp,easyjet_plc,2020,DATA BREACH,1
+svb_financial_group,3,honeywell_international_inc,advanced_disposal_services_inc,2020,BREACH,368025
+svb_financial_group,3,regulus_therapeutics,hera_ltd,2020,CLINICAL TRIAL,54350
+svb_financial_group,3,tenet_healthcare_corp,nmc_health_plc,2020,FRAUD,4578
+svb_financial_group,3,braskem_sa,ultra_petroleum_corp,2020,BANKRUPTCY,21356
+svb_financial_group,3,canadian_pacific_railway_ltd/cn,physicians_realty_trust,2023,BREACH OF CONTRACT,1008
+svb_financial_group,3,nokia_corp,lenovo_group_ltd,2020,INVESTIGATION,68145
+svb_financial_group,3,drive_shack_inc,new_residential_investment_corp,2015,BREACH,40612
+svb_financial_group,3,document_security_systems_inc,pendrell_corp,2021,FRAUD,32
+svb_financial_group,3,new_jersey_resources_corp,alleghany_corp,2018,BREACH,1348
+svb_financial_group,3,credit_suisse_ag,vtb_bank,2020,FRAUD,3336
+svb_financial_group,3,apple_inc,aac_technologies_holdings_inc,2020,DISRUPTION,4608
+svb_financial_group,3,news_corp,smithfield_foods_inc,2017,LITIGATION,1718
+svb_financial_group,3,new_senior_investment_group_inc,drive_shack_inc,2019,BREACH,11583
+svb_financial_group,3,jp_morgan_chase_and_co,nabriva_therapeutics_plc,2019,RESEARCH,215208
+svb_financial_group,3,mimecast_ltd,fireeye_inc,2021,INVESTIGATION,222060
+svb_financial_group,3,altaba_inc,tesla_inc,2019,INVESTIGATION,7277650
+svb_financial_group,3,pubmatic_inc,sizmek_inc,2022,BANKRUPTCY,8
+svb_financial_group,3,autoliv_inc,takata_corp,2021,BANKRUPTCY PROTECTION,438
+svb_financial_group,3,host_hotels_and_resorts_inc,marriott_international_inc_/md/,2022,INVESTIGATION,59576
+svb_financial_group,3,arbor_realty_trust,equity_residential,2013,FRAUD,1385172
+svb_financial_group,3,cannae_holdings_inc,austerlitz_acquisition_corp_i,2022,REORGANIZATION,28
+svb_financial_group,2,moodys_corp_/de/,oao_gazprom,2020,SANCTIONS,1
+svb_financial_group,2,nasdaq_inc,carrols_restaurant_group_inc,2020,CORPORATE MISCONDUCT,1
+svb_financial_group,2,nustar_energy_lp,marathon_petroleum_corp,2022,INTERRUPTION,270
+svb_financial_group,2,amarin_corp_plc,catabasis_pharmaceuticals_inc,2013,CLINICAL TRIAL,40
+svb_financial_group,2,intercontinental_exchange,vista_outdoor_inc,2020,BREACH,1
+svb_financial_group,2,mersana_therapeutics_inc,aravive_inc,2023,CLINICAL TRIAL,12
+svb_financial_group,2,oracle_corp,hewlett_packard_enterprise_comp,2019,LEGAL DISPUTE,1
+svb_financial_group,2,bank_of_america_corp,kraft_heinz_co,2019,INVESTIGATION,1
+svb_financial_group,3,syros_pharmaceuticals,lilly_eli_and_co,2021,CLINICAL TRIAL,241912
+svb_financial_group,3,slm_corp,fair_isaac_corp,2013,BANKRUPTCY,1750576
+svb_financial_group,3,unisys_corp,andeavor_logistics_lp,2023,INVESTIGATION,21968
+svb_financial_group,3,box_inc,d_box_technologies,2018,BREACH,14916
+svb_financial_group,3,scientific_games_corp,shfl_entertainment_inc,2014,DISRUPTION,1275
+svb_financial_group,3,enbridge_inc,georgia_pacific_corp,2018,FRAUD,13748
+svb_financial_group,3,cardinal_health_inc,virtusa_corp,2019,DISRUPTION,6435
+svb_financial_group,3,installed_building_products_inc,m_i_homes_inc,2019,REORGANIZATION,276
+svb_financial_group,3,installed_building_products_inc,spx_corp,2014,BREACH,32468
+svb_financial_group,3,atandt_inc,america_movil_sab_de_cv,2019,INVESTIGATION,4800
+svb_financial_group,3,cumberland_pharmaceuticals_inc,targanta_therapeutics_corp,2022,BREACH OF CONTRACT,8
+svb_financial_group,3,conexant_systems_inc,rockwell_medical_inc,2012,LITIGATION,1929
+svb_financial_group,3,natural_resource_partners_lp,contura_energy_inc,2016,BANKRUPTCY,16
+svb_financial_group,3,levi_strauss_and_co,jc_penney,2021,BANKRUPTCY,5474
+svb_financial_group,3,metlife_inc,brighthouse_financial_inc,2014,INVESTIGATION,52164
+svb_financial_group,3,baidu_inc,iqiyi_inc,2020,INVESTIGATION,17022
+svb_financial_group,3,northwestern_corp,talen_energy_corp,2023,BANKRUPTCY,135
+svb_financial_group,3,chunghwa_telecom_co_ltd,kddi_corp,2020,SANCTIONS,1920
+svb_financial_group,3,altaba_inc,home_depot_inc,2019,DATA BREACH,453794
+svb_financial_group,2,medical_transcription_billing_corp,nasdaq_inc,2017,INVESTIGATION,149989
+svb_financial_group,2,nasdaq_inc,zagg_inc,2020,DISRUPTION,1
+svb_financial_group,2,geron_co_ltd,keros_therapeutics_inc,2020,CLINICAL TRIAL,7
+svb_financial_group,2,apollo_global_management_llc,diamond_resorts_corp,2020,DISRUPTION,1
+svb_financial_group,2,visa_inc,gamestop_corp,2014,FRAUD,385
+svb_financial_group,2,apollo_global_management_llc,cec_entertainment_inc,2020,BANKRUPTCY,1
+svb_financial_group,2,microsoft_corp,ericsson_inc,2019,INVESTIGATION,1
+svb_financial_group,2,visa_inc,netspend_holdings_inc,2020,FRAUD,1
+svb_financial_group,2,jp_morgan_chase_and_co,altaba_inc,2020,DATA BREACH,26
+svb_financial_group,1,svb_financial_group,eyenovia_inc,2022,RESEARCH,1
+svb_financial_group,3,rattler_midstream_lp,diamondback_energy,2022,LITIGATION,22440
+svb_financial_group,3,anthem_inc,symantec_corp,2015,DATA BREACH,335664
+svb_financial_group,2,wells_fargo_and_company,under_armour,2019,ACCOUNTING FRAUD,131
+svb_financial_group,2,jp_morgan_chase_and_co,galectin_therapeutics_inc,2020,RESEARCH,1
+svb_financial_group,3,apple_inc,larsen_and_toubro_ltd,2019,INVESTIGATION,672
+svb_financial_group,3,livexlive_media_inc,wynn_resorts_ltd,2019,BREACH,10368
+svb_financial_group,3,inseego_corp,rbb_bancorp,2014,LITIGATION,48
+svb_financial_group,3,marchex_inc,supermedia_inc,2012,REORGANIZATION,81
+svb_financial_group,3,jp_morgan_chase_and_co,ubs_group_ag,2016,BREACH,2239104
+svb_financial_group,3,evoke_pharma_inc,vanda_pharmaceuticals_inc,2022,CLINICAL TRIAL,6648
+svb_financial_group,3,jernigan_capital_inc,yintech_investment_holdings_ltd,2020,BREACH,10626
+svb_financial_group,3,bank_of_america_corp,countrywide_plc,2012,BREACH,2427918
+svb_financial_group,3,toyota_motor_corp,aisin_seiki_co_ltd,2016,DISRUPTION,480
+svb_financial_group,3,anthem_inc,sony_corp,2015,HACKING,221280
+svb_financial_group,3,enpro_industries_inc,anchor_bancorp,2015,REORGANIZATION,6755
+svb_financial_group,3,antero_resources_corp,south_jersey_industries_inc,2019,BREACH OF CONTRACT,13490
+svb_financial_group,3,williams_companies_inc,american_international_group_inc,2015,BANKRUPTCY,8874884
+svb_financial_group,3,nasdaq_inc,mannatech_inc,2020,LITIGATION,1112
+svb_financial_group,3,sealed_air_limited,w_r_grace_and_co,2021,BANKRUPTCY,1704
+svb_financial_group,2,pfizer_inc,comerica_inc_/new/,2015,INVESTIGATION,768
+svb_financial_group,2,gilead_sciences_inc,forward_air_corp,2013,CLINICAL TRIAL,22
+svb_financial_group,2,amgen_inc,five_prime_therapeutics_inc,2021,BREACH,9720
+svb_financial_group,2,nasdaq_inc,springworks_therapeutics_inc,2020,CLINICAL TRIAL,1
+svb_financial_group,2,kura_oncology,cooper_industries_plc,2015,CLINICAL TRIAL,16
+svb_financial_group,2,medtronic_public_limited_company,china_botanic_pharmaceutical,2012,SANCTIONS,54
+svb_financial_group,2,nasdaq_inc,biocon_limited,2020,CLINICAL TRIAL,1
+svb_financial_group,1,svb_financial_group,gci_liberty_inc,2023,BREACH,360
+svb_financial_group,2,brainstorm_cell_therapeutics_inc,molina_healthcare_inc,2013,CLINICAL TRIAL,24
+svb_financial_group,2,regeneron_pharmaceuticals_inc,pilgrims_pride_corp,2014,DISPUTE,532
+svb_financial_group,3,koppers_holdings_inc,alleghany_corp,2013,BREACH,986
+svb_financial_group,3,forterra_inc,heidelbergcement_ag,2020,DISPUTE,992
+svb_financial_group,3,verso_corp,kapstone_paper_and_packaging_corp,2020,BANKRUPTCY,9
+svb_financial_group,3,general_electric_company,western_asset_mortgage_capital_corp,2013,BREACH,219064
+svb_financial_group,3,horizon_pharma_plc,catalent_inc,2022,CLINICAL TRIAL,82060
+svb_financial_group,3,editas_medicine,proqr_therapeutics,2020,CLINICAL TRIAL,23944
+svb_financial_group,3,mitsubishi_corp,denso_corporation,2020,INVESTIGATION,16100
+svb_financial_group,3,cleanspark_inc,voyager_digital_(canada)_ltd,2022,BANKRUPTCY,84
+svb_financial_group,3,atn_international_ltd,centurylink_inc,2013,BREACH,79534
+svb_financial_group,3,regulus_therapeutics,hera_ltd,2022,CLINICAL TRIAL,18995
+svb_financial_group,3,frequency_therapeutics_inc,otonomy_inc,2023,RESEARCH,136
+svb_financial_group,3,amc_networks_inc,msg_networks_inc,2013,LITIGATION,72
+svb_financial_group,3,kempharm_inc,aquantia_corp,2015,CLINICAL TRIAL,6
+svb_financial_group,2,ziopharm_oncology_inc,intrexon_corp,2016,CLINICAL TRIAL,22560
+svb_financial_group,2,intercontinental_exchange,phoenix_tree_holdings_ltd,2020,BREACH,1
+svb_financial_group,2,nasdaq_inc,sinovac_biotech_ltd,2020,RESEARCH,1
+svb_financial_group,2,microsoft_corp,marvell_technology_inc,2020,BREACH,1
+svb_financial_group,2,ophthotech_corp,advanced_micro_devices_inc,2017,CLINICAL TRIAL,31152
+svb_financial_group,2,jp_morgan_chase_and_co,new_york_times_co,2019,DATA BREACH,1
+svb_financial_group,2,ophthotech_corp,advanced_micro_devices_inc,2023,CLINICAL TRIAL,9119
+svb_financial_group,2,abeona_therapeutics,hanmi_financial_cp,2016,BREACH,126
+svb_financial_group,3,healthcare_corp,white_energy_company_ltd,2012,BANKRUPTCY,36
+svb_financial_group,3,mylan_nv,hisamitsu_pharmaceutical_co_ltd,2020,RESEARCH,1458
+svb_financial_group,3,mosys_inc,dextera_surgical_inc,2022,REORGANIZATION,10
+svb_financial_group,2,intercontinental_exchange,trine_acquisition_corp,2020,BREACH,1
+svb_financial_group,2,reata_pharmaceuticals_inc,aptinyx_inc,2022,CLINICAL TRIAL,11
+svb_financial_group,3,zogenix_inc,acura_pharmaceuticals_inc,2020,RESEARCH,230
+svb_financial_group,3,pedevco_corp,blue_dolphin_energy_co,2022,BANKRUPTCY,28
+svb_financial_group,3,netlist_inc,sandisk_corp,2015,LITIGATION,95742
+svb_financial_group,3,amarin_corp_plc,catabasis_pharmaceuticals_inc,2014,CLINICAL TRIAL,8310
+svb_financial_group,3,kkr_group_ltd,sa_sa_international_holdings_ltd,2022,REORGANIZATION,3075
+svb_financial_group,3,apellis_pharmaceuticals_inc,biotime_inc,2020,CLINICAL TRIAL,10073
+svb_financial_group,3,era_group_inc,prestige_consumer_healthcare_inc,2018,REMOVAL,144
+svb_financial_group,3,skywest_inc,expressjet_holdings_inc,2014,DISRUPTION,2080
+svb_financial_group,3,noble_energy_inc,rexahn_pharmaceuticals,2020,BREACH,33605
+svb_financial_group,3,cytokinetics_inc,astellas_pharma_inc,2015,CLINICAL TRIAL,58856
+svb_financial_group,3,global_eagle_entertainment_inc,ferroglobe_plc_os,2016,DISRUPTION,6696
+svb_financial_group,3,novelion_therapeutics_inc,landcadia_holdings_inc,2016,INVESTIGATION,18918
+svb_financial_group,3,sm_energy_co,endeavour_international_corp,2016,LITIGATION,1008
+svb_financial_group,3,graco_inc,carlisle_companies_inc,2017,LITIGATION,651
+svb_financial_group,3,sandridge_energy_inc,sandridge_mississippian_trust_ii,2017,REMOVAL,750
+svb_financial_group,2,aspen_aerogels_inc,alon_usa_energy_inc,2018,INVESTIGATION,195
+svb_financial_group,2,coca-cola_company,monster_beverage_corp,2015,LITIGATION,7406
+svb_financial_group,2,intercontinental_exchange,intralinks_holdings_inc,2017,BREACH,72
+svb_financial_group,2,goodyear_tire_and_rubber_co_/oh/,stoneridge_inc,2013,BREACH,4684
+svb_financial_group,2,moodys_corp_/de/,diamond_resorts_international_inc,2020,DISRUPTION,1
+svb_financial_group,2,goldman_sachs_group_inc,universal_display,2019,RESEARCH,1
+svb_financial_group,2,intercontinental_exchange,chesapeake_energy_corp,2020,BANKRUPTCY,1
+svb_financial_group,3,biogen_inc,banner_corp,2018,LITIGATION,1087
+svb_financial_group,3,protalix_biotherapeutics,sht-term_infl_protected_vanguard,2015,BREACH,576
+svb_financial_group,3,rigel_pharmaceuticals_inc,ra_pharmaceuticals_inc,2013,CLINICAL TRIAL,60102
+svb_financial_group,2,regeneron_pharmaceuticals_inc,pilgrims_pride_corp,2015,DISPUTE,980
