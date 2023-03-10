@@ -1,50 +1,111 @@
 ﻿GRAPH,NODE DISTANCE,STARTING NODE,ENDING NODE,INTENSITY
-Svb Financial Group,3,Ophthotech Corp,Nektar Therapeutics,0.425191562
-Svb Financial Group,3,Tyson Foods Inc,Arlington Asset Investment Corp,0.456748894
-Svb Financial Group,3,Mobileiron Inc,Blackberry Ltd,0.458426215
-Svb Financial Group,3,Albireo Pharma Inc,Brookfield Asset Management Inc,0.470968712
-Svb Financial Group,3,Shopify Inc,Etsy Inc,0.480805047
-Svb Financial Group,3,Yum China Holdings Inc,Hrg Group Inc,0.493219718
-Svb Financial Group,3,Biospecifics Technologies Corp,Endo International Plc,0.494848714
-Svb Financial Group,3,T-Mobile Us,Metro Inc,0.50297811
-Svb Financial Group,3,Capstone Turbine Corp,Warner Media Llc,0.509556452
-Svb Financial Group,3,Anthem Inc,Symantec Corp,0.524421632
-Svb Financial Group,3,Simon Property Group Inc /De/,Jc Penney,0.534172231
-Svb Financial Group,3,Bank Of America Corp,Countrywide Financial Corp,0.543829298
-Svb Financial Group,3,Jounce Therapeutics Inc,Glaxosmithkline Plc,0.551289948
-Svb Financial Group,3,Orbcomm Inc,Union Pacific Corp,0.586061626
-Svb Financial Group,3,Netlist Inc,Samsung Electronics Gmbh,0.673402358
-Svb Financial Group,3,Echostar Corp,Dish Network Corp,0.678655678
-Svb Financial Group,3,Mplx Lp,Factset Research Systems Inc,0.706501392
-Svb Financial Group,3,Cotiviti Holdings,Cms Bancorp Inc,0.741934022
-Svb Financial Group,3,Tyson Foods Inc,Conagra Brands Inc,0.860780644
-Svb Financial Group,3,Ambac Financial Group Inc,Assured Guaranty Ltd,0.894255361
-Svb Financial Group,3,Pbf Holding Co Llc,Williams Companies Inc,1.057591524
-Svb Financial Group,3,Visa Inc,Centerpoint Energy Inc,1.119455992
-Svb Financial Group,3,Group 1 Automotive Inc,Bmw Ag St,1.124732694
-Svb Financial Group,3,Kindred Healthcare Inc,Ventas Inc,1.126104481
-Svb Financial Group,3,Fuelcell Energy Inc,Exxon Mobil Corp,1.180678214
-Svb Financial Group,3,American Airlines Group Inc,United Continental Holdings,1.312407162
-Svb Financial Group,3,Proteostasis Therapeutics Inc,Fgl Holdings,1.411568643
-Svb Financial Group,3,Crowdstrike Holdings Inc,Amazon Com Inc,1.529888374
-Svb Financial Group,3,Gemphire Therapeutics Inc,First Trust New Opportunities M,1.763525495
-Svb Financial Group,3,Pfizer Inc,Comerica Inc /New/,1.906412681
-Svb Financial Group,3,Braze Inc,Apple Inc,3.151232841
-Svb Financial Group,3,National General Holdings Corp,Willis Towers Watson Plc,4.130119655
-Svb Financial Group,3,Altaba Inc,Twitter Inc,4.660474265
-Svb Financial Group,3,Beigene Ltd,Novartis Ag,4.694204632
-Svb Financial Group,3,Mosys Inc,Intel Corp,4.820159605
-Svb Financial Group,3,Hancock Whitney Corporation,Visa Inc,5.151659685
-Svb Financial Group,3,Humana Inc,Cigna Corp,5.409313987
-Svb Financial Group,3,Iac/Interactive,Google,6.740048532
-Svb Financial Group,3,Anthem Inc,Cigna Corp,6.827429794
-Svb Financial Group,3,Apellis Pharmaceuticals Inc,Advanced Micro Devices Inc,7.499215626
-Svb Financial Group,3,Kite Pharma Inc,Gilead Sciences Inc,8.867813047
-Svb Financial Group,3,Hon Hai Precision Industry Co Ltd,Apple Inc,9.383763896
-Svb Financial Group,3,Godaddy Inc,Twitter Inc,12.46728191
-Svb Financial Group,3,Enanta Pharmaceuticals Inc,Gilead Sciences Inc,14.3945021
-Svb Financial Group,3,Getty Images Inc,Pgande Corp,23.71273824
-Svb Financial Group,3,Home Bancshares Inc,Bank Of America Corp,100
+Svb Financial Group,1,Svb Financial Group,Pfizer Inc,0.101010101
+Svb Financial Group,1,Svb Financial Group,Mersana Therapeutics Inc,0.101010101
+Svb Financial Group,1,Svb Financial Group,Kura Oncology,0.101010101
+Svb Financial Group,1,Svb Financial Group,Onebeacon Insurance Group Ltd,0.101010101
+Svb Financial Group,1,Svb Financial Group,Looker,2
+Svb Financial Group,1,Svb Financial Group,Wells Fargo And Company,2
+Svb Financial Group,1,Svb Financial Group,Slack,3
+Svb Financial Group,1,Svb Financial Group,Jp Morgan Chase And Co,3
+Svb Financial Group,1,Svb Financial Group,Twitter Inc,3
+Svb Financial Group,1,Svb Financial Group,Aehr Test Systems,3
+Svb Financial Group,1,Svb Financial Group,Fastly,5
+Svb Financial Group,1,Svb Financial Group,Pagerduty,7
+Svb Financial Group,1,Svb Financial Group,Onebeacon Insurance Group Ltd,7
+Svb Financial Group,1,Svb Financial Group,Psivida Corp,7
+Svb Financial Group,1,Svb Financial Group,Moodys Corp /De/,8
+Svb Financial Group,1,Svb Financial Group,Nii Holdings Inc,8
+Svb Financial Group,1,Svb Financial Group,Medical Transcription Billing Corp,9
+Svb Financial Group,1,Svb Financial Group,Flexion Therapeutics Inc,9
+Svb Financial Group,1,Svb Financial Group,Docusign,13
+Svb Financial Group,1,Svb Financial Group,Credit Karma,14
+Svb Financial Group,1,Svb Financial Group,Pacific Biosciences Of California Inc,14
+Svb Financial Group,1,Svb Financial Group,Asana,16
+Svb Financial Group,1,Svb Financial Group,Affirm,16
+Svb Financial Group,1,Svb Financial Group,The Black Tux,17
+Svb Financial Group,1,Svb Financial Group,Waters Corp,17
+Svb Financial Group,1,Svb Financial Group,Goodyear Tire And Rubber Co /Oh/,17
+Svb Financial Group,1,Svb Financial Group,Dropbox,19
+Svb Financial Group,1,Svb Financial Group,Robin Powered,19
+Svb Financial Group,1,Svb Financial Group,Amgen Inc,20
+Svb Financial Group,1,Svb Financial Group,Intercontinental Exchange,22
+Svb Financial Group,1,Svb Financial Group,Okta,28
+Svb Financial Group,1,Svb Financial Group,Zoom Video Communications Inc,29
+Svb Financial Group,1,Svb Financial Group,Pluralsight,31
+Svb Financial Group,1,Svb Financial Group,Us Bancorp,32
+Svb Financial Group,1,Svb Financial Group,Docker,34
+Svb Financial Group,1,Svb Financial Group,Bettercloud,34
+Svb Financial Group,1,Svb Financial Group,Grammarly,34
+Svb Financial Group,1,Svb Financial Group,Goldman Sachs Group Inc,34
+Svb Financial Group,1,Svb Financial Group,Gitlab,35
+Svb Financial Group,1,Svb Financial Group,Gritstone Oncology Inc,36
+Svb Financial Group,1,Svb Financial Group,Gci Liberty Inc,36.36363636
+Svb Financial Group,1,Svb Financial Group,Tanium,39
+Svb Financial Group,1,Svb Financial Group,Aspen Aerogels Inc,39
+Svb Financial Group,1,Svb Financial Group,Lloyds Banking Group Plc,39
+Svb Financial Group,1,Svb Financial Group,Nerdwallet,42
+Svb Financial Group,1,Svb Financial Group,Udacity,44
+Svb Financial Group,1,Svb Financial Group,Trevi Therapeutics Inc,44
+Svb Financial Group,1,Svb Financial Group,Airbnb,45
+Svb Financial Group,1,Svb Financial Group,Coursera,45
+Svb Financial Group,1,Svb Financial Group,Bank Of America Corp,46
+Svb Financial Group,1,Svb Financial Group,Dare Bioscience Inc,46
+Svb Financial Group,1,Svb Financial Group,Cohen And Co Inc,47
+Svb Financial Group,1,Svb Financial Group,Nuance Communications Inc,48
+Svb Financial Group,1,Svb Financial Group,Coca-Cola Company,48
+Svb Financial Group,1,Svb Financial Group,Nuvasive Inc,49
+Svb Financial Group,1,Svb Financial Group,Regeneron Pharmaceuticals Inc,52
+Svb Financial Group,1,Svb Financial Group,Biolife Solutions Inc,52
+Svb Financial Group,1,Svb Financial Group,Morgan Stanley International Holdings Inc,53
+Svb Financial Group,1,Svb Financial Group,Ziopharm Oncology Inc,53
+Svb Financial Group,1,Svb Financial Group,Surveymonkey,54
+Svb Financial Group,1,Svb Financial Group,Nustar Energy Lp,54
+Svb Financial Group,1,Svb Financial Group,Sendgrid,55
+Svb Financial Group,1,Svb Financial Group,Carta,55
+Svb Financial Group,1,Svb Financial Group,Visa Inc,55
+Svb Financial Group,1,Svb Financial Group,Invision,56
+Svb Financial Group,1,Svb Financial Group,Hashicorp,56
+Svb Financial Group,1,Svb Financial Group,Royal Bank Of Canada,56
+Svb Financial Group,1,Svb Financial Group,Vital Therapies Inc,58
+Svb Financial Group,1,Svb Financial Group,Microsoft Corp,59
+Svb Financial Group,1,Svb Financial Group,Svb Financial Group,61
+Svb Financial Group,1,Svb Financial Group,Ophthotech Corp,66
+Svb Financial Group,1,Svb Financial Group,Sumo Logic,67
+Svb Financial Group,1,Svb Financial Group,Aveo Pharmaceuticals Inc,67
+Svb Financial Group,1,Svb Financial Group,Houzz,68
+Svb Financial Group,1,Svb Financial Group,Nutanix,71
+Svb Financial Group,1,Svb Financial Group,Amarin Corp Plc,71
+Svb Financial Group,1,Svb Financial Group,Hertz Global Holdings Inc,72
+Svb Financial Group,1,Svb Financial Group,Brainstorm Cell Therapeutics Inc,74
+Svb Financial Group,1,Svb Financial Group,Gilead Sciences Inc,75
+Svb Financial Group,1,Svb Financial Group,Fair Isaac Corp,75
+Svb Financial Group,1,Svb Financial Group,Blue Apron,76
+Svb Financial Group,1,Svb Financial Group,Neogenomics Inc,76
+Svb Financial Group,1,Svb Financial Group,Paramount Group Inc,76
+Svb Financial Group,1,Svb Financial Group,Reata Pharmaceuticals Inc,77
+Svb Financial Group,1,Svb Financial Group,Crispr Therapeutics Inc,77
+Svb Financial Group,1,Svb Financial Group,Celsion Corp,77
+Svb Financial Group,1,Svb Financial Group,Gitprime,78
+Svb Financial Group,1,Svb Financial Group,Hashicorp,79
+Svb Financial Group,1,Svb Financial Group,Iterum Therapeutics Plc,79
+Svb Financial Group,1,Svb Financial Group,Circleci,80
+Svb Financial Group,1,Svb Financial Group,Twilio,81
+Svb Financial Group,1,Svb Financial Group,Postmates,84
+Svb Financial Group,1,Svb Financial Group,Apollo Global Management Llc,84
+Svb Financial Group,1,Svb Financial Group,Aon Plc,86
+Svb Financial Group,1,Svb Financial Group,Roku Inc,87
+Svb Financial Group,1,Svb Financial Group,Evernote,88
+Svb Financial Group,1,Svb Financial Group,Qualtrics,88
+Svb Financial Group,1,Svb Financial Group,Codexis Inc,88
+Svb Financial Group,1,Svb Financial Group,Geron Co Ltd,89
+Svb Financial Group,1,Svb Financial Group,Eventbrite,91
+Svb Financial Group,1,Svb Financial Group,Mednax Inc,95
+Svb Financial Group,1,Svb Financial Group,Nasdaq Inc,96
+Svb Financial Group,1,Svb Financial Group,Medtronic Public Limited Company,96
+Svb Financial Group,1,Svb Financial Group,Patreon,98
+Svb Financial Group,1,Svb Financial Group,Sandp Global Inc,100
+Svb Financial Group,1,Svb Financial Group,Zuora,100
+Svb Financial Group,1,Svb Financial Group,Blucora Inc,100
 Svb Financial Group,2,Moodys Corp /De/,Allegiant Travel Co,0.000292128
 Svb Financial Group,2,Nasdaq Inc,Landcadia Holdings Inc,0.000292128
 Svb Financial Group,2,Nasdaq Inc,Agrofresh Solutions,0.000292128
@@ -296,14 +357,11 @@ Svb Financial Group,2,Docker, Microsoft,2
 Svb Financial Group,2,Crispr Therapeutics Inc,Vertex Pharmaceuticals Inc / Ma,2.337021933
 Svb Financial Group,2,Us Bancorp,Uber Technologies Inc,2.521646666
 Svb Financial Group,2,Docker, Red Hat,3
-Svb Financial Group,2,DocuSign, PandaDoc,4
 Svb Financial Group,2,Coursera, FutureLearn,4
 Svb Financial Group,2,Goldman Sachs Group Inc,Uber Technologies Inc,4.188235432
 Svb Financial Group,2,Aspen Aerogels Inc,Basf Se,4.802580072
 Svb Financial Group,2,Eventbrite, Live Nation,5
 Svb Financial Group,2,Zuora, Microsoft,6
-Svb Financial Group,2,SendGrid, Campaign Monitor,6
-Svb Financial Group,2,InVision, Zeplin,6
 Svb Financial Group,2,Bank Of America Corp,China Eastern Airlines Corp Ltd,6.394092009
 Svb Financial Group,2,Evernote, Dropbox,7
 Svb Financial Group,2,Blue Apron, DoorDash,7
@@ -315,7 +373,6 @@ Svb Financial Group,2,Airbnb, Sonder,11
 Svb Financial Group,2,Slack, Zoom,11
 Svb Financial Group,2,Slack, Dropbox,12
 Svb Financial Group,2,Udacity, Pluralsight,12
-Svb Financial Group,2,InVision, Adobe XD,13
 Svb Financial Group,2,Udacity, Khan Academy,14
 Svb Financial Group,2,Coursera, LinkedIn Learning,14
 Svb Financial Group,2,Bank Of America Corp,Ubs Group Ag,14.38699915
@@ -323,44 +380,36 @@ Svb Financial Group,2,Docker, Google Cloud,15
 Svb Financial Group,2,Evernote, Google,16
 Svb Financial Group,2,Asana, Wrike,16
 Svb Financial Group,2,Udacity, edX,17
-Svb Financial Group,2,Blue Apron, Amazon,18
+Svb Financial Group,2,Blue Apron,Amazon Com Inc,18
 Svb Financial Group,2,Morgan Stanley International Holdings Inc,Deutsche Bank,18.24425385
 Svb Financial Group,2,Docker, AWS,22
 Svb Financial Group,2,Airbnb, TripAdvisor,27
 Svb Financial Group,2,SurveyMonkey, SurveyLegend,27
-Svb Financial Group,2,InVision, Marvel,29
 Svb Financial Group,2,Udacity, Coursera,30
 Svb Financial Group,2,Pluralsight, Codecademy,33
 Svb Financial Group,2,Slack, Salesforce,34
 Svb Financial Group,2,Houzz, Wayfair,36
 Svb Financial Group,2,Pluralsight, Udemy,36
-Svb Financial Group,2,SendGrid, Constant Contact,38
 Svb Financial Group,2,Airbnb, Booking.com,39
-Svb Financial Group,2,InVision, Figma,41
-Svb Financial Group,2,SendGrid, GetResponse,48
 Svb Financial Group,2,Eventbrite, Bandsintown,49
-Svb Financial Group,2,SurveyMonkey, SurveyGizmo,49
 Svb Financial Group,2,Coursera, Udemy,49
 Svb Financial Group,2,Airbnb, Expedia,50
 Svb Financial Group,2,Houzz, Home Depot,50
 Svb Financial Group,2,Zuora, IBM,51
 Svb Financial Group,2,Coursera, edX,53
-Svb Financial Group,2,Evernote, Apple,54
+Svb Financial Group,2,Evernote,Apple Inc,54
 Svb Financial Group,2,Houzz, Lowe's,55
 Svb Financial Group,2,Dropbox, Microsoft,55
 Svb Financial Group,2,Evernote, Salesforce,56
 Svb Financial Group,2,Nutanix, Lenovo,56
-Svb Financial Group,2,SurveyMonkey, Google Forms,58
 Svb Financial Group,2,Sumo Logic, Elasti,58
 Svb Financial Group,2,Dropbox, Zoom,59
 Svb Financial Group,2,Eventbrite, StubHub,60
 Svb Financial Group,2,Credit Karma, TurboTax,61
 Svb Financial Group,2,Asana, Jira,62
 Svb Financial Group,2,Credit Karma, NerdWallet,63
-Svb Financial Group,2,DocuSign, SignNow,64
 Svb Financial Group,2,Asana, Trello,64
 Svb Financial Group,2,Nutanix, Cisco,67
-Svb Financial Group,2,InVision, Sketch,67
 Svb Financial Group,2,Sumo Logic, Datadog,67
 Svb Financial Group,2,Medical Transcription Billing Corp,Nasdaq Inc,67.92875589
 Svb Financial Group,2,Dropbox, Trello,68
@@ -373,18 +422,13 @@ Svb Financial Group,2,Pluralsight, Skillshare,72
 Svb Financial Group,2,SendGrid, AWeber,73
 Svb Financial Group,2,Asana, Monday.com,73
 Svb Financial Group,2,Houzz, Sherwin-Williams,74
-Svb Financial Group,2,DocuSign, HelloSign,75
-Svb Financial Group,2,DocuSign, SignEasy,77
 Svb Financial Group,2,Zuora, Oracle,77
 Svb Financial Group,2,Eventbrite, Ticketmaster,78
-Svb Financial Group,2,SendGrid, Mailchimp,81
 Svb Financial Group,2,Airbnb, Vrbo,82
-Svb Financial Group,2,DocuSign, Adobe Sign,82
 Svb Financial Group,2,Bank Of America Corp,Countrywide Plc,82.74109303
 Svb Financial Group,2,Slack, Google,86
 Svb Financial Group,2,Credit Karma, Experian,87
 Svb Financial Group,2,Blue Apron, Uber Eats,87
-Svb Financial Group,2,SurveyMonkey, Typeform,87
 Svb Financial Group,2,Sumo Logic, Graylog,87
 Svb Financial Group,2,Slack, Asana,88
 Svb Financial Group,2,Docker, IBM,88
@@ -400,110 +444,46 @@ Svb Financial Group,2,Coursera, Skillshare,95
 Svb Financial Group,2,Blue Apron, Walmart,98
 Svb Financial Group,2,Jp Morgan Chase And Co,Federal Home Loan Mortgage Corp,100
 Svb Financial Group,2,Nutanix, HPE,100
-Svb Financial Group,1,Svb Financial Group,Pfizer Inc,0.101010101
-Svb Financial Group,1,Svb Financial Group,Mersana Therapeutics Inc,0.101010101
-Svb Financial Group,1,Svb Financial Group,Kura Oncology,0.101010101
-Svb Financial Group,1,Svb Financial Group,Onebeacon Insurance Group Ltd,0.101010101
-Svb Financial Group,1,Svb Financial Group,Looker,2
-Svb Financial Group,1,Svb Financial Group,Wells Fargo And Company,2
-Svb Financial Group,1,Svb Financial Group,Slack,3
-Svb Financial Group,1,Svb Financial Group,Jp Morgan Chase And Co,3
-Svb Financial Group,1,Svb Financial Group,Twitter Inc,3
-Svb Financial Group,1,Svb Financial Group,Aehr Test Systems,3
-Svb Financial Group,1,Svb Financial Group,Fastly,5
-Svb Financial Group,1,Svb Financial Group,Pagerduty,7
-Svb Financial Group,1,Svb Financial Group,Onebeacon Insurance Group Ltd,7
-Svb Financial Group,1,Svb Financial Group,Psivida Corp,7
-Svb Financial Group,1,Svb Financial Group,Moodys Corp /De/,8
-Svb Financial Group,1,Svb Financial Group,Nii Holdings Inc,8
-Svb Financial Group,1,Svb Financial Group,Medical Transcription Billing Corp,9
-Svb Financial Group,1,Svb Financial Group,Flexion Therapeutics Inc,9
-Svb Financial Group,1,Svb Financial Group,Docusign,13
-Svb Financial Group,1,Svb Financial Group,Credit Karma,14
-Svb Financial Group,1,Svb Financial Group,Pacific Biosciences Of California Inc,14
-Svb Financial Group,1,Svb Financial Group,Asana,16
-Svb Financial Group,1,Svb Financial Group,Affirm,16
-Svb Financial Group,1,Svb Financial Group,The Black Tux,17
-Svb Financial Group,1,Svb Financial Group,Waters Corp,17
-Svb Financial Group,1,Svb Financial Group,Goodyear Tire And Rubber Co /Oh/,17
-Svb Financial Group,1,Svb Financial Group,Dropbox,19
-Svb Financial Group,1,Svb Financial Group,Robin Powered,19
-Svb Financial Group,1,Svb Financial Group,Amgen Inc,20
-Svb Financial Group,1,Svb Financial Group,Intercontinental Exchange,22
-Svb Financial Group,1,Svb Financial Group,Okta,28
-Svb Financial Group,1,Svb Financial Group,Zoom Video Communications Inc,29
-Svb Financial Group,1,Svb Financial Group,Pluralsight,31
-Svb Financial Group,1,Svb Financial Group,Us Bancorp,32
-Svb Financial Group,1,Svb Financial Group,Docker,34
-Svb Financial Group,1,Svb Financial Group,Bettercloud,34
-Svb Financial Group,1,Svb Financial Group,Grammarly,34
-Svb Financial Group,1,Svb Financial Group,Goldman Sachs Group Inc,34
-Svb Financial Group,1,Svb Financial Group,Gitlab,35
-Svb Financial Group,1,Svb Financial Group,Gritstone Oncology Inc,36
-Svb Financial Group,1,Svb Financial Group,Gci Liberty Inc,36.36363636
-Svb Financial Group,1,Svb Financial Group,Tanium,39
-Svb Financial Group,1,Svb Financial Group,Aspen Aerogels Inc,39
-Svb Financial Group,1,Svb Financial Group,Lloyds Banking Group Plc,39
-Svb Financial Group,1,Svb Financial Group,Nerdwallet,42
-Svb Financial Group,1,Svb Financial Group,Udacity,44
-Svb Financial Group,1,Svb Financial Group,Trevi Therapeutics Inc,44
-Svb Financial Group,1,Svb Financial Group,Airbnb,45
-Svb Financial Group,1,Svb Financial Group,Coursera,45
-Svb Financial Group,1,Svb Financial Group,Bank Of America Corp,46
-Svb Financial Group,1,Svb Financial Group,Dare Bioscience Inc,46
-Svb Financial Group,1,Svb Financial Group,Cohen And Co Inc,47
-Svb Financial Group,1,Svb Financial Group,Nuance Communications Inc,48
-Svb Financial Group,1,Svb Financial Group,Coca-Cola Company,48
-Svb Financial Group,1,Svb Financial Group,Nuvasive Inc,49
-Svb Financial Group,1,Svb Financial Group,Regeneron Pharmaceuticals Inc,52
-Svb Financial Group,1,Svb Financial Group,Biolife Solutions Inc,52
-Svb Financial Group,1,Svb Financial Group,Morgan Stanley International Holdings Inc,53
-Svb Financial Group,1,Svb Financial Group,Ziopharm Oncology Inc,53
-Svb Financial Group,1,Svb Financial Group,Surveymonkey,54
-Svb Financial Group,1,Svb Financial Group,Nustar Energy Lp,54
-Svb Financial Group,1,Svb Financial Group,Sendgrid,55
-Svb Financial Group,1,Svb Financial Group,Carta,55
-Svb Financial Group,1,Svb Financial Group,Visa Inc,55
-Svb Financial Group,1,Svb Financial Group,Invision,56
-Svb Financial Group,1,Svb Financial Group,Hashicorp,56
-Svb Financial Group,1,Svb Financial Group,Royal Bank Of Canada,56
-Svb Financial Group,1,Svb Financial Group,Vital Therapies Inc,58
-Svb Financial Group,1,Svb Financial Group,Microsoft Corp,59
-Svb Financial Group,1,Svb Financial Group,Svb Financial Group,61
-Svb Financial Group,1,Svb Financial Group,Ophthotech Corp,66
-Svb Financial Group,1,Svb Financial Group,Sumo Logic,67
-Svb Financial Group,1,Svb Financial Group,Aveo Pharmaceuticals Inc,67
-Svb Financial Group,1,Svb Financial Group,Houzz,68
-Svb Financial Group,1,Svb Financial Group,Nutanix,71
-Svb Financial Group,1,Svb Financial Group,Amarin Corp Plc,71
-Svb Financial Group,1,Svb Financial Group,Hertz Global Holdings Inc,72
-Svb Financial Group,1,Svb Financial Group,Brainstorm Cell Therapeutics Inc,74
-Svb Financial Group,1,Svb Financial Group,Gilead Sciences Inc,75
-Svb Financial Group,1,Svb Financial Group,Fair Isaac Corp,75
-Svb Financial Group,1,Svb Financial Group,Blue Apron,76
-Svb Financial Group,1,Svb Financial Group,Neogenomics Inc,76
-Svb Financial Group,1,Svb Financial Group,Paramount Group Inc,76
-Svb Financial Group,1,Svb Financial Group,Reata Pharmaceuticals Inc,77
-Svb Financial Group,1,Svb Financial Group,Crispr Therapeutics Inc,77
-Svb Financial Group,1,Svb Financial Group,Celsion Corp,77
-Svb Financial Group,1,Svb Financial Group,Gitprime,78
-Svb Financial Group,1,Svb Financial Group,Hashicorp,79
-Svb Financial Group,1,Svb Financial Group,Iterum Therapeutics Plc,79
-Svb Financial Group,1,Svb Financial Group,Circleci,80
-Svb Financial Group,1,Svb Financial Group,Twilio,81
-Svb Financial Group,1,Svb Financial Group,Postmates,84
-Svb Financial Group,1,Svb Financial Group,Apollo Global Management Llc,84
-Svb Financial Group,1,Svb Financial Group,Aon Plc,86
-Svb Financial Group,1,Svb Financial Group,Roku Inc,87
-Svb Financial Group,1,Svb Financial Group,Evernote,88
-Svb Financial Group,1,Svb Financial Group,Qualtrics,88
-Svb Financial Group,1,Svb Financial Group,Codexis Inc,88
-Svb Financial Group,1,Svb Financial Group,Geron Co Ltd,89
-Svb Financial Group,1,Svb Financial Group,Eventbrite,91
-Svb Financial Group,1,Svb Financial Group,Mednax Inc,95
-Svb Financial Group,1,Svb Financial Group,Nasdaq Inc,96
-Svb Financial Group,1,Svb Financial Group,Medtronic Public Limited Company,96
-Svb Financial Group,1,Svb Financial Group,Patreon,98
-Svb Financial Group,1,Svb Financial Group,Sandp Global Inc,100
-Svb Financial Group,1,Svb Financial Group,Zuora,100
-Svb Financial Group,1,Svb Financial Group,Blucora Inc,100
+Svb Financial Group,3,Ophthotech Corp,Nektar Therapeutics,0.425191562
+Svb Financial Group,3,Tyson Foods Inc,Arlington Asset Investment Corp,0.456748894
+Svb Financial Group,3,Mobileiron Inc,Blackberry Ltd,0.458426215
+Svb Financial Group,3,Albireo Pharma Inc,Brookfield Asset Management Inc,0.470968712
+Svb Financial Group,3,Shopify Inc,Etsy Inc,0.480805047
+Svb Financial Group,3,Yum China Holdings Inc,Hrg Group Inc,0.493219718
+Svb Financial Group,3,Biospecifics Technologies Corp,Endo International Plc,0.494848714
+Svb Financial Group,3,T-Mobile Us,Metro Inc,0.50297811
+Svb Financial Group,3,Capstone Turbine Corp,Warner Media Llc,0.509556452
+Svb Financial Group,3,Anthem Inc,Symantec Corp,0.524421632
+Svb Financial Group,3,Simon Property Group Inc /De/,Jc Penney,0.534172231
+Svb Financial Group,3,Bank Of America Corp,Countrywide Financial Corp,0.543829298
+Svb Financial Group,3,Jounce Therapeutics Inc,Glaxosmithkline Plc,0.551289948
+Svb Financial Group,3,Orbcomm Inc,Union Pacific Corp,0.586061626
+Svb Financial Group,3,Netlist Inc,Samsung Electronics Gmbh,0.673402358
+Svb Financial Group,3,Echostar Corp,Dish Network Corp,0.678655678
+Svb Financial Group,3,Mplx Lp,Factset Research Systems Inc,0.706501392
+Svb Financial Group,3,Cotiviti Holdings,Cms Bancorp Inc,0.741934022
+Svb Financial Group,3,Tyson Foods Inc,Conagra Brands Inc,0.860780644
+Svb Financial Group,3,Pbf Holding Co Llc,Williams Companies Inc,1.057591524
+Svb Financial Group,3,Visa Inc,Centerpoint Energy Inc,1.119455992
+Svb Financial Group,3,Kindred Healthcare Inc,Ventas Inc,1.126104481
+Svb Financial Group,3,Fuelcell Energy Inc,Exxon Mobil Corp,1.180678214
+Svb Financial Group,3,American Airlines Group Inc,United Continental Holdings,1.312407162
+Svb Financial Group,3,Proteostasis Therapeutics Inc,Fgl Holdings,1.411568643
+Svb Financial Group,3,Crowdstrike Holdings Inc,Amazon Com Inc,1.529888374
+Svb Financial Group,3,Gemphire Therapeutics Inc,First Trust New Opportunities M,1.763525495
+Svb Financial Group,3,Pfizer Inc,Comerica Inc /New/,1.906412681
+Svb Financial Group,3,Braze Inc,Apple Inc,3.151232841
+Svb Financial Group,3,National General Holdings Corp,Willis Towers Watson Plc,4.130119655
+Svb Financial Group,3,Altaba Inc,Twitter Inc,4.660474265
+Svb Financial Group,3,Beigene Ltd,Novartis Ag,4.694204632
+Svb Financial Group,3,Mosys Inc,Intel Corp,4.820159605
+Svb Financial Group,3,Hancock Whitney Corporation,Visa Inc,5.151659685
+Svb Financial Group,3,Humana Inc,Cigna Corp,5.409313987
+Svb Financial Group,3,Iac/Interactive,Google,6.740048532
+Svb Financial Group,3,Anthem Inc,Cigna Corp,6.827429794
+Svb Financial Group,3,Kite Pharma Inc,Gilead Sciences Inc,8.867813047
+Svb Financial Group,3,Hon Hai Precision Industry Co Ltd,Apple Inc,9.383763896
+Svb Financial Group,3,Godaddy Inc,Twitter Inc,12.46728191
+Svb Financial Group,3,Enanta Pharmaceuticals Inc,Gilead Sciences Inc,14.3945021
+Svb Financial Group,3,Getty Images Inc,Pgande Corp,23.71273824
+Svb Financial Group,3,Home Bancshares Inc,Bank Of America Corp,100
