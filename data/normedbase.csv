@@ -20,14 +20,14 @@ Jp Morgan Chase And Co,2,Federal National Mortgage Association,Credit Suisse Gro
 Coca-Cola Company,2,Intercontinental Exchange,Pgande Corp,8.1
 Coca-Cola Company,2,Intercontinental Exchange,Bnp Paribas,6.3
 Microsoft Corp,2,Us Bancorp,Regions Financial Corp,0.8
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Dowdupont Inc,18.0
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Dowdupont Inc,18
 Goldman Sachs Group Inc,3,Bank Of America Corp,Fitbit Inc,2.2
 Goldman Sachs Group Inc,3,Mastercard Inc,Amazon Com Inc,1.8
 Alphabet Inc,3,Berkshire Hathaway Inc,Goldman Sachs Group Inc,0.8
 Alphabet Inc,3,Facebook Inc,International Business Machines Corp,2.7
 Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Prudential Financial Inc,0.6
 Alphabet Inc,3,Goldman Sachs Group Inc,Bank Of New York Mellon Corp,0.7
-Alphabet Inc,3,Goldman Sachs Group Inc,Maiden Holdings Ltd,1.0
+Alphabet Inc,3,Goldman Sachs Group Inc,Maiden Holdings Ltd,1
 Goldman Sachs Group Inc,3,Bank Of America Corp,Visa Inc,3.7
 Goldman Sachs Group Inc,3,Jp Morgan Chase And Co,Ambac Financial Group Inc,1.6
 Microsoft Corp,3,Hsbc Holdings Plc,Jp Morgan Chase And Co,2.6
@@ -42,7 +42,7 @@ Alphabet Inc,1,Alphabet Inc,Ebay Inc,22.1
 Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Bank Of America Corp,11.2
 Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Msci Inc,6.2
 Alphabet Inc,2,Sandp Global Inc,Citigroup Inc,0.9
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Twitter Inc,1.0
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Twitter Inc,1
 Microsoft Corp,2,Atandt Inc,Cbs Corp,0.8
 Microsoft Corp,2,Cisco Systems Inc,Moodys Corp /De/,0.9
 Pepsico Inc,2,Jp Morgan Chase And Co,Nantkwest Inc,0.8
@@ -51,14 +51,14 @@ Microsoft Corp,2,International Business Machines Corp,Columbia Sportswear Co,0.8
 Jp Morgan Chase And Co,2,Federal National Mortgage Association,Philip Morris International Inc,0.9
 Microsoft Corp,2,Us Bancorp,Sandp Global Inc,75.4
 Morgan Stanley International Holdings Inc,3,Federal National Mortgage Association,Federal Home Loan Mortgage Corp,1.2
-Alphabet Inc,3,Morgan Stanley International Holdings Inc,Citigroup Inc,8.0
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,International Flavors And Fragrances Inc,1.0
+Alphabet Inc,3,Morgan Stanley International Holdings Inc,Citigroup Inc,8
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,International Flavors And Fragrances Inc,1
 Goldman Sachs Group Inc,3,Wells Fargo And Company,Energy Transfer Lp  1,1.3
 Goldman Sachs Group Inc,3,Bank Of America Corp,Google,17.9
 Alphabet Inc,3,Jp Morgan Chase And Co,Deutsche Telekom Ag,0.7
 Morgan Stanley International Holdings Inc,3,Citigroup Inc,Dowdupont Inc,3.9
-Alphabet Inc,3,Citigroup Inc,Wells Fargo And Company,4.0
-Alphabet Inc,3,Goldman Sachs Group Inc,Thomson Reuters Corp,1.0
+Alphabet Inc,3,Citigroup Inc,Wells Fargo And Company,4
+Alphabet Inc,3,Goldman Sachs Group Inc,Thomson Reuters Corp,1
 Alphabet Inc,3,Apple Inc,Fitbit Inc,0.9
 Morgan Stanley International Holdings Inc,3,Citigroup Inc,Altria Group,0.7
 Microsoft Corp,3,Bank Of America Corp,First Republic Bank,3.6
@@ -94,20 +94,20 @@ Morgan Stanley International Holdings Inc,3,Citigroup Inc,State Street Corp,5.3
 Goldman Sachs Group Inc,3,Wells Fargo And Company,Energy Transfer Lp  1,2.9
 Morgan Stanley International Holdings Inc,3,Citigroup Inc,Brighthouse Financial Inc,0.6
 Alphabet Inc,3,Nokia Corp,Facebook Inc,2.1
-Goldman Sachs Group Inc,3,Bank Of America Corp,Google,24.0
+Goldman Sachs Group Inc,3,Bank Of America Corp,Google,24
 Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Deutsche Bank,1.9
 Alphabet Inc,3,Jp Morgan Chase And Co,Fiat Chrysler Automobiles Nv,1.4
-Alphabet Inc,3,Jp Morgan Chase And Co,Berkshire Hathaway Inc,1.0
+Alphabet Inc,3,Jp Morgan Chase And Co,Berkshire Hathaway Inc,1
 Morgan Stanley International Holdings Inc,3,Citigroup Inc,Brighthouse Financial Inc,2.6
-Alphabet Inc,3,Ebay Inc,Goldman Sachs Group Inc,2.0
+Alphabet Inc,3,Ebay Inc,Goldman Sachs Group Inc,2
 Alphabet Inc,3,Facebook Inc,Google,3.6
-Microsoft Corp,3,Sandp Global Inc,Goldman Sachs Group Inc,100.0
+Microsoft Corp,3,Sandp Global Inc,Goldman Sachs Group Inc,100
 Pepsico Inc,3,Deutsche Bank,Netflix Inc,3.7
 Goldman Sachs Group Inc,3,Bank Of America Corp,Tesla Inc,18.1
 Alphabet Inc,1,Alphabet Inc,Sandp Global Inc,39.2
-Coca-Cola Company,1,Coca-Cola Company,Intercontinental Exchange,100.0
+Coca-Cola Company,1,Coca-Cola Company,Intercontinental Exchange,100
 Microsoft Corp,2,Amazon Com Inc,Goldman Sachs Group Inc,4.9
-Alphabet Inc,2,Oracle Corp,Microsoft Corp,12.0
+Alphabet Inc,2,Oracle Corp,Microsoft Corp,12
 Pepsico Inc,2,Jp Morgan Chase And Co,Waddell And Reed Financial Inc,0.7
 Pepsico Inc,2,Jp Morgan Chase And Co,Thomson Reuters Corp,3.1
 Pepsico Inc,2,Jp Morgan Chase And Co,Assured Guaranty Ltd,1.6
@@ -122,7 +122,7 @@ Microsoft Corp,2,International Business Machines Corp,Mizuho Financial Group Inc
 Coca-Cola Company,2,Intercontinental Exchange,Credit Suisse Ag,0.5
 Microsoft Corp,2,Us Bancorp,Keycorp /New/,0.5
 Goldman Sachs Group Inc,3,Bank Of America Corp,Wells Fargo And Company,2.9
-Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,International Flavors And Fragrances Inc,1.0
+Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,International Flavors And Fragrances Inc,1
 Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Mbia Inc,1.1
 Jp Morgan Chase And Co,3,Morgan Stanley International Holdings Inc,Citigroup Inc,0.6
 Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,City Office Reit Inc,0.5
@@ -136,8 +136,8 @@ Morgan Stanley International Holdings Inc,3,Bank Of America Corp,International F
 Alphabet Inc,3,Jp Morgan Chase And Co,Ericsson Inc,2.3
 Alphabet Inc,3,Jp Morgan Chase And Co,Sony Corp,1.4
 Goldman Sachs Group Inc,3,Bank Of America Corp,Fitbit Inc,2.9
-Alphabet Inc,3,Atandt Inc,Tbs International Plc,1.0
-Alphabet Inc,3,Atandt Inc,Cbs Corp,100.0
+Alphabet Inc,3,Atandt Inc,Tbs International Plc,1
+Alphabet Inc,3,Atandt Inc,Cbs Corp,100
 Morgan Stanley International Holdings Inc,3,Federal Home Loan Mortgage Corp,Allstate Corp,0.7
 Microsoft Corp,3,Hsbc Holdings Plc,Facebook Inc,7.8
 Goldman Sachs Group Inc,3,Bank Of America Corp,Commerzbank Ag,1.4
@@ -150,12 +150,12 @@ Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holding
 Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,General Electric Company,0.9
 Microsoft Corp,2,Oracle Corp,Vanguard Group,5.5
 Microsoft Corp,2,Cisco Systems Inc,Dell Inc,5.2
-Microsoft Corp,2,Atandt Inc,Sprint Corp,3.0
+Microsoft Corp,2,Atandt Inc,Sprint Corp,3
 Morgan Stanley International Holdings Inc,2,Mbia Inc,Bank Of America Corp,1.1
 Pepsico Inc,2,Jp Morgan Chase And Co,Federal Home Loan Mortgage Corp,2.1
 Coca-Cola Company,2,Jefferies Financial Group Inc,Federal National Mortgage Association,1.5
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Citigroup Inc,16.0
-Microsoft Corp,2,International Business Machines Corp,Hcl Technologies Limited,1.0
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Citigroup Inc,16
+Microsoft Corp,2,International Business Machines Corp,Hcl Technologies Limited,1
 Microsoft Corp,2,International Business Machines Corp,Red Hat Inc,35.9
 Pepsico Inc,2,Wells Fargo And Company,Gilead Sciences Inc,0.7
 Microsoft Corp,2,International Business Machines Corp,Sap Se,1.3
@@ -178,19 +178,19 @@ Coca-Cola Company,3,Bank Of America Corp,Aleris International Inc,1.7
 Microsoft Corp,3,Jp Morgan Chase And Co,Public Storage,1.5
 Goldman Sachs Group Inc,3,Bank Of America Corp,Wells Fargo And Company,4.7
 Microsoft Corp,3,Dell Inc,Jp Morgan Chase And Co,1.7
-Microsoft Corp,3,Bank Of America Corp,Pimco Dynamic Credit Income Fun,2.0
+Microsoft Corp,3,Bank Of America Corp,Pimco Dynamic Credit Income Fun,2
 Pepsico Inc,3,Jp Morgan Chase And Co,Zimmer Biomet Holdings,2.6
 Microsoft Corp,3,Goldman Sachs Group Inc,Metro Inc,2.1
 Microsoft Corp,3,Goldman Sachs Group Inc,Intercontinental Exchange,2.3
 Microsoft Corp,3,Bank Of America Corp,Oci Partners Lp,1.6
 Jp Morgan Chase And Co,3,Intercontinental Exchange,Goldman Sachs Group Inc,1.2
 Goldman Sachs Group Inc,3,Wells Fargo And Company,Regions Financial Corp,2.2
-Pepsico Inc,1,Pepsico Inc,Wells Fargo And Company,100.0
+Pepsico Inc,1,Pepsico Inc,Wells Fargo And Company,100
 Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Metro Inc,5.1
 Microsoft Corp,1,Microsoft Corp,Verizon Communications Inc,6.1
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Ihs Markit Ltd,16.0
+Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Ihs Markit Ltd,16
 Microsoft Corp,2,Amex Global Holdings Cv,Visa Inc,0.8
-Microsoft Corp,2,Verizon Communications Inc,Atandt Inc,8.0
+Microsoft Corp,2,Verizon Communications Inc,Atandt Inc,8
 Goldman Sachs Group Inc,2,Citigroup Inc,Public Storage,0.5
 Alphabet Inc,2,Oracle Corp,Intel Corp,0.8
 Microsoft Corp,2,Atandt Inc,The Toronto-Dominion Bank,1.2
@@ -205,7 +205,7 @@ Goldman Sachs Group Inc,3,Bank Of America Corp,Bank Of New York Mellon Corp,2.5
 Goldman Sachs Group Inc,3,Bank Of America Corp,Google,13.1
 Alphabet Inc,3,Hp Inc,Goldman Sachs Group Inc,1.1
 Coca-Cola Company,3,Bank Of America Corp,Chase Corp,2.1
-Coca-Cola Company,3,Bank Of America Corp,General Motors Limited,98.0
+Coca-Cola Company,3,Bank Of America Corp,General Motors Limited,98
 Alphabet Inc,3,Jp Morgan Chase And Co,New York Times Co,1.1
 Pepsico Inc,3,Bank Of America Corp,Deutsche Bank,9.5
 Pepsico Inc,3,Bank Of America Corp,Mastercard Inc,4.1
@@ -213,7 +213,7 @@ Alphabet Inc,3,Facebook Inc,Wells Fargo And Company,1.3
 Alphabet Inc,3,Facebook Inc,Oracle Corp,5.2
 Morgan Stanley International Holdings Inc,3,Citigroup Inc,Realogy Holdings Corp,1.4
 Morgan Stanley International Holdings Inc,3,Citigroup Inc,State Street Corp,0.9
-Coca-Cola Company,3,Goldman Sachs Group Inc,Metro Inc,2.0
+Coca-Cola Company,3,Goldman Sachs Group Inc,Metro Inc,2
 Pepsico Inc,3,Deutsche Bank,Netflix Inc,3.1
 Goldman Sachs Group Inc,3,Bank Of America Corp,Commerzbank Ag,1.2
 Pepsico Inc,3,Jp Morgan Chase And Co,Pimco Dynamic Credit Income Fun,2.6
@@ -239,7 +239,7 @@ Microsoft Corp,2,International Business Machines Corp,Royal Bank Of Canada,5.1
 Coca-Cola Company,2,Intercontinental Exchange,Cboe Global Markets Inc,1.1
 Microsoft Corp,2,Us Bancorp,Yrc Worldwide,0.6
 Coca-Cola Company,3,Bank Of America Corp,Coastal Financial Corp,3.7
-Coca-Cola Company,3,Bank Of America Corp,Intercontinental Exchange,100.0
+Coca-Cola Company,3,Bank Of America Corp,Intercontinental Exchange,100
 Coca-Cola Company,3,Goldman Sachs Group Inc,Federal Home Loan Mortgage Corp,4.4
 Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Oasis Petroleum Inc,0.5
 Jp Morgan Chase And Co,3,Intercontinental Exchange,General Motors Limited,0.5
@@ -278,11 +278,11 @@ Jp Morgan Chase And Co,2,Federal National Mortgage Association,Ally Financial,0.
 Coca-Cola Company,2,Intercontinental Exchange,Highwoods Properties Inc,0.5
 Coca-Cola Company,2,Intercontinental Exchange,Wells Fargo And Company,92.2
 Coca-Cola Company,2,Intercontinental Exchange,Federal Home Loan Mortgage Corp,2.6
-Coca-Cola Company,2,Intercontinental Exchange,Ing Groep Nv,9.0
+Coca-Cola Company,2,Intercontinental Exchange,Ing Groep Nv,9
 Goldman Sachs Group Inc,3,Federal Home Loan Mortgage Corp,Jp Morgan Chase And Co,16.7
 Goldman Sachs Group Inc,3,Bank Of America Corp,International Flavors And Fragrances Inc,1.2
 Alphabet Inc,3,Nokia Corp,Jp Morgan Chase And Co,2.2
-Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Mastercard Inc,2.0
+Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Mastercard Inc,2
 Coca-Cola Company,3,Citigroup Inc,General Electric Company,7.5
 Alphabet Inc,3,Goldman Sachs Group Inc,Berkshire Hathaway Inc,2.6
 Alphabet Inc,3,Citigroup Inc,Wells Fargo And Company,2.9
@@ -297,7 +297,7 @@ Coca-Cola Company,3,Bank Of America Corp,International Flavors And Fragrances In
 Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Mbia Inc,1.6
 Pepsico Inc,3,Bank Of America Corp,Pimco Dynamic Credit Income Fun,2.8
 Pepsico Inc,3,Deutsche Bank,Jp Morgan Chase And Co,18.4
-Microsoft Corp,3,Sandp Global Inc,Exxon Mobil Corp,4.0
+Microsoft Corp,3,Sandp Global Inc,Exxon Mobil Corp,4
 Morgan Stanley International Holdings Inc,3,Federal Home Loan Mortgage Corp,Allstate Corp,0.6
 Goldman Sachs Group Inc,3,Bank Of America Corp,Bank Of New York Mellon Corp,2.1
 Pepsico Inc,3,Jp Morgan Chase And Co,Amc Entertainment Inc,5.9
@@ -313,8 +313,8 @@ Microsoft Corp,2,Oracle Corp,Hsbc Holdings Plc,0.6
 Microsoft Corp,2,Amex Global Holdings Cv,Vanguard Group,2.9
 Goldman Sachs Group Inc,2,Morgan Stanley International Holdings Inc,Intercontinental Exchange,1.4
 Microsoft Corp,2,Cisco Systems Inc,Broadcom Ltd,2.4
-Microsoft Corp,2,Atandt Inc,Bnp Paribas,2.0
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Ambac Financial Group Inc,1.0
+Microsoft Corp,2,Atandt Inc,Bnp Paribas,2
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Ambac Financial Group Inc,1
 Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Philip Morris International Inc,5.5
 Pepsico Inc,2,Jp Morgan Chase And Co,Mastercard Inc,5.7
 Coca-Cola Company,2,Nrg Energy,Comerica Inc /New/,0.8
@@ -329,17 +329,17 @@ Goldman Sachs Group Inc,3,Bank Of America Corp,Wells Fargo And Company,2.1
 Goldman Sachs Group Inc,3,Jp Morgan Chase And Co,Aon Plc,4.2
 Goldman Sachs Group Inc,3,Jp Morgan Chase And Co,Ambac Financial Group Inc,1.6
 Pepsico Inc,3,Deutsche Bank,Netflix Inc,2.9
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Cincinnati Bell Inc,2.0
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Vanguard Group,100.0
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Cincinnati Bell Inc,2
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Vanguard Group,100
 Alphabet Inc,3,Hp Inc,Goldman Sachs Group Inc,4.1
 Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Wells Fargo And Company,55.5
 Alphabet Inc,3,Goldman Sachs Group Inc,Pepsico Inc,6.2
-Goldman Sachs Group Inc,3,Bank Of America Corp,First Republic Bank,3.0
+Goldman Sachs Group Inc,3,Bank Of America Corp,First Republic Bank,3
 Goldman Sachs Group Inc,3,Bank Of America Corp,American Airlines Group Inc,2.6
 Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Eastman Kodak Co,0.5
 Morgan Stanley International Holdings Inc,3,Citigroup Inc,State Street Corp,5.3
 Coca-Cola Company,3,Bank Of America Corp,China Mobile [Hong Kong] Ltd,3.5
-Coca-Cola Company,3,Bank Of America Corp,Whirlpool Corp,3.0
+Coca-Cola Company,3,Bank Of America Corp,Whirlpool Corp,3
 Coca-Cola Company,3,Bank Of America Corp,Mbia Inc,8.3
 Coca-Cola Company,3,Bank Of America Corp,Spotify Technology Sa,1.9
 Goldman Sachs Group Inc,3,Bank Of America Corp,Countrywide Plc,1.2
@@ -349,7 +349,7 @@ Goldman Sachs Group Inc,3,Bank Of America Corp,American Airlines Group Inc,1.6
 Jp Morgan Chase And Co,3,Federal Home Loan Mortgage Corp,Philip Morris International Inc,0.5
 Microsoft Corp,3,Comcast Corp A,Amazon Com Inc,1.8
 Coca-Cola Company,3,Bank Of America Corp,Intercontinental Exchange,14.2
-Coca-Cola Company,1,Coca-Cola Company,Hershey Co,1.0
+Coca-Cola Company,1,Coca-Cola Company,Hershey Co,1
 Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Bank Of New York Mellon Corp,3.2
 Microsoft Corp,1,Microsoft Corp,Facebook Inc,9.3
 Microsoft Corp,2,Oracle Corp,Jp Morgan Chase And Co,16.8
@@ -359,12 +359,12 @@ Coca-Cola Company,2,Pepsico Inc,Atandt Inc,0.8
 Coca-Cola Company,2,Nrg Energy,Credit Suisse Group,0.5
 Alphabet Inc,2,Amazon Com Inc,Hp Inc,4.6
 Morgan Stanley International Holdings Inc,2,Federal Home Loan Mortgage Corp,Bank Of America Corp,0.9
-Morgan Stanley International Holdings Inc,2,Federal Home Loan Mortgage Corp,Wells Fargo And Company,1.0
+Morgan Stanley International Holdings Inc,2,Federal Home Loan Mortgage Corp,Wells Fargo And Company,1
 Microsoft Corp,2,International Business Machines Corp,Dowdupont Inc,0.9
 Coca-Cola Company,2,Intercontinental Exchange,Ellie Mae Inc,5.6
 Coca-Cola Company,2,Intercontinental Exchange,Royal Bank Of Canada,3.8
 Coca-Cola Company,2,Intercontinental Exchange,Corecivic Inc,1.1
-Goldman Sachs Group Inc,3,Jp Morgan Chase And Co,Pimco Dynamic Credit Income Fun,3.0
+Goldman Sachs Group Inc,3,Jp Morgan Chase And Co,Pimco Dynamic Credit Income Fun,3
 Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Metlife Inc,16.3
 Pepsico Inc,3,Assured Guaranty Ltd,Goldman Sachs Group Inc,5.6
 Pepsico Inc,3,Deutsche Bank,Vanguard Group,7.1
@@ -382,9 +382,9 @@ Microsoft Corp,3,Bank Of America Corp,Countrywide Plc,2.7
 Microsoft Corp,3,Deutsche Bank,Netflix Inc,2.6
 Pepsico Inc,3,Deutsche Bank,Jp Morgan Chase And Co,34.4
 Pepsico Inc,1,Pepsico Inc,Morgan Stanley International Holdings Inc,1.7
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Citigroup Inc,100.0
+Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Citigroup Inc,100
 Coca-Cola Company,2,Pepsico Inc,Starbucks Corp,1.1
-Microsoft Corp,2,Atandt Inc,Royal Bank Of Canada,10.0
+Microsoft Corp,2,Atandt Inc,Royal Bank Of Canada,10
 Alphabet Inc,2,Oracle Corp,Hsbc Holdings Plc,0.5
 Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Neogenomics Inc,4.2
 Pepsico Inc,2,Jp Morgan Chase And Co,Total System Services Inc,0.8
@@ -396,9 +396,9 @@ Goldman Sachs Group Inc,3,Bank Of America Corp,Uber Technologies Inc,9.6
 Morgan Stanley International Holdings Inc,3,Discover Financial Services,Citigroup Inc,0.8
 Morgan Stanley International Holdings Inc,3,Citigroup Inc,Hersha Hospitality Trust,0.5
 Coca-Cola Company,3,Bank Of America Corp,Paypal Holdings,7.6
-Alphabet Inc,3,Apple Inc,Atandt Inc,9.0
+Alphabet Inc,3,Apple Inc,Atandt Inc,9
 Coca-Cola Company,3,Goldman Sachs Group Inc,Federal Home Loan Mortgage Corp,7.6
-Microsoft Corp,3,Hewlett Packard Enterprise Comp,Hp Inc,1.0
+Microsoft Corp,3,Hewlett Packard Enterprise Comp,Hp Inc,1
 Jp Morgan Chase And Co,3,Intercontinental Exchange,The Walt Disney Co,0.5
 Goldman Sachs Group Inc,3,Bank Of America Corp,International Flavors And Fragrances Inc,2.3
 Goldman Sachs Group Inc,3,Jp Morgan Chase And Co,Aon Plc,4.1
@@ -428,7 +428,7 @@ Pepsico Inc,2,Wells Fargo And Company,Aon Plc,0.6
 Coca-Cola Company,2,Intercontinental Exchange,Brixmor Property Group Inc,6.6
 Morgan Stanley International Holdings Inc,3,Federal Home Loan Mortgage Corp,Allstate Corp,0.6
 Microsoft Corp,3,Sandp Global Inc,Goldman Sachs Group Inc,18.4
-Pepsico Inc,3,Berkshire Hathaway Inc,Twitter Inc,4.0
+Pepsico Inc,3,Berkshire Hathaway Inc,Twitter Inc,4
 Coca-Cola Company,3,Bank Of America Corp,Astrazeneca Plc,12.6
 Coca-Cola Company,3,Bank Of America Corp,Merck And Co Inc,11.6
 Alphabet Inc,3,Apple Inc,Sony Corp,2.5
@@ -436,30 +436,30 @@ Goldman Sachs Group Inc,3,Wells Fargo And Company,Amex Global Holdings Cv,1.3
 Morgan Stanley International Holdings Inc,3,Citigroup Inc,Aleris International Inc,1.5
 Alphabet Inc,3,Jp Morgan Chase And Co,Merck And Co Inc,0.9
 Morgan Stanley International Holdings Inc,3,Citigroup Inc,Ltc Properties Inc,0.5
-Jp Morgan Chase And Co,3,Bank Of America Corp,Intercontinental Exchange,1.0
+Jp Morgan Chase And Co,3,Bank Of America Corp,Intercontinental Exchange,1
 Alphabet Inc,3,Jp Morgan Chase And Co,Thomson Reuters Corp,2.3
-Pepsico Inc,3,Bank Of America Corp,International Flavors And Fragrances Inc,10.0
-Pepsico Inc,3,Bank Of America Corp,First Republic Bank,5.0
+Pepsico Inc,3,Bank Of America Corp,International Flavors And Fragrances Inc,10
+Pepsico Inc,3,Bank Of America Corp,First Republic Bank,5
 Pepsico Inc,3,Bank Of America Corp,Cincinnati Bell Inc,3.8
 Pepsico Inc,3,Bank Of America Corp,Oasis Petroleum Inc,5.6
-Pepsico Inc,3,Bank Of America Corp,Hsbc Holdings Plc,4.0
-Alphabet Inc,3,Facebook Inc,Fitbit Inc,1.0
+Pepsico Inc,3,Bank Of America Corp,Hsbc Holdings Plc,4
+Alphabet Inc,3,Facebook Inc,Fitbit Inc,1
 Microsoft Corp,3,Bank Of America Corp,China Mobile [Hong Kong] Ltd,1.3
-Microsoft Corp,3,Bank Of America Corp,Adt Inc,1.0
+Microsoft Corp,3,Bank Of America Corp,Adt Inc,1
 Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,International Flavors And Fragrances Inc,2.5
-Coca-Cola Company,3,Federal National Mortgage Association,Citigroup Inc,3.0
+Coca-Cola Company,3,Federal National Mortgage Association,Citigroup Inc,3
 Microsoft Corp,3,American Airlines Group Inc,Apple Inc,2.9
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Mbia Inc,1.0
-Pepsico Inc,3,Jp Morgan Chase And Co,Maiden Holdings Ltd,100.0
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Mbia Inc,1
+Pepsico Inc,3,Jp Morgan Chase And Co,Maiden Holdings Ltd,100
 Goldman Sachs Group Inc,3,Bank Of America Corp,Uber Technologies Inc,10.9
 Coca-Cola Company,3,Bank Of America Corp,Walmart Inc,3.5
 Coca-Cola Company,3,Bank Of America Corp,Linkedin Corp,1.6
 Coca-Cola Company,3,Bank Of America Corp,International Flavors And Fragrances Inc,1.6
 Microsoft Corp,3,Deutsche Bank,Bank Of America Corp,7.4
-Goldman Sachs Group Inc,3,Bank Of America Corp,Uber Technologies Inc,4.0
+Goldman Sachs Group Inc,3,Bank Of America Corp,Uber Technologies Inc,4
 Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Intercontinental Exchange,13.1
 Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Federal Home Loan Mortgage Corp,2.3
-Microsoft Corp,1,Microsoft Corp,Atandt Inc,100.0
+Microsoft Corp,1,Microsoft Corp,Atandt Inc,100
 Pepsico Inc,1,Pepsico Inc,Bank Of New York Mellon Corp,1.1
 Pepsico Inc,2,Hsbc Holdings Plc,Mastercard Inc,0.7
 Coca-Cola Company,2,Philip Morris International Inc,Swedish Match Ab Ord,0.7
@@ -473,7 +473,7 @@ Jp Morgan Chase And Co,2,Federal National Mortgage Association,Wells Fargo And C
 Pepsico Inc,2,Wells Fargo And Company,Gse Systems Inc,0.5
 Jp Morgan Chase And Co,2,Federal National Mortgage Association,Alphabet Inc,0.9
 Coca-Cola Company,2,Intercontinental Exchange,Black Knight Inc,18.9
-Coca-Cola Company,2,Intercontinental Exchange,Costco Wholesale Corp /New,1.0
+Coca-Cola Company,2,Intercontinental Exchange,Costco Wholesale Corp /New,1
 Coca-Cola Company,2,Intercontinental Exchange,Hsbc Holdings Plc,3.8
 Microsoft Corp,2,Us Bancorp,Waddell And Reed Financial Inc,0.8
 Alphabet Inc,3,Jp Morgan Chase And Co,Thomson Reuters Corp,1.1
@@ -502,13 +502,13 @@ Morgan Stanley International Holdings Inc,2,Barclays Plc,Jp Morgan Chase And Co,
 Goldman Sachs Group Inc,2,Maiden Holdings Ltd,Intercontinental Exchange,0.5
 Goldman Sachs Group Inc,2,Morgan Stanley International Holdings Inc,Sandp Global Inc,0.7
 Coca-Cola Company,2,Jefferies Financial Group Inc,Thomson Reuters Corp,0.5
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Credit Suisse Group,1.0
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Credit Suisse Group,1
 Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Suntrust Banks Inc,0.6
 Alphabet Inc,2,Apple Inc,Deutsche Bank,1.1
 Alphabet Inc,2,Oracle Corp,Sap Se,0.7
 Alphabet Inc,2,Netflix Inc,Amazon Com Inc,0.9
-Pepsico Inc,2,Wells Fargo And Company,Intercontinental Exchange,100.0
-Coca-Cola Company,2,Intercontinental Exchange,Duke Energy Corp,1.0
+Pepsico Inc,2,Wells Fargo And Company,Intercontinental Exchange,100
+Coca-Cola Company,2,Intercontinental Exchange,Duke Energy Corp,1
 Microsoft Corp,2,Us Bancorp,Dxc Technology Company,0.7
 Goldman Sachs Group Inc,3,Jp Morgan Chase And Co,Dollar General Corp,1.4
 Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Metlife Inc,20.6
@@ -524,7 +524,7 @@ Alphabet Inc,3,Ebay Inc,Wells Fargo And Company,1.4
 Microsoft Corp,3,Bank Of America Corp,Jetblue Airways Corp,1.2
 Microsoft Corp,3,Delta Air Lines Inc,Amazon Com Inc,1.1
 Goldman Sachs Group Inc,3,Wells Fargo And Company,Sempra Energy,3.3
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Eaton Vance Corp,100.0
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Eaton Vance Corp,100
 Morgan Stanley International Holdings Inc,2,Thomson Reuters Corp,Citigroup Inc,0.7
 Coca-Cola Company,2,Kellogg Company,Bank Of America Corp,39.4
 Microsoft Corp,2,Cisco Systems Inc,Sony Corp,1.2
@@ -532,19 +532,19 @@ Goldman Sachs Group Inc,2,Intercontinental Exchange,Allstate Corp,1.9
 Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Allstate Corp,5.2
 Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,The Toronto-Dominion Bank,1.5
 Coca-Cola Company,2,Nrg Energy,Citigroup Inc,88.5
-Coca-Cola Company,2,Nrg Energy,Deutsche Bank,10.0
+Coca-Cola Company,2,Nrg Energy,Deutsche Bank,10
 Microsoft Corp,2,Us Bancorp,Thomson Reuters Corp,2.2
 Coca-Cola Company,3,Bank Of America Corp,Fisher Scientific International Inc,5.9
 Coca-Cola Company,3,Bank Of America Corp,Anheuser-Busch Inbev Sa,1.8
-Jp Morgan Chase And Co,3,Federal Home Loan Mortgage Corp,Citigroup Inc,100.0
+Jp Morgan Chase And Co,3,Federal Home Loan Mortgage Corp,Citigroup Inc,100
 Jp Morgan Chase And Co,3,Federal Home Loan Mortgage Corp,Ubs Group Ag,0.7
 Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Deutsche Bank,1.3
 Jp Morgan Chase And Co,3,Intercontinental Exchange,Paypal Holdings,0.5
 Goldman Sachs Group Inc,3,Bank Of America Corp,Equifax Inc,1.7
 Pepsico Inc,3,Deutsche Bank,Ford Motor Company,2.7
-Alphabet Inc,3,Ebay Inc,Nasdaq Inc,1.0
+Alphabet Inc,3,Ebay Inc,Nasdaq Inc,1
 Alphabet Inc,3,Facebook Inc,Boeing Company,1.5
-Alphabet Inc,3,Atandt Inc,Warner Media Llc,4.0
+Alphabet Inc,3,Atandt Inc,Warner Media Llc,4
 Goldman Sachs Group Inc,3,Bank Of America Corp,First Republic Bank,3.7
 Pepsico Inc,3,Jp Morgan Chase And Co,Broadcom Ltd,32.4
 Pepsico Inc,3,Jp Morgan Chase And Co,First Republic Bank,19.8
@@ -554,12 +554,12 @@ Microsoft Corp,3,Sandp Global Inc,Goldman Sachs Group Inc,39.9
 Microsoft Corp,3,Deutsche Bank,Jp Morgan Chase And Co,10.4
 Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Oasis Petroleum Inc,0.7
 Microsoft Corp,3,Deutsche Bank,Netflix Inc,3.3
-Coca-Cola Company,1,Coca-Cola Company,Equifax Inc,1.0
+Coca-Cola Company,1,Coca-Cola Company,Equifax Inc,1
 Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Federal National Mortgage Association,2.9
 Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Thomson Reuters Corp,1.7
 Coca-Cola Company,1,Coca-Cola Company,Owens Corning Inc,0.5
 Pepsico Inc,2,Visa Inc,Jp Morgan Chase And Co,24.1
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Royal Bank Of Scotland Group Plc,1.0
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Royal Bank Of Scotland Group Plc,1
 Pepsico Inc,2,Hsbc Holdings Plc,Maiden Holdings Ltd,2.2
 Alphabet Inc,2,Oracle Corp,Bank Of America Corp,6.1
 Microsoft Corp,2,International Business Machines Corp,Honeywell International Inc,0.5
@@ -570,16 +570,16 @@ Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Bbandt Corp,
 Alphabet Inc,3,Jp Morgan Chase And Co,T-Mobile Us,0.8
 Morgan Stanley International Holdings Inc,3,Citigroup Inc,Realogy Holdings Corp,8.1
 Alphabet Inc,3,Jp Morgan Chase And Co,Infosys Ltd,1.1
-Coca-Cola Company,3,Bank Of America Corp,Wayfair Inc,2.0
+Coca-Cola Company,3,Bank Of America Corp,Wayfair Inc,2
 Microsoft Corp,3,Bank Of America Corp,Mastercard Inc,2.4
-Microsoft Corp,3,Sandp Global Inc,Ihs Markit Ltd,3.0
+Microsoft Corp,3,Sandp Global Inc,Ihs Markit Ltd,3
 Morgan Stanley International Holdings Inc,3,Intercontinental Exchange,Ubs Group Ag,0.6
 Pepsico Inc,3,Jp Morgan Chase And Co,Total System Services Inc,2.6
 Pepsico Inc,3,Deutsche Bank,Ford Motor Company,3.2
 Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,First Republic Bank,5.2
 Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Bank Of New York Mellon Corp,1.9
 Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Moodys Corp /De/,0.8
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Federal National Mortgage Association,1.0
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Federal National Mortgage Association,1
 Microsoft Corp,2,Oracle Corp,Cerner Corp,2.6
 Morgan Stanley International Holdings Inc,2,Citigroup Inc,Special Opportunities Fund Inc,0.5
 Microsoft Corp,2,Atandt Inc,Wells Fargo And Company,37.3
@@ -594,7 +594,7 @@ Coca-Cola Company,2,Intercontinental Exchange,International Business Machines Co
 Microsoft Corp,2,Us Bancorp,Suntrust Banks Inc,0.8
 Morgan Stanley International Holdings Inc,3,Intercontinental Exchange,Ubs Group Ag,0.5
 Goldman Sachs Group Inc,3,Bank Of America Corp,Equifax Inc,1.2
-Goldman Sachs Group Inc,3,Wells Fargo And Company,Metlife Inc,2.0
+Goldman Sachs Group Inc,3,Wells Fargo And Company,Metlife Inc,2
 Jp Morgan Chase And Co,3,Intercontinental Exchange,Verizon Communications Inc,0.5
 Alphabet Inc,3,Jp Morgan Chase And Co,T-Mobile Us,0.9
 Alphabet Inc,3,Alliance Data Systems Corp,Jp Morgan Chase And Co,0.9
@@ -610,7 +610,7 @@ Goldman Sachs Group Inc,3,Bank Of America Corp,American Airlines Group Inc,3.2
 Morgan Stanley International Holdings Inc,3,Citigroup Inc,Aleris International Inc,1.5
 Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Mastercard Inc,1.6
 Coca-Cola Company,3,Bank Of America Corp,General Motors Limited,13.9
-Coca-Cola Company,3,Bank Of America Corp,Pgande Corp,3.0
+Coca-Cola Company,3,Bank Of America Corp,Pgande Corp,3
 Microsoft Corp,3,Warner Media Llc,Jp Morgan Chase And Co,3.2
 Pepsico Inc,1,Pepsico Inc,Hsbc Holdings Plc,18.4
 Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Mbia Inc,2.6
@@ -624,8 +624,8 @@ Alphabet Inc,2,Ebay Inc,Sandp Global Inc,2.1
 Pepsico Inc,2,Jp Morgan Chase And Co,Public Storage,1.5
 Coca-Cola Company,2,Philip Morris International Inc,Citigroup Inc,8.6
 Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Aon Plc,3.4
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Manulife Financial Corp,1.0
-Alphabet Inc,2,Amazon Com Inc,Morgan Stanley International Holdings Inc,2.0
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Manulife Financial Corp,1
+Alphabet Inc,2,Amazon Com Inc,Morgan Stanley International Holdings Inc,2
 Goldman Sachs Group Inc,2,General Motors Limited,Allstate Corp,0.6
 Coca-Cola Company,2,Intercontinental Exchange,Msci Inc,0.9
 Coca-Cola Company,2,Intercontinental Exchange,Thomson Reuters Corp,15.1
@@ -644,15 +644,15 @@ Alphabet Inc,3,Jp Morgan Chase And Co,Vanguard Group,4.9
 Microsoft Corp,3,Sandp Global Inc,Goldman Sachs Group Inc,4.6
 Coca-Cola Company,3,Bank Of America Corp,First Republic Bank,2.1
 Microsoft Corp,3,Wells Fargo And Company,Federal Home Loan Mortgage Corp,2.1
-Alphabet Inc,1,Alphabet Inc,Bank Of New York Mellon Corp,1.0
+Alphabet Inc,1,Alphabet Inc,Bank Of New York Mellon Corp,1
 Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,London Stock Exchange Group Plc,0.5
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Federal Home Loan Mortgage Corp,100.0
-Coca-Cola Company,1,Coca-Cola Company,Nrg Energy,6.0
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Federal Home Loan Mortgage Corp,100
+Coca-Cola Company,1,Coca-Cola Company,Nrg Energy,6
 Microsoft Corp,2,Verizon Communications Inc,Sandp Global Inc,7.8
 Goldman Sachs Group Inc,2,Maiden Holdings Ltd,Sandp Global Inc,0.5
 Microsoft Corp,2,Cisco Systems Inc,Outfront Media Inc,0.6
 Microsoft Corp,2,Cisco Systems Inc,Alphabet Inc,3.7
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Federal National Mortgage Association,100.0
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Federal National Mortgage Association,100
 Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Hsbc Holdings Plc,4.5
 Pepsico Inc,2,Jp Morgan Chase And Co,Fair Isaac Corp,1.6
 Pepsico Inc,2,Jp Morgan Chase And Co,Schwab Charles Corp,0.9
@@ -665,10 +665,10 @@ Coca-Cola Company,2,Intercontinental Exchange,Ntt Docomo Inc,0.9
 Coca-Cola Company,2,Intercontinental Exchange,London Stock Exchange Group Plc,11.3
 Alphabet Inc,3,Twitter Inc,Apple Inc,0.9
 Goldman Sachs Group Inc,3,Jp Morgan Chase And Co,Nantkwest Inc,1.4
-Coca-Cola Company,3,Citigroup Inc,Twitter Inc,6.0
-Pepsico Inc,3,Bank Of America Corp,Pgande Corp,3.0
+Coca-Cola Company,3,Citigroup Inc,Twitter Inc,6
+Pepsico Inc,3,Bank Of America Corp,Pgande Corp,3
 Pepsico Inc,3,Bank Of America Corp,Duke Energy Corp,6.9
-Jp Morgan Chase And Co,3,Intercontinental Exchange,Federal Home Loan Mortgage Corp,1.0
+Jp Morgan Chase And Co,3,Intercontinental Exchange,Federal Home Loan Mortgage Corp,1
 Goldman Sachs Group Inc,3,Bank Of America Corp,Equifax Inc,2.2
 Goldman Sachs Group Inc,3,Jp Morgan Chase And Co,Dollar General Corp,1.3
 Alphabet Inc,3,Jp Morgan Chase And Co,Alibaba Group Holding Ltd,1.6
@@ -676,7 +676,7 @@ Alphabet Inc,3,Jp Morgan Chase And Co,Bnp Paribas,1.1
 Goldman Sachs Group Inc,3,Bank Of America Corp,Bank Of New York Mellon Corp,4.2
 Goldman Sachs Group Inc,3,Bank Of America Corp,Maiden Holdings Ltd,4.2
 Microsoft Corp,3,Bank Of America Corp,Sanofi Sa,2.8
-Microsoft Corp,3,Bank Of America Corp,Coastal Financial Corp,2.0
+Microsoft Corp,3,Bank Of America Corp,Coastal Financial Corp,2
 Jp Morgan Chase And Co,3,Goldman Sachs Group Inc,Facebook Inc,1.6
 Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Coastal Financial Corp,0.6
 Microsoft Corp,3,Thomson Reuters Corp,Goldman Sachs Group Inc,1.1
@@ -684,10 +684,10 @@ Microsoft Corp,1,Microsoft Corp,Amex Global Holdings Cv,6.1
 Microsoft Corp,1,Microsoft Corp,International Business Machines Corp,41.6
 Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Federal National Mortgage Association,45.7
 Coca-Cola Company,1,Coca-Cola Company,Molson Coors Brewing Co,0.5
-Morgan Stanley International Holdings Inc,2,Citigroup Inc,Countrywide Plc,1.0
+Morgan Stanley International Holdings Inc,2,Citigroup Inc,Countrywide Plc,1
 Morgan Stanley International Holdings Inc,2,Citigroup Inc,Visa Inc,0.6
 Microsoft Corp,2,Cisco Systems Inc,Nokia Corp,0.9
-Microsoft Corp,2,Cisco Systems Inc,Bank Of America Corp,100.0
+Microsoft Corp,2,Cisco Systems Inc,Bank Of America Corp,100
 Microsoft Corp,2,Cisco Systems Inc,Sasol Ltd,1.2
 Microsoft Corp,2,Cisco Systems Inc,Emc Corp,0.5
 Morgan Stanley International Holdings Inc,2,Mastercard Inc,Citigroup Inc,4.4
@@ -696,14 +696,14 @@ Alphabet Inc,2,Oracle Corp,Ubs Group Ag,0.6
 Alphabet Inc,2,Oracle Corp,Cerner Corp,3.3
 Pepsico Inc,2,Wells Fargo And Company,Boeing Company,1.4
 Coca-Cola Company,2,Intercontinental Exchange,Barclays Plc,2.3
-Morgan Stanley International Holdings Inc,3,Goldman Sachs Group Inc,Visa Inc,1.0
+Morgan Stanley International Holdings Inc,3,Goldman Sachs Group Inc,Visa Inc,1
 Goldman Sachs Group Inc,3,Bank Of America Corp,International Flavors And Fragrances Inc,1.7
 Coca-Cola Company,3,Citigroup Inc,Linkedin Corp,1.9
 Coca-Cola Company,3,Bank Of America Corp,Sirius Xm Holdings Inc,5.4
 Coca-Cola Company,3,Bank Of America Corp,Berkshire Hathaway Inc,3.7
 Coca-Cola Company,3,Bank Of America Corp,American Electric Power Company,7.3
 Coca-Cola Company,3,Federal National Mortgage Association,Citigroup Inc,2.8
-Jp Morgan Chase And Co,3,Intercontinental Exchange,Goldman Sachs Group Inc,1.0
+Jp Morgan Chase And Co,3,Intercontinental Exchange,Goldman Sachs Group Inc,1
 Pepsico Inc,3,Deutsche Bank,Vanguard Group,7.7
 Goldman Sachs Group Inc,3,Jp Morgan Chase And Co,Coastal Financial Corp,2.7
 Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Mbia Inc,1.6
@@ -713,8 +713,8 @@ Alphabet Inc,3,Apple Inc,Sap Se,1.2
 Goldman Sachs Group Inc,3,Huntsman Corp,Citigroup Inc,1.9
 Morgan Stanley International Holdings Inc,3,Bank Of America Corp,International Flavors And Fragrances Inc,1.4
 Jp Morgan Chase And Co,3,Intercontinental Exchange,Federal Home Loan Mortgage Corp,0.6
-Pepsico Inc,3,Jp Morgan Chase And Co,Australia And New Zealand Bank,5.0
-Pepsico Inc,3,Jp Morgan Chase And Co,Mastercard Inc,36.0
+Pepsico Inc,3,Jp Morgan Chase And Co,Australia And New Zealand Bank,5
+Pepsico Inc,3,Jp Morgan Chase And Co,Mastercard Inc,36
 Pepsico Inc,3,Jp Morgan Chase And Co,Fair Isaac Corp,4.3
 Pepsico Inc,3,Jp Morgan Chase And Co,Jp Morgan Investment Management Inc,4.5
 Microsoft Corp,3,Bank Of America Corp,Mastercard Inc,4.4
@@ -724,7 +724,7 @@ Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Wells Fargo A
 Microsoft Corp,3,Sandp Global Inc,Exxon Mobil Corp,1.6
 Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Caterpillar Inc,0.6
 Coca-Cola Company,2,Kellogg Company,Thomson Reuters Corp,0.5
-Microsoft Corp,2,Atandt Inc,Target Corp,1.0
+Microsoft Corp,2,Atandt Inc,Target Corp,1
 Microsoft Corp,2,Atandt Inc,Frontier Communications Corp,0.6
 Pepsico Inc,2,Jp Morgan Chase And Co,City Office Reit Inc,1.2
 Pepsico Inc,2,Jp Morgan Chase And Co,London Stock Exchange Group Plc,0.5
@@ -759,17 +759,17 @@ Pepsico Inc,2,Wells Fargo And Company,Apple Inc,0.7
 Microsoft Corp,2,International Business Machines Corp,American Airlines Group Inc,1.1
 Microsoft Corp,2,International Business Machines Corp,Hewlett Packard Enterprise Comp,17.9
 Microsoft Corp,2,International Business Machines Corp,Synnex Corp,0.7
-Microsoft Corp,3,Hsbc Holdings Plc,Facebook Inc,6.0
+Microsoft Corp,3,Hsbc Holdings Plc,Facebook Inc,6
 Alphabet Inc,3,Goldman Sachs Group Inc,Pepsico Inc,2.3
 Alphabet Inc,3,Amazon Com Inc,Capital One Financial Corp,0.7
 Morgan Stanley International Holdings Inc,3,Citigroup Inc,Deere And Company,1.1
 Alphabet Inc,3,Apple Inc,Sony Corp,1.9
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Cincinnati Bell Inc,2.0
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Cincinnati Bell Inc,2
 Jp Morgan Chase And Co,3,Federal Home Loan Mortgage Corp,Hsbc Holdings Plc,2.5
 Microsoft Corp,3,Bank Of America Corp,International Flavors And Fragrances Inc,4.9
 Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Bbandt Corp,1.9
 Goldman Sachs Group Inc,3,Bank Of America Corp,Medtronic Public Limited Company,1.5
-Microsoft Corp,3,Hsbc Holdings Plc,Facebook Inc,2.0
+Microsoft Corp,3,Hsbc Holdings Plc,Facebook Inc,2
 Pepsico Inc,3,Jp Morgan Chase And Co,Transocean Ltd,3.7
 Microsoft Corp,3,Bank Of America Corp,Assured Guaranty Ltd,4.8
 Morgan Stanley International Holdings Inc,3,Citigroup Inc,Aib Group Plc,0.5
@@ -785,7 +785,7 @@ Coca-Cola Company,2,Twitter Inc,Facebook Inc,5.1
 Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Ocwen Financial Corp,2.7
 Morgan Stanley International Holdings Inc,2,Jp Morgan Chase And Co,Citigroup Inc,21.9
 Coca-Cola Company,2,Nrg Energy,Oci Partners Lp,1.4
-Pepsico Inc,2,Wells Fargo And Company,London Stock Exchange Group Plc,1.0
+Pepsico Inc,2,Wells Fargo And Company,London Stock Exchange Group Plc,1
 Microsoft Corp,3,Hsbc Holdings Plc,Jp Morgan Chase And Co,1.2
 Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Deutsche Bank,1.4
 Microsoft Corp,3,Hewlett Packard Enterprise Comp,Bank Of America Corp,2.8
@@ -800,12 +800,12 @@ Alphabet Inc,3,Jp Morgan Chase And Co,Citigroup Inc,0.9
 Alphabet Inc,3,Jp Morgan Chase And Co,Abbvie Inc,1.6
 Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Prudential Financial Inc,1.5
 Goldman Sachs Group Inc,3,Bank Of America Corp,Uber Technologies Inc,21.8
-Microsoft Corp,3,Bank Of America Corp,Deutsche Bank,14.0
+Microsoft Corp,3,Bank Of America Corp,Deutsche Bank,14
 Jp Morgan Chase And Co,3,Deutsche Bank,Facebook Inc,0.5
 Microsoft Corp,3,Bank Of America Corp,Regions Financial Corp,2.6
 Microsoft Corp,3,Bank Of America Corp,Advance Auto Parts Inc,1.1
 Morgan Stanley International Holdings Inc,3,Bank Of America Corp,First Republic Bank,0.6
-Coca-Cola Company,3,Bank Of America Corp,Bank Of New York Mellon Corp,2.0
+Coca-Cola Company,3,Bank Of America Corp,Bank Of New York Mellon Corp,2
 Microsoft Corp,3,Goldman Sachs Group Inc,Intercontinental Exchange,1.8
 Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Jp Morgan Chase And Co,8.7
 Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Maiden Holdings Ltd,33.1
@@ -814,10 +814,10 @@ Microsoft Corp,2,Atandt Inc,Oci Nv,3.6
 Goldman Sachs Group Inc,2,Intercontinental Exchange,Deutsche Bank,0.5
 Goldman Sachs Group Inc,2,Ihs Markit Ltd,Bank Of America Corp,2.9
 Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Capital One Financial Corp,1.2
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Radian Group Inc,1.0
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Radian Group Inc,1
 Morgan Stanley International Holdings Inc,2,Jp Morgan Chase And Co,Wells Fargo And Company,1.4
-Coca-Cola Company,2,Philip Morris International Inc,Deutsche Bank,12.0
-Coca-Cola Company,2,Philip Morris International Inc,Unilever Nv Ord,1.0
+Coca-Cola Company,2,Philip Morris International Inc,Deutsche Bank,12
+Coca-Cola Company,2,Philip Morris International Inc,Unilever Nv Ord,1
 Coca-Cola Company,2,Pepsico Inc,Unilever Nv Ord,0.8
 Pepsico Inc,2,Hsbc Holdings Plc,Ubs Group Ag,1.1
 Alphabet Inc,2,Oracle Corp,International Business Machines Corp,1.6
@@ -833,7 +833,7 @@ Goldman Sachs Group Inc,3,Bank Of America Corp,Maiden Holdings Ltd,1.9
 Goldman Sachs Group Inc,3,Bank Of America Corp,First Republic Bank,1.6
 Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Prudential Financial Inc,1.5
 Pepsico Inc,3,Bank Of America Corp,Countrywide Plc,3.2
-Alphabet Inc,3,Facebook Inc,Uber Technologies Inc,3.0
+Alphabet Inc,3,Facebook Inc,Uber Technologies Inc,3
 Jp Morgan Chase And Co,3,Intercontinental Exchange,Federal Home Loan Mortgage Corp,0.5
 Pepsico Inc,3,Deutsche Bank,Jp Morgan Chase And Co,29.1
 Alphabet Inc,3,Jp Morgan Chase And Co,Linkedin Corp,0.7
@@ -851,9 +851,9 @@ Pepsico Inc,3,Jp Morgan Chase And Co,Linkedin Corp,55.4
 Microsoft Corp,3,Bank Of America Corp,International Flavors And Fragrances Inc,8.8
 Microsoft Corp,3,Bank Of America Corp,First Republic Bank,6.4
 Pepsico Inc,3,Deutsche Bank,Vanguard Group,9.1
-Goldman Sachs Group Inc,3,Wells Fargo And Company,Federal Home Loan Mortgage Corp,3.0
+Goldman Sachs Group Inc,3,Wells Fargo And Company,Federal Home Loan Mortgage Corp,3
 Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Sandp Global Inc,6.7
-Alphabet Inc,1,Alphabet Inc,Oracle Corp,100.0
+Alphabet Inc,1,Alphabet Inc,Oracle Corp,100
 Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Maiden Holdings Ltd,5.5
 Alphabet Inc,1,Alphabet Inc,Apple Inc,51.3
 Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Deutsche Bank,12.1
@@ -862,16 +862,16 @@ Morgan Stanley International Holdings Inc,2,Citigroup Inc,Realogy Holdings Corp,
 Microsoft Corp,2,Atandt Inc,Netflix Inc,42.1
 Microsoft Corp,2,Atandt Inc,Mitsubishi Ufj Financial Group Inc,0.7
 Coca-Cola Company,2,Twitter Inc,Alphabet Inc,1.6
-Alphabet Inc,2,Oracle Corp,Wells Fargo And Company,10.0
+Alphabet Inc,2,Oracle Corp,Wells Fargo And Company,10
 Coca-Cola Company,2,Intercontinental Exchange,Bmo Financial Group,1.9
-Coca-Cola Company,2,Intercontinental Exchange,Nextera Energy,100.0
+Coca-Cola Company,2,Intercontinental Exchange,Nextera Energy,100
 Coca-Cola Company,2,Intercontinental Exchange,Lamb Weston Holdings Inc,10.3
 Coca-Cola Company,2,Intercontinental Exchange,Town Sports International Holdings Inc,0.7
 Goldman Sachs Group Inc,3,Bank Of America Corp,American Airlines Group Inc,1.9
 Goldman Sachs Group Inc,3,Mastercard Inc,Amazon Com Inc,2.3
 Morgan Stanley International Holdings Inc,3,Citigroup Inc,Vanguard Group,21.3
 Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Bbandt Corp,0.7
-Microsoft Corp,3,American Airlines Group Inc,Apple Inc,7.0
+Microsoft Corp,3,American Airlines Group Inc,Apple Inc,7
 Alphabet Inc,3,Jp Morgan Chase And Co,Netflix Inc,1.8
 Alphabet Inc,3,Jp Morgan Chase And Co,Starbucks Corp,0.7
 Coca-Cola Company,3,Citigroup Inc,Starbucks Corp,4.3
@@ -891,11 +891,11 @@ Goldman Sachs Group Inc,2,Intercontinental Exchange,Us Bancorp,0.8
 Alphabet Inc,2,Netflix Inc,Jp Morgan Chase And Co,1.1
 Microsoft Corp,2,Bank Of New York Mellon Corp,Jp Morgan Chase And Co,3.6
 Alphabet Inc,2,Oracle Corp,Sun Biopharma Inc,0.7
-Coca-Cola Company,2,Jefferies Financial Group Inc,Total Marketing Services Sa,1.0
+Coca-Cola Company,2,Jefferies Financial Group Inc,Total Marketing Services Sa,1
 Coca-Cola Company,2,Apple Inc,Thomson Reuters Corp,0.8
 Coca-Cola Company,2,Dr Pepper Snapple Group Inc,Intercontinental Exchange,2.3
 Coca-Cola Company,2,Dr Pepper Snapple Group Inc,Pepsico Inc,1.4
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Hera Ltd,1.0
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Hera Ltd,1
 Coca-Cola Company,2,Philip Morris International Inc,Banco Santander Sa,2.4
 Alphabet Inc,2,Amazon Com Inc,Goldman Sachs Group Inc,12.9
 Pepsico Inc,2,Wells Fargo And Company,Schwab Charles Corp,0.9
@@ -906,7 +906,7 @@ Morgan Stanley International Holdings Inc,3,Citigroup Inc,Dowdupont Inc,3.1
 Morgan Stanley International Holdings Inc,3,Citigroup Inc,Xerox Corp,0.9
 Alphabet Inc,3,Jp Morgan Chase And Co,Ericsson Inc,0.8
 Alphabet Inc,3,Atandt Inc,Deutsche Telekom Ag,1.6
-Jp Morgan Chase And Co,3,Federal National Mortgage Association,Bank Of America Corp,36.0
+Jp Morgan Chase And Co,3,Federal National Mortgage Association,Bank Of America Corp,36
 Alphabet Inc,3,Jp Morgan Chase And Co,Starbucks Corp,3.2
 Jp Morgan Chase And Co,3,Goldman Sachs Group Inc,Facebook Inc,0.5
 Pepsico Inc,3,Jp Morgan Chase And Co,Hp Inc,6.9
@@ -916,23 +916,23 @@ Microsoft Corp,3,Deutsche Bank,Jp Morgan Chase And Co,13.2
 Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Wells Fargo And Company,2.3
 Coca-Cola Company,1,Coca-Cola Company,Kraft Heinz Co,1.2
 Pepsico Inc,1,Pepsico Inc,Nestle Sa Cham Et Ve,0.7
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Allstate Corp,1.0
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Allstate Corp,1
 Morgan Stanley International Holdings Inc,2,Citigroup Inc,Cincinnati Bell Inc,0.7
 Microsoft Corp,2,Verizon Communications Inc,Altaba Inc,0.6
 Microsoft Corp,2,Cisco Systems Inc,Altice,3.2
 Microsoft Corp,2,Atandt Inc,Warner Media Llc,10.8
 Microsoft Corp,2,Adobe Inc,Starbucks Corp,2.9
 Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Barclays Plc,1.3
-Morgan Stanley International Holdings Inc,2,Intercontinental Exchange,Bank Of America Corp,8.0
-Alphabet Inc,2,Ebay Inc,Wells Fargo And Company,1.0
+Morgan Stanley International Holdings Inc,2,Intercontinental Exchange,Bank Of America Corp,8
+Alphabet Inc,2,Ebay Inc,Wells Fargo And Company,1
 Coca-Cola Company,2,Pepsico Inc,Intercontinental Exchange,81.9
 Pepsico Inc,2,Wells Fargo And Company,Canadian Imperial Bank Of Commerce,1.5
 Pepsico Inc,2,Wells Fargo And Company,Applied Materials Inc /De,2.1
 Jp Morgan Chase And Co,2,Federal National Mortgage Association,Citigroup Inc,4.5
-Pepsico Inc,2,Wells Fargo And Company,Oci Partners Lp,2.0
+Pepsico Inc,2,Wells Fargo And Company,Oci Partners Lp,2
 Microsoft Corp,2,International Business Machines Corp,Progressive Corp/Oh/,0.6
 Morgan Stanley International Holdings Inc,2,Bank Of America Corp,Intercontinental Exchange,1.7
-Microsoft Corp,2,Us Bancorp,Ubs Group Ag,4.0
+Microsoft Corp,2,Us Bancorp,Ubs Group Ag,4
 Coca-Cola Company,2,Intercontinental Exchange,Factset Research Systems Inc,0.9
 Microsoft Corp,3,Mizuho Financial Group Inc,Twitter Inc,2.2
 Microsoft Corp,3,Hsbc Holdings Plc,Facebook Inc,3.7
@@ -969,7 +969,7 @@ Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Mgic Investment Corp,1.
 Microsoft Corp,2,Bank Of New York Mellon Corp,Citigroup Inc,0.6
 Pepsico Inc,2,Wells Fargo And Company,Ebay Inc,0.9
 Pepsico Inc,2,Wells Fargo And Company,The Toronto-Dominion Bank,0.5
-Jp Morgan Chase And Co,3,Intercontinental Exchange,Goldman Sachs Group Inc,2.0
+Jp Morgan Chase And Co,3,Intercontinental Exchange,Goldman Sachs Group Inc,2
 Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Eastman Kodak Co,0.5
 Alphabet Inc,3,Facebook Inc,Microsoft Corp,6.1
 Alphabet Inc,3,Hp Inc,Goldman Sachs Group Inc,1.2
@@ -978,10 +978,10 @@ Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Internationa
 Morgan Stanley International Holdings Inc,3,Citigroup Inc,Vanguard Group,99.2
 Morgan Stanley International Holdings Inc,3,Citigroup Inc,Xerox Corp,0.9
 Alphabet Inc,3,Jp Morgan Chase And Co,Amazon Com Inc,34.8
-Goldman Sachs Group Inc,3,Bank Of America Corp,Tesla Inc,100.0
+Goldman Sachs Group Inc,3,Bank Of America Corp,Tesla Inc,100
 Microsoft Corp,3,Bank Of America Corp,Ubs Group Ag,3.1
 Morgan Stanley International Holdings Inc,3,Bank Of America Corp,International Flavors And Fragrances Inc,0.9
-Microsoft Corp,3,Bank Of America Corp,Sanofi Sa,5.0
+Microsoft Corp,3,Bank Of America Corp,Sanofi Sa,5
 Goldman Sachs Group Inc,3,Bank Of America Corp,Maiden Holdings Ltd,2.1
 Microsoft Corp,3,Atandt Inc,Cbs Corp,13.5
 Goldman Sachs Group Inc,3,Wells Fargo And Company,Hollyfrontier Corp,1.2
@@ -989,16 +989,16 @@ Alphabet Inc,1,Alphabet Inc,Linkedin Corp,6.3
 Coca-Cola Company,2,Philip Morris International Inc,Procter And Gamble Co,0.7
 Microsoft Corp,2,Adobe Inc,Apple Inc,1.8
 Morgan Stanley International Holdings Inc,2,Citigroup Inc,Intercontinental Exchange,5.3
-Morgan Stanley International Holdings Inc,2,Citigroup Inc,Jp Morgan Chase And Co,100.0
+Morgan Stanley International Holdings Inc,2,Citigroup Inc,Jp Morgan Chase And Co,100
 Microsoft Corp,2,Atandt Inc,Altice,0.7
 Microsoft Corp,2,Atandt Inc,Lloyds Banking Group Plc,0.5
 Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Bmo Financial Group,0.8
 Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Gartner Inc,1.6
 Jp Morgan Chase And Co,2,Federal National Mortgage Association,Banco Bilbao Viscaya Argentaria Sa,1.4
-Jp Morgan Chase And Co,2,Federal National Mortgage Association,Intercontinental Exchange,19.0
+Jp Morgan Chase And Co,2,Federal National Mortgage Association,Intercontinental Exchange,19
 Alphabet Inc,3,Amazon Com Inc,Federal Home Loan Mortgage Corp,1.6
 Alphabet Inc,3,Jp Morgan Chase And Co,Adidas Ag,0.8
-Alphabet Inc,3,Jp Morgan Chase And Co,Unilever Plc,3.0
+Alphabet Inc,3,Jp Morgan Chase And Co,Unilever Plc,3
 Coca-Cola Company,3,Bank Of America Corp,Capital One Financial Corp,8.6
 Goldman Sachs Group Inc,3,Bank Of America Corp,American Airlines Group Inc,1.4
 Goldman Sachs Group Inc,3,Bank Of America Corp,Fitbit Inc,1.6
@@ -1013,7 +1013,7 @@ Coca-Cola Company,1,Coca-Cola Company,Pepsico Inc,21.1
 Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Berkshire Hathaway Inc,5.3
 Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Schwab Charles Corp,0.8
 Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Alta Mesa Resources Inc,1.2
-Coca-Cola Company,2,Equifax Inc,Sandp Global Inc,1.0
+Coca-Cola Company,2,Equifax Inc,Sandp Global Inc,1
 Coca-Cola Company,2,Kellogg Company,Sap Se,0.8
 Microsoft Corp,2,Cisco Systems Inc,Oci Partners Lp,0.7
 Microsoft Corp,2,Facebook Inc,Apple Inc,3.2
@@ -1024,8 +1024,8 @@ Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Cognizant Technology So
 Pepsico Inc,2,Jp Morgan Chase And Co,Walmart Inc,7.5
 Coca-Cola Company,2,Philip Morris International Inc,Bnp Paribas,0.7
 Coca-Cola Company,2,Pepsico Inc,Sap Se,1.7
-Alphabet Inc,2,Apple Inc,Atandt Inc,100.0
-Goldman Sachs Group Inc,2,Citigroup Inc,Jp Morgan Chase And Co,100.0
+Alphabet Inc,2,Apple Inc,Atandt Inc,100
+Goldman Sachs Group Inc,2,Citigroup Inc,Jp Morgan Chase And Co,100
 Jp Morgan Chase And Co,2,Federal National Mortgage Association,Realogy Holdings Corp,0.9
 Morgan Stanley International Holdings Inc,2,Bank Of America Corp,Wells Fargo And Company,12.4
 Microsoft Corp,2,Us Bancorp,Visa Inc,2.5
@@ -1048,8 +1048,8 @@ Morgan Stanley International Holdings Inc,2,Citigroup Inc,Nomura Holdings Inc,0.
 Pepsico Inc,2,Morgan Stanley International Holdings Inc,Sandp Global Inc,0.5
 Morgan Stanley International Holdings Inc,2,Citigroup Inc,Public Storage,0.7
 Coca-Cola Company,2,Apple Inc,Goldman Sachs Group Inc,24.8
-Goldman Sachs Group Inc,2,Citigroup Inc,Eaton Vance Corp,1.0
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Oasis Petroleum Inc,5.0
+Goldman Sachs Group Inc,2,Citigroup Inc,Eaton Vance Corp,1
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Oasis Petroleum Inc,5
 Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Genworth Financial Inc,0.6
 Coca-Cola Company,2,Philip Morris International Inc,Altria Group,28.5
 Alphabet Inc,2,Oracle Corp,Credit Suisse Group,0.6
@@ -1059,14 +1059,14 @@ Coca-Cola Company,2,Intercontinental Exchange,Altagas Ltd,0.6
 Coca-Cola Company,2,Intercontinental Exchange,National Bank Of Canada,0.5
 Coca-Cola Company,2,Intercontinental Exchange,Euronext Nv,0.6
 Coca-Cola Company,3,Bank Of America Corp,Walmart Inc,24.4
-Coca-Cola Company,3,Bank Of America Corp,Ferrari Nv,2.0
+Coca-Cola Company,3,Bank Of America Corp,Ferrari Nv,2
 Coca-Cola Company,3,Bank Of America Corp,Msa Safety Inc,2.2
 Morgan Stanley International Holdings Inc,3,Goldman Sachs Group Inc,Visa Inc,0.9
 Alphabet Inc,3,Jp Morgan Chase And Co,Unilever Plc,1.1
-Microsoft Corp,3,Hsbc Holdings Plc,Jp Morgan Chase And Co,2.0
+Microsoft Corp,3,Hsbc Holdings Plc,Jp Morgan Chase And Co,2
 Goldman Sachs Group Inc,3,Bank Of America Corp,Maiden Holdings Ltd,2.5
 Goldman Sachs Group Inc,3,Bank Of America Corp,Bank Of New York Mellon Corp,1.8
-Goldman Sachs Group Inc,3,Bank Of America Corp,Visa Inc,2.0
+Goldman Sachs Group Inc,3,Bank Of America Corp,Visa Inc,2
 Microsoft Corp,3,Red Hat Inc,Broadcom Ltd,6.5
 Pepsico Inc,3,Jp Morgan Chase And Co,Deutsche Bank,78.7
 Pepsico Inc,3,Jp Morgan Chase And Co,Ebay Inc,17.5
@@ -1074,7 +1074,7 @@ Pepsico Inc,3,Mastercard Inc,Apple Inc,23.1
 Coca-Cola Company,3,Citigroup Inc,Philip Morris International Inc,1.7
 Morgan Stanley International Holdings Inc,3,Citigroup Inc,Realogy Holdings Corp,1.8
 Microsoft Corp,3,Bank Of America Corp,Assured Guaranty Ltd,2.6
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Deutsche Bank,2.0
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Deutsche Bank,2
 Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Bbandt Corp,1.8
 Alphabet Inc,3,Jp Morgan Chase And Co,Toyota Motor Corp,1.1
 Alphabet Inc,3,Facebook Inc,Shopify Inc,0.9
@@ -1092,16 +1092,16 @@ Jp Morgan Chase And Co,2,Moodys Corp /De/,Vanguard Group,0.5
 Pepsico Inc,2,Wells Fargo And Company,Nike Inc,0.7
 Jp Morgan Chase And Co,2,Federal National Mortgage Association,Barclays Plc,1.3
 Jp Morgan Chase And Co,2,Federal National Mortgage Association,Royal Bank Of Scotland Group Plc,0.5
-Jp Morgan Chase And Co,2,Federal National Mortgage Association,Federal Home Loan Mortgage Corp,79.0
+Jp Morgan Chase And Co,2,Federal National Mortgage Association,Federal Home Loan Mortgage Corp,79
 Microsoft Corp,2,International Business Machines Corp,Sandp Global Inc,24.6
 Microsoft Corp,2,Us Bancorp,Mitsubishi Ufj Financial Group Inc,2.3
-Alphabet Inc,3,Citigroup Inc,Wells Fargo And Company,2.0
+Alphabet Inc,3,Citigroup Inc,Wells Fargo And Company,2
 Jp Morgan Chase And Co,3,Federal Home Loan Mortgage Corp,Citigroup Inc,68.9
 Morgan Stanley International Holdings Inc,3,Bank Of America Corp,First Republic Bank,0.7
 Alphabet Inc,3,Jp Morgan Chase And Co,Vanguard Group,13.1
 Alphabet Inc,3,Apple Inc,Nestle Sa Cham Et Ve,0.9
 Coca-Cola Company,3,Bank Of America Corp,First Republic Bank,14.4
-Coca-Cola Company,3,Bank Of America Corp,Clorox Company,2.0
+Coca-Cola Company,3,Bank Of America Corp,Clorox Company,2
 Pepsico Inc,3,Intercontinental Exchange,Goldman Sachs Group Inc,81.2
 Microsoft Corp,3,Bank Of America Corp,Bank Of New York Mellon Corp,5.1
 Goldman Sachs Group Inc,3,Bank Of America Corp,Equifax Inc,2.8
@@ -1111,3 +1111,666 @@ Coca-Cola Company,3,Bank Of America Corp,Carnival Corp,3.8
 Microsoft Corp,3,Sandp Global Inc,Moodys Corp /De/,13.1
 Jp Morgan Chase And Co,3,Berkshire Hathaway Inc,Amazon Com Inc,1.4
 Goldman Sachs Group Inc,3,Wells Fargo And Company,Marriott International Inc /Md/,2.4
+Verizon Communications Inc,1,Verizon Communications Inc,Alphabet Inc,240.5
+Verizon Communications Inc,1,Verizon Communications Inc,Apple Inc,169
+Verizon Communications Inc,1,Verizon Communications Inc,T-Mobile Us,165
+Verizon Communications Inc,1,Verizon Communications Inc,Facebook Inc,151.333333
+Verizon Communications Inc,1,Verizon Communications Inc,Deutsche Telekom Ag,148.666667
+Verizon Communications Inc,1,Verizon Communications Inc,Atandt Inc,131.666667
+Verizon Communications Inc,3,Zacks Investment Research,Securities And Exchange Commission,100
+Verizon Communications Inc,2,House Srl,United States Senate,100
+Verizon Communications Inc,1,Verizon Communications Inc,Amazon Com Inc,90.666667
+Verizon Communications Inc,1,Verizon Communications Inc,The Walt Disney Co,76
+Verizon Communications Inc,2,Huawei Technologies Company Ltd,Apple Inc,73.252609
+Verizon Communications Inc,2,Intel Corp,Apple Inc,72.68163
+Verizon Communications Inc,1,Verizon Communications Inc,United States Air Force,72.666667
+Verizon Communications Inc,1,Verizon Communications Inc,Federal Aviation Administration,70.5
+Verizon Communications Inc,2,Advanced Micro Devices Inc,Apple Inc,66.706045
+Verizon Communications Inc,1,Verizon Communications Inc,Microsoft Corp,65
+Verizon Communications Inc,2,Qualcomm Inc/De,Apple Inc,63.683796
+Verizon Communications Inc,2,Apple Inc,Alphabet Inc,62.51329
+Verizon Communications Inc,1,Verizon Communications Inc,Sprint Corp,60.333333
+Verizon Communications Inc,3,House Srl,United States Senate,59.489612
+Verizon Communications Inc,1,Verizon Communications Inc,Securities And Exchange Commission,58.8
+Verizon Communications Inc,2,Nvidia Corp,Apple Inc,53.26836
+Verizon Communications Inc,1,Verizon Communications Inc,Altaba Inc,53
+Verizon Communications Inc,2,Amazon Com Inc,Alphabet Inc,52.490648
+Verizon Communications Inc,2,Facebook Inc,Alphabet Inc,51.665682
+Verizon Communications Inc,1,Verizon Communications Inc,Netflix Inc,48.666667
+Verizon Communications Inc,3,Thomson Reuters Plc /Adr/,Securities And Exchange Commission,47.849958
+Verizon Communications Inc,2,Amazon Com Inc,Apple Inc,46.588895
+Verizon Communications Inc,2,Huawei Technologies Company Ltd,Huawei Investment And Holding Co Ltd,45.711754
+Verizon Communications Inc,2,Design Works,Facebook Inc,44.172081
+Verizon Communications Inc,3,Huawei Technologies Company Ltd,Apple Inc,43.577693
+Verizon Communications Inc,3,Intel Corp,Apple Inc,43.23802
+Verizon Communications Inc,2,Apple Inc,Amazon Com Inc,43.030124
+Verizon Communications Inc,1,Verizon Communications Inc,Design Works,42.5
+Verizon Communications Inc,2,Facebook Inc,Apple Inc,41.632211
+Verizon Communications Inc,2,House Srl,United States Congress,41.18921
+Verizon Communications Inc,3,Advanced Micro Devices Inc,Apple Inc,39.683167
+Verizon Communications Inc,2,Design Works,Linkedin Corp,39.328608
+Verizon Communications Inc,2,Design Works,Alphabet Inc,39.210475
+Verizon Communications Inc,2,Dna Limited,Alphabet Inc,39.136641
+Verizon Communications Inc,2,Apple Inc,Facebook Inc,38.875763
+Verizon Communications Inc,3,Qualcomm Inc/De,Apple Inc,37.885243
+Verizon Communications Inc,3,Apple Inc,Alphabet Inc,37.188914
+Verizon Communications Inc,1,Verizon Communications Inc,Huawei Investment And Holding Co Ltd,35.333333
+Verizon Communications Inc,1,Verizon Communications Inc,Huawei Technologies Company Ltd,34.666667
+Verizon Communications Inc,2,Amazon Com Inc,Facebook Inc,34.554046
+Verizon Communications Inc,2,Facebook Inc,Amazon Com Inc,34.199646
+Verizon Communications Inc,2,New York Stock Exchange Llc,Securities And Exchange Commission,33.337271
+Verizon Communications Inc,1,Verizon Communications Inc,Wells Fargo And Company,32.666667
+Verizon Communications Inc,1,Verizon Communications Inc,General Electric Company,32
+Verizon Communications Inc,3,Nvidia Corp,Apple Inc,31.689141
+Verizon Communications Inc,1,Verizon Communications Inc,Berkshire Hathaway Inc,31.666667
+Verizon Communications Inc,2,Design Works,Hubspot Inc,31.600709
+Verizon Communications Inc,3,Amazon Com Inc,Alphabet Inc,31.226483
+Verizon Communications Inc,1,Verizon Communications Inc,Federal Communications Commission,31.2
+Verizon Communications Inc,3,Facebook Inc,Alphabet Inc,30.735714
+Verizon Communications Inc,2,Pfizer Luxco Holdings Sarl,Food And Drug Administration,28.440638
+Verizon Communications Inc,2,Budget Propane Corporation,Holly Energy Partners Lp,28.322504
+Verizon Communications Inc,2,Sunoco Lp,Holly Energy Partners Lp,28.322504
+Verizon Communications Inc,1,Verizon Communications Inc,Ge Aviation Systems Limited,28
+Verizon Communications Inc,3,Amazon Com Inc,Apple Inc,27.715553
+Verizon Communications Inc,1,Verizon Communications Inc,Walmart Inc,27.666667
+Verizon Communications Inc,3,Huawei Technologies Company Ltd,Huawei Investment And Holding Co Ltd,27.193745
+Verizon Communications Inc,1,Verizon Communications Inc,United States Navy,27
+Verizon Communications Inc,3,Taiwan Semiconductor Manufacturing,Apple Inc,26.512057
+Verizon Communications Inc,1,Verizon Communications Inc,Verizon Media,26.333333
+Verizon Communications Inc,3,Design Works,Facebook Inc,26.2778
+Verizon Communications Inc,2,New York Stock Exchange Llc,Intercontinental Exchange,25.948021
+Verizon Communications Inc,3,Apple Inc,Amazon Com Inc,25.598454
+Verizon Communications Inc,3,Facebook Inc,Apple Inc,24.766841
+Verizon Communications Inc,3,House Srl,United States Congress,24.503302
+Verizon Communications Inc,1,Verizon Communications Inc,Nike Inc,24.5
+Verizon Communications Inc,2,Microsoft Corp,Alphabet Inc,24.333038
+Verizon Communications Inc,1,Verizon Communications Inc,International Business Machines Corp,23.666667
+Verizon Communications Inc,1,Verizon Communications Inc,Qualcomm Inc/De,23.5
+Verizon Communications Inc,3,Design Works,Linkedin Corp,23.396436
+Verizon Communications Inc,3,Design Works,Alphabet Inc,23.326159
+Verizon Communications Inc,3,Dna Limited,Alphabet Inc,23.282236
+Verizon Communications Inc,3,Apple Inc,Facebook Inc,23.127041
+Verizon Communications Inc,1,Verizon Communications Inc,National Institute Of Standards And Technology,23
+Verizon Communications Inc,2,Huawei Technologies Company Ltd,Alphabet Inc,22.873597
+Verizon Communications Inc,1,Verizon Communications Inc,Pepsico Inc,22.333333
+Verizon Communications Inc,2,Samsung Electronics Gmbh,Apple Inc,22.120496
+Verizon Communications Inc,1,Verizon Communications Inc,Citgo,22
+Verizon Communications Inc,2,General Electric Company,General Electric Canada Holdings,21.86454
+Verizon Communications Inc,1,Verizon Communications Inc,United States Department Of Transportation,21.666667
+Verizon Communications Inc,1,Verizon Communications Inc,Jp Morgan Chase And Co,21.666667
+Verizon Communications Inc,1,Verizon Communications Inc,Ford Motor Company,21.666667
+Verizon Communications Inc,1,Verizon Communications Inc,National Transportation Safety Board,21.5
+Verizon Communications Inc,1,Verizon Communications Inc,Warner Media Llc,21.5
+Verizon Communications Inc,2,Netflix Inc,Apple Inc,21.273873
+Verizon Communications Inc,3,Thestreet Inc,Securities And Exchange Commission,21.044494
+Verizon Communications Inc,2,Honeywell Ltd,Boeing Company,20.717661
+Verizon Communications Inc,1,Verizon Communications Inc,Paypal Holdings,20.666667
+Verizon Communications Inc,2,Alphabet Inc,Apple Inc,20.596246
+Verizon Communications Inc,3,Amazon Com Inc,Facebook Inc,20.556068
+Verizon Communications Inc,3,Facebook Inc,Amazon Com Inc,20.345237
+Verizon Communications Inc,2,Ms Srl,Alphabet Inc,20.077771
+Verizon Communications Inc,2,Airbus,Boeing Company,19.994093
+Verizon Communications Inc,3,New York Stock Exchange Llc,Securities And Exchange Commission,19.832213
+Verizon Communications Inc,2,Hawaiian Airlines Inc,Boeing Company,19.624926
+Verizon Communications Inc,2,Kkr Group Ltd,Boeing Company,19.447726
+Verizon Communications Inc,1,Verizon Communications Inc,Chegg Inc,19
+Verizon Communications Inc,1,Verizon Communications Inc,National Football League Inc,19
+Verizon Communications Inc,2,Apple Inc,Microsoft Corp,18.805375
+Verizon Communications Inc,3,Design Works,Hubspot Inc,18.799139
+Verizon Communications Inc,1,Verizon Communications Inc,Starbucks Corp,18.5
+Verizon Communications Inc,2,Warner Media Llc,Atandt Inc,18.438669
+Verizon Communications Inc,1,Verizon Communications Inc,Federal Bureau Of Investigation,18.333333
+Verizon Communications Inc,1,Verizon Communications Inc,Linkedin Corp,18.333333
+Verizon Communications Inc,3,Isr Srl,Boeing Company,18.28963
+Verizon Communications Inc,2,Alphabet Inc,Facebook Inc,18.216184
+Verizon Communications Inc,2,Morgan Stanley International Holdings Inc,Morgan Stanley,18.133491
+Verizon Communications Inc,3,T Limited,Alphabet Inc,17.985095
+Verizon Communications Inc,3,Cts Spa,Boeing Company,17.815259
+Verizon Communications Inc,1,Verizon Communications Inc,Procter And Gamble Co,17.666667
+Verizon Communications Inc,1,Verizon Communications Inc,Omnicom Group Inc,17.5
+Verizon Communications Inc,2,Alpa Gmbh,Boeing Company,17.454223
+Verizon Communications Inc,2,Amazon Com Inc,Microsoft Corp,17.409923
+Verizon Communications Inc,3,Easa,Alphabet Inc,17.285252
+Verizon Communications Inc,2,Dowdupont Inc,Boeing Company,17.144123
+Verizon Communications Inc,2,Barclays Plc,Iff,17.129356
+Verizon Communications Inc,2,Modernatx Inc,Pfizer Luxco Holdings Sarl,17.040756
+Verizon Communications Inc,2,Astrazeneca Plc,Pfizer Luxco Holdings Sarl,17.040756
+Verizon Communications Inc,1,Verizon Communications Inc,Tesla Inc,17
+Verizon Communications Inc,1,Verizon Communications Inc,Unilever Plc,17
+Verizon Communications Inc,3,Pfizer Luxco Holdings Sarl,Food And Drug Administration,16.919225
+Verizon Communications Inc,3,Sunoco Lp,Holly Energy Partners Lp,16.848948
+Verizon Communications Inc,3,Budget Propane Corporation,Holly Energy Partners Lp,16.848948
+Verizon Communications Inc,2,Nikkei Inc,Apple Inc,16.765111
+Verizon Communications Inc,1,Verizon Communications Inc,United States Senate,16.5
+Verizon Communications Inc,2,Wall Street Systems,Securities And Exchange Commission,16.396929
+Verizon Communications Inc,2,Netflix Inc,Amazon Com Inc,16.125222
+Verizon Communications Inc,2,Pfizer Luxco Holdings Sarl,Modernatx Inc,16.095688
+Verizon Communications Inc,2,Linkedin Corp,Facebook Inc,16.016932
+Verizon Communications Inc,2,Boc Aviation Limited,Boeing Company,15.800354
+Verizon Communications Inc,2,General Electric Company,Boeing Company,15.554243
+Verizon Communications Inc,3,Plus Srl,Abc News,15.548821
+Verizon Communications Inc,2,European Commission,Alphabet Inc,15.514865
+Verizon Communications Inc,2,Apple Inc,Huawei Investment And Holding Co Ltd,15.512404
+Verizon Communications Inc,2,Apple Inc,Huawei Technologies Company Ltd,15.505021
+Verizon Communications Inc,1,Verizon Communications Inc,Intercontinental Exchange,15.5
+Verizon Communications Inc,3,New York Stock Exchange Llc,Intercontinental Exchange,15.436377
+Verizon Communications Inc,2,American Airlines Group Inc,Boeing Company,15.367198
+Verizon Communications Inc,1,Verizon Communications Inc,Bank Of America Corp,15.333333
+Verizon Communications Inc,1,Verizon Communications Inc,United States Department Of Homeland Security,15.333333
+Verizon Communications Inc,2,Dlsa,Alphabet Inc,15.244143
+Verizon Communications Inc,1,Verizon Communications Inc,Wells Fargo Bank National Association,15
+Verizon Communications Inc,2,Tesla Inc,Apple Inc,14.92912
+Verizon Communications Inc,2,Tesla Inc,Boeing Company,14.776531
+Verizon Communications Inc,2,The Walt Disney Co,Apple Inc,14.717464
+Verizon Communications Inc,2,Broadcom Ltd,Apple Inc,14.628864
+Verizon Communications Inc,1,Verizon Communications Inc,Comcast Corp A,14.5
+Verizon Communications Inc,3,Microsoft Corp,Alphabet Inc,14.47563
+Verizon Communications Inc,2,Media Tek Inc,Apple Inc,14.382753
+Verizon Communications Inc,2,Pfizer Luxco Holdings Sarl,Astrazeneca Plc,14.343375
+Verizon Communications Inc,1,Verizon Communications Inc,Dow Jones And Co Inc,14.333333
+Verizon Communications Inc,1,Verizon Communications Inc,United States Department Of Justice,14.333333
+Verizon Communications Inc,1,Verizon Communications Inc,Intel Corp,14.333333
+Verizon Communications Inc,2,Spirit Aerosystems Inc,Boeing Company,14.274463
+Verizon Communications Inc,2,Getty Images Inc,Facebook Inc,14.185863
+Verizon Communications Inc,2,United Inc,Boeing Company,14.15633
+Verizon Communications Inc,2,Goldman Sachs Group Inc,Apple Inc,14.136641
+Verizon Communications Inc,2,House Srl,Facebook Inc,14.107108
+Verizon Communications Inc,1,Verizon Communications Inc,Brookfield Asset Management Inc,14
+Verizon Communications Inc,1,Verizon Communications Inc,Visa Inc,14
+Verizon Communications Inc,1,Verizon Communications Inc,Dominion Dental Services Inc,14
+Verizon Communications Inc,1,Verizon Communications Inc,Diageo Plc,14
+Verizon Communications Inc,1,Verizon Communications Inc,Ovo Energy Ltd,14
+Verizon Communications Inc,1,Verizon Communications Inc,Panera Bread Co,14
+Verizon Communications Inc,1,Verizon Communications Inc,Gap Inc,14
+Verizon Communications Inc,1,Verizon Communications Inc,General Motors Limited,14
+Verizon Communications Inc,1,Verizon Communications Inc,Samsung Electronics Gmbh,14
+Verizon Communications Inc,2,Getty Images Inc,Bangladesh Bank,13.969285
+Verizon Communications Inc,2,Facebook Inc,Arizona State University,13.821618
+Verizon Communications Inc,2,Navy Group Srl,Boeing Company,13.792085
+Verizon Communications Inc,2,Morgan Stanley And Co Llc,Morgan Stanley,13.762552
+Verizon Communications Inc,2,Delta Air Lines Inc,Boeing Company,13.723174
+Verizon Communications Inc,1,Verizon Communications Inc,Goldman Sachs Group Inc,13.666667
+Verizon Communications Inc,3,Huawei Technologies Company Ltd,Alphabet Inc,13.607414
+Verizon Communications Inc,2,Amazon Com Inc,Tesla Inc,13.536129
+Verizon Communications Inc,2,Walmart Inc,Amazon Com Inc,13.467218
+Verizon Communications Inc,2,British Airways Plc,Boeing Company,13.437685
+Verizon Communications Inc,3,Masa,Alphabet Inc,13.402439
+Verizon Communications Inc,2,Morgan Stanley And Co Llc,Morgan Stanley Investments (Uk),13.378618
+Verizon Communications Inc,2,Morgan Stanley And Co Llc,Morgan Stanley Domestic Holdings Inc,13.368773
+Verizon Communications Inc,2,Amazon Com Inc,Boeing Company,13.33924
+Verizon Communications Inc,1,Verizon Communications Inc,Ericsson Inc,13.333333
+Verizon Communications Inc,2,Facebook Inc,Microsoft Corp,13.312168
+Verizon Communications Inc,3,Samsung Electronics Gmbh,Apple Inc,13.159397
+Verizon Communications Inc,2,Netflix Inc,Alphabet Inc,13.152195
+Verizon Communications Inc,3,General Electric Company,General Electric Canada Holdings,13.00713
+Verizon Communications Inc,1,Verizon Communications Inc,British Airways Plc,13
+Verizon Communications Inc,1,Verizon Communications Inc,World Economic Forum Llc,13
+Verizon Communications Inc,1,Verizon Communications Inc,L'oreal Sa,13
+Verizon Communications Inc,2,Amazon Com Inc,Netflix Inc,12.98484
+Verizon Communications Inc,2,Advanced Micro Devices Inc,Taiwan Semiconductor Manufacturing,12.965151
+Verizon Communications Inc,2,T-Mobile Us,Deutsche Telekom Ag,12.955306
+Verizon Communications Inc,2,Amazon Com Inc,Walmart Inc,12.768261
+Verizon Communications Inc,2,Mri Gmbh,Alphabet Inc,12.714117
+Verizon Communications Inc,1,Verizon Communications Inc,Uber Technologies Inc,12.666667
+Verizon Communications Inc,3,Netflix Inc,Apple Inc,12.655744
+Verizon Communications Inc,2,Boeing Company,Federal Aviation Administration,12.53987
+Verizon Communications Inc,1,Verizon Communications Inc,Government Accountability Office,12.5
+Verizon Communications Inc,3,Easa,Boeing Company,12.456626
+Verizon Communications Inc,2,Huawei Technologies Company Ltd,Semiconductor Manufacturing International,12.394172
+Verizon Communications Inc,2,Pfizer Luxco Holdings Sarl,Boeing Company,12.38925
+Verizon Communications Inc,1,Verizon Communications Inc,Coca Cola Enterprises Inc,12.333333
+Verizon Communications Inc,1,Verizon Communications Inc,Executive Office Of The President,12.333333
+Verizon Communications Inc,3,Honeywell Ltd,Boeing Company,12.324856
+Verizon Communications Inc,3,Cjad,Alphabet Inc,12.295574
+Verizon Communications Inc,2,Southwest Airlines Company,Boeing Company,12.276039
+Verizon Communications Inc,3,Alphabet Inc,Apple Inc,12.252627
+Verizon Communications Inc,2,Northrop Grumman Corp,Boeing Company,12.088994
+Verizon Communications Inc,2,Linkedin Corp,Alphabet Inc,12.025005
+Verizon Communications Inc,1,Verizon Communications Inc,International Airlines Group,12
+Verizon Communications Inc,1,Verizon Communications Inc,Vinters International Limited,12
+Verizon Communications Inc,1,Verizon Communications Inc,Rolls-Royce Oy Ab,12
+Verizon Communications Inc,1,Verizon Communications Inc,General Electric Canada Holdings,12
+Verizon Communications Inc,3,Alaska Airlines Inc,Boeing Company,11.947116
+Verizon Communications Inc,3,Ms Srl,Alphabet Inc,11.944188
+Verizon Communications Inc,3,Aerovironment Inc,Boeing Company,11.929547
+Verizon Communications Inc,3,Airbus,Boeing Company,11.894409
+Verizon Communications Inc,2,Sony Corp,Apple Inc,11.872416
+Verizon Communications Inc,2,Bombardier Inc,Boeing Company,11.813349
+Verizon Communications Inc,2,Huawei Technologies Company Ltd,Taiwan Semiconductor Manufacturing,11.805966
+Verizon Communications Inc,2,Jetblue Airways Corp,Boeing Company,11.798582
+Verizon Communications Inc,2,House Srl,Boeing Company,11.773971
+Verizon Communications Inc,3,Air Lease Corp,Boeing Company,11.692362
+Verizon Communications Inc,2,Rolls-Royce Corporation,Boeing Company,11.685371
+Verizon Communications Inc,3,Hawaiian Airlines Inc,Boeing Company,11.674792
+Verizon Communications Inc,2,Shell,Boeing Company,11.650916
+Verizon Communications Inc,3,Spirit Airlines Inc,Boeing Company,11.630869
+Verizon Communications Inc,3,Porter Airlines Inc,Boeing Company,11.578161
+Verizon Communications Inc,2,Viasat Inc,Boeing Company,11.577082
+Verizon Communications Inc,3,Kkr Group Ltd,Boeing Company,11.569377
+Verizon Communications Inc,3,Skywest Inc,Boeing Company,11.569377
+Verizon Communications Inc,3,Kratos Gmbh,Boeing Company,11.560592
+Verizon Communications Inc,3,Nav Canada,Boeing Company,11.551807
+Verizon Communications Inc,3,Cargojet Inc,Boeing Company,11.551807
+Verizon Communications Inc,3,Textron Aviation Inc,Boeing Company,11.551807
+Verizon Communications Inc,2,Mitsubishi Corp,Boeing Company,11.518015
+Verizon Communications Inc,1,Verizon Communications Inc,National Farmers Union,11.5
+Verizon Communications Inc,2,Netflix Inc,Facebook Inc,11.488482
+Verizon Communications Inc,2,Bmw Ag St,Bmw,11.481099
+Verizon Communications Inc,2,Morgan Stanley And Co Llc,Morgan Stanley International Holdings Inc,11.458949
+Verizon Communications Inc,1,Verizon Communications Inc,Bloomberg Inc,11.333333
+Verizon Communications Inc,1,Verizon Communications Inc,Lenovo Group Ltd,11.25
+Verizon Communications Inc,2,Jp Morgan Chase And Co,Wells Fargo And Company,11.202993
+Verizon Communications Inc,3,Apple Inc,Microsoft Corp,11.187245
+Verizon Communications Inc,2,Apple Inc,Netflix Inc,11.124237
+Verizon Communications Inc,1,Verizon Communications Inc,Ana,11
+Verizon Communications Inc,1,Verizon Communications Inc,National Grid Transco Plc,11
+Verizon Communications Inc,1,Verizon Communications Inc,American Medical Association,11
+Verizon Communications Inc,1,Verizon Communications Inc,Adobe Inc,11
+Verizon Communications Inc,1,Verizon Communications Inc,The Npd Group Inc,11
+Verizon Communications Inc,1,Verizon Communications Inc,Exxon Mobil Corp,11
+Verizon Communications Inc,1,Verizon Communications Inc,London School Of Economics And Political Science,11
+Verizon Communications Inc,1,Verizon Communications Inc,Mcdonald's Corp,11
+Verizon Communications Inc,1,Verizon Communications Inc,Media Tek Inc,11
+Verizon Communications Inc,1,Verizon Communications Inc,Mastercard Inc,11
+Verizon Communications Inc,3,Warner Media Llc,Atandt Inc,10.969093
+Verizon Communications Inc,2,Apple Inc,Tesla Inc,10.919965
+Verizon Communications Inc,3,Alphabet Inc,Facebook Inc,10.836737
+Verizon Communications Inc,3,Morgan Stanley International Holdings Inc,Morgan Stanley,10.787543
+Verizon Communications Inc,2,Alphabet Inc,Amazon Com Inc,10.68944
+Verizon Communications Inc,1,Verizon Communications Inc,Morgan Stanley Domestic Holdings Inc,10.666667
+Verizon Communications Inc,1,Verizon Communications Inc,Kraft Heinz Co,10.666667
+Verizon Communications Inc,1,Verizon Communications Inc,Delta Air Lines Inc,10.666667
+Verizon Communications Inc,1,Verizon Communications Inc,Morgan Stanley And Co Llc,10.666667
+Verizon Communications Inc,2,White House,Boeing Company,10.661548
+Verizon Communications Inc,2,Apple Inc,Taiwan Semiconductor Manufacturing,10.649734
+Verizon Communications Inc,3,Moody's Investors Service,Moodys Corp /De/,10.589889
+Verizon Communications Inc,2,Home Box Office Inc,Warner Media Llc,10.537507
+Verizon Communications Inc,1,Verizon Communications Inc,National Grid North America Inc,10.5
+Verizon Communications Inc,1,Verizon Communications Inc,Ebay Inc,10.5
+Verizon Communications Inc,1,Verizon Communications Inc,Caterpillar Inc,10.5
+Verizon Communications Inc,1,Verizon Communications Inc,Gartner Inc,10.5
+Verizon Communications Inc,1,Verizon Communications Inc,National Grid Usa,10.5
+Verizon Communications Inc,3,Alpa Gmbh,Boeing Company,10.38345
+Verizon Communications Inc,3,Amazon Com Inc,Microsoft Corp,10.357096
+Verizon Communications Inc,2,Bank Of America Corp,Wells Fargo And Company,10.33668
+Verizon Communications Inc,1,Verizon Communications Inc,Morgan Stanley Investments (Uk),10.333333
+Verizon Communications Inc,2,Facebook Inc,Paypal Holdings,10.297303
+Verizon Communications Inc,3,Harbour Air Ltd,Boeing Company,10.286819
+Verizon Communications Inc,2,Apple Inc,Intel Corp,10.228391
+Verizon Communications Inc,3,Amf Spa,International Flavors And Fragrances Inc,10.225326
+Verizon Communications Inc,3,Business Wire Inc,International Flavors And Fragrances Inc,10.225326
+Verizon Communications Inc,3,Indigo Limited,Boeing Company,10.216541
+Verizon Communications Inc,3,Dowdupont Inc,Boeing Company,10.198972
+Verizon Communications Inc,3,Barclays Plc,Iff,10.190188
+Verizon Communications Inc,3,Business Wire Inc,Iff,10.190188
+Verizon Communications Inc,3,Amf Spa,Iff,10.190188
+Verizon Communications Inc,3,National Business Aviation Association Inc,Boeing Company,10.155049
+Verizon Communications Inc,3,Airbus Americas Inc,Boeing Company,10.146264
+Verizon Communications Inc,3,Corsair Limited,Boeing Company,10.146264
+Verizon Communications Inc,3,Expressjet Airlines Inc,Boeing Company,10.146264
+Verizon Communications Inc,2,Netflix Inc,The Walt Disney Co,10.144714
+Verizon Communications Inc,3,Modernatx Inc,Pfizer Luxco Holdings Sarl,10.13748
+Verizon Communications Inc,3,Astrazeneca Plc,Pfizer Luxco Holdings Sarl,10.13748
+Verizon Communications Inc,2,Linkedin Corp,Hubspot Inc,10.07088
+Verizon Communications Inc,1,Verizon Communications Inc,Mars Gmbh,10
+Verizon Communications Inc,1,Verizon Communications Inc,Pixar,10
+Verizon Communications Inc,1,Verizon Communications Inc,Anthem Inc,10
+Verizon Communications Inc,1,Verizon Communications Inc,Marathon Petroleum Corp,10
+Verizon Communications Inc,1,Verizon Communications Inc,United States Department Of Health And Human Services,10
+Verizon Communications Inc,1,Verizon Communications Inc,Clorox Company,10
+Verizon Communications Inc,1,Verizon Communications Inc,Adidas Ag,10
+Verizon Communications Inc,1,Verizon Communications Inc,Best Buy Co Inc,10
+Verizon Communications Inc,1,Verizon Communications Inc,Merck And Co Inc,10
+Verizon Communications Inc,1,Verizon Communications Inc,Vodafone Idea Ltd,10
+Verizon Communications Inc,1,Verizon Communications Inc,Interactive Advertising Bureau Inc,10
+Verizon Communications Inc,2,Tesla Inc,Ford Motor Company,9.992124
+Verizon Communications Inc,3,Nikkei Inc,Apple Inc,9.9735
+Verizon Communications Inc,2,House Srl,Alphabet Inc,9.93798
+Verizon Communications Inc,2,Ford Motor Company,Tesla Inc,9.91583
+Verizon Communications Inc,2,Airbus,Airbus Group Se,9.901063
+Verizon Communications Inc,2,Nvidia Corp,Taiwan Semiconductor Manufacturing,9.864146
+Verizon Communications Inc,2,Jp Morgan Chase And Co,Securities And Exchange Commission,9.84052
+Verizon Communications Inc,2,Huawei Technologies Company Ltd,Facebook Inc,9.834613
+Verizon Communications Inc,2,Design Works,Dnt,9.819846
+Verizon Communications Inc,2,Insight,National Aeronautics And Space Administration,9.790313
+Verizon Communications Inc,2,Tesla Inc,Amazon Com Inc,9.775546
+Verizon Communications Inc,3,Wall Street Systems,Securities And Exchange Commission,9.754469
+Verizon Communications Inc,2,Visa Inc,Apple Inc,9.71648
+Verizon Communications Inc,1,Verizon Communications Inc,Boeing Company,9.666667
+Verizon Communications Inc,3,American,Boeing Company,9.62797
+Verizon Communications Inc,2,Semiconductor Manufacturing International,Huawei Technologies Company Ltd,9.618035
+Verizon Communications Inc,2,Semiconductor Manufacturing International,Huawei Investment And Holding Co Ltd,9.618035
+Verizon Communications Inc,3,Netflix Inc,Amazon Com Inc,9.592832
+Verizon Communications Inc,3,Pfizer Luxco Holdings Sarl,Modernatx Inc,9.575262
+Verizon Communications Inc,2,Starbucks Corp,Apple Inc,9.558968
+Verizon Communications Inc,3,Hexcel Corp,Boeing Company,9.531339
+Verizon Communications Inc,3,Linkedin Corp,Facebook Inc,9.528411
+Verizon Communications Inc,2,Ingredion Inc,Purecircle Ltd,9.509746
+Verizon Communications Inc,1,Verizon Communications Inc,Direct Line Insurance Group Plc,9.5
+Verizon Communications Inc,1,Verizon Communications Inc,Alibaba Group Holding Ltd,9.5
+Verizon Communications Inc,1,Verizon Communications Inc,Pfizer Luxco Holdings Sarl,9.5
+Verizon Communications Inc,1,Verizon Communications Inc,National Basketball Association Inc,9.5
+Verizon Communications Inc,1,Verizon Communications Inc,Direct Line Group Limited,9.5
+Verizon Communications Inc,2,Kpmg Sa,Purecircle Ltd,9.480213
+Verizon Communications Inc,2,Apple Inc,Qualcomm Inc/De,9.470368
+Verizon Communications Inc,2,New York Stock Exchange Llc,Purecircle Ltd,9.450679
+Verizon Communications Inc,2,Facebook Inc,Federal Trade Commission,9.450679
+Verizon Communications Inc,2,Budget Propane Corporation,Moodys Corp /De/,9.401457
+Verizon Communications Inc,3,Titan Sa,Boeing Company,9.39957
+Verizon Communications Inc,3,Boc Aviation Limited,Boeing Company,9.39957
+Verizon Communications Inc,2,Bnp Paribas,Design Works,9.391613
+Verizon Communications Inc,2,Amazon Com Inc,Shopify Inc,9.376846
+Verizon Communications Inc,3,Viking Air Limited,Boeing Company,9.346862
+Verizon Communications Inc,3,Gevo Inc,Boeing Company,9.346862
+Verizon Communications Inc,3,Compass Sbtv Llc,Boeing Company,9.346862
+Verizon Communications Inc,3,Leidos Holdings Inc,Boeing Company,9.346862
+Verizon Communications Inc,3,Zacks Investment Research,Wells Fargo And Company,9.341005
+Verizon Communications Inc,3,Textron Inc,Boeing Company,9.338077
+Verizon Communications Inc,1,Verizon Communications Inc,Equifax Inc,9.333333
+Verizon Communications Inc,2,International Business Machines Corp,Alphabet Inc,9.317779
+Verizon Communications Inc,3,General Electric Company,Boeing Company,9.253159
+Verizon Communications Inc,3,European Commission,Alphabet Inc,9.229733
+Verizon Communications Inc,3,Apple Inc,Huawei Investment And Holding Co Ltd,9.228269
+Verizon Communications Inc,3,Apple Inc,Huawei Technologies Company Ltd,9.223877
+Verizon Communications Inc,3,Wells Fargo Bank Ltd,Wells Fargo And Company,9.175561
+Verizon Communications Inc,2,Volkswagen Ag,Tesla Inc,9.145501
+Verizon Communications Inc,3,Zacks Investment Research,Thomson Reuters Plc /Adr/,9.144815
+Verizon Communications Inc,3,American Airlines Group Inc,Boeing Company,9.141887
+Verizon Communications Inc,2,Facebook Inc,United States Senate,9.084465
+Verizon Communications Inc,2,Qualcomm Inc/De,Taiwan Semiconductor Manufacturing,9.081512
+Verizon Communications Inc,3,Dlsa,Alphabet Inc,9.068681
+Verizon Communications Inc,2,Intel Corp,Taiwan Semiconductor Manufacturing,9.066745
+Verizon Communications Inc,1,Verizon Communications Inc,Fcc Spa,9
+Verizon Communications Inc,1,Verizon Communications Inc,Johnson And Johnson Services Inc,9
+Verizon Communications Inc,1,Verizon Communications Inc,Motorola Mobility Llc,9
+Verizon Communications Inc,1,Verizon Communications Inc,Softbank Group Corp,9
+Verizon Communications Inc,1,Verizon Communications Inc,Airbus Defence And Space Sas,9
+Verizon Communications Inc,1,Verizon Communications Inc,Hearst Communications Inc,9
+Verizon Communications Inc,1,Verizon Communications Inc,Medical Informatics Engineering Inc,9
+Verizon Communications Inc,1,Verizon Communications Inc,Nokia Corp,9
+Verizon Communications Inc,1,Verizon Communications Inc,Hewlett Packard Enterprise Comp,9
+Verizon Communications Inc,1,Verizon Communications Inc,Univision Communications Inc,9
+Verizon Communications Inc,1,Verizon Communications Inc,United States Army,9
+Verizon Communications Inc,1,Verizon Communications Inc,United States Department Of Defense,9
+Verizon Communications Inc,2,Media Tek Inc,Huawei Technologies Company Ltd,8.98799
+Verizon Communications Inc,2,Media Tek Inc,Huawei Investment And Holding Co Ltd,8.98799
+Verizon Communications Inc,3,Woodward Inc,Boeing Company,8.969122
+Verizon Communications Inc,3,Tesla Inc,Apple Inc,8.881276
+Verizon Communications Inc,3,Epic Games Inc,Apple Inc,8.866634
+Verizon Communications Inc,2,Sony Corp,Bangladesh Bank,8.845245
+Verizon Communications Inc,3,Tesla Inc,Boeing Company,8.790501
+Verizon Communications Inc,2,Amex Global Holdings Cv,Apple Inc,8.761567
+Verizon Communications Inc,3,The Walt Disney Co,Apple Inc,8.755362
+Verizon Communications Inc,1,Verizon Communications Inc,Hsbc Holdings Plc,8.75
+Verizon Communications Inc,3,Broadcom Ltd,Apple Inc,8.702654
+Verizon Communications Inc,1,Verizon Communications Inc,Rolls Royce Grp,8.666667
+Verizon Communications Inc,3,Zacks Investment Research,Goldman Sachs Group Inc,8.626521
+Verizon Communications Inc,2,Intercontinental Exchange,International Flavors And Fragrances Inc,8.623745
+Verizon Communications Inc,2,Intercontinental Exchange,Iff,8.608978
+Verizon Communications Inc,2,Barclays Plc,International Flavors And Fragrances Inc,8.608978
+Verizon Communications Inc,1,Verizon Communications Inc,Federal Trade Commission,8.6
+Verizon Communications Inc,2,Uber Technologies Inc,Boeing Company,8.584367
+Verizon Communications Inc,2,Home Box Office Inc,Netflix Inc,8.564678
+Verizon Communications Inc,3,Media Tek Inc,Apple Inc,8.556244
+Verizon Communications Inc,2,Home Box Office Inc,Atandt Inc,8.554834
+Verizon Communications Inc,2,General Motors Limited,Tesla Inc,8.53783
+Verizon Communications Inc,3,Pfizer Luxco Holdings Sarl,Astrazeneca Plc,8.532818
+Verizon Communications Inc,3,Epa,Alphabet Inc,8.518177
+Verizon Communications Inc,1,Verizon Communications Inc,Metro Inc,8.5
+Verizon Communications Inc,1,Verizon Communications Inc,Lyft Inc,8.5
+Verizon Communications Inc,1,Verizon Communications Inc,Pih Health Inc,8.5
+Verizon Communications Inc,1,Verizon Communications Inc,Fedex Corp,8.5
+Verizon Communications Inc,1,Verizon Communications Inc,Morgan Stanley International Holdings Inc,8.5
+Verizon Communications Inc,3,Spirit Aerosystems Inc,Boeing Company,8.491823
+Verizon Communications Inc,2,Intel Corp,Advanced Micro Devices Inc,8.485922
+Verizon Communications Inc,2,Goldman Sachs Group Inc,Willis Towers Watson Plc,8.476078
+Verizon Communications Inc,2,Liberty Global Inc,Tesla Inc,8.476078
+Verizon Communications Inc,3,Getty Images Inc,Facebook Inc,8.439115
+Verizon Communications Inc,3,United Inc,Boeing Company,8.421546
+Verizon Communications Inc,3,Goldman Sachs Group Inc,Apple Inc,8.409833
+Verizon Communications Inc,1,Verizon Communications Inc,National Security Agency,8.4
+Verizon Communications Inc,3,House Srl,Facebook Inc,8.392264
+Verizon Communications Inc,2,Lyft Inc,Uber Technologies Inc,8.387478
+Verizon Communications Inc,2,Pfizer Luxco Holdings Sarl,Centers For Disease Control And Prevention,8.372711
+Verizon Communications Inc,2,Lockheed Martin Corp,Boeing Company,8.367789
+Verizon Communications Inc,3,Nosa,Alphabet Inc,8.351269
+Verizon Communications Inc,1,Verizon Communications Inc,Bnp Paribas,8.333333
+Verizon Communications Inc,1,Verizon Communications Inc,Bmw,8.333333
+Verizon Communications Inc,2,Tesla Inc,General Motors Limited,8.310691
+Verizon Communications Inc,3,Getty Images Inc,Bangladesh Bank,8.310274
+Verizon Communications Inc,2,Semiconductor Manufacturing International,Apple Inc,8.269344
+Verizon Communications Inc,3,Zacks Investment Research,Morgan Stanley And Co Llc,8.257566
+Verizon Communications Inc,2,Ford Motor Company,General Motors Limited,8.257531
+Verizon Communications Inc,3,Facebook Inc,Arizona State University,8.222427
+Verizon Communications Inc,3,Navy Group Srl,Boeing Company,8.204858
+Verizon Communications Inc,3,Morgan Stanley And Co Llc,Morgan Stanley,8.187289
+Verizon Communications Inc,2,Wells Fargo Clearing Services Llc,Wells Fargo And Company,8.173361
+Verizon Communications Inc,3,Delta Air Lines Inc,Boeing Company,8.163863
+Verizon Communications Inc,2,Intercontinental Exchange,Securities And Exchange Commission,8.121677
+Verizon Communications Inc,2,Morgan Stanley And Co Llc,Securities And Exchange Commission,8.106911
+Verizon Communications Inc,3,Triumph Group Inc,Boeing Company,8.087729
+Verizon Communications Inc,3,Amazon Com Inc,Tesla Inc,8.052591
+Verizon Communications Inc,3,Walmart Inc,Amazon Com Inc,8.011596
+Verizon Communications Inc,1,Verizon Communications Inc,Symantec Corp,8
+Verizon Communications Inc,1,Verizon Communications Inc,Yum Brands Inc,8
+Verizon Communications Inc,1,Verizon Communications Inc,Emc Corp,8
+Verizon Communications Inc,1,Verizon Communications Inc,Alpa Gmbh,8
+Verizon Communications Inc,1,Verizon Communications Inc,House Of Representatives,8
+Verizon Communications Inc,1,Verizon Communications Inc,Ge Healthcare Inc,8
+Verizon Communications Inc,1,Verizon Communications Inc,Pizza Hut Inc,8
+Verizon Communications Inc,1,Verizon Communications Inc,Wendy As,8
+Verizon Communications Inc,1,Verizon Communications Inc,Sony Corp,8
+Verizon Communications Inc,1,Verizon Communications Inc,Home Depot Inc,8
+Verizon Communications Inc,1,Verizon Communications Inc,Comcast Cable Communications Llc,8
+Verizon Communications Inc,1,Verizon Communications Inc,Espn Inc,8
+Verizon Communications Inc,1,Verizon Communications Inc,United States Department Of State,8
+Verizon Communications Inc,1,Verizon Communications Inc,Royal Dutch Shell,8
+Verizon Communications Inc,1,Verizon Communications Inc,Abc News,8
+Verizon Communications Inc,3,British Airways Plc,Boeing Company,7.994026
+Verizon Communications Inc,2,Mastercard Inc,Apple Inc,7.9937
+Verizon Communications Inc,2,Pfizer Luxco Holdings Sarl,United States Senate,7.988777
+Verizon Communications Inc,2,Microsoft Corp,Apple Inc,7.96179
+Verizon Communications Inc,2,Atlas Air Worldwide Holdings Inc,Boeing Company,7.959244
+Verizon Communications Inc,3,Morgan Stanley And Co Llc,Morgan Stanley Investments (Uk),7.958888
+Verizon Communications Inc,3,Morgan Stanley And Co Llc,Morgan Stanley Domestic Holdings Inc,7.953031
+Verizon Communications Inc,3,Amazon Com Inc,Boeing Company,7.935462
+Verizon Communications Inc,2,Goldman Sachs And Co Llc,Goldman Sachs Group Inc,7.934633
+Verizon Communications Inc,3,Tse Co Ltd,Alphabet Inc,7.923749
+Verizon Communications Inc,3,Facebook Inc,Microsoft Corp,7.919357
+Verizon Communications Inc,2,Ebay Inc,Paypal Holdings,7.905099
+Verizon Communications Inc,2,Intel Corp,Huawei Investment And Holding Co Ltd,7.900177
+Verizon Communications Inc,2,Intel Corp,Huawei Technologies Company Ltd,7.900177
+Verizon Communications Inc,2,Amazon Com Inc,Paypal Holdings,7.885411
+Verizon Communications Inc,3,Zacks Investment Research,Morgan Stanley Investments (Uk),7.876898
+Verizon Communications Inc,3,Zacks Investment Research,Morgan Stanley Domestic Holdings Inc,7.876898
+Verizon Communications Inc,2,Advanced Micro Devices Inc,Intel Corp,7.875566
+Verizon Communications Inc,3,Netflix Inc,Alphabet Inc,7.82419
+Verizon Communications Inc,3,International Air Transport Association,Boeing Company,7.818334
+Verizon Communications Inc,2,Nest Limited,Alphabet Inc,7.811577
+Verizon Communications Inc,2,The Walt Disney Co,Amazon Com Inc,7.767277
+Verizon Communications Inc,2,House Srl,United States Capitol Police,7.75251
+Verizon Communications Inc,1,Verizon Communications Inc,Charter Communications Inc,7.75
+Verizon Communications Inc,3,Amazon Com Inc,Netflix Inc,7.724631
+Verizon Communications Inc,3,Advanced Micro Devices Inc,Taiwan Semiconductor Manufacturing,7.712918
+Verizon Communications Inc,3,T-Mobile Us,Deutsche Telekom Ag,7.707061
+Verizon Communications Inc,3,Zacks Investment Research,Morgan Stanley International Holdings Inc,7.701205
+Verizon Communications Inc,1,Verizon Communications Inc,Barclays Plc,7.666667
+Verizon Communications Inc,3,Amazon Com Inc,Walmart Inc,7.595789
+Verizon Communications Inc,3,Mri Gmbh,Alphabet Inc,7.563579
+Verizon Communications Inc,2,Atandt Inc,Apple Inc,7.550699
+Verizon Communications Inc,2,Astrazeneca Plc,Johnson And Johnson Services Inc,7.545777
+Verizon Communications Inc,2,Huawei Technologies Company Ltd,Qualcomm Inc/De,7.521166
+Verizon Communications Inc,2,Microsoft Corp,Amazon Com Inc,7.516243
+Verizon Communications Inc,2,J And J,Centers For Disease Control And Prevention,7.501477
+Verizon Communications Inc,1,Verizon Communications Inc,Chipotle Mexican Grill Inc,7.5
+Verizon Communications Inc,1,Verizon Communications Inc,Kroger Company,7.5
+Verizon Communications Inc,1,Verizon Communications Inc,Centrica Plc Ord New,7.5
+Verizon Communications Inc,1,Verizon Communications Inc,Petsmart Inc,7.5
+Verizon Communications Inc,1,Verizon Communications Inc,Volkswagen Ag,7.5
+Verizon Communications Inc,1,Verizon Communications Inc,Quad/Graphics,7.5
+Verizon Communications Inc,1,Verizon Communications Inc,Fireeye Inc,7.5
+Verizon Communications Inc,1,Verizon Communications Inc,Heathrow Airport Limited,7.5
+Verizon Communications Inc,1,Verizon Communications Inc,Lloyds Banking Group Plc,7.5
+Verizon Communications Inc,1,Verizon Communications Inc,Altice,7.5
+Verizon Communications Inc,1,Verizon Communications Inc,Under Armour,7.5
+Verizon Communications Inc,2,Qualcomm Inc/De,Huawei Investment And Holding Co Ltd,7.483757
+Verizon Communications Inc,2,Qualcomm Inc/De,Huawei Technologies Company Ltd,7.47785
+Verizon Communications Inc,2,Morgan Stanley And Co Llc,Tesla Inc,7.462099
+Verizon Communications Inc,3,Boeing Company,Federal Aviation Administration,7.45992
+Verizon Communications Inc,2,London Stock Exchange Group Plc,Sdl,7.44241
+Verizon Communications Inc,2,Fitbit Inc,Alphabet Inc,7.39811
+Verizon Communications Inc,3,Huawei Technologies Company Ltd,Semiconductor Manufacturing International,7.373245
+Verizon Communications Inc,3,Pfizer Luxco Holdings Sarl,Boeing Company,7.370317
+Verizon Communications Inc,1,Verizon Communications Inc,Techcrunch,7.333333
+Verizon Communications Inc,1,Verizon Communications Inc,Oracle Corp,7.333333
+Verizon Communications Inc,2,Apple Inc,Securities And Exchange Commission,7.324276
+Verizon Communications Inc,3,Southwest Airlines Company,Boeing Company,7.302968
+Verizon Communications Inc,2,White House,Executive Office Of The President,7.277023
+Verizon Communications Inc,2,Atandt Inc,Warner Media Llc,7.271116
+Verizon Communications Inc,2,Jpm Limited,Jp Morgan Chase And Co,7.26521
+Verizon Communications Inc,2,Oracle Corp,Alphabet Inc,7.257826
+Verizon Communications Inc,2,House Srl,House Of Representatives,7.255365
+Verizon Communications Inc,1,Verizon Communications Inc,Food And Drug Administration,7.25
+Verizon Communications Inc,2,United Inc,United,7.206143
+Verizon Communications Inc,3,Northrop Grumman Corp,Boeing Company,7.191696
+Verizon Communications Inc,2,Alphabet Inc,Microsoft Corp,7.190599
+Verizon Communications Inc,3,Linkedin Corp,Alphabet Inc,7.153629
+Verizon Communications Inc,2,Goldman Sachs Group Inc,Securities And Exchange Commission,7.14117
+Verizon Communications Inc,2,Ebay Inc,Shopify Inc,7.117543
+Verizon Communications Inc,2,Walmart Inc,Apple Inc,7.107698
+Verizon Communications Inc,2,Microsoft Corp,Facebook Inc,7.082798
+Verizon Communications Inc,3,Sony Corp,Apple Inc,7.062854
+Verizon Communications Inc,2,Uber Technologies Inc,Apple Inc,7.058476
+Verizon Communications Inc,2,Tesla Inc,Securities And Exchange Commission,7.034849
+Verizon Communications Inc,2,The Walt Disney Co,The Walt Disney Company,7.028943
+Verizon Communications Inc,3,Bombardier Inc,Boeing Company,7.027716
+Verizon Communications Inc,3,Huawei Technologies Company Ltd,Taiwan Semiconductor Manufacturing,7.023323
+Verizon Communications Inc,3,Jetblue Airways Corp,Boeing Company,7.018931
+Verizon Communications Inc,3,House Srl,Boeing Company,7.00429
+Verizon Communications Inc,1,Verizon Communications Inc,Hershey,7
+Verizon Communications Inc,1,Verizon Communications Inc,Oxford City Council,7
+Verizon Communications Inc,1,Verizon Communications Inc,Dentsu Inc,7
+Verizon Communications Inc,1,Verizon Communications Inc,Cvs Health Corporation,7
+Verizon Communications Inc,1,Verizon Communications Inc,Hershey Co,7
+Verizon Communications Inc,1,Verizon Communications Inc,Plains All American Pipeline Lp,7
+Verizon Communications Inc,1,Verizon Communications Inc,Huffpost,7
+Verizon Communications Inc,1,Verizon Communications Inc,Plains Gp Holdings Lp,7
+Verizon Communications Inc,1,Verizon Communications Inc,Defense Advanced Research Projects Agency,7
+Verizon Communications Inc,1,Verizon Communications Inc,Aol Inc,7
+Verizon Communications Inc,1,Verizon Communications Inc,G2 Crowd Inc,7
+Verizon Communications Inc,1,Verizon Communications Inc,Daimler Ag,7
+Verizon Communications Inc,1,Verizon Communications Inc,Memorial Hermann Health System,7
+Verizon Communications Inc,1,Verizon Communications Inc,Cp Lotus Corp,7
+Verizon Communications Inc,1,Verizon Communications Inc,Inseego Corp,7
+Verizon Communications Inc,1,Verizon Communications Inc,Dentsu Aegis Network Ltd,7
+Verizon Communications Inc,1,Verizon Communications Inc,Upmc,7
+Verizon Communications Inc,1,Verizon Communications Inc,Proofpoint Inc,7
+Verizon Communications Inc,1,Verizon Communications Inc,Eqt Corp,7
+Verizon Communications Inc,1,Verizon Communications Inc,Pbf Holding Co Llc,7
+Verizon Communications Inc,1,Verizon Communications Inc,Targa Resources Partners Lp,7
+Verizon Communications Inc,1,Verizon Communications Inc,Verizon Wireless Inc,7
+Verizon Communications Inc,1,Verizon Communications Inc,Department Of The Navy,7
+Verizon Communications Inc,1,Verizon Communications Inc,Rolls-Royce Corporation,7
+Verizon Communications Inc,1,Verizon Communications Inc,Vmware Inc,7
+Verizon Communications Inc,1,Verizon Communications Inc,Brookfield Bbp Canada Holdings Inc,7
+Verizon Communications Inc,1,Verizon Communications Inc,Liquid Web,7
+Verizon Communications Inc,1,Verizon Communications Inc,Cyren Ltd,7
+Verizon Communications Inc,1,Verizon Communications Inc,Siemens Inc,7
+Verizon Communications Inc,2,House Srl,Federal Bureau Of Investigation,6.989565
+Verizon Communications Inc,2,Johnson And Johnson Services Inc,Astrazeneca Plc,6.969876
+Verizon Communications Inc,3,Federal Reserve Bank Of New York,Federal Reserve System,6.966223
+Verizon Communications Inc,2,European Commission,Design Works,6.960032
+Verizon Communications Inc,2,E3 Srl,Alphabet Inc,6.955109
+Verizon Communications Inc,3,Rolls-Royce Corporation,Boeing Company,6.951582
+Verizon Communications Inc,3,Shell,Boeing Company,6.931084
+Verizon Communications Inc,2,White House,United States Senate,6.930498
+Verizon Communications Inc,3,Frontier Airlines Inc /Co/,Boeing Company,6.9223
+Verizon Communications Inc,2,House Srl,Abc News,6.900965
+Verizon Communications Inc,3,Viasat Inc,Boeing Company,6.887161
+Verizon Communications Inc,3,Integration Innovation Inc,Boeing Company,6.878377
+Verizon Communications Inc,3,Pratt And Whitney Canada Corp,Boeing Company,6.878377
+Verizon Communications Inc,3,Verdego Aero,Boeing Company,6.878377
+Verizon Communications Inc,3,Xti Aircraft Company,Boeing Company,6.878377
+Verizon Communications Inc,3,Mitsubishi Corp,Boeing Company,6.852023
+Verizon Communications Inc,3,Netflix Inc,Facebook Inc,6.834453
+Verizon Communications Inc,2,Paypal Holdings,Alphabet Inc,6.832054
+Verizon Communications Inc,3,Bmw Ag St,Bmw,6.830061
+Verizon Communications Inc,3,Goog,Alphabet Inc,6.81908
+Verizon Communications Inc,3,Morgan Stanley And Co Llc,Morgan Stanley International Holdings Inc,6.816884
+Verizon Communications Inc,2,Fiat Chrysler Automobiles Nv,General Motors Limited,6.777909
+Verizon Communications Inc,2,Netflix Inc,Atandt Inc,6.772987
+Verizon Communications Inc,2,Budget Propane Corporation,Alphabet Inc,6.768065
+Verizon Communications Inc,2,Citigroup Inc,Securities And Exchange Commission,6.721796
+Verizon Communications Inc,2,Linkedin Corp,Wells Fargo And Company,6.704076
+Verizon Communications Inc,2,Microsoft Corp,Microsoft,6.687966
+Verizon Communications Inc,1,Verizon Communications Inc,Amex Global Holdings Cv,6.666667
+Verizon Communications Inc,1,Verizon Communications Inc,Home Box Office Inc,6.666667
+Verizon Communications Inc,3,Jp Morgan Chase And Co,Wells Fargo And Company,6.664617
+Verizon Communications Inc,2,Boeing Company,Airbus Group Se,6.645009
+Verizon Communications Inc,3,Apple Inc,Netflix Inc,6.617765
+Verizon Communications Inc,2,London Stock Exchange Group Plc,Purecircle Ltd,6.615475
+Verizon Communications Inc,2,The Walt Disney Co,Netflix Inc,6.609569
+Verizon Communications Inc,2,Advanced Micro Devices Inc,Alphabet Inc,6.556409
+Verizon Communications Inc,2,Lockheed Martin Systems,Boeing Company,6.53672
+Verizon Communications Inc,3,United States Patent And Trademark Office,Department Of Commerce,6.535775
+Verizon Communications Inc,2,Sony Corp,Alphabet Inc,6.526875
+Verizon Communications Inc,2,Caa Srl,United States Environmental Protection Agency,6.519492
+Verizon Communications Inc,1,Verizon Communications Inc,Ubs Group Ag,6.5
+Verizon Communications Inc,1,Verizon Communications Inc,Magellan Health Inc,6.5
+Verizon Communications Inc,1,Verizon Communications Inc,Park Intermediate Holdings Llc,6.5
+Verizon Communications Inc,1,Verizon Communications Inc,Mimecast Ltd,6.5
+Verizon Communications Inc,1,Verizon Communications Inc,Lg Electronics Inc,6.5
+Verizon Communications Inc,1,Verizon Communications Inc,Airbnb Inc,6.5
+Verizon Communications Inc,1,Verizon Communications Inc,Nestle Sa Cham Et Ve,6.5
+Verizon Communications Inc,1,Verizon Communications Inc,Park Hotels And Resorts Inc,6.5
+Verizon Communications Inc,1,Verizon Communications Inc,Apollo Global Management Llc,6.5
+Verizon Communications Inc,1,Verizon Communications Inc,Cigna Corp,6.5
+Verizon Communications Inc,1,Verizon Communications Inc,Rio Tinto Plc,6.5
+Verizon Communications Inc,2,Nbcuniversal Llc,Apple Inc,6.497342
+Verizon Communications Inc,3,Apple Inc,Tesla Inc,6.496245
+Verizon Communications Inc,2,Vmware Inc,Emc Corp,6.487498
+Verizon Communications Inc,2,Johnson And Johnson Services Inc,Centers For Disease Control And Prevention,6.457964
+Verizon Communications Inc,2,The Ohio State University,National Collegiate Athletic Association,6.453042
+Verizon Communications Inc,3,Amf Spa,Intercontinental Exchange,6.447929
+Verizon Communications Inc,2,Advanced Micro Devices Inc,Huawei Investment And Holding Co Ltd,6.423509
+Verizon Communications Inc,2,Advanced Micro Devices Inc,Huawei Technologies Company Ltd,6.423509
+Verizon Communications Inc,3,Positive Technologies Inc,Facebook Inc,6.41279
+Verizon Communications Inc,3,European Union,Alphabet Inc,6.386437
+Verizon Communications Inc,3,Alphabet Inc,Amazon Com Inc,6.359106
+Verizon Communications Inc,2,Citigroup Inc,Wells Fargo And Company,6.349675
+Verizon Communications Inc,3,White House,Boeing Company,6.342513
+Verizon Communications Inc,3,Apple Inc,Taiwan Semiconductor Manufacturing,6.335486
+Verizon Communications Inc,1,Verizon Communications Inc,Nvidia Corp,6.333333
+Verizon Communications Inc,3,Zacks Investment Research,Jp Morgan Chase And Co,6.324944
+Verizon Communications Inc,2,Intel Corp,Nvidia Corp,6.310297
+Verizon Communications Inc,2,Design Works,Securities And Exchange Commission,6.290608
+Verizon Communications Inc,2,Home Box Office Inc,Facebook Inc,6.280764
+Verizon Communications Inc,3,Home Box Office Inc,Warner Media Llc,6.268722
+Verizon Communications Inc,2,Apple Inc,The Walt Disney Co,6.268458
+Verizon Communications Inc,2,Netflix Inc,Warner Media Llc,6.266982
+Verizon Communications Inc,3,Ant Group Limited,Alibaba Group Holding Ltd,6.245882
+Verizon Communications Inc,2,Vmware Inc,Dell Inc,6.231542
+Verizon Communications Inc,2,Apple Inc,Atandt Inc,6.221697
+Verizon Communications Inc,2,Boeing Company,Airbus,6.202008
+Verizon Communications Inc,2,Getty Images Inc,Huawei Technologies Company Ltd,6.202008
+Verizon Communications Inc,2,Getty Images Inc,Huawei Investment And Holding Co Ltd,6.202008
+Verizon Communications Inc,2,Apple Inc,Advanced Micro Devices Inc,6.202008
+Verizon Communications Inc,2,Intel Corp,Alphabet Inc,6.192164
+Verizon Communications Inc,3,Zacks Investment Research,Blackrock Group Limited,6.18439
+Verizon Communications Inc,2,The Walt Disney Co,Atandt Inc,6.16263
+Verizon Communications Inc,3,Bank Of America Corp,Wells Fargo And Company,6.149251
+Verizon Communications Inc,2,United Continental Holdings,Boeing Company,6.142942
+Verizon Communications Inc,2,Kkr Group Ltd,Federal Aviation Administration,6.128175
+Verizon Communications Inc,3,Facebook Inc,Paypal Holdings,6.125825
+Verizon Communications Inc,2,Getty Images Inc,Paypal Holdings,6.098641
+Verizon Communications Inc,2,Facebook Inc,Tesla Inc,6.093719
+Verizon Communications Inc,3,Apple Inc,Intel Corp,6.08483
+Verizon Communications Inc,2,House Srl,Amazon Com Inc,6.064186
+Verizon Communications Inc,3,Smic,Apple Inc,6.05262
+Verizon Communications Inc,2,Tesla Inc,Facebook Inc,6.044497
+Verizon Communications Inc,3,Netflix Inc,The Walt Disney Co,6.035051
+Verizon Communications Inc,3,Suntrust Banks Inc,Securities And Exchange Commission,6.026266
+Verizon Communications Inc,2,Hsbc Holdings Plc,Huawei Technologies Company Ltd,6.024808
+Verizon Communications Inc,2,Hsbc Holdings Plc,Huawei Investment And Holding Co Ltd,6.024808
+Verizon Communications Inc,2,Centers For Disease Control And Prevention,Pfizer Luxco Holdings Sarl,6.024808
+Verizon Communications Inc,2,Amazon Com Inc,National Aeronautics And Space Administration,6.017425
