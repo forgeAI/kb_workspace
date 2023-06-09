@@ -1,604 +1,260 @@
 ﻿GRAPH,NODE_DISTANCE,STARTING_NODE,ENDING_NODE,INTENSITY_
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Uber Technologies Inc,1.5
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Nn Inc,0.8
-Coca-Cola Company,1,Coca-Cola Company,Dr Pepper Snapple Group Inc,0.6
-Pepsico Inc,1,Pepsico Inc,Atandt Inc,3.2
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Alnylam Pharmaceuticals Inc,0.7
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Fair Isaac Corp,0.5
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,General Motors Limited,7.8
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Citigroup Inc,90.7
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Goldman Sachs Group Inc,3.4
-Coca-Cola Company,2,Philip Morris International Inc,Oci Partners Lp,4.4
-Microsoft Corp,2,Adobe Inc,Bank Of America Corp,0.5
-Microsoft Corp,2,Amazon Com Inc,Bank Of America Corp,69.3
-Microsoft Corp,2,Atandt Inc,Canadian Imperial Bank Of Commerce,0.5
-Goldman Sachs Group Inc,2,Federal National Mortgage Association,Bank Of America Corp,0.7
-Pepsico Inc,2,Jp Morgan Chase And Co,Berkshire Hathaway Inc,1.9
-Pepsico Inc,2,Wells Fargo And Company,Intel Corp,1.4
-Jp Morgan Chase And Co,2,Federal National Mortgage Association,Gse Systems Inc,0.9
-Jp Morgan Chase And Co,2,Federal National Mortgage Association,Credit Suisse Group,1.3
-Coca-Cola Company,2,Intercontinental Exchange,Pgande Corp,8.1
-Coca-Cola Company,2,Intercontinental Exchange,Bnp Paribas,6.3
-Microsoft Corp,2,Us Bancorp,Regions Financial Corp,0.8
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Dowdupont Inc,18
-Goldman Sachs Group Inc,3,Bank Of America Corp,Fitbit Inc,2.2
-Goldman Sachs Group Inc,3,Mastercard Inc,Amazon Com Inc,1.8
 Alphabet Inc,3,Berkshire Hathaway Inc,Goldman Sachs Group Inc,0.8
 Alphabet Inc,3,Facebook Inc,International Business Machines Corp,2.7
-Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Prudential Financial Inc,0.6
 Alphabet Inc,3,Goldman Sachs Group Inc,Bank Of New York Mellon Corp,0.7
 Alphabet Inc,3,Goldman Sachs Group Inc,Maiden Holdings Ltd,1
-Goldman Sachs Group Inc,3,Bank Of America Corp,Visa Inc,3.7
-Goldman Sachs Group Inc,3,Jp Morgan Chase And Co,Ambac Financial Group Inc,1.6
-Microsoft Corp,3,Hsbc Holdings Plc,Jp Morgan Chase And Co,2.6
 Alphabet Inc,3,Rait Financial Trust,Jp Morgan Chase And Co,0.7
-Microsoft Corp,3,Bank Of America Corp,Countrywide Plc,1.5
-Goldman Sachs Group Inc,3,Bank Of America Corp,Google,14.7
-Microsoft Corp,3,Bank Of America Corp,Bank Of Nova Scotia,1.8
-Pepsico Inc,3,Jp Morgan Chase And Co,Rockwell Automation Inc,4.1
-Microsoft Corp,3,Bank Of America Corp,Mdc Partners Inc,1.1
-Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,City Office Reit Inc,0.6
 Alphabet Inc,1,Alphabet Inc,Ebay Inc,22.1
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Bank Of America Corp,11.2
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Msci Inc,6.2
 Alphabet Inc,2,Sandp Global Inc,Citigroup Inc,0.9
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Twitter Inc,1
-Microsoft Corp,2,Atandt Inc,Cbs Corp,0.8
-Microsoft Corp,2,Cisco Systems Inc,Moodys Corp /De/,0.9
-Pepsico Inc,2,Jp Morgan Chase And Co,Nantkwest Inc,0.8
-Pepsico Inc,2,Wells Fargo And Company,Cbs Corp,3.1
-Microsoft Corp,2,International Business Machines Corp,Columbia Sportswear Co,0.8
-Jp Morgan Chase And Co,2,Federal National Mortgage Association,Philip Morris International Inc,0.9
-Microsoft Corp,2,Us Bancorp,Sandp Global Inc,75.4
-Morgan Stanley International Holdings Inc,3,Federal National Mortgage Association,Federal Home Loan Mortgage Corp,1.2
 Alphabet Inc,3,Morgan Stanley International Holdings Inc,Citigroup Inc,8
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,International Flavors And Fragrances Inc,1
-Goldman Sachs Group Inc,3,Wells Fargo And Company,Energy Transfer Lp  1,1.3
-Goldman Sachs Group Inc,3,Bank Of America Corp,Google,17.9
 Alphabet Inc,3,Jp Morgan Chase And Co,Deutsche Telekom Ag,0.7
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Dowdupont Inc,3.9
 Alphabet Inc,3,Citigroup Inc,Wells Fargo And Company,4
 Alphabet Inc,3,Goldman Sachs Group Inc,Thomson Reuters Corp,1
 Alphabet Inc,3,Apple Inc,Fitbit Inc,0.9
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Altria Group,0.7
-Microsoft Corp,3,Bank Of America Corp,First Republic Bank,3.6
-Microsoft Corp,3,Intel Corp,Facebook Inc,5.2
-Pepsico Inc,3,Jp Morgan Chase And Co,Nomura Holdings Inc,10.8
-Microsoft Corp,3,Sandp Global Inc,Ihs Markit Ltd,1.2
-Microsoft Corp,3,Goldman Sachs Group Inc,Metro Inc,1.7
-Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Metlife Inc,24.2
-Goldman Sachs Group Inc,3,Wells Fargo And Company,Hdfc Bank Ltd,3.1
-Pepsico Inc,1,Pepsico Inc,Jp Morgan Chase And Co,61.9
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,American International Group Inc,0.9
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Special Opportunities Fund Inc,1.4
-Microsoft Corp,1,Microsoft Corp,Cisco Systems Inc,16.7
 Alphabet Inc,1,Alphabet Inc,Netflix Inc,9.4
-Coca-Cola Company,1,Coca-Cola Company,Nestle Sa Cham Et Ve,0.8
-Microsoft Corp,2,Atandt Inc,Vanguard Group,88.5
-Goldman Sachs Group Inc,2,Intercontinental Exchange,Wells Fargo And Company,37.9
-Pepsico Inc,2,Atandt Inc,Bank Of America Corp,8.6
-Goldman Sachs Group Inc,2,Federal National Mortgage Association,Jp Morgan Chase And Co,3.1
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Ally Financial,0.5
 Alphabet Inc,2,Apple Inc,Goldman Sachs Group Inc,40.6
 Alphabet Inc,2,Oracle Corp,Bnp Paribas,0.5
-Jp Morgan Chase And Co,2,Federal National Mortgage Association,Ubs Group Ag,5.4
+Alphabet Inc,3,Nokia Corp,Facebook Inc,2.1
+Alphabet Inc,3,Jp Morgan Chase And Co,Fiat Chrysler Automobiles Nv,1.4
+Alphabet Inc,3,Jp Morgan Chase And Co,Berkshire Hathaway Inc,1
+Alphabet Inc,3,Ebay Inc,Goldman Sachs Group Inc,2
+Alphabet Inc,3,Facebook Inc,Google,3.6
+Alphabet Inc,1,Alphabet Inc,Sandp Global Inc,39.2
+Alphabet Inc,2,Oracle Corp,Microsoft Corp,12
+Alphabet Inc,3,Jp Morgan Chase And Co,Vanguard Group,2.7
+Alphabet Inc,3,Jp Morgan Chase And Co,Ericsson Inc,2.3
+Alphabet Inc,3,Jp Morgan Chase And Co,Sony Corp,1.4
+Alphabet Inc,3,Atandt Inc,Tbs International Plc,1
+Alphabet Inc,3,Atandt Inc,Cbs Corp,100
+Alphabet Inc,3,Goldman Sachs Group Inc,Berkshire Hathaway Inc,7.3
+Alphabet Inc,2,Oracle Corp,Intel Corp,0.8
+Alphabet Inc,3,Jp Morgan Chase And Co,Netflix Inc,1.6
+Alphabet Inc,3,Goldman Sachs Group Inc,Metro Inc,2.4
+Alphabet Inc,3,Hp Inc,Goldman Sachs Group Inc,1.1
+Alphabet Inc,3,Jp Morgan Chase And Co,New York Times Co,1.1
+Alphabet Inc,3,Facebook Inc,Wells Fargo And Company,1.3
+Alphabet Inc,3,Facebook Inc,Oracle Corp,5.2
+Alphabet Inc,2,Ebay Inc,Amazon Com Inc,2.4
+Alphabet Inc,2,Amazon Com Inc,Wells Fargo And Company,0.9
+Alphabet Inc,3,Jp Morgan Chase And Co,Thomson Reuters Corp,6.1
+Alphabet Inc,3,Nokia Corp,Jp Morgan Chase And Co,2.2
+Alphabet Inc,3,Goldman Sachs Group Inc,Berkshire Hathaway Inc,2.6
+Alphabet Inc,3,Citigroup Inc,Wells Fargo And Company,2.9
+Alphabet Inc,3,Jp Morgan Chase And Co,Netflix Inc,8.6
+Alphabet Inc,3,Jp Morgan Chase And Co,Linkedin Corp,1.8
+Alphabet Inc,3,Hp Inc,Goldman Sachs Group Inc,4.1
+Alphabet Inc,3,Goldman Sachs Group Inc,Pepsico Inc,6.2
+Alphabet Inc,2,Amazon Com Inc,Hp Inc,4.6
+Alphabet Inc,3,Federal Home Loan Mortgage Corp,Bank Of America Corp,0.8
+Alphabet Inc,2,Oracle Corp,Hsbc Holdings Plc,0.5
+Alphabet Inc,3,Apple Inc,Atandt Inc,9
+Alphabet Inc,2,Ebay Inc,Agco Corp,1.1
+Alphabet Inc,2,Oracle Corp,Jp Morgan Chase And Co,6.3
+Alphabet Inc,3,Apple Inc,Sony Corp,2.5
+Alphabet Inc,3,Jp Morgan Chase And Co,Merck And Co Inc,0.9
+Alphabet Inc,3,Jp Morgan Chase And Co,Thomson Reuters Corp,2.3
+Alphabet Inc,3,Facebook Inc,Fitbit Inc,1
+Alphabet Inc,2,Oracle Corp,Citigroup Inc,1.1
+Alphabet Inc,3,Jp Morgan Chase And Co,Thomson Reuters Corp,1.1
+Alphabet Inc,3,Apple Inc,Nestle Sa Cham Et Ve,1.1
+Alphabet Inc,3,Ebay Inc,Tesla Inc,0.7
+Alphabet Inc,3,Nokia Corp,Facebook Inc,1.1
+Alphabet Inc,2,Apple Inc,Deutsche Bank,1.1
+Alphabet Inc,2,Oracle Corp,Sap Se,0.7
+Alphabet Inc,2,Netflix Inc,Amazon Com Inc,0.9
+Alphabet Inc,3,Atandt Inc,Southwest Airlines Company,0.9
+Alphabet Inc,3,Jp Morgan Chase And Co,Qualcomm Inc/De,1.1
+Alphabet Inc,3,Jp Morgan Chase And Co,Starbucks Corp,1.2
+Alphabet Inc,3,Ebay Inc,Wells Fargo And Company,1.4
+Alphabet Inc,3,Ebay Inc,Nasdaq Inc,1
+Alphabet Inc,3,Facebook Inc,Boeing Company,1.5
+Alphabet Inc,3,Atandt Inc,Warner Media Llc,4
+Alphabet Inc,2,Oracle Corp,Bank Of America Corp,6.1
+Alphabet Inc,3,Apple Inc,Home Depot Inc,0.7
+Alphabet Inc,3,Jp Morgan Chase And Co,T-Mobile Us,0.8
+Alphabet Inc,3,Jp Morgan Chase And Co,Infosys Ltd,1.1
+Alphabet Inc,2,Ebay Inc,Paypal Holdings,2.1
+Alphabet Inc,2,Apple Inc,Bank Of America Corp,7.3
+Alphabet Inc,2,Oracle Corp,Hp Inc,2.7
+Alphabet Inc,3,Jp Morgan Chase And Co,T-Mobile Us,0.9
+Alphabet Inc,3,Alliance Data Systems Corp,Jp Morgan Chase And Co,0.9
+Alphabet Inc,3,Sandp Global Inc,Ihs Markit Ltd,0.8
+Alphabet Inc,2,Ebay Inc,Sandp Global Inc,2.1
+Alphabet Inc,2,Amazon Com Inc,Morgan Stanley International Holdings Inc,2
+Alphabet Inc,3,Goldman Sachs Group Inc,Agco Corp,1.4
+Alphabet Inc,3,Jp Morgan Chase And Co,Amazon Com Inc,7.3
+Alphabet Inc,3,Jp Morgan Chase And Co,Amazon Com Inc,6.4
+Alphabet Inc,3,Jp Morgan Chase And Co,Broadcom Ltd,1.1
+Alphabet Inc,3,Apple Inc,Atandt Inc,6.8
+Alphabet Inc,3,Jp Morgan Chase And Co,Boeing Company,0.7
+Alphabet Inc,3,Jp Morgan Chase And Co,Vanguard Group,4.9
+Alphabet Inc,1,Alphabet Inc,Bank Of New York Mellon Corp,1
+Alphabet Inc,2,Apple Inc,Nokia Corp,0.7
+Alphabet Inc,3,Twitter Inc,Apple Inc,0.9
+Alphabet Inc,3,Jp Morgan Chase And Co,Alibaba Group Holding Ltd,1.6
+Alphabet Inc,3,Jp Morgan Chase And Co,Bnp Paribas,1.1
+Alphabet Inc,2,Ebay Inc,Apple Inc,2.4
+Alphabet Inc,2,Oracle Corp,Ubs Group Ag,0.6
+Alphabet Inc,2,Oracle Corp,Cerner Corp,3.3
+Alphabet Inc,3,Apple Inc,Sap Se,1.2
+Alphabet Inc,3,Atandt Inc,Deutsche Bank,21.4
+Alphabet Inc,3,Goldman Sachs Group Inc,Metro Inc,6.5
+Alphabet Inc,3,Federal Home Loan Mortgage Corp,Jp Morgan Chase And Co,3.5
+Alphabet Inc,3,Jp Morgan Chase And Co,Apple Inc,1.7
+Alphabet Inc,1,Alphabet Inc,The Walt Disney Co,12.3
+Alphabet Inc,2,Ebay Inc,Jp Morgan Chase And Co,6.7
+Alphabet Inc,3,Goldman Sachs Group Inc,Pepsico Inc,2.3
+Alphabet Inc,3,Amazon Com Inc,Capital One Financial Corp,0.7
+Alphabet Inc,3,Apple Inc,Sony Corp,1.9
+Alphabet Inc,3,Twitter Inc,Apple Inc,2.9
+Alphabet Inc,3,Jp Morgan Chase And Co,Citigroup Inc,0.9
+Alphabet Inc,3,Jp Morgan Chase And Co,Abbvie Inc,1.6
+Alphabet Inc,2,Sandp Global Inc,Ihs Markit Ltd,5.2
+Alphabet Inc,2,Oracle Corp,International Business Machines Corp,1.6
+Alphabet Inc,3,Linkedin Corp,Apple Inc,3.4
+Alphabet Inc,3,Facebook Inc,Uber Technologies Inc,3
+Alphabet Inc,3,Jp Morgan Chase And Co,Linkedin Corp,0.7
+Alphabet Inc,3,Jp Morgan Chase And Co,T-Mobile Us,1.5
+Alphabet Inc,3,Jp Morgan Chase And Co,Vanguard Group,2.4
+Alphabet Inc,1,Alphabet Inc,Oracle Corp,100
+Alphabet Inc,1,Alphabet Inc,Apple Inc,51.3
+Alphabet Inc,2,Oracle Corp,Wells Fargo And Company,10
+Alphabet Inc,3,Jp Morgan Chase And Co,Netflix Inc,1.8
+Alphabet Inc,3,Jp Morgan Chase And Co,Starbucks Corp,0.7
+Alphabet Inc,3,Jp Morgan Chase And Co,T-Mobile Us,4.1
+Alphabet Inc,3,Apple Inc,Sap Se,0.9
+Alphabet Inc,3,Jp Morgan Chase And Co,Nestle Sa Cham Et Ve,0.8
+Alphabet Inc,3,Jp Morgan Chase And Co,Amazon Com Inc,12.9
+Alphabet Inc,2,Netflix Inc,Jp Morgan Chase And Co,1.1
+Alphabet Inc,2,Oracle Corp,Sun Biopharma Inc,0.7
+Alphabet Inc,2,Amazon Com Inc,Goldman Sachs Group Inc,12.9
+Alphabet Inc,3,Facebook Inc,Ubs Group Ag,4.7
+Alphabet Inc,3,Jp Morgan Chase And Co,Ericsson Inc,0.8
+Alphabet Inc,3,Atandt Inc,Deutsche Telekom Ag,1.6
+Alphabet Inc,3,Jp Morgan Chase And Co,Starbucks Corp,3.2
+Alphabet Inc,2,Ebay Inc,Wells Fargo And Company,1
+Alphabet Inc,3,Jp Morgan Chase And Co,Thomson Reuters Corp,1.3
+Alphabet Inc,3,Nokia Corp,Jp Morgan Chase And Co,1.2
+Alphabet Inc,3,Amazon Com Inc,Federal Home Loan Mortgage Corp,1.5
+Alphabet Inc,1,Alphabet Inc,Amazon Com Inc,44.7
+Alphabet Inc,3,Facebook Inc,Microsoft Corp,6.1
+Alphabet Inc,3,Hp Inc,Goldman Sachs Group Inc,1.2
+Alphabet Inc,3,Atandt Inc,Bnp Paribas,0.9
+Alphabet Inc,3,Jp Morgan Chase And Co,Amazon Com Inc,34.8
+Alphabet Inc,1,Alphabet Inc,Linkedin Corp,6.3
+Alphabet Inc,3,Amazon Com Inc,Federal Home Loan Mortgage Corp,1.6
+Alphabet Inc,3,Jp Morgan Chase And Co,Adidas Ag,0.8
+Alphabet Inc,3,Jp Morgan Chase And Co,Unilever Plc,3
+Alphabet Inc,3,Facebook Inc,Volkswagen Ag,2.4
+Alphabet Inc,2,Apple Inc,Atandt Inc,100
+Alphabet Inc,2,Oracle Corp,Credit Suisse Group,0.6
+Alphabet Inc,3,Jp Morgan Chase And Co,Unilever Plc,1.1
+Alphabet Inc,3,Jp Morgan Chase And Co,Toyota Motor Corp,1.1
+Alphabet Inc,3,Facebook Inc,Shopify Inc,0.9
+Alphabet Inc,3,Citigroup Inc,Wells Fargo And Company,2
+Alphabet Inc,3,Jp Morgan Chase And Co,Vanguard Group,13.1
+Alphabet Inc,3,Apple Inc,Nestle Sa Cham Et Ve,0.9
+Coca-Cola Company,1,Coca-Cola Company,Dr Pepper Snapple Group Inc,0.6
+Coca-Cola Company,2,Philip Morris International Inc,Oci Partners Lp,4.4
+Coca-Cola Company,2,Intercontinental Exchange,Pgande Corp,8.1
+Coca-Cola Company,2,Intercontinental Exchange,Bnp Paribas,6.3
+Coca-Cola Company,1,Coca-Cola Company,Nestle Sa Cham Et Ve,0.8
 Coca-Cola Company,2,Intercontinental Exchange,Bank Of New York Mellon Corp,2.1
 Coca-Cola Company,3,Bank Of America Corp,Federal Home Loan Mortgage Corp,37.2
 Coca-Cola Company,3,Bank Of America Corp,Bank Of New York Mellon Corp,14.4
 Coca-Cola Company,3,Bank Of America Corp,Deutsche Telekom Ag,4.2
-Jp Morgan Chase And Co,3,Bank Of America Corp,Intercontinental Exchange,3.9
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Oasis Petroleum Inc,0.6
-Goldman Sachs Group Inc,3,Jp Morgan Chase And Co,City Office Reit Inc,2.5
-Goldman Sachs Group Inc,3,Bank Of America Corp,Tesla Inc,44.1
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,State Street Corp,5.3
-Goldman Sachs Group Inc,3,Wells Fargo And Company,Energy Transfer Lp  1,2.9
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Brighthouse Financial Inc,0.6
-Alphabet Inc,3,Nokia Corp,Facebook Inc,2.1
-Goldman Sachs Group Inc,3,Bank Of America Corp,Google,24
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Deutsche Bank,1.9
-Alphabet Inc,3,Jp Morgan Chase And Co,Fiat Chrysler Automobiles Nv,1.4
-Alphabet Inc,3,Jp Morgan Chase And Co,Berkshire Hathaway Inc,1
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Brighthouse Financial Inc,2.6
-Alphabet Inc,3,Ebay Inc,Goldman Sachs Group Inc,2
-Alphabet Inc,3,Facebook Inc,Google,3.6
-Microsoft Corp,3,Sandp Global Inc,Goldman Sachs Group Inc,100
-Pepsico Inc,3,Deutsche Bank,Netflix Inc,3.7
-Goldman Sachs Group Inc,3,Bank Of America Corp,Tesla Inc,18.1
-Alphabet Inc,1,Alphabet Inc,Sandp Global Inc,39.2
 Coca-Cola Company,1,Coca-Cola Company,Intercontinental Exchange,100
-Microsoft Corp,2,Amazon Com Inc,Goldman Sachs Group Inc,4.9
-Alphabet Inc,2,Oracle Corp,Microsoft Corp,12
-Pepsico Inc,2,Jp Morgan Chase And Co,Waddell And Reed Financial Inc,0.7
-Pepsico Inc,2,Jp Morgan Chase And Co,Thomson Reuters Corp,3.1
-Pepsico Inc,2,Jp Morgan Chase And Co,Assured Guaranty Ltd,1.6
-Pepsico Inc,2,Jp Morgan Chase And Co,Royal Bank Of Canada,0.6
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Deutsche Bank,3.2
 Coca-Cola Company,2,Nrg Energy,Moodys Corp /De/,0.6
-Pepsico Inc,2,Wells Fargo And Company,Allergan Plc,1.6
-Microsoft Corp,2,International Business Machines Corp,Bnp Paribas,0.6
-Pepsico Inc,2,Wells Fargo And Company,Delta Air Lines Inc,1.1
-Jp Morgan Chase And Co,2,Federal National Mortgage Association,Capital One Financial Corp,0.9
-Microsoft Corp,2,International Business Machines Corp,Mizuho Financial Group Inc,0.6
 Coca-Cola Company,2,Intercontinental Exchange,Credit Suisse Ag,0.5
-Microsoft Corp,2,Us Bancorp,Keycorp /New/,0.5
-Goldman Sachs Group Inc,3,Bank Of America Corp,Wells Fargo And Company,2.9
-Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,International Flavors And Fragrances Inc,1
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Mbia Inc,1.1
-Jp Morgan Chase And Co,3,Morgan Stanley International Holdings Inc,Citigroup Inc,0.6
-Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,City Office Reit Inc,0.5
-Morgan Stanley International Holdings Inc,3,Intercontinental Exchange,Ubs Group Ag,0.5
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Deere And Company,1.1
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Legg Mason Inc,0.8
-Alphabet Inc,3,Jp Morgan Chase And Co,Vanguard Group,2.7
 Coca-Cola Company,3,Citigroup Inc,Berkshire Hathaway Inc,3.3
 Coca-Cola Company,3,Citigroup Inc,Metlife Inc,3.9
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,International Flavors And Fragrances Inc,1.3
-Alphabet Inc,3,Jp Morgan Chase And Co,Ericsson Inc,2.3
-Alphabet Inc,3,Jp Morgan Chase And Co,Sony Corp,1.4
-Goldman Sachs Group Inc,3,Bank Of America Corp,Fitbit Inc,2.9
-Alphabet Inc,3,Atandt Inc,Tbs International Plc,1
-Alphabet Inc,3,Atandt Inc,Cbs Corp,100
-Morgan Stanley International Holdings Inc,3,Federal Home Loan Mortgage Corp,Allstate Corp,0.7
-Microsoft Corp,3,Hsbc Holdings Plc,Facebook Inc,7.8
-Goldman Sachs Group Inc,3,Bank Of America Corp,Commerzbank Ag,1.4
-Microsoft Corp,3,Symantec Corp,Citigroup Inc,6.7
 Coca-Cola Company,3,Bank Of America Corp,Merck And Co Inc,1.7
-Microsoft Corp,3,American Airlines Group Inc,Apple Inc,1.5
-Goldman Sachs Group Inc,3,Wells Fargo And Company,Amex Global Holdings Cv,7.2
-Goldman Sachs Group Inc,3,Wells Fargo And Company,Applied Materials Inc /De,4.5
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Nii Holdings Inc,0.5
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,General Electric Company,0.9
-Microsoft Corp,2,Oracle Corp,Vanguard Group,5.5
-Microsoft Corp,2,Cisco Systems Inc,Dell Inc,5.2
-Microsoft Corp,2,Atandt Inc,Sprint Corp,3
-Morgan Stanley International Holdings Inc,2,Mbia Inc,Bank Of America Corp,1.1
-Pepsico Inc,2,Jp Morgan Chase And Co,Federal Home Loan Mortgage Corp,2.1
 Coca-Cola Company,2,Jefferies Financial Group Inc,Federal National Mortgage Association,1.5
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Citigroup Inc,16
-Microsoft Corp,2,International Business Machines Corp,Hcl Technologies Limited,1
-Microsoft Corp,2,International Business Machines Corp,Red Hat Inc,35.9
-Pepsico Inc,2,Wells Fargo And Company,Gilead Sciences Inc,0.7
-Microsoft Corp,2,International Business Machines Corp,Sap Se,1.3
 Coca-Cola Company,2,Intercontinental Exchange,Formfactor Inc,0.6
 Coca-Cola Company,2,Intercontinental Exchange,Prudential Financial Inc,0.8
-Jp Morgan Chase And Co,3,Bank Of America Corp,First Republic Bank,0.5
-Microsoft Corp,3,Wells Fargo And Company,Thomson Reuters Corp,1.2
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Hersha Hospitality Trust,0.5
-Goldman Sachs Group Inc,3,Bank Of America Corp,Tesla Inc,60.5
-Goldman Sachs Group Inc,3,Jp Morgan Chase And Co,Pimco Dynamic Credit Income Fun,2.9
-Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Coastal Financial Corp,0.5
 Coca-Cola Company,3,Citigroup Inc,Mastercard Inc,2.2
-Pepsico Inc,3,Mastercard Inc,Apple Inc,24.5
-Alphabet Inc,3,Goldman Sachs Group Inc,Berkshire Hathaway Inc,7.3
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Genworth Financial Inc,0.9
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Ltc Properties Inc,0.5
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Axa Sa,0.7
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Legg Mason Inc,0.8
 Coca-Cola Company,3,Bank Of America Corp,Aleris International Inc,1.7
-Microsoft Corp,3,Jp Morgan Chase And Co,Public Storage,1.5
-Goldman Sachs Group Inc,3,Bank Of America Corp,Wells Fargo And Company,4.7
-Microsoft Corp,3,Dell Inc,Jp Morgan Chase And Co,1.7
-Microsoft Corp,3,Bank Of America Corp,Pimco Dynamic Credit Income Fun,2
-Pepsico Inc,3,Jp Morgan Chase And Co,Zimmer Biomet Holdings,2.6
-Microsoft Corp,3,Goldman Sachs Group Inc,Metro Inc,2.1
-Microsoft Corp,3,Goldman Sachs Group Inc,Intercontinental Exchange,2.3
-Microsoft Corp,3,Bank Of America Corp,Oci Partners Lp,1.6
-Jp Morgan Chase And Co,3,Intercontinental Exchange,Goldman Sachs Group Inc,1.2
-Goldman Sachs Group Inc,3,Wells Fargo And Company,Regions Financial Corp,2.2
-Pepsico Inc,1,Pepsico Inc,Wells Fargo And Company,100
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Metro Inc,5.1
-Microsoft Corp,1,Microsoft Corp,Verizon Communications Inc,6.1
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Ihs Markit Ltd,16
-Microsoft Corp,2,Amex Global Holdings Cv,Visa Inc,0.8
-Microsoft Corp,2,Verizon Communications Inc,Atandt Inc,8
-Goldman Sachs Group Inc,2,Citigroup Inc,Public Storage,0.5
-Alphabet Inc,2,Oracle Corp,Intel Corp,0.8
-Microsoft Corp,2,Atandt Inc,The Toronto-Dominion Bank,1.2
-Microsoft Corp,2,Atandt Inc,Deutsche Telekom Ag,1.4
-Pepsico Inc,2,Jp Morgan Chase And Co,Pimco Dynamic Credit Income Fun,1.4
 Coca-Cola Company,2,Jefferies Financial Group Inc,Federal Home Loan Mortgage Corp,0.6
 Coca-Cola Company,2,Intercontinental Exchange,Southern Company,8.1
-Alphabet Inc,3,Jp Morgan Chase And Co,Netflix Inc,1.6
-Alphabet Inc,3,Goldman Sachs Group Inc,Metro Inc,2.4
-Goldman Sachs Group Inc,3,Federal Home Loan Mortgage Corp,Hsbc Holdings Plc,7.3
-Goldman Sachs Group Inc,3,Bank Of America Corp,Bank Of New York Mellon Corp,2.5
-Goldman Sachs Group Inc,3,Bank Of America Corp,Google,13.1
-Alphabet Inc,3,Hp Inc,Goldman Sachs Group Inc,1.1
 Coca-Cola Company,3,Bank Of America Corp,Chase Corp,2.1
 Coca-Cola Company,3,Bank Of America Corp,General Motors Limited,98
-Alphabet Inc,3,Jp Morgan Chase And Co,New York Times Co,1.1
-Pepsico Inc,3,Bank Of America Corp,Deutsche Bank,9.5
-Pepsico Inc,3,Bank Of America Corp,Mastercard Inc,4.1
-Alphabet Inc,3,Facebook Inc,Wells Fargo And Company,1.3
-Alphabet Inc,3,Facebook Inc,Oracle Corp,5.2
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Realogy Holdings Corp,1.4
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,State Street Corp,0.9
 Coca-Cola Company,3,Goldman Sachs Group Inc,Metro Inc,2
-Pepsico Inc,3,Deutsche Bank,Netflix Inc,3.1
-Goldman Sachs Group Inc,3,Bank Of America Corp,Commerzbank Ag,1.2
-Pepsico Inc,3,Jp Morgan Chase And Co,Pimco Dynamic Credit Income Fun,2.6
-Goldman Sachs Group Inc,3,Mastercard Inc,Amazon Com Inc,1.4
-Goldman Sachs Group Inc,3,Wells Fargo And Company,Public Storage,2.7
 Coca-Cola Company,1,Coca-Cola Company,Tyson Foods Inc,1.1
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Ocwen Financial Corp,0.7
 Coca-Cola Company,1,Coca-Cola Company,Anheuser-Busch Inbev Sa,0.6
 Coca-Cola Company,1,Coca-Cola Company,Post Holdings Inc,1.2
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Thomson Reuters Corp,1.5
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Ubs Group Ag,3.1
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Morgan Stanley International Holdings Inc,29.5
-Microsoft Corp,2,Oracle Corp,Citigroup Inc,0.6
-Microsoft Corp,2,Cisco Systems Inc,Viasat Inc,1.1
-Goldman Sachs Group Inc,2,Intercontinental Exchange,Bank Of America Corp,3.1
-Microsoft Corp,2,Atandt Inc,Crown Holdings Inc,0.5
-Alphabet Inc,2,Ebay Inc,Amazon Com Inc,2.4
-Pepsico Inc,2,Jp Morgan Chase And Co,Sandp Global Inc,11.5
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Petroquest Energy,0.6
 Coca-Cola Company,2,Campbell Soup Company,Sandp Global Inc,2.6
-Alphabet Inc,2,Amazon Com Inc,Wells Fargo And Company,0.9
-Microsoft Corp,2,International Business Machines Corp,Royal Bank Of Canada,5.1
 Coca-Cola Company,2,Intercontinental Exchange,Cboe Global Markets Inc,1.1
-Microsoft Corp,2,Us Bancorp,Yrc Worldwide,0.6
 Coca-Cola Company,3,Bank Of America Corp,Coastal Financial Corp,3.7
 Coca-Cola Company,3,Bank Of America Corp,Intercontinental Exchange,100
 Coca-Cola Company,3,Goldman Sachs Group Inc,Federal Home Loan Mortgage Corp,4.4
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Oasis Petroleum Inc,0.5
-Jp Morgan Chase And Co,3,Intercontinental Exchange,General Motors Limited,0.5
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,State Street Corp,1.1
-Pepsico Inc,3,Mastercard Inc,Apple Inc,58.5
-Goldman Sachs Group Inc,3,Jp Morgan Chase And Co,City Office Reit Inc,2.4
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Altria Group,0.7
-Alphabet Inc,3,Jp Morgan Chase And Co,Thomson Reuters Corp,6.1
-Microsoft Corp,3,Bank Of America Corp,Coastal Financial Corp,1.1
-Microsoft Corp,3,Bank Of America Corp,Federal National Mortgage Association,1.4
-Morgan Stanley International Holdings Inc,3,Intercontinental Exchange,Ubs Group Ag,0.6
-Pepsico Inc,3,Jp Morgan Chase And Co,Waddell And Reed Financial Inc,11.9
 Coca-Cola Company,3,Bank Of America Corp,Astrazeneca Plc,1.8
-Goldman Sachs Group Inc,3,Wells Fargo And Company,Energy Transfer Lp  1,15.7
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,E Trade Financial Corp,1.1
 Coca-Cola Company,1,Coca-Cola Company,Jefferies Financial Group Inc,2.5
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Piper Jaffray Companies,1.2
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Intercontinental Exchange,46.5
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Discover Financial Services,1.7
-Pepsico Inc,1,Pepsico Inc,Sandp Global Inc,3.2
-Morgan Stanley International Holdings Inc,2,Berkshire Hathaway Inc,Goldman Sachs Group Inc,0.7
 Coca-Cola Company,2,Post Holdings Inc,Wells Fargo And Company,0.6
-Morgan Stanley International Holdings Inc,2,Citigroup Inc,Bank Of America Corp,48.9
-Microsoft Corp,2,Verizon Communications Inc,Vodafone Group Plc,0.8
-Microsoft Corp,2,Cisco Systems Inc,Jp Morgan Chase And Co,8.5
 Coca-Cola Company,2,Philip Morris International Inc,Hsbc Holdings Plc,2.8
 Coca-Cola Company,2,Philip Morris International Inc,London Stock Exchange Group Plc,0.7
 Coca-Cola Company,2,Jefferies Financial Group Inc,Sandp Global Inc,3.6
-Pepsico Inc,2,Jp Morgan Chase And Co,Amazon Com Inc,0.8
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Lloyds Banking Group Plc,2.4
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Norfolk Southern Corp,2.2
-Goldman Sachs Group Inc,2,Citigroup Inc,Bank Of America Corp,29.8
-Goldman Sachs Group Inc,2,Citigroup Inc,Intercontinental Exchange,5.7
-Jp Morgan Chase And Co,2,Federal National Mortgage Association,Deutsche Bank,0.6
-Jp Morgan Chase And Co,2,Federal National Mortgage Association,Ally Financial,0.5
 Coca-Cola Company,2,Intercontinental Exchange,Highwoods Properties Inc,0.5
 Coca-Cola Company,2,Intercontinental Exchange,Wells Fargo And Company,92.2
 Coca-Cola Company,2,Intercontinental Exchange,Federal Home Loan Mortgage Corp,2.6
 Coca-Cola Company,2,Intercontinental Exchange,Ing Groep Nv,9
-Goldman Sachs Group Inc,3,Federal Home Loan Mortgage Corp,Jp Morgan Chase And Co,16.7
-Goldman Sachs Group Inc,3,Bank Of America Corp,International Flavors And Fragrances Inc,1.2
-Alphabet Inc,3,Nokia Corp,Jp Morgan Chase And Co,2.2
-Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Mastercard Inc,2
 Coca-Cola Company,3,Citigroup Inc,General Electric Company,7.5
-Alphabet Inc,3,Goldman Sachs Group Inc,Berkshire Hathaway Inc,2.6
-Alphabet Inc,3,Citigroup Inc,Wells Fargo And Company,2.9
-Alphabet Inc,3,Jp Morgan Chase And Co,Netflix Inc,8.6
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Oasis Petroleum Inc,0.8
-Alphabet Inc,3,Jp Morgan Chase And Co,Linkedin Corp,1.8
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Axa Sa,0.7
-Goldman Sachs Group Inc,3,Bank Of America Corp,Mastercard Inc,1.1
-Goldman Sachs Group Inc,3,Mastercard Inc,Amazon Com Inc,1.5
 Coca-Cola Company,3,Bank Of America Corp,Oasis Petroleum Inc,4.4
 Coca-Cola Company,3,Bank Of America Corp,International Flavors And Fragrances Inc,11.5
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Mbia Inc,1.6
-Pepsico Inc,3,Bank Of America Corp,Pimco Dynamic Credit Income Fun,2.8
-Pepsico Inc,3,Deutsche Bank,Jp Morgan Chase And Co,18.4
-Microsoft Corp,3,Sandp Global Inc,Exxon Mobil Corp,4
-Morgan Stanley International Holdings Inc,3,Federal Home Loan Mortgage Corp,Allstate Corp,0.6
-Goldman Sachs Group Inc,3,Bank Of America Corp,Bank Of New York Mellon Corp,2.1
-Pepsico Inc,3,Jp Morgan Chase And Co,Amc Entertainment Inc,5.9
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Oasis Petroleum Inc,0.5
-Microsoft Corp,3,Bank Of America Corp,Ubs Group Ag,5.6
-Microsoft Corp,3,Atandt Inc,Thomson Reuters Corp,1.4
 Coca-Cola Company,3,Bank Of America Corp,Federal Home Loan Mortgage Corp,5.3
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Us Bancorp,18.9
 Coca-Cola Company,1,Coca-Cola Company,Barclays Plc,0.6
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Moodys Corp /De/,3.2
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Atandt Inc,1.5
-Microsoft Corp,2,Oracle Corp,Hsbc Holdings Plc,0.6
-Microsoft Corp,2,Amex Global Holdings Cv,Vanguard Group,2.9
-Goldman Sachs Group Inc,2,Morgan Stanley International Holdings Inc,Intercontinental Exchange,1.4
-Microsoft Corp,2,Cisco Systems Inc,Broadcom Ltd,2.4
-Microsoft Corp,2,Atandt Inc,Bnp Paribas,2
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Ambac Financial Group Inc,1
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Philip Morris International Inc,5.5
-Pepsico Inc,2,Jp Morgan Chase And Co,Mastercard Inc,5.7
 Coca-Cola Company,2,Nrg Energy,Comerica Inc /New/,0.8
 Coca-Cola Company,2,Nrg Energy,Facebook Inc,4.3
-Pepsico Inc,2,Wells Fargo And Company,Virgin America Inc,1.1
-Pepsico Inc,2,Wells Fargo And Company,Cold Spring Capital Inc,0.8
 Coca-Cola Company,2,Intercontinental Exchange,Caterpillar Inc,1.8
 Coca-Cola Company,2,Intercontinental Exchange,Federal National Mortgage Association,66.5
-Jp Morgan Chase And Co,3,Bank Of America Corp,Intercontinental Exchange,7.6
-Jp Morgan Chase And Co,3,Federal Home Loan Mortgage Corp,Philip Morris International Inc,0.7
-Goldman Sachs Group Inc,3,Bank Of America Corp,Wells Fargo And Company,2.1
-Goldman Sachs Group Inc,3,Jp Morgan Chase And Co,Aon Plc,4.2
-Goldman Sachs Group Inc,3,Jp Morgan Chase And Co,Ambac Financial Group Inc,1.6
-Pepsico Inc,3,Deutsche Bank,Netflix Inc,2.9
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Cincinnati Bell Inc,2
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Vanguard Group,100
-Alphabet Inc,3,Hp Inc,Goldman Sachs Group Inc,4.1
-Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Wells Fargo And Company,55.5
-Alphabet Inc,3,Goldman Sachs Group Inc,Pepsico Inc,6.2
-Goldman Sachs Group Inc,3,Bank Of America Corp,First Republic Bank,3
-Goldman Sachs Group Inc,3,Bank Of America Corp,American Airlines Group Inc,2.6
-Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Eastman Kodak Co,0.5
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,State Street Corp,5.3
 Coca-Cola Company,3,Bank Of America Corp,China Mobile [Hong Kong] Ltd,3.5
 Coca-Cola Company,3,Bank Of America Corp,Whirlpool Corp,3
 Coca-Cola Company,3,Bank Of America Corp,Mbia Inc,8.3
 Coca-Cola Company,3,Bank Of America Corp,Spotify Technology Sa,1.9
-Goldman Sachs Group Inc,3,Bank Of America Corp,Countrywide Plc,1.2
-Goldman Sachs Group Inc,3,Bank Of America Corp,Mastercard Inc,1.4
-Goldman Sachs Group Inc,3,Bank Of America Corp,Fitbit Inc,1.8
-Goldman Sachs Group Inc,3,Bank Of America Corp,American Airlines Group Inc,1.6
-Jp Morgan Chase And Co,3,Federal Home Loan Mortgage Corp,Philip Morris International Inc,0.5
-Microsoft Corp,3,Comcast Corp A,Amazon Com Inc,1.8
 Coca-Cola Company,3,Bank Of America Corp,Intercontinental Exchange,14.2
 Coca-Cola Company,1,Coca-Cola Company,Hershey Co,1
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Bank Of New York Mellon Corp,3.2
-Microsoft Corp,1,Microsoft Corp,Facebook Inc,9.3
-Microsoft Corp,2,Oracle Corp,Jp Morgan Chase And Co,16.8
-Microsoft Corp,2,Verizon Communications Inc,Ubs Group Ag,0.6
-Microsoft Corp,2,Verizon Communications Inc,Nasdaq Inc,0.5
 Coca-Cola Company,2,Pepsico Inc,Atandt Inc,0.8
 Coca-Cola Company,2,Nrg Energy,Credit Suisse Group,0.5
-Alphabet Inc,2,Amazon Com Inc,Hp Inc,4.6
-Morgan Stanley International Holdings Inc,2,Federal Home Loan Mortgage Corp,Bank Of America Corp,0.9
-Morgan Stanley International Holdings Inc,2,Federal Home Loan Mortgage Corp,Wells Fargo And Company,1
-Microsoft Corp,2,International Business Machines Corp,Dowdupont Inc,0.9
 Coca-Cola Company,2,Intercontinental Exchange,Ellie Mae Inc,5.6
 Coca-Cola Company,2,Intercontinental Exchange,Royal Bank Of Canada,3.8
 Coca-Cola Company,2,Intercontinental Exchange,Corecivic Inc,1.1
-Goldman Sachs Group Inc,3,Jp Morgan Chase And Co,Pimco Dynamic Credit Income Fun,3
-Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Metlife Inc,16.3
-Pepsico Inc,3,Assured Guaranty Ltd,Goldman Sachs Group Inc,5.6
-Pepsico Inc,3,Deutsche Bank,Vanguard Group,7.1
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Vanguard Group,17.1
-Alphabet Inc,3,Federal Home Loan Mortgage Corp,Bank Of America Corp,0.8
-Goldman Sachs Group Inc,3,Bank Of America Corp,Maiden Holdings Ltd,3.4
-Goldman Sachs Group Inc,3,Bank Of America Corp,Uber Technologies Inc,17.7
-Goldman Sachs Group Inc,3,Bank Of America Corp,Fitbit Inc,3.6
-Pepsico Inc,3,Jp Morgan Chase And Co,Royal Dutch Shell,9.9
-Pepsico Inc,3,Jp Morgan Chase And Co,Citigroup Inc,33.5
-Pepsico Inc,3,Jp Morgan Chase And Co,Berkshire Hathaway Inc,71.6
-Microsoft Corp,3,Bank Of America Corp,Bank Of New York Mellon Corp,9.2
-Microsoft Corp,3,Bank Of America Corp,Msa Safety Inc,1.2
-Microsoft Corp,3,Bank Of America Corp,Countrywide Plc,2.7
-Microsoft Corp,3,Deutsche Bank,Netflix Inc,2.6
-Pepsico Inc,3,Deutsche Bank,Jp Morgan Chase And Co,34.4
-Pepsico Inc,1,Pepsico Inc,Morgan Stanley International Holdings Inc,1.7
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Citigroup Inc,100
 Coca-Cola Company,2,Pepsico Inc,Starbucks Corp,1.1
-Microsoft Corp,2,Atandt Inc,Royal Bank Of Canada,10
-Alphabet Inc,2,Oracle Corp,Hsbc Holdings Plc,0.5
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Neogenomics Inc,4.2
-Pepsico Inc,2,Jp Morgan Chase And Co,Total System Services Inc,0.8
 Coca-Cola Company,2,Jefferies Financial Group Inc,Wells Fargo And Company,2.1
-Jp Morgan Chase And Co,2,Federal National Mortgage Association,Sandp Global Inc,6.6
-Jp Morgan Chase And Co,2,Federal National Mortgage Association,Cognizant Technology Solutions Corp,3.9
-Microsoft Corp,3,Wells Fargo And Company,International Flavors And Fragrances Inc,1.3
-Goldman Sachs Group Inc,3,Bank Of America Corp,Uber Technologies Inc,9.6
-Morgan Stanley International Holdings Inc,3,Discover Financial Services,Citigroup Inc,0.8
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Hersha Hospitality Trust,0.5
 Coca-Cola Company,3,Bank Of America Corp,Paypal Holdings,7.6
-Alphabet Inc,3,Apple Inc,Atandt Inc,9
 Coca-Cola Company,3,Goldman Sachs Group Inc,Federal Home Loan Mortgage Corp,7.6
-Microsoft Corp,3,Hewlett Packard Enterprise Comp,Hp Inc,1
-Jp Morgan Chase And Co,3,Intercontinental Exchange,The Walt Disney Co,0.5
-Goldman Sachs Group Inc,3,Bank Of America Corp,International Flavors And Fragrances Inc,2.3
-Goldman Sachs Group Inc,3,Jp Morgan Chase And Co,Aon Plc,4.1
-Pepsico Inc,3,Mastercard Inc,Apple Inc,24.4
-Microsoft Corp,3,Bank Of America Corp,Nomura Holdings Inc,1.3
-Microsoft Corp,3,Bank Of America Corp,Federal National Mortgage Association,2.6
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Deutsche Bank,1.2
-Microsoft Corp,3,Bank Of America Corp,Gol Linhas Aereas Inteligentes Sa,1.6
-Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Prudential Financial Inc,1.6
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,First Republic Bank,0.7
-Jp Morgan Chase And Co,3,Deutsche Bank,Facebook Inc,0.7
-Microsoft Corp,3,Atandt Inc,Digital Realty Trust,4.1
-Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Mastercard Inc,2.4
 Coca-Cola Company,1,Coca-Cola Company,Apple Inc,3.1
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Mitsubishi Ufj Financial Group Inc,2.4
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Visa Inc,3.6
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Pimco Dynamic Credit Income Fun,0.8
 Coca-Cola Company,2,Keurig Dr Pepper Inc,Bank Of America Corp,38.3
-Morgan Stanley International Holdings Inc,2,Jp Morgan Chase And Co,Bank Of America Corp,1.1
-Alphabet Inc,2,Ebay Inc,Agco Corp,1.1
 Coca-Cola Company,2,Jefferies Financial Group Inc,Berkshire Hathaway Inc,0.6
-Pepsico Inc,2,Jp Morgan Chase And Co,Coastal Financial Corp,1.5
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Goldman Sachs Group Inc,23.7
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Wells Fargo And Company,16.7
-Alphabet Inc,2,Oracle Corp,Jp Morgan Chase And Co,6.3
-Pepsico Inc,2,Wells Fargo And Company,Aon Plc,0.6
 Coca-Cola Company,2,Intercontinental Exchange,Brixmor Property Group Inc,6.6
-Morgan Stanley International Holdings Inc,3,Federal Home Loan Mortgage Corp,Allstate Corp,0.6
-Microsoft Corp,3,Sandp Global Inc,Goldman Sachs Group Inc,18.4
-Pepsico Inc,3,Berkshire Hathaway Inc,Twitter Inc,4
 Coca-Cola Company,3,Bank Of America Corp,Astrazeneca Plc,12.6
 Coca-Cola Company,3,Bank Of America Corp,Merck And Co Inc,11.6
-Alphabet Inc,3,Apple Inc,Sony Corp,2.5
-Goldman Sachs Group Inc,3,Wells Fargo And Company,Amex Global Holdings Cv,1.3
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Aleris International Inc,1.5
-Alphabet Inc,3,Jp Morgan Chase And Co,Merck And Co Inc,0.9
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Ltc Properties Inc,0.5
-Jp Morgan Chase And Co,3,Bank Of America Corp,Intercontinental Exchange,1
-Alphabet Inc,3,Jp Morgan Chase And Co,Thomson Reuters Corp,2.3
-Pepsico Inc,3,Bank Of America Corp,International Flavors And Fragrances Inc,10
-Pepsico Inc,3,Bank Of America Corp,First Republic Bank,5
-Pepsico Inc,3,Bank Of America Corp,Cincinnati Bell Inc,3.8
-Pepsico Inc,3,Bank Of America Corp,Oasis Petroleum Inc,5.6
-Pepsico Inc,3,Bank Of America Corp,Hsbc Holdings Plc,4
-Alphabet Inc,3,Facebook Inc,Fitbit Inc,1
-Microsoft Corp,3,Bank Of America Corp,China Mobile [Hong Kong] Ltd,1.3
-Microsoft Corp,3,Bank Of America Corp,Adt Inc,1
-Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,International Flavors And Fragrances Inc,2.5
 Coca-Cola Company,3,Federal National Mortgage Association,Citigroup Inc,3
-Microsoft Corp,3,American Airlines Group Inc,Apple Inc,2.9
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Mbia Inc,1
-Pepsico Inc,3,Jp Morgan Chase And Co,Maiden Holdings Ltd,100
-Goldman Sachs Group Inc,3,Bank Of America Corp,Uber Technologies Inc,10.9
 Coca-Cola Company,3,Bank Of America Corp,Walmart Inc,3.5
 Coca-Cola Company,3,Bank Of America Corp,Linkedin Corp,1.6
 Coca-Cola Company,3,Bank Of America Corp,International Flavors And Fragrances Inc,1.6
-Microsoft Corp,3,Deutsche Bank,Bank Of America Corp,7.4
-Goldman Sachs Group Inc,3,Bank Of America Corp,Uber Technologies Inc,4
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Intercontinental Exchange,13.1
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Federal Home Loan Mortgage Corp,2.3
-Microsoft Corp,1,Microsoft Corp,Atandt Inc,100
-Pepsico Inc,1,Pepsico Inc,Bank Of New York Mellon Corp,1.1
-Pepsico Inc,2,Hsbc Holdings Plc,Mastercard Inc,0.7
 Coca-Cola Company,2,Philip Morris International Inc,Swedish Match Ab Ord,0.7
 Coca-Cola Company,2,Nrg Energy,Centrica Plc Ord New,0.7
-Morgan Stanley International Holdings Inc,2,Intercontinental Exchange,Wells Fargo And Company,15.6
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Amtrust Financial Services Inc,0.6
-Pepsico Inc,2,Sandp Global Inc,Ihs Markit Ltd,1.2
-Alphabet Inc,2,Oracle Corp,Citigroup Inc,1.1
-Morgan Stanley International Holdings Inc,2,Allstate Corp,Wells Fargo And Company,1.1
-Jp Morgan Chase And Co,2,Federal National Mortgage Association,Wells Fargo And Company,6.2
-Pepsico Inc,2,Wells Fargo And Company,Gse Systems Inc,0.5
-Jp Morgan Chase And Co,2,Federal National Mortgage Association,Alphabet Inc,0.9
 Coca-Cola Company,2,Intercontinental Exchange,Black Knight Inc,18.9
 Coca-Cola Company,2,Intercontinental Exchange,Costco Wholesale Corp /New,1
 Coca-Cola Company,2,Intercontinental Exchange,Hsbc Holdings Plc,3.8
-Microsoft Corp,2,Us Bancorp,Waddell And Reed Financial Inc,0.8
-Alphabet Inc,3,Jp Morgan Chase And Co,Thomson Reuters Corp,1.1
-Goldman Sachs Group Inc,3,Jp Morgan Chase And Co,Waddell And Reed Financial Inc,3.2
 Coca-Cola Company,3,Bank Of America Corp,Expedia Group Inc,3.4
 Coca-Cola Company,3,Bank Of America Corp,Pgande Corp,21.4
-Alphabet Inc,3,Apple Inc,Nestle Sa Cham Et Ve,1.1
-Jp Morgan Chase And Co,3,Bank Of America Corp,Intercontinental Exchange,0.6
-Alphabet Inc,3,Ebay Inc,Tesla Inc,0.7
-Alphabet Inc,3,Nokia Corp,Facebook Inc,1.1
-Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,International Flavors And Fragrances Inc,2.7
-Microsoft Corp,3,Bank Of America Corp,Nestle Sa Cham Et Ve,20.6
-Pepsico Inc,3,Jp Morgan Chase And Co,Eaton Corp Plc,10.5
-Pepsico Inc,3,Jp Morgan Chase And Co,City Office Reit Inc,10.8
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Vodafone Group Plc,1.3
-Goldman Sachs Group Inc,3,Bank Of America Corp,International Flavors And Fragrances Inc,2.8
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Deutsche Bank,1.7
-Pepsico Inc,3,Conagra Brands Inc,Nestle Sa Cham Et Ve,2.6
-Goldman Sachs Group Inc,3,Wells Fargo And Company,Metlife Inc,24.3
-Goldman Sachs Group Inc,3,Wells Fargo And Company,International Flavors And Fragrances Inc,5.6
-Goldman Sachs Group Inc,3,Wells Fargo And Company,Vmware Inc,2.6
 Coca-Cola Company,1,Coca-Cola Company,Philip Morris International Inc,24.4
 Coca-Cola Company,1,Coca-Cola Company,Campbell Soup Company,1.5
-Microsoft Corp,2,Amazon Com Inc,Nasdaq Inc,0.5
-Morgan Stanley International Holdings Inc,2,Barclays Plc,Jp Morgan Chase And Co,0.8
-Goldman Sachs Group Inc,2,Maiden Holdings Ltd,Intercontinental Exchange,0.5
-Goldman Sachs Group Inc,2,Morgan Stanley International Holdings Inc,Sandp Global Inc,0.7
 Coca-Cola Company,2,Jefferies Financial Group Inc,Thomson Reuters Corp,0.5
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Credit Suisse Group,1
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Suntrust Banks Inc,0.6
-Alphabet Inc,2,Apple Inc,Deutsche Bank,1.1
-Alphabet Inc,2,Oracle Corp,Sap Se,0.7
-Alphabet Inc,2,Netflix Inc,Amazon Com Inc,0.9
-Pepsico Inc,2,Wells Fargo And Company,Intercontinental Exchange,100
 Coca-Cola Company,2,Intercontinental Exchange,Duke Energy Corp,1
-Microsoft Corp,2,Us Bancorp,Dxc Technology Company,0.7
-Goldman Sachs Group Inc,3,Jp Morgan Chase And Co,Dollar General Corp,1.4
-Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Metlife Inc,20.6
-Alphabet Inc,3,Atandt Inc,Southwest Airlines Company,0.9
-Alphabet Inc,3,Jp Morgan Chase And Co,Qualcomm Inc/De,1.1
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Dowdupont Inc,18.2
-Jp Morgan Chase And Co,3,Federal Home Loan Mortgage Corp,Citigroup Inc,4.8
-Goldman Sachs Group Inc,3,Bank Of America Corp,Bank Of New York Mellon Corp,3.4
-Alphabet Inc,3,Jp Morgan Chase And Co,Starbucks Corp,1.2
 Coca-Cola Company,3,Bank Of America Corp,Colony Capital Inc,3.5
 Coca-Cola Company,3,Bank Of America Corp,The Toronto-Dominion Bank,3.2
-Alphabet Inc,3,Ebay Inc,Wells Fargo And Company,1.4
-Microsoft Corp,3,Bank Of America Corp,Jetblue Airways Corp,1.2
-Microsoft Corp,3,Delta Air Lines Inc,Amazon Com Inc,1.1
-Goldman Sachs Group Inc,3,Wells Fargo And Company,Sempra Energy,3.3
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Eaton Vance Corp,100
-Morgan Stanley International Holdings Inc,2,Thomson Reuters Corp,Citigroup Inc,0.7
 Coca-Cola Company,2,Kellogg Company,Bank Of America Corp,39.4
-Microsoft Corp,2,Cisco Systems Inc,Sony Corp,1.2
-Goldman Sachs Group Inc,2,Intercontinental Exchange,Allstate Corp,1.9
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Allstate Corp,5.2
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,The Toronto-Dominion Bank,1.5
 Coca-Cola Company,2,Nrg Energy,Citigroup Inc,88.5
 Coca-Cola Company,2,Nrg Energy,Deutsche Bank,10
-Microsoft Corp,2,Us Bancorp,Thomson Reuters Corp,2.2
 Coca-Cola Company,3,Bank Of America Corp,Fisher Scientific International Inc,5.9
 Coca-Cola Company,3,Bank Of America Corp,Anheuser-Busch Inbev Sa,1.8
-Jp Morgan Chase And Co,3,Federal Home Loan Mortgage Corp,Citigroup Inc,100
-Jp Morgan Chase And Co,3,Federal Home Loan Mortgage Corp,Ubs Group Ag,0.7
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Deutsche Bank,1.3
-Jp Morgan Chase And Co,3,Intercontinental Exchange,Paypal Holdings,0.5
-Goldman Sachs Group Inc,3,Bank Of America Corp,Equifax Inc,1.7
-Pepsico Inc,3,Deutsche Bank,Ford Motor Company,2.7
-Alphabet Inc,3,Ebay Inc,Nasdaq Inc,1
-Alphabet Inc,3,Facebook Inc,Boeing Company,1.5
-Alphabet Inc,3,Atandt Inc,Warner Media Llc,4
-Goldman Sachs Group Inc,3,Bank Of America Corp,First Republic Bank,3.7
-Pepsico Inc,3,Jp Morgan Chase And Co,Broadcom Ltd,32.4
-Pepsico Inc,3,Jp Morgan Chase And Co,First Republic Bank,19.8
-Pepsico Inc,3,Federal Home Loan Mortgage Corp,Jp Morgan Chase And Co,15.3
-Microsoft Corp,3,Bank Of America Corp,Adt Inc,1.9
-Microsoft Corp,3,Sandp Global Inc,Goldman Sachs Group Inc,39.9
-Microsoft Corp,3,Deutsche Bank,Jp Morgan Chase And Co,10.4
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Oasis Petroleum Inc,0.7
-Microsoft Corp,3,Deutsche Bank,Netflix Inc,3.3
 Coca-Cola Company,1,Coca-Cola Company,Equifax Inc,1
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Federal National Mortgage Association,2.9
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Thomson Reuters Corp,1.7
 Coca-Cola Company,1,Coca-Cola Company,Owens Corning Inc,0.5
-Pepsico Inc,2,Visa Inc,Jp Morgan Chase And Co,24.1
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Royal Bank Of Scotland Group Plc,1
-Pepsico Inc,2,Hsbc Holdings Plc,Maiden Holdings Ltd,2.2
-Alphabet Inc,2,Oracle Corp,Bank Of America Corp,6.1
-Microsoft Corp,2,International Business Machines Corp,Honeywell International Inc,0.5
 Coca-Cola Company,2,Intercontinental Exchange,Blackbaud Inc,0.7
 Coca-Cola Company,2,Intercontinental Exchange,Ubs Group Ag,18.7
-Alphabet Inc,3,Apple Inc,Home Depot Inc,0.7
-Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Bbandt Corp,1.7
-Alphabet Inc,3,Jp Morgan Chase And Co,T-Mobile Us,0.8
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Realogy Holdings Corp,8.1
-Alphabet Inc,3,Jp Morgan Chase And Co,Infosys Ltd,1.1
 Coca-Cola Company,3,Bank Of America Corp,Wayfair Inc,2
-Microsoft Corp,3,Bank Of America Corp,Mastercard Inc,2.4
-Microsoft Corp,3,Sandp Global Inc,Ihs Markit Ltd,3
-Morgan Stanley International Holdings Inc,3,Intercontinental Exchange,Ubs Group Ag,0.6
-Pepsico Inc,3,Jp Morgan Chase And Co,Total System Services Inc,2.6
-Pepsico Inc,3,Deutsche Bank,Ford Motor Company,3.2
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,First Republic Bank,5.2
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Bank Of New York Mellon Corp,1.9
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Moodys Corp /De/,0.8
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Federal National Mortgage Association,1
-Microsoft Corp,2,Oracle Corp,Cerner Corp,2.6
-Morgan Stanley International Holdings Inc,2,Citigroup Inc,Special Opportunities Fund Inc,0.5
-Microsoft Corp,2,Atandt Inc,Wells Fargo And Company,37.3
-Microsoft Corp,2,Atandt Inc,Ciena Corp,0.6
-Microsoft Corp,2,Atandt Inc,Tbs International Plc,1.4
-Microsoft Corp,2,Facebook Inc,Nasdaq Inc,0.7
-Pepsico Inc,2,Jp Morgan Chase And Co,Federal National Mortgage Association,5.5
-Alphabet Inc,2,Ebay Inc,Paypal Holdings,2.1
-Alphabet Inc,2,Apple Inc,Bank Of America Corp,7.3
-Alphabet Inc,2,Oracle Corp,Hp Inc,2.7
 Coca-Cola Company,2,Intercontinental Exchange,International Business Machines Corp,2.9
-Microsoft Corp,2,Us Bancorp,Suntrust Banks Inc,0.8
-Morgan Stanley International Holdings Inc,3,Intercontinental Exchange,Ubs Group Ag,0.5
-Goldman Sachs Group Inc,3,Bank Of America Corp,Equifax Inc,1.2
-Goldman Sachs Group Inc,3,Wells Fargo And Company,Metlife Inc,2
-Jp Morgan Chase And Co,3,Intercontinental Exchange,Verizon Communications Inc,0.5
-Alphabet Inc,3,Jp Morgan Chase And Co,T-Mobile Us,0.9
-Alphabet Inc,3,Alliance Data Systems Corp,Jp Morgan Chase And Co,0.9
-Alphabet Inc,3,Sandp Global Inc,Ihs Markit Ltd,0.8
 Coca-Cola Company,3,Bank Of America Corp,Countrywide Plc,7.1
 Coca-Cola Company,3,Bank Of America Corp,Federal National Mortgage Association,3.1
 Coca-Cola Company,3,Bank Of America Corp,Carnival Corp,26.5
@@ -606,511 +262,855 @@ Coca-Cola Company,3,Bank Of America Corp,American Water Works Company Inc,1.9
 Coca-Cola Company,3,Bank Of America Corp,Novartis Ag,6.4
 Coca-Cola Company,3,Bank Of America Corp,Hsbc Holdings Plc,5.1
 Coca-Cola Company,3,Bank Of America Corp,Nisource Inc/De,2.2
-Goldman Sachs Group Inc,3,Bank Of America Corp,American Airlines Group Inc,3.2
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Aleris International Inc,1.5
-Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Mastercard Inc,1.6
 Coca-Cola Company,3,Bank Of America Corp,General Motors Limited,13.9
 Coca-Cola Company,3,Bank Of America Corp,Pgande Corp,3
-Microsoft Corp,3,Warner Media Llc,Jp Morgan Chase And Co,3.2
-Pepsico Inc,1,Pepsico Inc,Hsbc Holdings Plc,18.4
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Mbia Inc,2.6
-Microsoft Corp,1,Microsoft Corp,3m Company,0.6
-Microsoft Corp,1,Microsoft Corp,Oracle Corp,10.6
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Aleris International Inc,1.1
-Microsoft Corp,2,Cisco Systems Inc,Tivo Corp,0.8
 Coca-Cola Company,2,Kellogg Company,Deutsche Bank,1.4
-Microsoft Corp,2,Atandt Inc,Thomson Reuters Corp,11.4
-Alphabet Inc,2,Ebay Inc,Sandp Global Inc,2.1
-Pepsico Inc,2,Jp Morgan Chase And Co,Public Storage,1.5
 Coca-Cola Company,2,Philip Morris International Inc,Citigroup Inc,8.6
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Aon Plc,3.4
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Manulife Financial Corp,1
-Alphabet Inc,2,Amazon Com Inc,Morgan Stanley International Holdings Inc,2
-Goldman Sachs Group Inc,2,General Motors Limited,Allstate Corp,0.6
 Coca-Cola Company,2,Intercontinental Exchange,Msci Inc,0.9
 Coca-Cola Company,2,Intercontinental Exchange,Thomson Reuters Corp,15.1
-Microsoft Corp,3,Wells Fargo And Company,Federal Home Loan Mortgage Corp,5.6
 Coca-Cola Company,3,Bank Of America Corp,Maiden Holdings Ltd,9.6
-Jp Morgan Chase And Co,3,Federal Home Loan Mortgage Corp,Oasis Petroleum Inc,0.5
-Alphabet Inc,3,Goldman Sachs Group Inc,Agco Corp,1.4
-Alphabet Inc,3,Jp Morgan Chase And Co,Amazon Com Inc,7.3
-Alphabet Inc,3,Jp Morgan Chase And Co,Amazon Com Inc,6.4
-Alphabet Inc,3,Jp Morgan Chase And Co,Broadcom Ltd,1.1
-Alphabet Inc,3,Apple Inc,Atandt Inc,6.8
-Alphabet Inc,3,Jp Morgan Chase And Co,Boeing Company,0.7
-Goldman Sachs Group Inc,3,Bank Of America Corp,Canadian Imperial Bank Of Commerce,1.5
-Goldman Sachs Group Inc,3,Bank Of America Corp,Dte Energy Co,1.3
-Alphabet Inc,3,Jp Morgan Chase And Co,Vanguard Group,4.9
-Microsoft Corp,3,Sandp Global Inc,Goldman Sachs Group Inc,4.6
 Coca-Cola Company,3,Bank Of America Corp,First Republic Bank,2.1
-Microsoft Corp,3,Wells Fargo And Company,Federal Home Loan Mortgage Corp,2.1
-Alphabet Inc,1,Alphabet Inc,Bank Of New York Mellon Corp,1
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,London Stock Exchange Group Plc,0.5
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Federal Home Loan Mortgage Corp,100
 Coca-Cola Company,1,Coca-Cola Company,Nrg Energy,6
-Microsoft Corp,2,Verizon Communications Inc,Sandp Global Inc,7.8
-Goldman Sachs Group Inc,2,Maiden Holdings Ltd,Sandp Global Inc,0.5
-Microsoft Corp,2,Cisco Systems Inc,Outfront Media Inc,0.6
-Microsoft Corp,2,Cisco Systems Inc,Alphabet Inc,3.7
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Federal National Mortgage Association,100
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Hsbc Holdings Plc,4.5
-Pepsico Inc,2,Jp Morgan Chase And Co,Fair Isaac Corp,1.6
-Pepsico Inc,2,Jp Morgan Chase And Co,Schwab Charles Corp,0.9
 Coca-Cola Company,2,Pepsico Inc,Bnp Paribas,0.6
-Alphabet Inc,2,Apple Inc,Nokia Corp,0.7
-Pepsico Inc,2,Wells Fargo And Company,Federal National Mortgage Association,2.5
-Pepsico Inc,2,Wells Fargo And Company,Waddell And Reed Financial Inc,0.8
-Jp Morgan Chase And Co,2,Federal National Mortgage Association,Public Storage,0.7
 Coca-Cola Company,2,Intercontinental Exchange,Ntt Docomo Inc,0.9
 Coca-Cola Company,2,Intercontinental Exchange,London Stock Exchange Group Plc,11.3
-Alphabet Inc,3,Twitter Inc,Apple Inc,0.9
-Goldman Sachs Group Inc,3,Jp Morgan Chase And Co,Nantkwest Inc,1.4
 Coca-Cola Company,3,Citigroup Inc,Twitter Inc,6
-Pepsico Inc,3,Bank Of America Corp,Pgande Corp,3
-Pepsico Inc,3,Bank Of America Corp,Duke Energy Corp,6.9
-Jp Morgan Chase And Co,3,Intercontinental Exchange,Federal Home Loan Mortgage Corp,1
-Goldman Sachs Group Inc,3,Bank Of America Corp,Equifax Inc,2.2
-Goldman Sachs Group Inc,3,Jp Morgan Chase And Co,Dollar General Corp,1.3
-Alphabet Inc,3,Jp Morgan Chase And Co,Alibaba Group Holding Ltd,1.6
-Alphabet Inc,3,Jp Morgan Chase And Co,Bnp Paribas,1.1
-Goldman Sachs Group Inc,3,Bank Of America Corp,Bank Of New York Mellon Corp,4.2
-Goldman Sachs Group Inc,3,Bank Of America Corp,Maiden Holdings Ltd,4.2
-Microsoft Corp,3,Bank Of America Corp,Sanofi Sa,2.8
-Microsoft Corp,3,Bank Of America Corp,Coastal Financial Corp,2
-Jp Morgan Chase And Co,3,Goldman Sachs Group Inc,Facebook Inc,1.6
-Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Coastal Financial Corp,0.6
-Microsoft Corp,3,Thomson Reuters Corp,Goldman Sachs Group Inc,1.1
-Microsoft Corp,1,Microsoft Corp,Amex Global Holdings Cv,6.1
-Microsoft Corp,1,Microsoft Corp,International Business Machines Corp,41.6
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Federal National Mortgage Association,45.7
 Coca-Cola Company,1,Coca-Cola Company,Molson Coors Brewing Co,0.5
-Morgan Stanley International Holdings Inc,2,Citigroup Inc,Countrywide Plc,1
-Morgan Stanley International Holdings Inc,2,Citigroup Inc,Visa Inc,0.6
-Microsoft Corp,2,Cisco Systems Inc,Nokia Corp,0.9
-Microsoft Corp,2,Cisco Systems Inc,Bank Of America Corp,100
-Microsoft Corp,2,Cisco Systems Inc,Sasol Ltd,1.2
-Microsoft Corp,2,Cisco Systems Inc,Emc Corp,0.5
-Morgan Stanley International Holdings Inc,2,Mastercard Inc,Citigroup Inc,4.4
-Alphabet Inc,2,Ebay Inc,Apple Inc,2.4
-Alphabet Inc,2,Oracle Corp,Ubs Group Ag,0.6
-Alphabet Inc,2,Oracle Corp,Cerner Corp,3.3
-Pepsico Inc,2,Wells Fargo And Company,Boeing Company,1.4
 Coca-Cola Company,2,Intercontinental Exchange,Barclays Plc,2.3
-Morgan Stanley International Holdings Inc,3,Goldman Sachs Group Inc,Visa Inc,1
-Goldman Sachs Group Inc,3,Bank Of America Corp,International Flavors And Fragrances Inc,1.7
 Coca-Cola Company,3,Citigroup Inc,Linkedin Corp,1.9
 Coca-Cola Company,3,Bank Of America Corp,Sirius Xm Holdings Inc,5.4
 Coca-Cola Company,3,Bank Of America Corp,Berkshire Hathaway Inc,3.7
 Coca-Cola Company,3,Bank Of America Corp,American Electric Power Company,7.3
 Coca-Cola Company,3,Federal National Mortgage Association,Citigroup Inc,2.8
-Jp Morgan Chase And Co,3,Intercontinental Exchange,Goldman Sachs Group Inc,1
-Pepsico Inc,3,Deutsche Bank,Vanguard Group,7.7
-Goldman Sachs Group Inc,3,Jp Morgan Chase And Co,Coastal Financial Corp,2.7
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Mbia Inc,1.6
-Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Wells Fargo And Company,43.9
-Pepsico Inc,3,Bank Of America Corp,Assured Guaranty Ltd,3.2
-Alphabet Inc,3,Apple Inc,Sap Se,1.2
-Goldman Sachs Group Inc,3,Huntsman Corp,Citigroup Inc,1.9
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,International Flavors And Fragrances Inc,1.4
-Jp Morgan Chase And Co,3,Intercontinental Exchange,Federal Home Loan Mortgage Corp,0.6
-Pepsico Inc,3,Jp Morgan Chase And Co,Australia And New Zealand Bank,5
-Pepsico Inc,3,Jp Morgan Chase And Co,Mastercard Inc,36
-Pepsico Inc,3,Jp Morgan Chase And Co,Fair Isaac Corp,4.3
-Pepsico Inc,3,Jp Morgan Chase And Co,Jp Morgan Investment Management Inc,4.5
-Microsoft Corp,3,Bank Of America Corp,Mastercard Inc,4.4
-Microsoft Corp,3,Bank Of America Corp,Pimco Dynamic Credit Income Fun,3.5
-Goldman Sachs Group Inc,3,Bank Of America Corp,Tesla Inc,49.9
-Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Wells Fargo And Company,1.2
-Microsoft Corp,3,Sandp Global Inc,Exxon Mobil Corp,1.6
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Caterpillar Inc,0.6
 Coca-Cola Company,2,Kellogg Company,Thomson Reuters Corp,0.5
-Microsoft Corp,2,Atandt Inc,Target Corp,1
-Microsoft Corp,2,Atandt Inc,Frontier Communications Corp,0.6
-Pepsico Inc,2,Jp Morgan Chase And Co,City Office Reit Inc,1.2
-Pepsico Inc,2,Jp Morgan Chase And Co,London Stock Exchange Group Plc,0.5
-Pepsico Inc,2,Jp Morgan Chase And Co,Smtc Corp,0.6
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,American International Group Inc,0.6
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Ubs Group Ag,14.6
 Coca-Cola Company,2,Molson Coors Brewing Co,International Flavors And Fragrances Inc,0.7
 Coca-Cola Company,2,Nrg Energy,Nantkwest Inc,0.5
 Coca-Cola Company,2,Intercontinental Exchange,Facebook Inc,2.2
-Goldman Sachs Group Inc,3,Bank Of America Corp,First Republic Bank,2.2
-Jp Morgan Chase And Co,3,Federal Home Loan Mortgage Corp,Hsbc Holdings Plc,3.6
 Coca-Cola Company,3,Bank Of America Corp,Maxim Integrated Products Inc,3.5
-Alphabet Inc,3,Atandt Inc,Deutsche Bank,21.4
-Alphabet Inc,3,Goldman Sachs Group Inc,Metro Inc,6.5
-Alphabet Inc,3,Federal Home Loan Mortgage Corp,Jp Morgan Chase And Co,3.5
-Goldman Sachs Group Inc,3,Wells Fargo And Company,Metlife Inc,4.5
-Alphabet Inc,3,Jp Morgan Chase And Co,Apple Inc,1.7
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Smtc Corp,0.6
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Genworth Financial Inc,0.9
-Microsoft Corp,3,Bank Of America Corp,Noble Energy Inc,1.8
-Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Eastman Kodak Co,0.5
 Coca-Cola Company,1,Coca-Cola Company,Coca-Cola European Partners Plc,0.6
-Alphabet Inc,1,Alphabet Inc,The Walt Disney Co,12.3
 Coca-Cola Company,1,Coca-Cola Company,Kellogg Company,1.6
-Microsoft Corp,1,Microsoft Corp,Bank Of New York Mellon Corp,4.3
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Mastercard Inc,0.6
 Coca-Cola Company,2,Nrg Energy,Archer Daniels Midland Co,8.2
-Microsoft Corp,2,Atandt Inc,Moodys Corp /De/,6.5
-Alphabet Inc,2,Ebay Inc,Jp Morgan Chase And Co,6.7
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Fair Isaac Corp,3.7
-Pepsico Inc,2,Wells Fargo And Company,Apple Inc,0.7
-Microsoft Corp,2,International Business Machines Corp,American Airlines Group Inc,1.1
-Microsoft Corp,2,International Business Machines Corp,Hewlett Packard Enterprise Comp,17.9
-Microsoft Corp,2,International Business Machines Corp,Synnex Corp,0.7
-Microsoft Corp,3,Hsbc Holdings Plc,Facebook Inc,6
-Alphabet Inc,3,Goldman Sachs Group Inc,Pepsico Inc,2.3
-Alphabet Inc,3,Amazon Com Inc,Capital One Financial Corp,0.7
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Deere And Company,1.1
-Alphabet Inc,3,Apple Inc,Sony Corp,1.9
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Cincinnati Bell Inc,2
-Jp Morgan Chase And Co,3,Federal Home Loan Mortgage Corp,Hsbc Holdings Plc,2.5
-Microsoft Corp,3,Bank Of America Corp,International Flavors And Fragrances Inc,4.9
-Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Bbandt Corp,1.9
-Goldman Sachs Group Inc,3,Bank Of America Corp,Medtronic Public Limited Company,1.5
-Microsoft Corp,3,Hsbc Holdings Plc,Facebook Inc,2
-Pepsico Inc,3,Jp Morgan Chase And Co,Transocean Ltd,3.7
-Microsoft Corp,3,Bank Of America Corp,Assured Guaranty Ltd,4.8
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Aib Group Plc,0.5
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Credit Suisse Group,1.1
 Coca-Cola Company,1,Coca-Cola Company,Monster Beverage Corp,0.8
-Pepsico Inc,1,Pepsico Inc,Walmart Inc,7.1
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Mitsubishi Corp,0.7
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,State Street Corp,0.5
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Navistar International Corp,0.7
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Intercontinental Exchange,2.2
 Coca-Cola Company,1,Coca-Cola Company,Twitter Inc,6.6
 Coca-Cola Company,2,Twitter Inc,Facebook Inc,5.1
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Ocwen Financial Corp,2.7
-Morgan Stanley International Holdings Inc,2,Jp Morgan Chase And Co,Citigroup Inc,21.9
 Coca-Cola Company,2,Nrg Energy,Oci Partners Lp,1.4
-Pepsico Inc,2,Wells Fargo And Company,London Stock Exchange Group Plc,1
-Microsoft Corp,3,Hsbc Holdings Plc,Jp Morgan Chase And Co,1.2
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Deutsche Bank,1.4
-Microsoft Corp,3,Hewlett Packard Enterprise Comp,Bank Of America Corp,2.8
-Jp Morgan Chase And Co,3,Intercontinental Exchange,The Walt Disney Co,0.9
-Alphabet Inc,3,Twitter Inc,Apple Inc,2.9
-Goldman Sachs Group Inc,3,Bank Of America Corp,Wells Fargo And Company,3.8
-Goldman Sachs Group Inc,3,Bank Of America Corp,Tesla Inc,81.2
-Pepsico Inc,3,Mastercard Inc,Ubs Group Ag,3.3
 Coca-Cola Company,3,Bank Of America Corp,Avon Products Inc,3.7
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Aib Group Plc,0.5
-Alphabet Inc,3,Jp Morgan Chase And Co,Citigroup Inc,0.9
-Alphabet Inc,3,Jp Morgan Chase And Co,Abbvie Inc,1.6
-Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Prudential Financial Inc,1.5
-Goldman Sachs Group Inc,3,Bank Of America Corp,Uber Technologies Inc,21.8
-Microsoft Corp,3,Bank Of America Corp,Deutsche Bank,14
-Jp Morgan Chase And Co,3,Deutsche Bank,Facebook Inc,0.5
-Microsoft Corp,3,Bank Of America Corp,Regions Financial Corp,2.6
-Microsoft Corp,3,Bank Of America Corp,Advance Auto Parts Inc,1.1
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,First Republic Bank,0.6
 Coca-Cola Company,3,Bank Of America Corp,Bank Of New York Mellon Corp,2
-Microsoft Corp,3,Goldman Sachs Group Inc,Intercontinental Exchange,1.8
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Jp Morgan Chase And Co,8.7
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Maiden Holdings Ltd,33.1
-Alphabet Inc,2,Sandp Global Inc,Ihs Markit Ltd,5.2
-Microsoft Corp,2,Atandt Inc,Oci Nv,3.6
-Goldman Sachs Group Inc,2,Intercontinental Exchange,Deutsche Bank,0.5
-Goldman Sachs Group Inc,2,Ihs Markit Ltd,Bank Of America Corp,2.9
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Capital One Financial Corp,1.2
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Radian Group Inc,1
-Morgan Stanley International Holdings Inc,2,Jp Morgan Chase And Co,Wells Fargo And Company,1.4
 Coca-Cola Company,2,Philip Morris International Inc,Deutsche Bank,12
 Coca-Cola Company,2,Philip Morris International Inc,Unilever Nv Ord,1
 Coca-Cola Company,2,Pepsico Inc,Unilever Nv Ord,0.8
-Pepsico Inc,2,Hsbc Holdings Plc,Ubs Group Ag,1.1
-Alphabet Inc,2,Oracle Corp,International Business Machines Corp,1.6
 Coca-Cola Company,2,Intercontinental Exchange,Cold Spring Capital Inc,5.5
 Coca-Cola Company,2,Intercontinental Exchange,Trueblue Inc,0.6
-Microsoft Corp,2,Us Bancorp,Hsbc Holdings Plc,0.5
-Jp Morgan Chase And Co,3,Bank Of America Corp,International Flavors And Fragrances Inc,0.6
-Microsoft Corp,3,Hsbc Holdings Plc,Facebook Inc,1.2
-Alphabet Inc,3,Linkedin Corp,Apple Inc,3.4
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Realogy Holdings Corp,8.2
-Goldman Sachs Group Inc,3,Bank Of America Corp,Visa Inc,2.8
-Goldman Sachs Group Inc,3,Bank Of America Corp,Maiden Holdings Ltd,1.9
-Goldman Sachs Group Inc,3,Bank Of America Corp,First Republic Bank,1.6
-Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Prudential Financial Inc,1.5
-Pepsico Inc,3,Bank Of America Corp,Countrywide Plc,3.2
-Alphabet Inc,3,Facebook Inc,Uber Technologies Inc,3
-Jp Morgan Chase And Co,3,Intercontinental Exchange,Federal Home Loan Mortgage Corp,0.5
-Pepsico Inc,3,Deutsche Bank,Jp Morgan Chase And Co,29.1
-Alphabet Inc,3,Jp Morgan Chase And Co,Linkedin Corp,0.7
-Alphabet Inc,3,Jp Morgan Chase And Co,T-Mobile Us,1.5
-Goldman Sachs Group Inc,3,Jp Morgan Chase And Co,Waddell And Reed Financial Inc,3.1
-Alphabet Inc,3,Jp Morgan Chase And Co,Vanguard Group,2.4
 Coca-Cola Company,3,Citigroup Inc,Pepsico Inc,1.7
-Microsoft Corp,3,Hsbc Holdings Plc,Facebook Inc,2.6
-Goldman Sachs Group Inc,3,Bank Of America Corp,Visa Inc,4.6
-Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Eastman Kodak Co,0.5
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Oasis Petroleum Inc,0.8
-Microsoft Corp,3,Bank Of America Corp,Regions Financial Corp,1.4
-Pepsico Inc,3,Jp Morgan Chase And Co,Cra International,4.8
-Pepsico Inc,3,Jp Morgan Chase And Co,Linkedin Corp,55.4
-Microsoft Corp,3,Bank Of America Corp,International Flavors And Fragrances Inc,8.8
-Microsoft Corp,3,Bank Of America Corp,First Republic Bank,6.4
-Pepsico Inc,3,Deutsche Bank,Vanguard Group,9.1
-Goldman Sachs Group Inc,3,Wells Fargo And Company,Federal Home Loan Mortgage Corp,3
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Sandp Global Inc,6.7
-Alphabet Inc,1,Alphabet Inc,Oracle Corp,100
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Maiden Holdings Ltd,5.5
-Alphabet Inc,1,Alphabet Inc,Apple Inc,51.3
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Deutsche Bank,12.1
-Microsoft Corp,2,Cisco Systems Inc,Symantec Corp,3.2
-Morgan Stanley International Holdings Inc,2,Citigroup Inc,Realogy Holdings Corp,0.7
-Microsoft Corp,2,Atandt Inc,Netflix Inc,42.1
-Microsoft Corp,2,Atandt Inc,Mitsubishi Ufj Financial Group Inc,0.7
 Coca-Cola Company,2,Twitter Inc,Alphabet Inc,1.6
-Alphabet Inc,2,Oracle Corp,Wells Fargo And Company,10
 Coca-Cola Company,2,Intercontinental Exchange,Bmo Financial Group,1.9
 Coca-Cola Company,2,Intercontinental Exchange,Nextera Energy,100
 Coca-Cola Company,2,Intercontinental Exchange,Lamb Weston Holdings Inc,10.3
 Coca-Cola Company,2,Intercontinental Exchange,Town Sports International Holdings Inc,0.7
-Goldman Sachs Group Inc,3,Bank Of America Corp,American Airlines Group Inc,1.9
-Goldman Sachs Group Inc,3,Mastercard Inc,Amazon Com Inc,2.3
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Vanguard Group,21.3
-Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Bbandt Corp,0.7
-Microsoft Corp,3,American Airlines Group Inc,Apple Inc,7
-Alphabet Inc,3,Jp Morgan Chase And Co,Netflix Inc,1.8
-Alphabet Inc,3,Jp Morgan Chase And Co,Starbucks Corp,0.7
 Coca-Cola Company,3,Citigroup Inc,Starbucks Corp,4.3
-Alphabet Inc,3,Jp Morgan Chase And Co,T-Mobile Us,4.1
-Alphabet Inc,3,Apple Inc,Sap Se,0.9
-Alphabet Inc,3,Jp Morgan Chase And Co,Nestle Sa Cham Et Ve,0.8
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Brighthouse Financial Inc,2.6
-Alphabet Inc,3,Jp Morgan Chase And Co,Amazon Com Inc,12.9
 Coca-Cola Company,3,Bank Of America Corp,Linkedin Corp,11.6
 Coca-Cola Company,3,Bank Of America Corp,Zoom Video Communications Inc,1.9
-Microsoft Corp,3,Intel Corp,Facebook Inc,1.6
-Goldman Sachs Group Inc,3,Bank Of America Corp,International Flavors And Fragrances Inc,1.4
-Microsoft Corp,3,Sandp Global Inc,Moodys Corp /De/,5.2
-Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Wells Fargo And Company,65.1
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Barclays Plc,0.8
-Goldman Sachs Group Inc,2,Intercontinental Exchange,Us Bancorp,0.8
-Alphabet Inc,2,Netflix Inc,Jp Morgan Chase And Co,1.1
-Microsoft Corp,2,Bank Of New York Mellon Corp,Jp Morgan Chase And Co,3.6
-Alphabet Inc,2,Oracle Corp,Sun Biopharma Inc,0.7
 Coca-Cola Company,2,Jefferies Financial Group Inc,Total Marketing Services Sa,1
 Coca-Cola Company,2,Apple Inc,Thomson Reuters Corp,0.8
 Coca-Cola Company,2,Dr Pepper Snapple Group Inc,Intercontinental Exchange,2.3
 Coca-Cola Company,2,Dr Pepper Snapple Group Inc,Pepsico Inc,1.4
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Hera Ltd,1
 Coca-Cola Company,2,Philip Morris International Inc,Banco Santander Sa,2.4
-Alphabet Inc,2,Amazon Com Inc,Goldman Sachs Group Inc,12.9
-Pepsico Inc,2,Wells Fargo And Company,Schwab Charles Corp,0.9
 Coca-Cola Company,3,Bank Of America Corp,Ambac Financial Group Inc,3.4
-Alphabet Inc,3,Facebook Inc,Ubs Group Ag,4.7
-Microsoft Corp,3,American Airlines Group Inc,Apple Inc,2.7
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Dowdupont Inc,3.1
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Xerox Corp,0.9
-Alphabet Inc,3,Jp Morgan Chase And Co,Ericsson Inc,0.8
-Alphabet Inc,3,Atandt Inc,Deutsche Telekom Ag,1.6
-Jp Morgan Chase And Co,3,Federal National Mortgage Association,Bank Of America Corp,36
-Alphabet Inc,3,Jp Morgan Chase And Co,Starbucks Corp,3.2
-Jp Morgan Chase And Co,3,Goldman Sachs Group Inc,Facebook Inc,0.5
-Pepsico Inc,3,Jp Morgan Chase And Co,Hp Inc,6.9
-Pepsico Inc,3,Federal Home Loan Mortgage Corp,Metlife Inc,3.5
-Pepsico Inc,3,Jp Morgan Chase And Co,Assured Guaranty Ltd,7.6
-Microsoft Corp,3,Deutsche Bank,Jp Morgan Chase And Co,13.2
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Wells Fargo And Company,2.3
 Coca-Cola Company,1,Coca-Cola Company,Kraft Heinz Co,1.2
-Pepsico Inc,1,Pepsico Inc,Nestle Sa Cham Et Ve,0.7
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Allstate Corp,1
-Morgan Stanley International Holdings Inc,2,Citigroup Inc,Cincinnati Bell Inc,0.7
-Microsoft Corp,2,Verizon Communications Inc,Altaba Inc,0.6
-Microsoft Corp,2,Cisco Systems Inc,Altice,3.2
-Microsoft Corp,2,Atandt Inc,Warner Media Llc,10.8
-Microsoft Corp,2,Adobe Inc,Starbucks Corp,2.9
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Barclays Plc,1.3
-Morgan Stanley International Holdings Inc,2,Intercontinental Exchange,Bank Of America Corp,8
-Alphabet Inc,2,Ebay Inc,Wells Fargo And Company,1
 Coca-Cola Company,2,Pepsico Inc,Intercontinental Exchange,81.9
-Pepsico Inc,2,Wells Fargo And Company,Canadian Imperial Bank Of Commerce,1.5
-Pepsico Inc,2,Wells Fargo And Company,Applied Materials Inc /De,2.1
-Jp Morgan Chase And Co,2,Federal National Mortgage Association,Citigroup Inc,4.5
-Pepsico Inc,2,Wells Fargo And Company,Oci Partners Lp,2
-Microsoft Corp,2,International Business Machines Corp,Progressive Corp/Oh/,0.6
-Morgan Stanley International Holdings Inc,2,Bank Of America Corp,Intercontinental Exchange,1.7
-Microsoft Corp,2,Us Bancorp,Ubs Group Ag,4
 Coca-Cola Company,2,Intercontinental Exchange,Factset Research Systems Inc,0.9
-Microsoft Corp,3,Mizuho Financial Group Inc,Twitter Inc,2.2
-Microsoft Corp,3,Hsbc Holdings Plc,Facebook Inc,3.7
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,First Republic Bank,0.5
-Goldman Sachs Group Inc,3,Bank Of America Corp,Uber Technologies Inc,13.2
-Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,International Flavors And Fragrances Inc,2.5
-Alphabet Inc,3,Jp Morgan Chase And Co,Thomson Reuters Corp,1.3
-Pepsico Inc,3,Bank Of America Corp,Fair Isaac Corp,4.9
-Alphabet Inc,3,Nokia Corp,Jp Morgan Chase And Co,1.2
-Microsoft Corp,3,Sandp Global Inc,Moodys Corp /De/,2.4
-Alphabet Inc,3,Amazon Com Inc,Federal Home Loan Mortgage Corp,1.5
-Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Bbandt Corp,1.9
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Smtc Corp,0.6
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Vodafone Group Plc,1.3
-Morgan Stanley International Holdings Inc,3,Mastercard Inc,Goldman Sachs Group Inc,0.6
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Avon Products Inc,0.5
-Microsoft Corp,3,Bank Of America Corp,China Mobile [Hong Kong] Ltd,2.3
-Microsoft Corp,3,Bank Of America Corp,Noble Energy Inc,3.2
-Microsoft Corp,3,Bank Of America Corp,Deutsche Bank,25.1
-Jp Morgan Chase And Co,3,Goldman Sachs Group Inc,Intercontinental Exchange,1.6
-Goldman Sachs Group Inc,3,Bank Of America Corp,First Republic Bank,1.9
-Microsoft Corp,3,Starbucks Corp,Fiat Chrysler Automobiles Nv,1.3
-Jp Morgan Chase And Co,3,Intercontinental Exchange,The Walt Disney Co,0.5
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Mbia Inc,1.4
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,International Flavors And Fragrances Inc,1.2
-Goldman Sachs Group Inc,3,Wells Fargo And Company,Ralph Lauren Corp,2.2
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Navistar International Corp,1.8
-Microsoft Corp,1,Microsoft Corp,Us Bancorp,23.5
-Alphabet Inc,1,Alphabet Inc,Amazon Com Inc,44.7
-Pepsico Inc,1,Pepsico Inc,Visa Inc,1.8
-Pepsico Inc,2,Jp Morgan Chase And Co,Deutsche Bank,9.2
 Coca-Cola Company,2,Dr Pepper Snapple Group Inc,Wells Fargo And Company,0.6
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Mgic Investment Corp,1.4
-Microsoft Corp,2,Bank Of New York Mellon Corp,Citigroup Inc,0.6
-Pepsico Inc,2,Wells Fargo And Company,Ebay Inc,0.9
-Pepsico Inc,2,Wells Fargo And Company,The Toronto-Dominion Bank,0.5
-Jp Morgan Chase And Co,3,Intercontinental Exchange,Goldman Sachs Group Inc,2
-Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Eastman Kodak Co,0.5
-Alphabet Inc,3,Facebook Inc,Microsoft Corp,6.1
-Alphabet Inc,3,Hp Inc,Goldman Sachs Group Inc,1.2
-Alphabet Inc,3,Atandt Inc,Bnp Paribas,0.9
-Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,International Flavors And Fragrances Inc,2.7
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Vanguard Group,99.2
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Xerox Corp,0.9
-Alphabet Inc,3,Jp Morgan Chase And Co,Amazon Com Inc,34.8
-Goldman Sachs Group Inc,3,Bank Of America Corp,Tesla Inc,100
-Microsoft Corp,3,Bank Of America Corp,Ubs Group Ag,3.1
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,International Flavors And Fragrances Inc,0.9
-Microsoft Corp,3,Bank Of America Corp,Sanofi Sa,5
-Goldman Sachs Group Inc,3,Bank Of America Corp,Maiden Holdings Ltd,2.1
-Microsoft Corp,3,Atandt Inc,Cbs Corp,13.5
-Goldman Sachs Group Inc,3,Wells Fargo And Company,Hollyfrontier Corp,1.2
-Alphabet Inc,1,Alphabet Inc,Linkedin Corp,6.3
 Coca-Cola Company,2,Philip Morris International Inc,Procter And Gamble Co,0.7
-Microsoft Corp,2,Adobe Inc,Apple Inc,1.8
-Morgan Stanley International Holdings Inc,2,Citigroup Inc,Intercontinental Exchange,5.3
-Morgan Stanley International Holdings Inc,2,Citigroup Inc,Jp Morgan Chase And Co,100
-Microsoft Corp,2,Atandt Inc,Altice,0.7
-Microsoft Corp,2,Atandt Inc,Lloyds Banking Group Plc,0.5
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Bmo Financial Group,0.8
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Gartner Inc,1.6
-Jp Morgan Chase And Co,2,Federal National Mortgage Association,Banco Bilbao Viscaya Argentaria Sa,1.4
-Jp Morgan Chase And Co,2,Federal National Mortgage Association,Intercontinental Exchange,19
-Alphabet Inc,3,Amazon Com Inc,Federal Home Loan Mortgage Corp,1.6
-Alphabet Inc,3,Jp Morgan Chase And Co,Adidas Ag,0.8
-Alphabet Inc,3,Jp Morgan Chase And Co,Unilever Plc,3
 Coca-Cola Company,3,Bank Of America Corp,Capital One Financial Corp,8.6
-Goldman Sachs Group Inc,3,Bank Of America Corp,American Airlines Group Inc,1.4
-Goldman Sachs Group Inc,3,Bank Of America Corp,Fitbit Inc,1.6
-Alphabet Inc,3,Facebook Inc,Volkswagen Ag,2.4
-Goldman Sachs Group Inc,3,Bank Of America Corp,Medtronic Public Limited Company,1.8
-Jp Morgan Chase And Co,3,Federal Home Loan Mortgage Corp,Ubs Group Ag,0.5
-Goldman Sachs Group Inc,3,Bank Of America Corp,Wells Fargo And Company,2.4
-Pepsico Inc,3,Jp Morgan Chase And Co,Public Storage,53.8
-Pepsico Inc,3,Jp Morgan Chase And Co,Coastal Financial Corp,18.5
-Goldman Sachs Group Inc,3,Bank Of America Corp,Google,5.4
 Coca-Cola Company,1,Coca-Cola Company,Pepsico Inc,21.1
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Berkshire Hathaway Inc,5.3
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Schwab Charles Corp,0.8
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Alta Mesa Resources Inc,1.2
 Coca-Cola Company,2,Equifax Inc,Sandp Global Inc,1
 Coca-Cola Company,2,Kellogg Company,Sap Se,0.8
-Microsoft Corp,2,Cisco Systems Inc,Oci Partners Lp,0.7
-Microsoft Corp,2,Facebook Inc,Apple Inc,3.2
-Microsoft Corp,2,Atandt Inc,Comcast Corp A,0.8
-Microsoft Corp,2,Atandt Inc,Discovery Comm Inc,5.4
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Chase Corp,3.8
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Cognizant Technology Solutions Corp,5.6
-Pepsico Inc,2,Jp Morgan Chase And Co,Walmart Inc,7.5
 Coca-Cola Company,2,Philip Morris International Inc,Bnp Paribas,0.7
 Coca-Cola Company,2,Pepsico Inc,Sap Se,1.7
-Alphabet Inc,2,Apple Inc,Atandt Inc,100
-Goldman Sachs Group Inc,2,Citigroup Inc,Jp Morgan Chase And Co,100
-Jp Morgan Chase And Co,2,Federal National Mortgage Association,Realogy Holdings Corp,0.9
-Morgan Stanley International Holdings Inc,2,Bank Of America Corp,Wells Fargo And Company,12.4
-Microsoft Corp,2,Us Bancorp,Visa Inc,2.5
-Microsoft Corp,2,Us Bancorp,International Flavors And Fragrances Inc,3.8
-Jp Morgan Chase And Co,3,Morgan Stanley International Holdings Inc,Citigroup Inc,0.7
-Goldman Sachs Group Inc,3,Jp Morgan Chase And Co,Coastal Financial Corp,2.8
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,International Flavors And Fragrances Inc,0.9
-Pepsico Inc,3,Deutsche Bank,Vanguard Group,4.9
-Goldman Sachs Group Inc,3,Bank Of America Corp,Canadian Imperial Bank Of Commerce,1.2
-Goldman Sachs Group Inc,3,Jp Morgan Chase And Co,Nantkwest Inc,1.3
-Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Prudential Financial Inc,1.6
 Coca-Cola Company,3,Bank Of America Corp,Mastercard Inc,5.9
-Goldman Sachs Group Inc,3,Bank Of America Corp,Google,29.6
-Jp Morgan Chase And Co,3,Goldman Sachs Group Inc,Moodys Corp /De/,0.5
-Goldman Sachs Group Inc,3,Bank Of America Corp,Visa Inc,2.3
-Microsoft Corp,3,Bank Of America Corp,Nestle Sa Cham Et Ve,36.9
 Coca-Cola Company,1,Coca-Cola Company,General Mills Inc,0.5
-Microsoft Corp,1,Microsoft Corp,Amazon Com Inc,6.5
-Morgan Stanley International Holdings Inc,2,Citigroup Inc,Nomura Holdings Inc,0.7
-Pepsico Inc,2,Morgan Stanley International Holdings Inc,Sandp Global Inc,0.5
-Morgan Stanley International Holdings Inc,2,Citigroup Inc,Public Storage,0.7
 Coca-Cola Company,2,Apple Inc,Goldman Sachs Group Inc,24.8
-Goldman Sachs Group Inc,2,Citigroup Inc,Eaton Vance Corp,1
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Oasis Petroleum Inc,5
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Genworth Financial Inc,0.6
 Coca-Cola Company,2,Philip Morris International Inc,Altria Group,28.5
-Alphabet Inc,2,Oracle Corp,Credit Suisse Group,0.6
-Pepsico Inc,2,Wells Fargo And Company,Pimco Dynamic Credit Income Fun,2.5
-Microsoft Corp,2,International Business Machines Corp,Walmart Inc,0.7
 Coca-Cola Company,2,Intercontinental Exchange,Altagas Ltd,0.6
 Coca-Cola Company,2,Intercontinental Exchange,National Bank Of Canada,0.5
 Coca-Cola Company,2,Intercontinental Exchange,Euronext Nv,0.6
 Coca-Cola Company,3,Bank Of America Corp,Walmart Inc,24.4
 Coca-Cola Company,3,Bank Of America Corp,Ferrari Nv,2
 Coca-Cola Company,3,Bank Of America Corp,Msa Safety Inc,2.2
-Morgan Stanley International Holdings Inc,3,Goldman Sachs Group Inc,Visa Inc,0.9
-Alphabet Inc,3,Jp Morgan Chase And Co,Unilever Plc,1.1
-Microsoft Corp,3,Hsbc Holdings Plc,Jp Morgan Chase And Co,2
-Goldman Sachs Group Inc,3,Bank Of America Corp,Maiden Holdings Ltd,2.5
-Goldman Sachs Group Inc,3,Bank Of America Corp,Bank Of New York Mellon Corp,1.8
-Goldman Sachs Group Inc,3,Bank Of America Corp,Visa Inc,2
-Microsoft Corp,3,Red Hat Inc,Broadcom Ltd,6.5
-Pepsico Inc,3,Jp Morgan Chase And Co,Deutsche Bank,78.7
-Pepsico Inc,3,Jp Morgan Chase And Co,Ebay Inc,17.5
-Pepsico Inc,3,Mastercard Inc,Apple Inc,23.1
 Coca-Cola Company,3,Citigroup Inc,Philip Morris International Inc,1.7
-Morgan Stanley International Holdings Inc,3,Citigroup Inc,Realogy Holdings Corp,1.8
-Microsoft Corp,3,Bank Of America Corp,Assured Guaranty Ltd,2.6
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Deutsche Bank,2
-Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Bbandt Corp,1.8
-Alphabet Inc,3,Jp Morgan Chase And Co,Toyota Motor Corp,1.1
-Alphabet Inc,3,Facebook Inc,Shopify Inc,0.9
-Goldman Sachs Group Inc,3,Bank Of America Corp,Equifax Inc,1.4
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Royal Bank Of Canada,1.4
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Moodys Corp /De/,1.2
+Coca-Cola Company,3,Bank Of America Corp,First Republic Bank,14.4
+Coca-Cola Company,3,Bank Of America Corp,Clorox Company,2
+Coca-Cola Company,3,Bank Of America Corp,Carnival Corp,3.8
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Jp Morgan Chase And Co,2,Federal National Mortgage Association,Gse Systems Inc,0.9
+Jp Morgan Chase And Co,2,Federal National Mortgage Association,Credit Suisse Group,1.3
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Twitter Inc,1
+Jp Morgan Chase And Co,2,Federal National Mortgage Association,Philip Morris International Inc,0.9
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Ally Financial,0.5
+Jp Morgan Chase And Co,2,Federal National Mortgage Association,Ubs Group Ag,5.4
+Jp Morgan Chase And Co,3,Bank Of America Corp,Intercontinental Exchange,3.9
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Deutsche Bank,3.2
+Jp Morgan Chase And Co,2,Federal National Mortgage Association,Capital One Financial Corp,0.9
+Jp Morgan Chase And Co,3,Morgan Stanley International Holdings Inc,Citigroup Inc,0.6
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Citigroup Inc,16
+Jp Morgan Chase And Co,3,Bank Of America Corp,First Republic Bank,0.5
+Jp Morgan Chase And Co,3,Intercontinental Exchange,Goldman Sachs Group Inc,1.2
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Petroquest Energy,0.6
+Jp Morgan Chase And Co,3,Intercontinental Exchange,General Motors Limited,0.5
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Lloyds Banking Group Plc,2.4
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Norfolk Southern Corp,2.2
+Jp Morgan Chase And Co,2,Federal National Mortgage Association,Deutsche Bank,0.6
+Jp Morgan Chase And Co,2,Federal National Mortgage Association,Ally Financial,0.5
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Ambac Financial Group Inc,1
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Philip Morris International Inc,5.5
+Jp Morgan Chase And Co,3,Bank Of America Corp,Intercontinental Exchange,7.6
+Jp Morgan Chase And Co,3,Federal Home Loan Mortgage Corp,Philip Morris International Inc,0.7
+Jp Morgan Chase And Co,3,Federal Home Loan Mortgage Corp,Philip Morris International Inc,0.5
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Neogenomics Inc,4.2
+Jp Morgan Chase And Co,2,Federal National Mortgage Association,Sandp Global Inc,6.6
+Jp Morgan Chase And Co,2,Federal National Mortgage Association,Cognizant Technology Solutions Corp,3.9
+Jp Morgan Chase And Co,3,Intercontinental Exchange,The Walt Disney Co,0.5
+Jp Morgan Chase And Co,3,Deutsche Bank,Facebook Inc,0.7
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Goldman Sachs Group Inc,23.7
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Wells Fargo And Company,16.7
+Jp Morgan Chase And Co,3,Bank Of America Corp,Intercontinental Exchange,1
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Amtrust Financial Services Inc,0.6
+Jp Morgan Chase And Co,2,Federal National Mortgage Association,Wells Fargo And Company,6.2
+Jp Morgan Chase And Co,2,Federal National Mortgage Association,Alphabet Inc,0.9
+Jp Morgan Chase And Co,3,Bank Of America Corp,Intercontinental Exchange,0.6
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Credit Suisse Group,1
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Suntrust Banks Inc,0.6
+Jp Morgan Chase And Co,3,Federal Home Loan Mortgage Corp,Citigroup Inc,4.8
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Allstate Corp,5.2
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,The Toronto-Dominion Bank,1.5
+Jp Morgan Chase And Co,3,Federal Home Loan Mortgage Corp,Citigroup Inc,100
+Jp Morgan Chase And Co,3,Federal Home Loan Mortgage Corp,Ubs Group Ag,0.7
+Jp Morgan Chase And Co,3,Intercontinental Exchange,Paypal Holdings,0.5
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Royal Bank Of Scotland Group Plc,1
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Moodys Corp /De/,0.8
+Jp Morgan Chase And Co,3,Intercontinental Exchange,Verizon Communications Inc,0.5
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Aon Plc,3.4
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Manulife Financial Corp,1
+Jp Morgan Chase And Co,3,Federal Home Loan Mortgage Corp,Oasis Petroleum Inc,0.5
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Federal Home Loan Mortgage Corp,100
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Federal National Mortgage Association,100
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Hsbc Holdings Plc,4.5
+Jp Morgan Chase And Co,2,Federal National Mortgage Association,Public Storage,0.7
+Jp Morgan Chase And Co,3,Intercontinental Exchange,Federal Home Loan Mortgage Corp,1
+Jp Morgan Chase And Co,3,Goldman Sachs Group Inc,Facebook Inc,1.6
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Federal National Mortgage Association,45.7
+Jp Morgan Chase And Co,3,Intercontinental Exchange,Goldman Sachs Group Inc,1
+Jp Morgan Chase And Co,3,Intercontinental Exchange,Federal Home Loan Mortgage Corp,0.6
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,American International Group Inc,0.6
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Ubs Group Ag,14.6
+Jp Morgan Chase And Co,3,Federal Home Loan Mortgage Corp,Hsbc Holdings Plc,3.6
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Mastercard Inc,0.6
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Fair Isaac Corp,3.7
+Jp Morgan Chase And Co,3,Federal Home Loan Mortgage Corp,Hsbc Holdings Plc,2.5
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Intercontinental Exchange,2.2
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Ocwen Financial Corp,2.7
+Jp Morgan Chase And Co,3,Intercontinental Exchange,The Walt Disney Co,0.9
+Jp Morgan Chase And Co,3,Deutsche Bank,Facebook Inc,0.5
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Capital One Financial Corp,1.2
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Radian Group Inc,1
+Jp Morgan Chase And Co,3,Bank Of America Corp,International Flavors And Fragrances Inc,0.6
+Jp Morgan Chase And Co,3,Intercontinental Exchange,Federal Home Loan Mortgage Corp,0.5
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Hera Ltd,1
+Jp Morgan Chase And Co,3,Federal National Mortgage Association,Bank Of America Corp,36
+Jp Morgan Chase And Co,3,Goldman Sachs Group Inc,Facebook Inc,0.5
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Barclays Plc,1.3
+Jp Morgan Chase And Co,2,Federal National Mortgage Association,Citigroup Inc,4.5
+Jp Morgan Chase And Co,3,Goldman Sachs Group Inc,Intercontinental Exchange,1.6
+Jp Morgan Chase And Co,3,Intercontinental Exchange,The Walt Disney Co,0.5
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Mgic Investment Corp,1.4
+Jp Morgan Chase And Co,3,Intercontinental Exchange,Goldman Sachs Group Inc,2
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Bmo Financial Group,0.8
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Gartner Inc,1.6
+Jp Morgan Chase And Co,2,Federal National Mortgage Association,Banco Bilbao Viscaya Argentaria Sa,1.4
+Jp Morgan Chase And Co,2,Federal National Mortgage Association,Intercontinental Exchange,19
+Jp Morgan Chase And Co,3,Federal Home Loan Mortgage Corp,Ubs Group Ag,0.5
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Chase Corp,3.8
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Cognizant Technology Solutions Corp,5.6
+Jp Morgan Chase And Co,2,Federal National Mortgage Association,Realogy Holdings Corp,0.9
+Jp Morgan Chase And Co,3,Morgan Stanley International Holdings Inc,Citigroup Inc,0.7
+Jp Morgan Chase And Co,3,Goldman Sachs Group Inc,Moodys Corp /De/,0.5
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Oasis Petroleum Inc,5
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Genworth Financial Inc,0.6
 Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Visa Inc,1.9
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Salesforce Com Inc,2.5
-Microsoft Corp,1,Microsoft Corp,Adobe Inc,2.4
-Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Mastercard Inc,1.7
-Pepsico Inc,2,Hsbc Holdings Plc,Special Opportunities Fund Inc,0.5
-Microsoft Corp,2,Atandt Inc,Mizuho Financial Group Inc,0.8
 Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Thomson Reuters Corp,1.1
 Jp Morgan Chase And Co,2,Moodys Corp /De/,Vanguard Group,0.5
-Pepsico Inc,2,Wells Fargo And Company,Nike Inc,0.7
 Jp Morgan Chase And Co,2,Federal National Mortgage Association,Barclays Plc,1.3
 Jp Morgan Chase And Co,2,Federal National Mortgage Association,Royal Bank Of Scotland Group Plc,0.5
 Jp Morgan Chase And Co,2,Federal National Mortgage Association,Federal Home Loan Mortgage Corp,79
+Jp Morgan Chase And Co,3,Federal Home Loan Mortgage Corp,Citigroup Inc,68.9
+Jp Morgan Chase And Co,3,Berkshire Hathaway Inc,Amazon Com Inc,1.4
+Microsoft Corp,2,Adobe Inc,Bank Of America Corp,0.5
+Microsoft Corp,2,Amazon Com Inc,Bank Of America Corp,69.3
+Microsoft Corp,2,Atandt Inc,Canadian Imperial Bank Of Commerce,0.5
+Microsoft Corp,2,Us Bancorp,Regions Financial Corp,0.8
+Microsoft Corp,3,Hsbc Holdings Plc,Jp Morgan Chase And Co,2.6
+Microsoft Corp,3,Bank Of America Corp,Countrywide Plc,1.5
+Microsoft Corp,3,Bank Of America Corp,Bank Of Nova Scotia,1.8
+Microsoft Corp,3,Bank Of America Corp,Mdc Partners Inc,1.1
+Microsoft Corp,2,Atandt Inc,Cbs Corp,0.8
+Microsoft Corp,2,Cisco Systems Inc,Moodys Corp /De/,0.9
+Microsoft Corp,2,International Business Machines Corp,Columbia Sportswear Co,0.8
+Microsoft Corp,2,Us Bancorp,Sandp Global Inc,75.4
+Microsoft Corp,3,Bank Of America Corp,First Republic Bank,3.6
+Microsoft Corp,3,Intel Corp,Facebook Inc,5.2
+Microsoft Corp,3,Sandp Global Inc,Ihs Markit Ltd,1.2
+Microsoft Corp,3,Goldman Sachs Group Inc,Metro Inc,1.7
+Microsoft Corp,1,Microsoft Corp,Cisco Systems Inc,16.7
+Microsoft Corp,2,Atandt Inc,Vanguard Group,88.5
+Microsoft Corp,3,Sandp Global Inc,Goldman Sachs Group Inc,100
+Microsoft Corp,2,Amazon Com Inc,Goldman Sachs Group Inc,4.9
+Microsoft Corp,2,International Business Machines Corp,Bnp Paribas,0.6
+Microsoft Corp,2,International Business Machines Corp,Mizuho Financial Group Inc,0.6
+Microsoft Corp,2,Us Bancorp,Keycorp /New/,0.5
+Microsoft Corp,3,Hsbc Holdings Plc,Facebook Inc,7.8
+Microsoft Corp,3,Symantec Corp,Citigroup Inc,6.7
+Microsoft Corp,3,American Airlines Group Inc,Apple Inc,1.5
+Microsoft Corp,2,Oracle Corp,Vanguard Group,5.5
+Microsoft Corp,2,Cisco Systems Inc,Dell Inc,5.2
+Microsoft Corp,2,Atandt Inc,Sprint Corp,3
+Microsoft Corp,2,International Business Machines Corp,Hcl Technologies Limited,1
+Microsoft Corp,2,International Business Machines Corp,Red Hat Inc,35.9
+Microsoft Corp,2,International Business Machines Corp,Sap Se,1.3
+Microsoft Corp,3,Wells Fargo And Company,Thomson Reuters Corp,1.2
+Microsoft Corp,3,Jp Morgan Chase And Co,Public Storage,1.5
+Microsoft Corp,3,Dell Inc,Jp Morgan Chase And Co,1.7
+Microsoft Corp,3,Bank Of America Corp,Pimco Dynamic Credit Income Fun,2
+Microsoft Corp,3,Goldman Sachs Group Inc,Metro Inc,2.1
+Microsoft Corp,3,Goldman Sachs Group Inc,Intercontinental Exchange,2.3
+Microsoft Corp,3,Bank Of America Corp,Oci Partners Lp,1.6
+Microsoft Corp,1,Microsoft Corp,Verizon Communications Inc,6.1
+Microsoft Corp,2,Amex Global Holdings Cv,Visa Inc,0.8
+Microsoft Corp,2,Verizon Communications Inc,Atandt Inc,8
+Microsoft Corp,2,Atandt Inc,The Toronto-Dominion Bank,1.2
+Microsoft Corp,2,Atandt Inc,Deutsche Telekom Ag,1.4
+Microsoft Corp,2,Oracle Corp,Citigroup Inc,0.6
+Microsoft Corp,2,Cisco Systems Inc,Viasat Inc,1.1
+Microsoft Corp,2,Atandt Inc,Crown Holdings Inc,0.5
+Microsoft Corp,2,International Business Machines Corp,Royal Bank Of Canada,5.1
+Microsoft Corp,2,Us Bancorp,Yrc Worldwide,0.6
+Microsoft Corp,3,Bank Of America Corp,Coastal Financial Corp,1.1
+Microsoft Corp,3,Bank Of America Corp,Federal National Mortgage Association,1.4
+Microsoft Corp,2,Verizon Communications Inc,Vodafone Group Plc,0.8
+Microsoft Corp,2,Cisco Systems Inc,Jp Morgan Chase And Co,8.5
+Microsoft Corp,3,Sandp Global Inc,Exxon Mobil Corp,4
+Microsoft Corp,3,Bank Of America Corp,Ubs Group Ag,5.6
+Microsoft Corp,3,Atandt Inc,Thomson Reuters Corp,1.4
+Microsoft Corp,2,Oracle Corp,Hsbc Holdings Plc,0.6
+Microsoft Corp,2,Amex Global Holdings Cv,Vanguard Group,2.9
+Microsoft Corp,2,Cisco Systems Inc,Broadcom Ltd,2.4
+Microsoft Corp,2,Atandt Inc,Bnp Paribas,2
+Microsoft Corp,3,Comcast Corp A,Amazon Com Inc,1.8
+Microsoft Corp,1,Microsoft Corp,Facebook Inc,9.3
+Microsoft Corp,2,Oracle Corp,Jp Morgan Chase And Co,16.8
+Microsoft Corp,2,Verizon Communications Inc,Ubs Group Ag,0.6
+Microsoft Corp,2,Verizon Communications Inc,Nasdaq Inc,0.5
+Microsoft Corp,2,International Business Machines Corp,Dowdupont Inc,0.9
+Microsoft Corp,3,Bank Of America Corp,Bank Of New York Mellon Corp,9.2
+Microsoft Corp,3,Bank Of America Corp,Msa Safety Inc,1.2
+Microsoft Corp,3,Bank Of America Corp,Countrywide Plc,2.7
+Microsoft Corp,3,Deutsche Bank,Netflix Inc,2.6
+Microsoft Corp,2,Atandt Inc,Royal Bank Of Canada,10
+Microsoft Corp,3,Wells Fargo And Company,International Flavors And Fragrances Inc,1.3
+Microsoft Corp,3,Hewlett Packard Enterprise Comp,Hp Inc,1
+Microsoft Corp,3,Bank Of America Corp,Nomura Holdings Inc,1.3
+Microsoft Corp,3,Bank Of America Corp,Federal National Mortgage Association,2.6
+Microsoft Corp,3,Bank Of America Corp,Gol Linhas Aereas Inteligentes Sa,1.6
+Microsoft Corp,3,Atandt Inc,Digital Realty Trust,4.1
+Microsoft Corp,3,Sandp Global Inc,Goldman Sachs Group Inc,18.4
+Microsoft Corp,3,Bank Of America Corp,China Mobile [Hong Kong] Ltd,1.3
+Microsoft Corp,3,Bank Of America Corp,Adt Inc,1
+Microsoft Corp,3,American Airlines Group Inc,Apple Inc,2.9
+Microsoft Corp,3,Deutsche Bank,Bank Of America Corp,7.4
+Microsoft Corp,1,Microsoft Corp,Atandt Inc,100
+Microsoft Corp,2,Us Bancorp,Waddell And Reed Financial Inc,0.8
+Microsoft Corp,3,Bank Of America Corp,Nestle Sa Cham Et Ve,20.6
+Microsoft Corp,2,Amazon Com Inc,Nasdaq Inc,0.5
+Microsoft Corp,2,Us Bancorp,Dxc Technology Company,0.7
+Microsoft Corp,3,Bank Of America Corp,Jetblue Airways Corp,1.2
+Microsoft Corp,3,Delta Air Lines Inc,Amazon Com Inc,1.1
+Microsoft Corp,2,Cisco Systems Inc,Sony Corp,1.2
+Microsoft Corp,2,Us Bancorp,Thomson Reuters Corp,2.2
+Microsoft Corp,3,Bank Of America Corp,Adt Inc,1.9
+Microsoft Corp,3,Sandp Global Inc,Goldman Sachs Group Inc,39.9
+Microsoft Corp,3,Deutsche Bank,Jp Morgan Chase And Co,10.4
+Microsoft Corp,3,Deutsche Bank,Netflix Inc,3.3
+Microsoft Corp,2,International Business Machines Corp,Honeywell International Inc,0.5
+Microsoft Corp,3,Bank Of America Corp,Mastercard Inc,2.4
+Microsoft Corp,3,Sandp Global Inc,Ihs Markit Ltd,3
+Microsoft Corp,2,Oracle Corp,Cerner Corp,2.6
+Microsoft Corp,2,Atandt Inc,Wells Fargo And Company,37.3
+Microsoft Corp,2,Atandt Inc,Ciena Corp,0.6
+Microsoft Corp,2,Atandt Inc,Tbs International Plc,1.4
+Microsoft Corp,2,Facebook Inc,Nasdaq Inc,0.7
+Microsoft Corp,2,Us Bancorp,Suntrust Banks Inc,0.8
+Microsoft Corp,3,Warner Media Llc,Jp Morgan Chase And Co,3.2
+Microsoft Corp,1,Microsoft Corp,3m Company,0.6
+Microsoft Corp,1,Microsoft Corp,Oracle Corp,10.6
+Microsoft Corp,2,Cisco Systems Inc,Tivo Corp,0.8
+Microsoft Corp,2,Atandt Inc,Thomson Reuters Corp,11.4
+Microsoft Corp,3,Wells Fargo And Company,Federal Home Loan Mortgage Corp,5.6
+Microsoft Corp,3,Sandp Global Inc,Goldman Sachs Group Inc,4.6
+Microsoft Corp,3,Wells Fargo And Company,Federal Home Loan Mortgage Corp,2.1
+Microsoft Corp,2,Verizon Communications Inc,Sandp Global Inc,7.8
+Microsoft Corp,2,Cisco Systems Inc,Outfront Media Inc,0.6
+Microsoft Corp,2,Cisco Systems Inc,Alphabet Inc,3.7
+Microsoft Corp,3,Bank Of America Corp,Sanofi Sa,2.8
+Microsoft Corp,3,Bank Of America Corp,Coastal Financial Corp,2
+Microsoft Corp,3,Thomson Reuters Corp,Goldman Sachs Group Inc,1.1
+Microsoft Corp,1,Microsoft Corp,Amex Global Holdings Cv,6.1
+Microsoft Corp,1,Microsoft Corp,International Business Machines Corp,41.6
+Microsoft Corp,2,Cisco Systems Inc,Nokia Corp,0.9
+Microsoft Corp,2,Cisco Systems Inc,Bank Of America Corp,100
+Microsoft Corp,2,Cisco Systems Inc,Sasol Ltd,1.2
+Microsoft Corp,2,Cisco Systems Inc,Emc Corp,0.5
+Microsoft Corp,3,Bank Of America Corp,Mastercard Inc,4.4
+Microsoft Corp,3,Bank Of America Corp,Pimco Dynamic Credit Income Fun,3.5
+Microsoft Corp,3,Sandp Global Inc,Exxon Mobil Corp,1.6
+Microsoft Corp,2,Atandt Inc,Target Corp,1
+Microsoft Corp,2,Atandt Inc,Frontier Communications Corp,0.6
+Microsoft Corp,3,Bank Of America Corp,Noble Energy Inc,1.8
+Microsoft Corp,1,Microsoft Corp,Bank Of New York Mellon Corp,4.3
+Microsoft Corp,2,Atandt Inc,Moodys Corp /De/,6.5
+Microsoft Corp,2,International Business Machines Corp,American Airlines Group Inc,1.1
+Microsoft Corp,2,International Business Machines Corp,Hewlett Packard Enterprise Comp,17.9
+Microsoft Corp,2,International Business Machines Corp,Synnex Corp,0.7
+Microsoft Corp,3,Hsbc Holdings Plc,Facebook Inc,6
+Microsoft Corp,3,Bank Of America Corp,International Flavors And Fragrances Inc,4.9
+Microsoft Corp,3,Hsbc Holdings Plc,Facebook Inc,2
+Microsoft Corp,3,Bank Of America Corp,Assured Guaranty Ltd,4.8
+Microsoft Corp,3,Hsbc Holdings Plc,Jp Morgan Chase And Co,1.2
+Microsoft Corp,3,Hewlett Packard Enterprise Comp,Bank Of America Corp,2.8
+Microsoft Corp,3,Bank Of America Corp,Deutsche Bank,14
+Microsoft Corp,3,Bank Of America Corp,Regions Financial Corp,2.6
+Microsoft Corp,3,Bank Of America Corp,Advance Auto Parts Inc,1.1
+Microsoft Corp,3,Goldman Sachs Group Inc,Intercontinental Exchange,1.8
+Microsoft Corp,2,Atandt Inc,Oci Nv,3.6
+Microsoft Corp,2,Us Bancorp,Hsbc Holdings Plc,0.5
+Microsoft Corp,3,Hsbc Holdings Plc,Facebook Inc,1.2
+Microsoft Corp,3,Hsbc Holdings Plc,Facebook Inc,2.6
+Microsoft Corp,3,Bank Of America Corp,Regions Financial Corp,1.4
+Microsoft Corp,3,Bank Of America Corp,International Flavors And Fragrances Inc,8.8
+Microsoft Corp,3,Bank Of America Corp,First Republic Bank,6.4
+Microsoft Corp,2,Cisco Systems Inc,Symantec Corp,3.2
+Microsoft Corp,2,Atandt Inc,Netflix Inc,42.1
+Microsoft Corp,2,Atandt Inc,Mitsubishi Ufj Financial Group Inc,0.7
+Microsoft Corp,3,American Airlines Group Inc,Apple Inc,7
+Microsoft Corp,3,Intel Corp,Facebook Inc,1.6
+Microsoft Corp,3,Sandp Global Inc,Moodys Corp /De/,5.2
+Microsoft Corp,2,Bank Of New York Mellon Corp,Jp Morgan Chase And Co,3.6
+Microsoft Corp,3,American Airlines Group Inc,Apple Inc,2.7
+Microsoft Corp,3,Deutsche Bank,Jp Morgan Chase And Co,13.2
+Microsoft Corp,2,Verizon Communications Inc,Altaba Inc,0.6
+Microsoft Corp,2,Cisco Systems Inc,Altice,3.2
+Microsoft Corp,2,Atandt Inc,Warner Media Llc,10.8
+Microsoft Corp,2,Adobe Inc,Starbucks Corp,2.9
+Microsoft Corp,2,International Business Machines Corp,Progressive Corp/Oh/,0.6
+Microsoft Corp,2,Us Bancorp,Ubs Group Ag,4
+Microsoft Corp,3,Mizuho Financial Group Inc,Twitter Inc,2.2
+Microsoft Corp,3,Hsbc Holdings Plc,Facebook Inc,3.7
+Microsoft Corp,3,Sandp Global Inc,Moodys Corp /De/,2.4
+Microsoft Corp,3,Bank Of America Corp,China Mobile [Hong Kong] Ltd,2.3
+Microsoft Corp,3,Bank Of America Corp,Noble Energy Inc,3.2
+Microsoft Corp,3,Bank Of America Corp,Deutsche Bank,25.1
+Microsoft Corp,3,Starbucks Corp,Fiat Chrysler Automobiles Nv,1.3
+Microsoft Corp,1,Microsoft Corp,Us Bancorp,23.5
+Microsoft Corp,2,Bank Of New York Mellon Corp,Citigroup Inc,0.6
+Microsoft Corp,3,Bank Of America Corp,Ubs Group Ag,3.1
+Microsoft Corp,3,Bank Of America Corp,Sanofi Sa,5
+Microsoft Corp,3,Atandt Inc,Cbs Corp,13.5
+Microsoft Corp,2,Adobe Inc,Apple Inc,1.8
+Microsoft Corp,2,Atandt Inc,Altice,0.7
+Microsoft Corp,2,Atandt Inc,Lloyds Banking Group Plc,0.5
+Microsoft Corp,2,Cisco Systems Inc,Oci Partners Lp,0.7
+Microsoft Corp,2,Facebook Inc,Apple Inc,3.2
+Microsoft Corp,2,Atandt Inc,Comcast Corp A,0.8
+Microsoft Corp,2,Atandt Inc,Discovery Comm Inc,5.4
+Microsoft Corp,2,Us Bancorp,Visa Inc,2.5
+Microsoft Corp,2,Us Bancorp,International Flavors And Fragrances Inc,3.8
+Microsoft Corp,3,Bank Of America Corp,Nestle Sa Cham Et Ve,36.9
+Microsoft Corp,1,Microsoft Corp,Amazon Com Inc,6.5
+Microsoft Corp,2,International Business Machines Corp,Walmart Inc,0.7
+Microsoft Corp,3,Hsbc Holdings Plc,Jp Morgan Chase And Co,2
+Microsoft Corp,3,Red Hat Inc,Broadcom Ltd,6.5
+Microsoft Corp,3,Bank Of America Corp,Assured Guaranty Ltd,2.6
+Microsoft Corp,1,Microsoft Corp,Adobe Inc,2.4
+Microsoft Corp,2,Atandt Inc,Mizuho Financial Group Inc,0.8
 Microsoft Corp,2,International Business Machines Corp,Sandp Global Inc,24.6
 Microsoft Corp,2,Us Bancorp,Mitsubishi Ufj Financial Group Inc,2.3
-Alphabet Inc,3,Citigroup Inc,Wells Fargo And Company,2
-Jp Morgan Chase And Co,3,Federal Home Loan Mortgage Corp,Citigroup Inc,68.9
-Morgan Stanley International Holdings Inc,3,Bank Of America Corp,First Republic Bank,0.7
-Alphabet Inc,3,Jp Morgan Chase And Co,Vanguard Group,13.1
-Alphabet Inc,3,Apple Inc,Nestle Sa Cham Et Ve,0.9
-Coca-Cola Company,3,Bank Of America Corp,First Republic Bank,14.4
-Coca-Cola Company,3,Bank Of America Corp,Clorox Company,2
-Pepsico Inc,3,Intercontinental Exchange,Goldman Sachs Group Inc,81.2
 Microsoft Corp,3,Bank Of America Corp,Bank Of New York Mellon Corp,5.1
-Goldman Sachs Group Inc,3,Bank Of America Corp,Equifax Inc,2.8
-Pepsico Inc,3,Jp Morgan Chase And Co,Nantkwest Inc,11.8
 Microsoft Corp,3,Deutsche Bank,Bank Of America Corp,5.8
-Coca-Cola Company,3,Bank Of America Corp,Carnival Corp,3.8
 Microsoft Corp,3,Sandp Global Inc,Moodys Corp /De/,13.1
-Jp Morgan Chase And Co,3,Berkshire Hathaway Inc,Amazon Com Inc,1.4
-Goldman Sachs Group Inc,3,Wells Fargo And Company,Marriott International Inc /Md/,2.4
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Fair Isaac Corp,0.5
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Citigroup Inc,90.7
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Goldman Sachs Group Inc,3.4
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Dowdupont Inc,18
+Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Prudential Financial Inc,0.6
+Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,City Office Reit Inc,0.6
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Bank Of America Corp,11.2
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Msci Inc,6.2
+Morgan Stanley International Holdings Inc,3,Federal National Mortgage Association,Federal Home Loan Mortgage Corp,1.2
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,International Flavors And Fragrances Inc,1
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Dowdupont Inc,3.9
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Altria Group,0.7
+Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Metlife Inc,24.2
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,American International Group Inc,0.9
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Special Opportunities Fund Inc,1.4
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Oasis Petroleum Inc,0.6
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,State Street Corp,5.3
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Brighthouse Financial Inc,0.6
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Deutsche Bank,1.9
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Brighthouse Financial Inc,2.6
+Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,International Flavors And Fragrances Inc,1
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Mbia Inc,1.1
+Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,City Office Reit Inc,0.5
+Morgan Stanley International Holdings Inc,3,Intercontinental Exchange,Ubs Group Ag,0.5
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Deere And Company,1.1
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Legg Mason Inc,0.8
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,International Flavors And Fragrances Inc,1.3
+Morgan Stanley International Holdings Inc,3,Federal Home Loan Mortgage Corp,Allstate Corp,0.7
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Nii Holdings Inc,0.5
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,General Electric Company,0.9
+Morgan Stanley International Holdings Inc,2,Mbia Inc,Bank Of America Corp,1.1
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Hersha Hospitality Trust,0.5
+Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Coastal Financial Corp,0.5
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Genworth Financial Inc,0.9
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Ltc Properties Inc,0.5
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Axa Sa,0.7
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Legg Mason Inc,0.8
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Realogy Holdings Corp,1.4
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,State Street Corp,0.9
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Ocwen Financial Corp,0.7
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Ubs Group Ag,3.1
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Oasis Petroleum Inc,0.5
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,State Street Corp,1.1
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Altria Group,0.7
+Morgan Stanley International Holdings Inc,3,Intercontinental Exchange,Ubs Group Ag,0.6
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,E Trade Financial Corp,1.1
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Piper Jaffray Companies,1.2
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Discover Financial Services,1.7
+Morgan Stanley International Holdings Inc,2,Berkshire Hathaway Inc,Goldman Sachs Group Inc,0.7
+Morgan Stanley International Holdings Inc,2,Citigroup Inc,Bank Of America Corp,48.9
+Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Mastercard Inc,2
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Oasis Petroleum Inc,0.8
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Axa Sa,0.7
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Mbia Inc,1.6
+Morgan Stanley International Holdings Inc,3,Federal Home Loan Mortgage Corp,Allstate Corp,0.6
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Oasis Petroleum Inc,0.5
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Us Bancorp,18.9
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Atandt Inc,1.5
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Cincinnati Bell Inc,2
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Vanguard Group,100
+Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Wells Fargo And Company,55.5
+Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Eastman Kodak Co,0.5
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,State Street Corp,5.3
+Morgan Stanley International Holdings Inc,2,Federal Home Loan Mortgage Corp,Bank Of America Corp,0.9
+Morgan Stanley International Holdings Inc,2,Federal Home Loan Mortgage Corp,Wells Fargo And Company,1
+Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Metlife Inc,16.3
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Vanguard Group,17.1
+Morgan Stanley International Holdings Inc,3,Discover Financial Services,Citigroup Inc,0.8
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Hersha Hospitality Trust,0.5
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Deutsche Bank,1.2
+Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Prudential Financial Inc,1.6
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,First Republic Bank,0.7
+Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Mastercard Inc,2.4
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Mitsubishi Ufj Financial Group Inc,2.4
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Visa Inc,3.6
+Morgan Stanley International Holdings Inc,2,Jp Morgan Chase And Co,Bank Of America Corp,1.1
+Morgan Stanley International Holdings Inc,3,Federal Home Loan Mortgage Corp,Allstate Corp,0.6
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Aleris International Inc,1.5
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Ltc Properties Inc,0.5
+Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,International Flavors And Fragrances Inc,2.5
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Mbia Inc,1
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Intercontinental Exchange,13.1
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Federal Home Loan Mortgage Corp,2.3
+Morgan Stanley International Holdings Inc,2,Intercontinental Exchange,Wells Fargo And Company,15.6
+Morgan Stanley International Holdings Inc,2,Allstate Corp,Wells Fargo And Company,1.1
+Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,International Flavors And Fragrances Inc,2.7
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Vodafone Group Plc,1.3
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Deutsche Bank,1.7
+Morgan Stanley International Holdings Inc,2,Barclays Plc,Jp Morgan Chase And Co,0.8
+Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Metlife Inc,20.6
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Dowdupont Inc,18.2
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Eaton Vance Corp,100
+Morgan Stanley International Holdings Inc,2,Thomson Reuters Corp,Citigroup Inc,0.7
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Deutsche Bank,1.3
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Oasis Petroleum Inc,0.7
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Thomson Reuters Corp,1.7
+Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Bbandt Corp,1.7
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Realogy Holdings Corp,8.1
+Morgan Stanley International Holdings Inc,3,Intercontinental Exchange,Ubs Group Ag,0.6
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,First Republic Bank,5.2
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Bank Of New York Mellon Corp,1.9
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Federal National Mortgage Association,1
+Morgan Stanley International Holdings Inc,2,Citigroup Inc,Special Opportunities Fund Inc,0.5
+Morgan Stanley International Holdings Inc,3,Intercontinental Exchange,Ubs Group Ag,0.5
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Aleris International Inc,1.5
+Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Mastercard Inc,1.6
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Mbia Inc,2.6
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Aleris International Inc,1.1
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,London Stock Exchange Group Plc,0.5
+Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Coastal Financial Corp,0.6
+Morgan Stanley International Holdings Inc,2,Citigroup Inc,Countrywide Plc,1
+Morgan Stanley International Holdings Inc,2,Citigroup Inc,Visa Inc,0.6
+Morgan Stanley International Holdings Inc,2,Mastercard Inc,Citigroup Inc,4.4
+Morgan Stanley International Holdings Inc,3,Goldman Sachs Group Inc,Visa Inc,1
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Mbia Inc,1.6
+Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Wells Fargo And Company,43.9
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,International Flavors And Fragrances Inc,1.4
+Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Wells Fargo And Company,1.2
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Caterpillar Inc,0.6
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Smtc Corp,0.6
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Genworth Financial Inc,0.9
+Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Eastman Kodak Co,0.5
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Deere And Company,1.1
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Cincinnati Bell Inc,2
+Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Bbandt Corp,1.9
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Aib Group Plc,0.5
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Credit Suisse Group,1.1
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Mitsubishi Corp,0.7
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,State Street Corp,0.5
+Morgan Stanley International Holdings Inc,2,Jp Morgan Chase And Co,Citigroup Inc,21.9
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Deutsche Bank,1.4
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Aib Group Plc,0.5
+Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Prudential Financial Inc,1.5
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,First Republic Bank,0.6
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Jp Morgan Chase And Co,8.7
+Morgan Stanley International Holdings Inc,2,Jp Morgan Chase And Co,Wells Fargo And Company,1.4
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Realogy Holdings Corp,8.2
+Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Prudential Financial Inc,1.5
+Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Eastman Kodak Co,0.5
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Oasis Petroleum Inc,0.8
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Sandp Global Inc,6.7
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Maiden Holdings Ltd,5.5
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Deutsche Bank,12.1
+Morgan Stanley International Holdings Inc,2,Citigroup Inc,Realogy Holdings Corp,0.7
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Vanguard Group,21.3
+Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Bbandt Corp,0.7
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Brighthouse Financial Inc,2.6
+Morgan Stanley International Holdings Inc,3,Jp Morgan Chase And Co,Wells Fargo And Company,65.1
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Barclays Plc,0.8
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Dowdupont Inc,3.1
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Xerox Corp,0.9
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Wells Fargo And Company,2.3
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Allstate Corp,1
+Morgan Stanley International Holdings Inc,2,Citigroup Inc,Cincinnati Bell Inc,0.7
+Morgan Stanley International Holdings Inc,2,Intercontinental Exchange,Bank Of America Corp,8
+Morgan Stanley International Holdings Inc,2,Bank Of America Corp,Intercontinental Exchange,1.7
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,First Republic Bank,0.5
+Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,International Flavors And Fragrances Inc,2.5
+Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Bbandt Corp,1.9
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Smtc Corp,0.6
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Vodafone Group Plc,1.3
+Morgan Stanley International Holdings Inc,3,Mastercard Inc,Goldman Sachs Group Inc,0.6
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Avon Products Inc,0.5
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Mbia Inc,1.4
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,International Flavors And Fragrances Inc,1.2
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Navistar International Corp,1.8
+Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Eastman Kodak Co,0.5
+Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,International Flavors And Fragrances Inc,2.7
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Vanguard Group,99.2
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Xerox Corp,0.9
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,International Flavors And Fragrances Inc,0.9
+Morgan Stanley International Holdings Inc,2,Citigroup Inc,Intercontinental Exchange,5.3
+Morgan Stanley International Holdings Inc,2,Citigroup Inc,Jp Morgan Chase And Co,100
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Berkshire Hathaway Inc,5.3
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Schwab Charles Corp,0.8
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Alta Mesa Resources Inc,1.2
+Morgan Stanley International Holdings Inc,2,Bank Of America Corp,Wells Fargo And Company,12.4
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,International Flavors And Fragrances Inc,0.9
+Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Prudential Financial Inc,1.6
+Morgan Stanley International Holdings Inc,2,Citigroup Inc,Nomura Holdings Inc,0.7
+Morgan Stanley International Holdings Inc,2,Citigroup Inc,Public Storage,0.7
+Morgan Stanley International Holdings Inc,3,Goldman Sachs Group Inc,Visa Inc,0.9
+Morgan Stanley International Holdings Inc,3,Citigroup Inc,Realogy Holdings Corp,1.8
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,Deutsche Bank,2
+Morgan Stanley International Holdings Inc,3,Wells Fargo And Company,Bbandt Corp,1.8
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Royal Bank Of Canada,1.4
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Moodys Corp /De/,1.2
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Salesforce Com Inc,2.5
+Morgan Stanley International Holdings Inc,1,Morgan Stanley International Holdings Inc,Mastercard Inc,1.7
+Morgan Stanley International Holdings Inc,3,Bank Of America Corp,First Republic Bank,0.7
+Pepsico Inc,1,Pepsico Inc,Atandt Inc,3.2
+Pepsico Inc,2,Jp Morgan Chase And Co,Berkshire Hathaway Inc,1.9
+Pepsico Inc,2,Wells Fargo And Company,Intel Corp,1.4
+Pepsico Inc,3,Jp Morgan Chase And Co,Rockwell Automation Inc,4.1
+Pepsico Inc,2,Jp Morgan Chase And Co,Nantkwest Inc,0.8
+Pepsico Inc,2,Wells Fargo And Company,Cbs Corp,3.1
+Pepsico Inc,3,Jp Morgan Chase And Co,Nomura Holdings Inc,10.8
+Pepsico Inc,1,Pepsico Inc,Jp Morgan Chase And Co,61.9
+Pepsico Inc,2,Atandt Inc,Bank Of America Corp,8.6
+Pepsico Inc,3,Deutsche Bank,Netflix Inc,3.7
+Pepsico Inc,2,Jp Morgan Chase And Co,Waddell And Reed Financial Inc,0.7
+Pepsico Inc,2,Jp Morgan Chase And Co,Thomson Reuters Corp,3.1
+Pepsico Inc,2,Jp Morgan Chase And Co,Assured Guaranty Ltd,1.6
+Pepsico Inc,2,Jp Morgan Chase And Co,Royal Bank Of Canada,0.6
+Pepsico Inc,2,Wells Fargo And Company,Allergan Plc,1.6
+Pepsico Inc,2,Wells Fargo And Company,Delta Air Lines Inc,1.1
+Pepsico Inc,2,Jp Morgan Chase And Co,Federal Home Loan Mortgage Corp,2.1
+Pepsico Inc,2,Wells Fargo And Company,Gilead Sciences Inc,0.7
+Pepsico Inc,3,Mastercard Inc,Apple Inc,24.5
+Pepsico Inc,3,Jp Morgan Chase And Co,Zimmer Biomet Holdings,2.6
+Pepsico Inc,1,Pepsico Inc,Wells Fargo And Company,100
+Pepsico Inc,2,Jp Morgan Chase And Co,Pimco Dynamic Credit Income Fun,1.4
+Pepsico Inc,3,Bank Of America Corp,Deutsche Bank,9.5
+Pepsico Inc,3,Bank Of America Corp,Mastercard Inc,4.1
+Pepsico Inc,3,Deutsche Bank,Netflix Inc,3.1
+Pepsico Inc,3,Jp Morgan Chase And Co,Pimco Dynamic Credit Income Fun,2.6
+Pepsico Inc,2,Jp Morgan Chase And Co,Sandp Global Inc,11.5
+Pepsico Inc,3,Mastercard Inc,Apple Inc,58.5
+Pepsico Inc,3,Jp Morgan Chase And Co,Waddell And Reed Financial Inc,11.9
+Pepsico Inc,1,Pepsico Inc,Sandp Global Inc,3.2
+Pepsico Inc,2,Jp Morgan Chase And Co,Amazon Com Inc,0.8
+Pepsico Inc,3,Bank Of America Corp,Pimco Dynamic Credit Income Fun,2.8
+Pepsico Inc,3,Deutsche Bank,Jp Morgan Chase And Co,18.4
+Pepsico Inc,3,Jp Morgan Chase And Co,Amc Entertainment Inc,5.9
+Pepsico Inc,2,Jp Morgan Chase And Co,Mastercard Inc,5.7
+Pepsico Inc,2,Wells Fargo And Company,Virgin America Inc,1.1
+Pepsico Inc,2,Wells Fargo And Company,Cold Spring Capital Inc,0.8
+Pepsico Inc,3,Deutsche Bank,Netflix Inc,2.9
+Pepsico Inc,3,Assured Guaranty Ltd,Goldman Sachs Group Inc,5.6
+Pepsico Inc,3,Deutsche Bank,Vanguard Group,7.1
+Pepsico Inc,3,Jp Morgan Chase And Co,Royal Dutch Shell,9.9
+Pepsico Inc,3,Jp Morgan Chase And Co,Citigroup Inc,33.5
+Pepsico Inc,3,Jp Morgan Chase And Co,Berkshire Hathaway Inc,71.6
+Pepsico Inc,3,Deutsche Bank,Jp Morgan Chase And Co,34.4
+Pepsico Inc,1,Pepsico Inc,Morgan Stanley International Holdings Inc,1.7
+Pepsico Inc,2,Jp Morgan Chase And Co,Total System Services Inc,0.8
+Pepsico Inc,3,Mastercard Inc,Apple Inc,24.4
+Pepsico Inc,2,Jp Morgan Chase And Co,Coastal Financial Corp,1.5
+Pepsico Inc,2,Wells Fargo And Company,Aon Plc,0.6
+Pepsico Inc,3,Berkshire Hathaway Inc,Twitter Inc,4
+Pepsico Inc,3,Bank Of America Corp,International Flavors And Fragrances Inc,10
+Pepsico Inc,3,Bank Of America Corp,First Republic Bank,5
+Pepsico Inc,3,Bank Of America Corp,Cincinnati Bell Inc,3.8
+Pepsico Inc,3,Bank Of America Corp,Oasis Petroleum Inc,5.6
+Pepsico Inc,3,Bank Of America Corp,Hsbc Holdings Plc,4
+Pepsico Inc,3,Jp Morgan Chase And Co,Maiden Holdings Ltd,100
+Pepsico Inc,1,Pepsico Inc,Bank Of New York Mellon Corp,1.1
+Pepsico Inc,2,Hsbc Holdings Plc,Mastercard Inc,0.7
+Pepsico Inc,2,Sandp Global Inc,Ihs Markit Ltd,1.2
+Pepsico Inc,2,Wells Fargo And Company,Gse Systems Inc,0.5
+Pepsico Inc,3,Jp Morgan Chase And Co,Eaton Corp Plc,10.5
+Pepsico Inc,3,Jp Morgan Chase And Co,City Office Reit Inc,10.8
+Pepsico Inc,3,Conagra Brands Inc,Nestle Sa Cham Et Ve,2.6
+Pepsico Inc,2,Wells Fargo And Company,Intercontinental Exchange,100
+Pepsico Inc,3,Deutsche Bank,Ford Motor Company,2.7
+Pepsico Inc,3,Jp Morgan Chase And Co,Broadcom Ltd,32.4
+Pepsico Inc,3,Jp Morgan Chase And Co,First Republic Bank,19.8
+Pepsico Inc,3,Federal Home Loan Mortgage Corp,Jp Morgan Chase And Co,15.3
+Pepsico Inc,2,Visa Inc,Jp Morgan Chase And Co,24.1
+Pepsico Inc,2,Hsbc Holdings Plc,Maiden Holdings Ltd,2.2
+Pepsico Inc,3,Jp Morgan Chase And Co,Total System Services Inc,2.6
+Pepsico Inc,3,Deutsche Bank,Ford Motor Company,3.2
+Pepsico Inc,2,Jp Morgan Chase And Co,Federal National Mortgage Association,5.5
+Pepsico Inc,1,Pepsico Inc,Hsbc Holdings Plc,18.4
+Pepsico Inc,2,Jp Morgan Chase And Co,Public Storage,1.5
+Pepsico Inc,2,Jp Morgan Chase And Co,Fair Isaac Corp,1.6
+Pepsico Inc,2,Jp Morgan Chase And Co,Schwab Charles Corp,0.9
+Pepsico Inc,2,Wells Fargo And Company,Federal National Mortgage Association,2.5
+Pepsico Inc,2,Wells Fargo And Company,Waddell And Reed Financial Inc,0.8
+Pepsico Inc,3,Bank Of America Corp,Pgande Corp,3
+Pepsico Inc,3,Bank Of America Corp,Duke Energy Corp,6.9
+Pepsico Inc,2,Wells Fargo And Company,Boeing Company,1.4
+Pepsico Inc,3,Deutsche Bank,Vanguard Group,7.7
+Pepsico Inc,3,Bank Of America Corp,Assured Guaranty Ltd,3.2
+Pepsico Inc,3,Jp Morgan Chase And Co,Australia And New Zealand Bank,5
+Pepsico Inc,3,Jp Morgan Chase And Co,Mastercard Inc,36
+Pepsico Inc,3,Jp Morgan Chase And Co,Fair Isaac Corp,4.3
+Pepsico Inc,3,Jp Morgan Chase And Co,Jp Morgan Investment Management Inc,4.5
+Pepsico Inc,2,Jp Morgan Chase And Co,City Office Reit Inc,1.2
+Pepsico Inc,2,Jp Morgan Chase And Co,London Stock Exchange Group Plc,0.5
+Pepsico Inc,2,Jp Morgan Chase And Co,Smtc Corp,0.6
+Pepsico Inc,2,Wells Fargo And Company,Apple Inc,0.7
+Pepsico Inc,3,Jp Morgan Chase And Co,Transocean Ltd,3.7
+Pepsico Inc,1,Pepsico Inc,Walmart Inc,7.1
+Pepsico Inc,2,Wells Fargo And Company,London Stock Exchange Group Plc,1
+Pepsico Inc,3,Mastercard Inc,Ubs Group Ag,3.3
+Pepsico Inc,2,Hsbc Holdings Plc,Ubs Group Ag,1.1
+Pepsico Inc,3,Bank Of America Corp,Countrywide Plc,3.2
+Pepsico Inc,3,Deutsche Bank,Jp Morgan Chase And Co,29.1
+Pepsico Inc,3,Jp Morgan Chase And Co,Cra International,4.8
+Pepsico Inc,3,Jp Morgan Chase And Co,Linkedin Corp,55.4
+Pepsico Inc,3,Deutsche Bank,Vanguard Group,9.1
+Pepsico Inc,2,Wells Fargo And Company,Schwab Charles Corp,0.9
+Pepsico Inc,3,Jp Morgan Chase And Co,Hp Inc,6.9
+Pepsico Inc,3,Federal Home Loan Mortgage Corp,Metlife Inc,3.5
+Pepsico Inc,3,Jp Morgan Chase And Co,Assured Guaranty Ltd,7.6
+Pepsico Inc,1,Pepsico Inc,Nestle Sa Cham Et Ve,0.7
+Pepsico Inc,2,Wells Fargo And Company,Canadian Imperial Bank Of Commerce,1.5
+Pepsico Inc,2,Wells Fargo And Company,Applied Materials Inc /De,2.1
+Pepsico Inc,2,Wells Fargo And Company,Oci Partners Lp,2
+Pepsico Inc,3,Bank Of America Corp,Fair Isaac Corp,4.9
+Pepsico Inc,1,Pepsico Inc,Visa Inc,1.8
+Pepsico Inc,2,Jp Morgan Chase And Co,Deutsche Bank,9.2
+Pepsico Inc,2,Wells Fargo And Company,Ebay Inc,0.9
+Pepsico Inc,2,Wells Fargo And Company,The Toronto-Dominion Bank,0.5
+Pepsico Inc,3,Jp Morgan Chase And Co,Public Storage,53.8
+Pepsico Inc,3,Jp Morgan Chase And Co,Coastal Financial Corp,18.5
+Pepsico Inc,2,Jp Morgan Chase And Co,Walmart Inc,7.5
+Pepsico Inc,3,Deutsche Bank,Vanguard Group,4.9
+Pepsico Inc,2,Morgan Stanley International Holdings Inc,Sandp Global Inc,0.5
+Pepsico Inc,2,Wells Fargo And Company,Pimco Dynamic Credit Income Fun,2.5
+Pepsico Inc,3,Jp Morgan Chase And Co,Deutsche Bank,78.7
+Pepsico Inc,3,Jp Morgan Chase And Co,Ebay Inc,17.5
+Pepsico Inc,3,Mastercard Inc,Apple Inc,23.1
+Pepsico Inc,2,Hsbc Holdings Plc,Special Opportunities Fund Inc,0.5
+Pepsico Inc,2,Wells Fargo And Company,Nike Inc,0.7
+Pepsico Inc,3,Intercontinental Exchange,Goldman Sachs Group Inc,81.2
+Pepsico Inc,3,Jp Morgan Chase And Co,Nantkwest Inc,11.8
 Verizon Communications Inc,1,Verizon Communications Inc,Alphabet Inc,240.5
 Verizon Communications Inc,1,Verizon Communications Inc,Apple Inc,169
 Verizon Communications Inc,1,Verizon Communications Inc,T-Mobile Us,165
