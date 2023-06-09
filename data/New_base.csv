@@ -1,41 +1,244 @@
 ﻿GRAPH,NODE_DISTANCE,STARTING_NODE,ENDING_NODE,IEVENT,INTENSITY
+Alphabet Inc,2,Atandt Inc,Aol Inc,,630
+Alphabet Inc,1,Alphabet Inc,Twitter Inc,,140
+Alphabet Inc,3,Dcp Midstream Lp,Tallgrass Energy Partners Lp,,7
+Alphabet Inc,3,Pdl Biopharma Inc,Cambrex Corp,,15
+Alphabet Inc,2,Honeywell International Inc,Caterpillar Inc,,792
+Alphabet Inc,3,Juniper Networks Inc,Extreme Networks Inc,,110
+Alphabet Inc,1,Alphabet Inc,Abbvie Inc,,1680
+Alphabet Inc,1,Alphabet Inc,Google,,6095.6
+Alphabet Inc,2,Illumina Inc,Applied Biosystems Inc,,24
+Alphabet Inc,1,Alphabet Inc,Ebay Inc,,168
+Alphabet Inc,3,Dean Foods Co,Morningstar Inc,SupplyChain,128
+Alphabet Inc,1,Alphabet Inc,Oci Nv,,70
+Alphabet Inc,3,Surmodics Inc,Medtronic Public Limited Company,,2214
+Alphabet Inc,1,Alphabet Inc,Crown Castle International Corp,Legal,1274
+Alphabet Inc,3,Pfizer Inc,Elanco Animal Health Inc,,108
+Alphabet Inc,2,Southern Company,Steelcase Inc,,4224
+Alphabet Inc,3,Apollo Global Management Llc,Quality Distribution Inc,,10
+Alphabet Inc,3,Mckesson Corp,American Axle And Manufacturing Holdings Inc,,396
+Alphabet Inc,2,Abbvie Inc,Capital One Financial Corp,,1392
+Alphabet Inc,3,Caterpillar Inc,Aberdeen Emerging Markets Equity Income Fund Inc,,24
+Alphabet Inc,3,Str Holdings Inc,Credit Suisse Ag,,216
+Alphabet Inc,2,Microsoft Corp,Enterprise Financial Services Corp,,1650
+Alphabet Inc,3,Warner Media Llc,Tivo Corp,,72
+Alphabet Inc,2,Goldman Sachs Group Inc,Deutsche Bank,,988
+Alphabet Inc,2,Microsoft Corp,Adobe Inc,,750
+Alphabet Inc,2,Gilead Sciences Inc,Str Holdings Inc,,33
+Alphabet Inc,3,Str Holdings Inc,Unilever Plc,,231
+Alphabet Inc,2,Oracle Corp,Bnp Paribas,,6048
+Alphabet Inc,3,Entergy Corp,Pfo Global Inc,,50
+Alphabet Inc,1,Alphabet Inc,Sandp Global Inc,,840
+Alphabet Inc,3,Caterpillar Inc,Wells Fargo And Company,,3880
+Alphabet Inc,3,Mid America Apartment Communities Inc,Royal Bank Of Canada,,936
+Alphabet Inc,3,Pnc Financial Services Group Inc,Mercantile Bank Corp,,17
+Alphabet Inc,2,Atandt Inc,Solis Tek Inc./Nv,,84
+Alphabet Inc,2,Altaba Inc,Facebook Inc,,4404
+Alphabet Inc,1,Alphabet Inc,Arlington Asset Investment Corp,,1008
+Alphabet Inc,2,Goldman Sachs Group Inc,Kraft Foods Group Inc,,32
+Alphabet Inc,1,Alphabet Inc,Microsoft Corp,,630
+Alphabet Inc,3,General Electric Company,Cheniere Energy Inc,,180
+Alphabet Inc,2,Honeywell International Inc,Garrett Motion Inc,,72
+Alphabet Inc,2,Ebay Inc,Naspers Ltd,,810
+Alphabet Inc,2,Altaba Inc,Tribune Media Co,,50
+Alphabet Inc,2,Atandt Inc,Warner Media Llc,,11073
+Alphabet Inc,1,Alphabet Inc,Cadence Bancorporation,Investigation,196
+Alphabet Inc,3,Formfactor Inc,Noranda Aluminum Holding Corp,,28
+Alphabet Inc,3,Duke Energy Corp,Bank Of The Carolinas Corp,,13
+Alphabet Inc,2,Gilead Sciences Inc,Pfizer Inc,,1386
+Alphabet Inc,2,Sandp Global Inc,Apollo Global Management Llc,,450
+Alphabet Inc,2,Goldman Sachs Group Inc,Fair Isaac Corp,,128
+Alphabet Inc,2,Honeywell International Inc,United Technologies Corp,Transaction,264
+Alphabet Inc,1,Alphabet Inc,Nasdaq Inc,,84
+Alphabet Inc,1,Alphabet Inc,Bank Of New York Mellon Corp,,364
+Alphabet Inc,2,Microsoft Corp,Dell Inc,,1782
+Alphabet Inc,3,Formfactor Inc,Leggett And Platt Inc,,85
+Alphabet Inc,1,Alphabet Inc,Atandt Inc,,392
+Alphabet Inc,2,Southern Company,Dcp Midstream Lp,,462
+Alphabet Inc,3,Polycom Inc,Rmx Holdings Inc,,1
+Alphabet Inc,1,Alphabet Inc,Banco Santander Sa,,392
+Alphabet Inc,2,Nasdaq Inc,Pdl Biopharma Inc,,510
+Alphabet Inc,3,Formfactor Inc,Rio Tinto Plc,,378
+Alphabet Inc,1,Alphabet Inc,Altaba Inc,,70
+Alphabet Inc,1,Alphabet Inc,Facebook Inc,,504
+Alphabet Inc,2,Network 1 Technologies Inc,Adtran Inc,,96
+Alphabet Inc,3,Clean Energy Fuels Corp,Kroger Company,,35
+Alphabet Inc,1,Alphabet Inc,Southern Company,,462
+Alphabet Inc,2,Oracle Corp,Intel Corp,,13008
+Alphabet Inc,1,Alphabet Inc,Apple Inc,,509.6
+Alphabet Inc,2,Apple Inc,Skyworks Solutions,,390
+Alphabet Inc,3,Pfizer Inc,Glaxosmithkline Plc,,336
+Alphabet Inc,3,Cbs Corp,New York Times Co,,228
+Alphabet Inc,1,Alphabet Inc,Linkedin Corp,,28
+Alphabet Inc,2,Network 1 Technologies Inc,Polycom Inc,,54
+Alphabet Inc,3,Juniper Networks Inc,Deutsche Telekom Ag,,105
+Alphabet Inc,3,Pdl Biopharma Inc,Aercap Holdings Nv,Corporate,225
+Alphabet Inc,1,Alphabet Inc,Peerstream Inc,,14
+Alphabet Inc,3,Fair Isaac Corp,International Business Machines Corp,,4849
+Alphabet Inc,3,Formfactor Inc,Linear Technology Corp /Ca/,,87
+Alphabet Inc,3,Cbs Corp,Viacom Inc Cl B,,16445
+Alphabet Inc,2,Abbvie Inc,Allergan Plc,,38208
+Alphabet Inc,2,The Walt Disney Co,Cbs Corp,,672
+Alphabet Inc,3,Kraft Foods Group Inc,Kimberly-Clark Corp,,9
+Alphabet Inc,2,Gilead Sciences Inc,Kite Pharma Inc,Corporate,77
+Alphabet Inc,2,Abbvie Inc,Vitae Pharmaceuticals Inc,,24
+Alphabet Inc,2,Crown Castle International Corp,Deutsche Telekom Ag,,16170
+Alphabet Inc,3,Apollo Global Management Llc,Apollo Commercial Real Estate Finance Inc,,50
+Alphabet Inc,2,Gilead Sciences Inc,Rps Group Plc,,44
+Alphabet Inc,3,Caterpillar Inc,Sotherly Hotels,,2352
+Alphabet Inc,3,Intel Corp,Performance Sports Group Ltd,,208
+Alphabet Inc,2,Sandp Global Inc,Ihs Markit Ltd,Corporate,315
+Alphabet Inc,2,Google,Glu Mobile Inc,,130
+Alphabet Inc,2,Apple Inc,Ares Capital Corp,,1625
+Alphabet Inc,1,Alphabet Inc,Honeywell International Inc,,336
+Alphabet Inc,1,Alphabet Inc,Oracle Corp,Legal,1848
+Alphabet Inc,1,Alphabet Inc,Goldman Sachs Group Inc,,3584
+Alphabet Inc,3,Supervalu Inc,Safeway Inc,,1
+Alphabet Inc,2,Microsoft Corp,Sap Se,,6936
+Alphabet Inc,3,Skyworks Solutions,Advanced Analogic Technologies Inc,,12
+Alphabet Inc,2,Gilead Sciences Inc,Teva Pharmaceutical Industries Ltd,,88
+Alphabet Inc,3,Warner Media Llc,Central European Media Enterprises Ltd,,45
+Alphabet Inc,3,Intel Corp,Taiwan Semiconductor Manufacturing,,192
+Alphabet Inc,1,Alphabet Inc,Amazon Com Inc,,1092
+Alphabet Inc,3,Dcp Midstream Lp,Atmos Energy Corp,,36
+Alphabet Inc,2,Facebook Inc,Google,Communication,1427
+Alphabet Inc,2,Ebay Inc,Goodyear Tire And Rubber Co /Oh/,HumanResources,1296
+Alphabet Inc,3,Dcp Midstream Lp,Williams Companies Inc,,252
+Alphabet Inc,2,Microsoft Corp,Formfactor Inc,,1350
+Alphabet Inc,2,Southern Company,General Electric Company,,5840
+Alphabet Inc,2,Gilead Sciences Inc,Mckesson Corp,,154
+Alphabet Inc,1,Alphabet Inc,Fitbit Inc,Corporate,2870
+Alphabet Inc,2,Southern Company,Clean Energy Fuels Corp,,330
+Alphabet Inc,3,Salesforce Com Inc,Axon Enterprise Inc,,56
+Alphabet Inc,2,Bank Of New York Mellon Corp,Associated Capital Group Inc,,26
+Alphabet Inc,1,Alphabet Inc,Baidu Inc,,182
+Alphabet Inc,3,Federal National Mortgage Association,Credit Suisse Group,,1872
+Alphabet Inc,1,Alphabet Inc,Google,HumanResources,42
+Alphabet Inc,3,Cardinal Health Inc,Ppg Industries Inc,,49
+Alphabet Inc,2,Altaba Inc,Surmodics Inc,,75
+Alphabet Inc,3,Formfactor Inc,Bruker Corp,,9
+Alphabet Inc,2,Southern Company,Pnc Financial Services Group Inc,,748
+Alphabet Inc,2,Altaba Inc,Cognizant Technology Solutions Corp,,225
+Alphabet Inc,3,Change Healthcare Holdings Inc,Eastman Chemical Company,,42
+Alphabet Inc,3,Paypal Holdings,Jp Morgan Chase And Co,,19278
+Alphabet Inc,3,Salesforce Com Inc,Univar Usa Inc,,64
+Alphabet Inc,2,Network 1 Technologies Inc,Microsemi Corp,,24
+Alphabet Inc,1,Alphabet Inc,Gilead Sciences Inc,,616
+Alphabet Inc,1,Alphabet Inc,Yandex Nv,,84
+Alphabet Inc,3,Formfactor Inc,Startek Inc,,6
+Alphabet Inc,3,United Technologies Corp,Lockheed Martin Corp,,363
+Alphabet Inc,1,Alphabet Inc,Netflix Inc,,154
+Alphabet Inc,3,Crown Castle International Corp,Hrg Group Inc,,70
+Alphabet Inc,2,Sandp Global Inc,Cme Group Inc,Transaction,3080
+Alphabet Inc,1,Alphabet Inc,The Walt Disney Co,,336
+Alphabet Inc,2,Abbvie Inc,Neurocrine Biosciences Inc,,420
+Alphabet Inc,1,Alphabet Inc,Transalta Corp,Transaction,11760
+Alphabet Inc,3,Avaya Inc,Gartner Inc,,125
+Alphabet Inc,3,Avaya Inc,Apple Inc,,8840
+Alphabet Inc,1,Alphabet Inc,Oci Partners Lp,,14
+Alphabet Inc,3,Caterpillar Inc,Rps Group Plc,,246
+Alphabet Inc,2,Sandp Global Inc,Quanta Services Inc,,450
+Alphabet Inc,3,Cardinal Health Inc,Icu Medical Inc/De,,42
+Alphabet Inc,3,Dcp Midstream Lp,Prgx Global Inc,,21
+Alphabet Inc,1,Alphabet Inc,Alibaba Group Holding Ltd,,154
+Alphabet Inc,3,Cme Group Inc,Nyse Euronext,,36
+Alphabet Inc,3,Dell Inc,Royal Dutch Shell,,319
+Alphabet Inc,3,Apollo Global Management Llc,Ciner Resources Lp,,20
+Alphabet Inc,2,Oci Partners Lp,Intercontinental Exchange,,18048
+Alphabet Inc,2,Gilead Sciences Inc,Mid America Apartment Communities Inc,,132
+Alphabet Inc,2,Altaba Inc,Hortonworks,,1125
+Alphabet Inc,3,Skyworks Solutions,Lawson Software Inc,,12
+Alphabet Inc,2,Twitter Inc,Shopify Inc,,350
+Alphabet Inc,2,Network 1 Technologies Inc,Avaya Inc,,36
+Alphabet Inc,1,Alphabet Inc,Illumina Inc,,84
+Alphabet Inc,2,Ebay Inc,Mercadolibre Inc,Transaction,2880
+Alphabet Inc,2,Southern Company,Benchmark Electronics Inc,,176
+Alphabet Inc,2,Apple Inc,American Apparel Inc,,260
+Alphabet Inc,1,Alphabet Inc,Network 1 Technologies Inc,,252
+Alphabet Inc,3,Supervalu Inc,Shopify Inc,Transaction,56
+Alphabet Inc,2,Southern Company,Duke Energy Corp,Corporate,2431
+Alphabet Inc,3,Clean Energy Fuels Corp,Starbucks Corp,,442
+Alphabet Inc,3,Entergy Corp,Berkshire Hathaway Inc,,160
+Alphabet Inc,3,Glu Mobile Inc,Global Equity International Inc,,10
+Alphabet Inc,2,Verizon Communications Inc,Reckitt Benckiser,,520
+Alphabet Inc,3,Cme Group Inc,Sandp Global Inc,,8406
+Alphabet Inc,3,Intel Corp,Ebay Inc,,1260
+Alphabet Inc,3,Avaya Inc,Imperva Inc,,2
+Alphabet Inc,3,Polycom Inc,Hon Hai Precision Industry Co Ltd,,343
+Alphabet Inc,3,Intercontinental Exchange,Blackbaud Inc,,174
+Alphabet Inc,1,Alphabet Inc,Transalta Corp,Corporate,8120
+Alphabet Inc,3,Aol Inc,Alliance Data Systems Corp,,6
+Alphabet Inc,2,Amazon Com Inc,Kelly Services Inc,,234
+Alphabet Inc,3,Dell Inc,Marathon Oil Corp,,165
+Alphabet Inc,3,Ares Capital Corp,General Electric Company,,5440
+Alphabet Inc,3,Garrett Motion Inc,Lear Corp,,72
+Alphabet Inc,3,Pfizer Inc,Springworks Therapeutics Inc,,54
+Alphabet Inc,2,Atandt Inc,Lloyds Banking Group Plc,,1596
+Alphabet Inc,2,Microsoft Corp,Salesforce Com Inc,,4464
+Alphabet Inc,3,Ihs Markit Ltd,Blackrock Group Limited,,1456
+Alphabet Inc,3,Apollo Global Management Llc,Lyondellbasell Industries Nv,,140
+Alphabet Inc,2,Booking Holdings Inc,Ctrip Com International Ltd,,110
+Alphabet Inc,1,Alphabet Inc,Network Cn Inc,,14
+Alphabet Inc,2,Abbvie Inc,Supervalu Inc,,48
+Alphabet Inc,3,Apollo Global Management Llc,Amc Entertainment Inc,,66
+Alphabet Inc,2,Netflix Inc,Twitter Inc,,18260
+Alphabet Inc,3,Federal National Mortgage Association,Realogy Holdings Corp,,3480
+Alphabet Inc,2,Microsoft Corp,Oci Partners Lp,,1267
+Alphabet Inc,2,Abbvie Inc,Cardinal Health Inc,,721
+Alphabet Inc,2,Abbvie Inc,Abbott Laboratories Limited,,8352
+Alphabet Inc,1,Alphabet Inc,Oracle Corp,,2352
+Alphabet Inc,2,Sandp Global Inc,Federal National Mortgage Association,,9612
+Alphabet Inc,2,Network 1 Technologies Inc,Juniper Networks Inc,,252
+Alphabet Inc,2,Abbvie Inc,Mckesson Corp,,490
+Alphabet Inc,3,Formfactor Inc,Tokyo Electron Ltd,,24
+Alphabet Inc,3,Microsemi Corp,Visa Inc,,275
+Alphabet Inc,3,Duke Energy Corp,Bloom Energy Corp,Corporate,312
+Alphabet Inc,2,Oracle Corp,Security Bank Corp,,216
+Alphabet Inc,2,Netflix Inc,Warner Media Llc,,237
+Alphabet Inc,2,Bank Of New York Mellon Corp,Darwin Professional Underwriters Inc,,26
+Alphabet Inc,3,Capital One Financial Corp,Conduent Inc,,1450
+Alphabet Inc,3,Dcp Midstream Lp,Eqt Corp,,42
+Alphabet Inc,3,Dell Inc,Pepsico Inc,,143
+Alphabet Inc,3,Ares Capital Corp,Ares Management Gp Llc,,1260
+Alphabet Inc,3,Gilead Sciences Inc,Allied Capital Corp,,1536
+Alphabet Inc,2,Nasdaq Inc,Change Healthcare Holdings Inc,,72
+Alphabet Inc,3,Pfizer Inc,Agilent Technologies Inc,,126
+Alphabet Inc,2,Ebay Inc,Paypal Holdings,,12312
+Alphabet Inc,1,Alphabet Inc,Booking Holdings Inc,,140
+Alphabet Inc,3,Dcp Midstream Lp,Tri-Continental Corp,,28
+Alphabet Inc,2,Sandp Global Inc,Dean Foods Co,,90
+Alphabet Inc,1,Alphabet Inc,Ardmore Shipping Corp,,112
+Alphabet Inc,2,Honeywell International Inc,Markel Corp,,72
+Alphabet Inc,3,Cbs Corp,Netflix Inc,,1496
+Alphabet Inc,2,Ebay Inc,Gap Inc,,288
+Alphabet Inc,3,Adobe Inc,Wells Fargo And Company,,21280
+Alphabet Inc,1,Alphabet Inc,Verizon Communications Inc,,182
+Alphabet Inc,2,Southern Company,Entergy Corp,,55
+Alphabet Inc,3,Entergy Corp,Calpine Corp,,20
+Alphabet Inc,2,Illumina Inc,Ubs Group Ag,,576
+Alphabet Inc,2,Crown Castle International Corp,Telstra Corp Ltd,,252
 Coca-Cola Company,2,Santander Holdings Usa Inc,Bluestem Group Inc,,60
 Coca-Cola Company,1,Coca-Cola Company,London Stock Exchange Group Plc,,216
 Coca-Cola Company,1,Coca-Cola Company,Altria Group,,144
 Coca-Cola Company,1,Coca-Cola Company,Consol Coal Resources Lp,,180
 Coca-Cola Company,1,Coca-Cola Company,Owens Corning Inc,,72
 Coca-Cola Company,2,Seaboard Corp,Maxwell Technologies Inc,,24
-Pepsico Inc,3,Scotts Miracle-Gro Co,Reckitt Benckiser,,50
-Pepsico Inc,2,Celsius Holdings Inc,Oragenics Inc,,10
 Coca-Cola Company,2,Moodys Corp /De/,Ubs Group Ag,,23808
 Coca-Cola Company,1,Coca-Cola Company,Flowers Foods Inc,,36
 Coca-Cola Company,3,Canadian Pacific Railway Ltd/Cn,Intercontinental Exchange,,18564
 Coca-Cola Company,2,Morgan Stanley International Holdings Inc,Seacor Holdings Inc /New/,,270
-Pepsico Inc,2,Coca-Cola Company,Darling Ingredients Inc,,216
-Pepsico Inc,3,United States Steel Corp,Revlon Inc,,40
-Pepsico Inc,3,Corelogic,Bank Of America Corp,,190038
-Pepsico Inc,3,Microsoft Corp,Red Hat Inc,,168
-Pepsico Inc,2,Mondelez International Inc,Kraft Heinz Co,,720
-Pepsico Inc,2,United States Steel Corp,Alon Usa Energy Inc,,50
 Coca-Cola Company,2,Hain Celestial Group Inc,Jetblue Airways Corp,,20
-Pepsico Inc,3,Cna Financial Corp,Churchill Capital Corp,,51
-Pepsico Inc,2,Coca-Cola Company,Kirin Holdings Co Ltd,,400
 Coca-Cola Company,1,Coca-Cola Company,Herbalife Nutrition Ltd,,48
-Pepsico Inc,3,Corelogic,Verisk Analytics Inc,,24
-Pepsico Inc,3,Cna Financial Corp,Pfizer Inc,,468
 Coca-Cola Company,2,Bank Of America Corp,Berkshire Bancorp Inc /De/,,285
 Coca-Cola Company,1,Coca-Cola Company,Coca-Cola Hbc Ag,,252
 Coca-Cola Company,1,Coca-Cola Company,Banco Santander Sa,Corporate,336
 Coca-Cola Company,3,Gain Capital Holdings,Archer Daniels Midland Co,,272
 Coca-Cola Company,2,Pepsico Inc,Dover Corp,,390
-Pepsico Inc,2,Jp Morgan Chase And Co,Mastercard Inc,,25866
 Coca-Cola Company,2,Morgan Stanley International Holdings Inc,Discover Financial Services,,1596
 Coca-Cola Company,2,Conagra Brands Inc,Chicos Fas Inc,,850
 Coca-Cola Company,2,Post Holdings Inc,Monster Beverage Corp,,252
 Coca-Cola Company,3,United Continental Holdings,Singapore Airlines Ltd,,72
 Coca-Cola Company,2,Archer Daniels Midland Co,Overseas Shipholding Group Inc,,192
-Pepsico Inc,3,Weight Watchers International Inc,Hasbro Inc,,72
-Pepsico Inc,2,Starbucks Corp,Goodyear Tire And Rubber Co /Oh/,,702
 Coca-Cola Company,3,Jetblue Airways Corp,Delta Air Lines Inc,,50
 Coca-Cola Company,1,Coca-Cola Company,Tsr Inc,,18
 Coca-Cola Company,2,Dr Pepper Snapple Group Inc,Mondelez International Inc,,13755
@@ -49,7 +252,6 @@ Coca-Cola Company,2,Nrg Energy,United Continental Holdings,,300
 Coca-Cola Company,1,Coca-Cola Company,Ca Inc,SupplyChain,576
 Coca-Cola Company,3,Automatic Data Processing Inc,Salesforce Com Inc,,192
 Coca-Cola Company,3,Jones Lang Lasalle Inc,Compass Group Plc,,80
-Pepsico Inc,3,Trimas Corp,Parker Hannifin Corp,,114
 Coca-Cola Company,3,Jetblue Airways Corp,Lyft Inc,,90
 Coca-Cola Company,3,Maxwell Technologies Inc,Microsemi Corp,,2
 Coca-Cola Company,1,Coca-Cola Company,Moodys Corp /De/,,168
@@ -57,219 +259,32 @@ Coca-Cola Company,2,Citigroup Inc,Honeywell International Inc,,1320
 Coca-Cola Company,2,Chevron Corp,Exxon Mobil Corp,,144
 Coca-Cola Company,1,Coca-Cola Company,Anheuser-Busch Inbev Sa,,1800
 Coca-Cola Company,3,Pepsico Inc,Essa Bancorp Inc,,234
-Pepsico Inc,3,Merck And Co Inc,Dowdupont Inc,,168
-Pepsico Inc,2,Citigroup Inc,Tribune Media Co,,252
-Pepsico Inc,1,Pepsico Inc,Apollo Global Management Llc,Communication,780
-Pepsico Inc,3,Hain Celestial Group Inc,Ebro Foods Sa,,140
-Pepsico Inc,1,Pepsico Inc,Intercontinental Exchange,,2028
 Coca-Cola Company,3,Rpm International Inc/De/,Yrc Worldwide,,36
 Coca-Cola Company,1,Coca-Cola Company,Jefferies Financial Group Inc,,72
 Coca-Cola Company,2,Goldman Sachs Group Inc,Agco Corp,,1792
-Microsoft Corp,1,Microsoft Corp,Arlington Asset Investment Corp,,5940
-Pepsico Inc,2,Mondelez International Inc,Kennametal Inc,,80
 Coca-Cola Company,3,Nci Inc,General Dynamics Corp,,9
-Microsoft Corp,3,Global Indemnity Ltd,Wr Berkley Corp,,80
-Microsoft Corp,3,Global Indemnity Ltd,Everest Re Group,,24
-Microsoft Corp,2,Starbucks Corp,Sysco Corp,,416
-Microsoft Corp,2,Adobe Inc,Comscore Inc,,30
-Alphabet Inc,2,Atandt Inc,Aol Inc,,630
-Alphabet Inc,1,Alphabet Inc,Twitter Inc,,140
-Alphabet Inc,3,Dcp Midstream Lp,Tallgrass Energy Partners Lp,,7
-Pepsico Inc,1,Pepsico Inc,Bioscrip Inc,,260
 Coca-Cola Company,2,Intercontinental Exchange,Nyse Euronext,,48
-Microsoft Corp,2,Federal National Mortgage Association,Phh Corp,,1260
-Microsoft Corp,3,Hsbc Holdings Plc,Cold Spring Capital Inc,,57
-Microsoft Corp,2,Federal National Mortgage Association,Tenet Healthcare Corp,,280
-Microsoft Corp,1,Microsoft Corp,Sony Corp,,300
-Alphabet Inc,3,Pdl Biopharma Inc,Cambrex Corp,,15
-Alphabet Inc,2,Honeywell International Inc,Caterpillar Inc,,792
-Alphabet Inc,3,Juniper Networks Inc,Extreme Networks Inc,,110
-Microsoft Corp,3,Nvidia Corp,Amkor Technology,,44
-Microsoft Corp,2,Equity Bancshares Inc,Spirit Aerosystems Holdings,,24
-Alphabet Inc,1,Alphabet Inc,Abbvie Inc,,1680
-Microsoft Corp,1,Microsoft Corp,Us Bancorp,,2812.5
-Alphabet Inc,1,Alphabet Inc,Google,,6095.6
-Alphabet Inc,2,Illumina Inc,Applied Biosystems Inc,,24
-Alphabet Inc,1,Alphabet Inc,Ebay Inc,,168
-Alphabet Inc,3,Dean Foods Co,Morningstar Inc,SupplyChain,128
-Alphabet Inc,1,Alphabet Inc,Oci Nv,,70
-Alphabet Inc,3,Surmodics Inc,Medtronic Public Limited Company,,2214
-Microsoft Corp,3,Nvidia Corp,Fabrinet,,33
 Coca-Cola Company,3,Automatic Data Processing Inc,Advanced Micro Devices Inc,,1848
-Microsoft Corp,3,Amyris Inc,Harte Hanks Inc,,34.5
-Microsoft Corp,1,Microsoft Corp,Caleres Inc,,30
-Alphabet Inc,1,Alphabet Inc,Crown Castle International Corp,Legal,1274
-Alphabet Inc,3,Pfizer Inc,Elanco Animal Health Inc,,108
-Alphabet Inc,2,Southern Company,Steelcase Inc,,4224
-Alphabet Inc,3,Apollo Global Management Llc,Quality Distribution Inc,,10
-Alphabet Inc,3,Mckesson Corp,American Axle And Manufacturing Holdings Inc,,396
-Alphabet Inc,2,Abbvie Inc,Capital One Financial Corp,,1392
-Alphabet Inc,3,Caterpillar Inc,Aberdeen Emerging Markets Equity Income Fund Inc,,24
-Microsoft Corp,3,Enterprise Products Partners L P,Enbridge Inc,,435
-Microsoft Corp,1,Microsoft Corp,3M Company,,165
-Microsoft Corp,2,Cisco Systems Inc,Palo Alto Networks Inc,,432
-Microsoft Corp,2,Oracle Corp,Compuware Corp,,64
-Microsoft Corp,2,Bmc Software Inc,Fair Isaac Corp,,520
-Microsoft Corp,1,Microsoft Corp,Hp Inc,,330
-Microsoft Corp,2,Verizon Communications Inc,Alibaba Group Holding Ltd,,451
-Microsoft Corp,1,Microsoft Corp,Equity Bancshares Inc,,615
 Coca-Cola Company,2,Freshpet Inc Cs,Wyndham Worldwide Corp,,60
-Microsoft Corp,2,Oracle Corp,Hsbc Holdings Plc,,3024
-Microsoft Corp,1,Microsoft Corp,Nds Group Ltd,,15
-Microsoft Corp,2,Activision Blizzard,Facebook Inc,,3636
-Microsoft Corp,2,Bank Of America Corp,Ust Inc,,57
-Microsoft Corp,2,Cisco Systems Inc,Sprint Corp,,366
-Microsoft Corp,2,Starbucks Corp,Square Inc,SupplyChain,728
-Microsoft Corp,2,Amex Global Holdings Cv,Expedia Group Inc,Basel,1184
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Oci Partners Lp,,51
-Alphabet Inc,3,Str Holdings Inc,Credit Suisse Ag,,216
-Microsoft Corp,3,Pegasystems Inc,Virtusa Corp,,15
-Microsoft Corp,3,Symantec Corp,Commvault Systems Inc,,24
-Microsoft Corp,2,Amex Global Holdings Cv,Asx Ltd,,1064
-Microsoft Corp,1,Microsoft Corp,Verizon Communications Inc,,195
-Goldman Sachs Group Inc,3,Mastercard Inc,Harley Davidson Inc,,18
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Outfront Media Inc,,128
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Metro Inc,Transaction,41600
-Jp Morgan Chase And Co,2,Pra Group Inc,Regions Financial Corp,,104
-Jp Morgan Chase And Co,3,Lattice Semiconductor Corp,United Microelectronics Corp,,16
-Jp Morgan Chase And Co,3,International Business Machines Corp,Kenexa Corp,,91
-Jp Morgan Chase And Co,3,Pepsico Inc,Cse Global Ltd,,130
-Jp Morgan Chase And Co,3,Hp Inc,Teradata Corp,,55
-Jp Morgan Chase And Co,3,Rpm International Inc/De/,Sika Ag,,12
-Jp Morgan Chase And Co,2,Federal National Mortgage Association,Leidos Holdings Inc,,864
-Jp Morgan Chase And Co,3,Tenet Healthcare Corp,Terraform Power Inc,,20
-Alphabet Inc,2,Microsoft Corp,Enterprise Financial Services Corp,,1650
-Alphabet Inc,3,Warner Media Llc,Tivo Corp,,72
-Goldman Sachs Group Inc,3,Lyft Inc,Aptiv Plc,,48
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Contextlogic Inc,,128
-Jp Morgan Chase And Co,3,Msci Inc,Societe Generale,,45
-Jp Morgan Chase And Co,2,Duke Realty Corp,Brixmor Property Group Inc,,2961
-Jp Morgan Chase And Co,2,Morningstar Inc,Ubs Group Ag,,102912
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Staples Inc,,160
-Jp Morgan Chase And Co,2,Agilent Technologies Inc,Perkinelmer Inc,,96
-Jp Morgan Chase And Co,2,Maiden Holdings Ltd,Voya Financial Inc,,2052
-Goldman Sachs Group Inc,2,Jp Morgan Chase And Co,London Stock Exchange Group Plc,,6156
-Goldman Sachs Group Inc,2,Reata Pharmaceuticals Inc,Zafgen Inc,,24
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Cbs Corp,,6720
-Jp Morgan Chase And Co,3,Nasdaq Inc,Trimas Corp,,18
-Jp Morgan Chase And Co,3,Emergent Biosolutions,Pfizer Inc,,2034
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,General Motors Limited,Corporate,12672
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Gohealth Inc,Corporate,128
-Goldman Sachs Group Inc,2,Snap Inc,Docusign Inc,,96
-Jp Morgan Chase And Co,2,Agilent Technologies Inc,Shimadzu Corp,,42
-Jp Morgan Chase And Co,3,Morningstar Inc,Vanguard Group,,11934
-Jp Morgan Chase And Co,3,Estee Lauder Companies Inc,Ralph Lauren Corp,,42
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Tencent Holdings Ltd,,832
-Goldman Sachs Group Inc,2,Goodrich Petroleum Corp,Community Bancorp /Vt,,24
-Goldman Sachs Group Inc,2,Federal National Mortgage Association,Microsoft Corp,,6750
-Goldman Sachs Group Inc,3,Centene Corp,Ppl Corp,,30
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Discovery Comm Inc,,960
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,On24 Inc,Corporate,32
-Goldman Sachs Group Inc,3,Onemain Holdings Inc,Federal National Mortgage Association,,288
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Wandt Offshore Inc,,1024
-Alphabet Inc,2,Goldman Sachs Group Inc,Deutsche Bank,,988
-Goldman Sachs Group Inc,2,Intercontinental Exchange,Nomura Holdings Inc,,960
-Jp Morgan Chase And Co,3,Canadian Pacific Railway Ltd/Cn,Tsr Inc,,187
-Jp Morgan Chase And Co,3,Perkinelmer Inc,Fmc Corp,,36
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Bright Health Inc,Corporate,32
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Huntsman Corp,,768
-Jp Morgan Chase And Co,3,Emergent Biosolutions,Astellas Pharma Inc,,32
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Public Storage,Transaction,20655
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Usa Capital Management Inc,,704
-Jp Morgan Chase And Co,3,Dna Brands Inc,Koc Holdings As,,4
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Maiden Holdings Ltd,,10098
-Goldman Sachs Group Inc,2,Wells Fargo And Company,Santander Consumer Usa Holdings,,320
-Microsoft Corp,2,Bank Of America Corp,Avon Products Inc,,2565
-Pepsico Inc,2,Morgan Stanley International Holdings Inc,Commercial Metals Co,,810
-Goldman Sachs Group Inc,2,Camping World Inc,Curtiss-Wright Corp,,504
-Goldman Sachs Group Inc,2,Huntsman Corp,Dowdupont Inc,,336
 Coca-Cola Company,1,Coca-Cola Company,Sandp Global Inc,,1512
-Alphabet Inc,2,Microsoft Corp,Adobe Inc,,750
-Goldman Sachs Group Inc,2,Camping World Inc,Facebook Inc,,240
-Jp Morgan Chase And Co,3,Rpm International Inc/De/,Spx Corp,,12
-Alphabet Inc,2,Gilead Sciences Inc,Str Holdings Inc,,33
 Coca-Cola Company,2,Monster Beverage Corp,Xl Group Ltd,,196
 Coca-Cola Company,3,Comscore Inc,Aol Inc,,1
-Microsoft Corp,2,Hewlett Packard Enterprise Comp,Nutanix Inc,,600
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Alnylam Pharmaceuticals Inc,,576
-Jp Morgan Chase And Co,3,Ally Financial,Magellan Health Inc,,165
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Snap Inc,Corporate,512
-Jp Morgan Chase And Co,2,Berkshire Hathaway Inc,Restaurant Brands International,,1536
-Jp Morgan Chase And Co,3,Estee Lauder Companies Inc,Sap Se,,2618
-Alphabet Inc,3,Str Holdings Inc,Unilever Plc,,231
-Goldman Sachs Group Inc,3,Facebook Inc,Sonoma Pharmaceuticals Inc,,72
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Jp Morgan Chase And Co,,4896
-Goldman Sachs Group Inc,2,Huntsman Corp,Sasol Ltd,,528
-Goldman Sachs Group Inc,3,Cms Energy Corp,Consumers Energy Co,Corporate,66
-Goldman Sachs Group Inc,2,Intercontinental Exchange,Msci Inc,,680
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Bank Of New York Mellon Corp,,416
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Cpi International Inc,,51
-Jp Morgan Chase And Co,2,Morningstar Inc,Apollo Global Management Llc,,4780
-Goldman Sachs Group Inc,2,Wandt Offshore Inc,Devon Energy Corp/De,,64
-Jp Morgan Chase And Co,2,Starbucks Corp,Square Inc,,91
-Goldman Sachs Group Inc,3,Barnes Group Inc,General Electric Company,,112920
-Goldman Sachs Group Inc,3,Regions Financial Corp,Visa Inc,,2288
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Pra Group Inc,Corporate,768
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Deutsche Bank,Legal,19890
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Pra Group Inc,,204
-Jp Morgan Chase And Co,2,Brightsphere Investment Group Inc,Bank Of China Ltd Ad,Legal,432
-Goldman Sachs Group Inc,3,Sherwin-Williams Company,Platform Specialty Products Corp,Corporate,136
-Goldman Sachs Group Inc,2,Citigroup Inc,Special Opportunities Fund Inc,,4672
-Goldman Sachs Group Inc,2,Peerstream Inc,Financial Federal Corp,,6
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,General Dynamics Corp,,459
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Federal National Mortgage Association,,3456
-Goldman Sachs Group Inc,3,Corelogic,Fidelity National Financial,,12
-Goldman Sachs Group Inc,3,Centene Corp,Lithia Motors Inc,,1044
-Goldman Sachs Group Inc,3,Canadian Pacific Railway Ltd/Cn,Canadian Imperial Bank Of Commerce,Corporate,3456
-Jp Morgan Chase And Co,2,Mastercard Inc,Ipsco Inc,,189
 Coca-Cola Company,1,Coca-Cola Company,Monster Beverage Corp,Transaction,2100
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Venator Materials Plc,,384
-Microsoft Corp,3,Bank Of New York Mellon Corp,Tsr Inc,,143
-Goldman Sachs Group Inc,3,Matador Resources Co,Iberiabank Corp,,15
-Jp Morgan Chase And Co,2,Maiden Holdings Ltd,Emergent Biosolutions,,72
-Goldman Sachs Group Inc,2,Navistar International Corp,Track Data Corp,,36
-Jp Morgan Chase And Co,3,Pnc Financial Services Group Inc,Bbandt Corp,,221
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Duke Realty Corp,,1020
-Goldman Sachs Group Inc,3,Winnebago Industries Inc,Corbion Nv,,18
-Alphabet Inc,2,Oracle Corp,Bnp Paribas,,6048
-Pepsico Inc,3,Coca-Cola Company,Tyson Foods Inc,,196
-Pepsico Inc,3,Bioscrip Inc,Harte Hanks Inc,,33
-Pepsico Inc,2,Apollo Global Management Llc,Fusion-Io Inc,,60
-Pepsico Inc,2,Apollo Global Management Llc,Caesars Entertainment Corp,,1440
-Pepsico Inc,3,General Dynamics Corp,Carscom Inc,,36
 Coca-Cola Company,2,Post Holdings Inc,Barclays Plc,,5950
 Coca-Cola Company,1,Coca-Cola Company,Intercontinental Exchange,,1468.8
 Coca-Cola Company,3,Sunpower Corp,Aes Corp,,56
 Coca-Cola Company,1,Coca-Cola Company,Nrg Energy,Corporate,1320
 Coca-Cola Company,1,Coca-Cola Company,General Mills Inc,,108
-Pepsico Inc,1,Pepsico Inc,Nasdaq Inc,,702
-Pepsico Inc,3,Prudential Financial Inc,American International Group Inc,,918
-Pepsico Inc,1,Pepsico Inc,Archer Daniels Midland Co,,208
 Coca-Cola Company,3,Discover Financial Services,Bioverativ Inc,,7
 Coca-Cola Company,1,Coca-Cola Company,Monster Beverage Corp,SupplyChain,336
 Coca-Cola Company,1,Coca-Cola Company,Constellation Brands Inc,,162
-Pepsico Inc,1,Pepsico Inc,Morgan Stanley International Holdings Inc,,780
-Pepsico Inc,3,Caesars Entertainment Corp,Petco Animal Supplies Inc,,2
-Pepsico Inc,3,Physicians Realty Trust,Foundation Healthcare Inc,,2
-Pepsico Inc,2,General Motors Limited,Meritage Homes Corp,,528
 Coca-Cola Company,1,Coca-Cola Company,Performance Food Group Co,,96
 Coca-Cola Company,3,Norfolk Southern Corp,Zimmer Biomet Holdings,,56
-Pepsico Inc,1,Pepsico Inc,Deutsche Bank,Corporate,507
-Pepsico Inc,2,Coca-Cola Company,Lancaster Colony Corp,,144
-Pepsico Inc,3,Merck And Co Inc,Amtrust Financial Services Inc,,304
-Pepsico Inc,1,Pepsico Inc,Goldman Sachs Group Inc,,3328
-Pepsico Inc,1,Pepsico Inc,Quaker Chemical Corp,Communication,390
-Pepsico Inc,3,Microsoft Corp,Apple Inc,,5603
-Pepsico Inc,2,United States Steel Corp,Corelogic,,20
-Pepsico Inc,1,Pepsico Inc,General Electric Company,,260
-Pepsico Inc,1,Pepsico Inc,Quaker Chemical Corp,,234
-Pepsico Inc,3,Bank Of America Corp,Countrywide Plc,,26112
 Coca-Cola Company,2,Nrg Energy,Tsr Inc,,456
 Coca-Cola Company,2,Freshpet Inc Cs,The Carlyle Group Lp,,96
 Coca-Cola Company,1,Coca-Cola Company,Molson Coors Brewing Co,,72
 Coca-Cola Company,1,Coca-Cola Company,Costa Group Holdings Ltd,,180
 Coca-Cola Company,1,Coca-Cola Company,Conagra Brands Inc,,60
-Pepsico Inc,1,Pepsico Inc,Bank Of America Corp,Corporate,1482
 Coca-Cola Company,3,Ebay Inc,Interpublic Group Of Companies,,72
 Coca-Cola Company,3,Smtc Corp,Celestica Inc,,10
 Coca-Cola Company,2,Santander Holdings Usa Inc,Cra International,,1410
@@ -282,57 +297,479 @@ Coca-Cola Company,2,Archer Daniels Midland Co,Wilmar International Ltd,,120
 Coca-Cola Company,2,Adobe Inc,Oracle Corp,,2760
 Coca-Cola Company,3,United Natural Foods Inc,Thomson Reuters Corp,,400
 Coca-Cola Company,2,Koninklijke Bunge Bv,Credit Suisse Group,,7696
-Pepsico Inc,2,Metlife Inc,General Dynamics Corp,,135
-Pepsico Inc,1,Pepsico Inc,Bank Of New York Mellon Corp,Corporate,1267.5
 Coca-Cola Company,2,Santander Holdings Usa Inc,Mandt Bank Corp,,96
 Coca-Cola Company,1,Coca-Cola Company,Heineken N V/S,,168
 Coca-Cola Company,2,Koninklijke Bunge Bv,Park Ohio Holdings Corp,,16
 Coca-Cola Company,3,Plains All American Pipeline Lp,Eqt Corp,,72
 Coca-Cola Company,3,Cme Group Inc,Sgx Pharmaceuticals Inc,,32
-Pepsico Inc,2,Dover Corp,Icc Holdings Inc,,36
-Pepsico Inc,3,T-Mobile Us,Juno Therapeutics,,186
-Pepsico Inc,1,Pepsico Inc,Wells Fargo And Company,,1040
-Pepsico Inc,1,Pepsico Inc,United States Steel Corp,Communication,390
-Pepsico Inc,3,Arch Capital Group Ltd,The Travelers Companies Inc,,140
-Pepsico Inc,1,Pepsico Inc,Facebook Inc,,312
-Pepsico Inc,2,Merck And Co Inc,Endocyte Inc,,1248
-Pepsico Inc,2,Bank Of America Corp,Ford Motor Company,,2052
 Coca-Cola Company,3,Loews Corp,Goodyear Tire And Rubber Co /Oh/,,378
 Coca-Cola Company,2,Santander Holdings Usa Inc,Platform Specialty Products Corp,,32
-Alphabet Inc,3,Entergy Corp,Pfo Global Inc,,50
-Pepsico Inc,3,Under Armour,Ucp Inc,,26
-Pepsico Inc,3,Sabre Corp,Gds Holdings Ltd,,1440
 Coca-Cola Company,2,Keurig Dr Pepper Inc,Gain Capital Holdings,,8
 Coca-Cola Company,3,United Natural Foods Inc,Abbvie Inc,,160
+Coca-Cola Company,1,Coca-Cola Company,Embotelladora Andina Sa,,960
+Coca-Cola Company,1,Coca-Cola Company,Nextera Energy,,648
+Coca-Cola Company,1,Coca-Cola Company,Costa Group Holdings Ltd,Transaction,168
+Coca-Cola Company,1,Coca-Cola Company,Uniti Group Inc,,960
+Coca-Cola Company,3,Monster Beverage Corp,Citigroup Inc,,13524
+Coca-Cola Company,1,Coca-Cola Company,Bandg Foods Inc,,36
+Coca-Cola Company,1,Coca-Cola Company,Bank Of America Corp,,20178
+Coca-Cola Company,1,Coca-Cola Company,Dr Pepper Snapple Group Inc,,196
+Coca-Cola Company,1,Coca-Cola Company,Commonwealth Bank Of Australia,,4320
+Coca-Cola Company,3,Rci Hospitality Holdings Inc,New York Times Co,,36
+Coca-Cola Company,2,Herbalife Nutrition Ltd,Nu Skin Enterprises Inc,,32
+Coca-Cola Company,2,Hain Celestial Group Inc,Hanesbrands Inc,,20
+Coca-Cola Company,2,Sandp Global Inc,Cme Group Inc,,2808
+Coca-Cola Company,2,Molson Coors Brewing Co,Waste Management Inc,,504
+Coca-Cola Company,1,Coca-Cola Company,Suntory Beverage And Food Limited,,48
+Coca-Cola Company,3,Netlogic Microsystems Inc,L-3 Communications Holdings,,38
+Coca-Cola Company,2,Archer Daniels Midland Co,Dowdupont Inc,,224
+Coca-Cola Company,1,Coca-Cola Company,Nestle Sa Cham Et Ve,,540
+Coca-Cola Company,1,Coca-Cola Company,Seaboard Corp,,64
+Coca-Cola Company,3,Seacor Holdings Inc /New/,Kirby Corp,,9
+Coca-Cola Company,2,Santander Holdings Usa Inc,Norfolk Southern Corp,,120
+Coca-Cola Company,2,City Office Reit Inc,Jones Lang Lasalle Inc,,12
+Coca-Cola Company,2,Altria Group,Nci Inc,,108
+Coca-Cola Company,3,Lam Research Corp,Fibrogen Inc,,30
+Coca-Cola Company,2,Philip Morris International Inc,Unilever Nv Ord,,540
+Coca-Cola Company,2,Post Holdings Inc,Energizer Holdings Inc,,75
+Coca-Cola Company,2,Broadcom Ltd,Netlogic Microsystems Inc,,1710
+Coca-Cola Company,1,Coca-Cola Company,Coca-Cola Amatil Ltd,,312
+Coca-Cola Company,1,Coca-Cola Company,Us Foods Holding Corp,,36
+Coca-Cola Company,1,Coca-Cola Company,Adobe Inc,,1080
+Coca-Cola Company,1,Coca-Cola Company,Kellogg Company,,96
+Coca-Cola Company,3,Xl Group Ltd,Allianz Se,,72
+Coca-Cola Company,1,Coca-Cola Company,Morgan Stanley International Holdings Inc,Corporate,360
+Coca-Cola Company,3,Ebay Inc,Altaba Inc,,280
+Coca-Cola Company,2,Boston Beer Co Inc,Craft Brew Alliance,Corporate,288
+Coca-Cola Company,3,Dover Corp,Nordson Corp,,18
+Coca-Cola Company,1,Coca-Cola Company,Goldman Sachs Group Inc,Corporate,1536
+Coca-Cola Company,3,Automatic Data Processing Inc,Harley Davidson Inc,,48
+Coca-Cola Company,1,Coca-Cola Company,Dean Foods Co,,24
+Coca-Cola Company,1,Coca-Cola Company,Oci Partners Lp,,96
+Coca-Cola Company,2,Santander Holdings Usa Inc,Banco Santander-Chile,,8
+Coca-Cola Company,3,Reynolds American Inc,Msa Safety Inc,,162
+Coca-Cola Company,2,Pepsico Inc,Nestle Sa Cham Et Ve,,4545
+Coca-Cola Company,2,Reynolds American Inc,Loews Corp,,28
+Coca-Cola Company,1,Coca-Cola Company,Coca-Cola European Partners Plc,,810
+Coca-Cola Company,3,Sunpower Corp,Credit Suisse Group,,962
+Coca-Cola Company,2,Citigroup Inc,Smtc Corp,,3390
+Coca-Cola Company,1,Coca-Cola Company,Fomento Economico Mexicano Sab De Cv,,864
+Coca-Cola Company,3,Comscore Inc,Microstrategy Inc,,6
+Coca-Cola Company,1,Coca-Cola Company,Reynolds American Inc,,12
+Coca-Cola Company,1,Coca-Cola Company,Hormel Foods Corp,,72
+Coca-Cola Company,3,Waste Management Inc,Cit Group Inc,,252
+Coca-Cola Company,3,Principal Financial Group Inc,Punjab National Bank,,24
+Coca-Cola Company,3,Pepsico Inc,Cse Global Ltd,,130
+Coca-Cola Company,1,Coca-Cola Company,Coca Cola Bottling Co Consolidated /De/,,48
+Coca-Cola Company,2,Hormel Foods Corp,Rci Hospitality Holdings Inc,,968
+Coca-Cola Company,1,Coca-Cola Company,Keurig Dr Pepper Inc,,24
+Coca-Cola Company,2,General Mills Inc,Annie'S Inc,,108
+Coca-Cola Company,3,Sunpower Corp,Serica Energy Plc,,75
+Coca-Cola Company,1,Coca-Cola Company,National Beverage Corp,,96
+Coca-Cola Company,1,Coca-Cola Company,Freshpet Inc Cs,,48
+Coca-Cola Company,1,Coca-Cola Company,Embotelladora Andina Sa,Transaction,4416
+Coca-Cola Company,3,Ebay Inc,Amazon Com Inc,,468
+Coca-Cola Company,3,Monster Beverage Corp,Under Armour,,91
+Coca-Cola Company,3,Federal Home Loan Mortgage Corp,Sandp Global Inc,,13824
+Coca-Cola Company,2,Nrg Energy,Rpm International Inc/De/,,75
+Coca-Cola Company,1,Coca-Cola Company,Santander Holdings Usa Inc,Corporate,24
+Coca-Cola Company,1,Coca-Cola Company,Hain Celestial Group Inc,,48
+Coca-Cola Company,1,Coca-Cola Company,Treehouse Foods,,36
+Coca-Cola Company,3,Canadian Pacific Railway Ltd/Cn,Kansas City Southern,,48
+Coca-Cola Company,2,Santander Holdings Usa Inc,Mercantil Bank Holding Corp,,24
+Coca-Cola Company,3,Gain Capital Holdings,Gartner Inc,,4210
+Coca-Cola Company,3,Dollar General Corp,Dollar Tree Inc,,96
+Coca-Cola Company,1,Coca-Cola Company,Whitbread Plc [United Kingdom],,288
+Coca-Cola Company,2,Campbell Soup Company,Intercontinental Exchange,,228420
+Coca-Cola Company,1,Coca-Cola Company,Chevron Corp,,144
+Coca-Cola Company,2,Brown Forman Corp,Ilg Inc,,48
+Coca-Cola Company,3,Smtc Corp,Ipc Holdings Ltd,,2
+Coca-Cola Company,3,Smtc Corp,Anthem Inc,,16
+Coca-Cola Company,1,Coca-Cola Company,Coca Cola Bottling Co Consolidated /De/,SupplyChain,288
+Coca-Cola Company,3,Wells Fargo And Company,Mastercard Inc,,3474
+Coca-Cola Company,3,Overseas Shipholding Group Inc,Sterling Bancorp Inc,,126
+Coca-Cola Company,2,Flowers Foods Inc,Oxford Bank Corp,,9
+Coca-Cola Company,2,Jp Morgan Chase And Co,Federal Home Loan Mortgage Corp,,72436
+Coca-Cola Company,3,Overseas Shipholding Group Inc,Impinj Inc,,15
+Coca-Cola Company,3,Mondelez International Inc,Kennametal Inc,,80
+Coca-Cola Company,3,Nci Inc,Northrop Grumman Corp,,9
+Coca-Cola Company,1,Coca-Cola Company,Applied Biosystems Inc,,216
+Coca-Cola Company,3,Broadcom Ltd,Finisar Corp,,27
+Coca-Cola Company,1,Coca-Cola Company,Bank Of America Corp,Corporate,1026
+Coca-Cola Company,3,Sunpower Corp,Archer Daniels Midland Co,,216
+Coca-Cola Company,3,Exxon Mobil Corp,White Mountains Insurance Group,,72
+Coca-Cola Company,1,Coca-Cola Company,Coca Cola Femsa Sab De Cv,,252
+Coca-Cola Company,1,Coca-Cola Company,Beyond Meat Inc,,96
+Coca-Cola Company,2,Flowers Foods Inc,Lancaster Colony Corp,,99
+Coca-Cola Company,1,Coca-Cola Company,Innovate Biopharmaceuticals Inc,,60
+Coca-Cola Company,3,Xl Group Ltd,Markel Corp,,108
+Coca-Cola Company,3,Sunpower Corp,Cypress Semiconductor Corp /De/,,280
+Coca-Cola Company,1,Coca-Cola Company,Kraft Heinz Co,,216
+Coca-Cola Company,1,Coca-Cola Company,Citigroup Inc,Corporate,504
+Coca-Cola Company,1,Coca-Cola Company,Twitter Inc,,300
+Coca-Cola Company,1,Coca-Cola Company,Darling Ingredients Inc,,48
+Coca-Cola Company,2,Lamb Weston Holdings Inc,Sunedison Inc,,80
+Coca-Cola Company,3,Seacor Holdings Inc /New/,Verint Systems Inc,,15
+Coca-Cola Company,1,Coca-Cola Company,Campbell Soup Company,,84
+Coca-Cola Company,3,Twitter Inc,Linkedin Corp,,42
+Coca-Cola Company,1,Coca-Cola Company,Kirin Holdings Co Ltd,,60
+Coca-Cola Company,1,Coca-Cola Company,Unilever Nv Ord,,180
+Coca-Cola Company,3,Norfolk Southern Corp,Penn National Gaming Inc,,168
+Coca-Cola Company,1,Coca-Cola Company,Coca-Cola European Partners Plc,SupplyChain,864
+Coca-Cola Company,1,Coca-Cola Company,Coca-Cola European Partners Plc,Corporate,810
+Coca-Cola Company,2,Santander Holdings Usa Inc,Canadian Pacific Railway Ltd/Cn,,918
+Coca-Cola Company,3,Plains All American Pipeline Lp,California Resources Corp,,12
+Coca-Cola Company,1,Coca-Cola Company,Post Holdings Inc,,60
+Coca-Cola Company,1,Coca-Cola Company,Coca-Cola Bottlers Japan Holdings Inc,,160
+Coca-Cola Company,3,Broadcom Ltd,Crowdstrike Holdings Inc,,36
+Coca-Cola Company,2,Adobe Inc,Comscore Inc,,20
+Coca-Cola Company,2,Molson Coors Brewing Co,Macatawa Bank Corp,,1968
+Coca-Cola Company,1,Coca-Cola Company,Barclays Plc,Corporate,168
+Coca-Cola Company,1,Coca-Cola Company,Monster Beverage Corp,,308
+Coca-Cola Company,1,Coca-Cola Company,Coca Cola Femsa Sab De Cv,Corporate,2604
+Coca-Cola Company,1,Coca-Cola Company,Facebook Inc,,360
+Coca-Cola Company,1,Coca-Cola Company,Fomento Economico Mexicano Sab De Cv,Corporate,8928
+Coca-Cola Company,1,Coca-Cola Company,City Office Reit Inc,,36
+Coca-Cola Company,2,Equifax Inc,Automatic Data Processing Inc,,144
+Coca-Cola Company,2,Citigroup Inc,Home Depot Inc,,924
+Coca-Cola Company,2,Jefferies Financial Group Inc,Lam Research Corp,,288
+Coca-Cola Company,3,Plains All American Pipeline Lp,Energy World Corp Ltd,,6
+Coca-Cola Company,1,Coca-Cola Company,Whitbread Plc [United Kingdom],Transaction,504
+Coca-Cola Company,2,Monster Beverage Corp,Coca-Cola European Partners Plc,,2646
+Coca-Cola Company,1,Coca-Cola Company,Coca-Cola Amatil Ltd,Corporate,2016
+Coca-Cola Company,3,Acuity Brands Inc,Zep Inc,,12
+Coca-Cola Company,1,Coca-Cola Company,Lamb Weston Holdings Inc,,60
+Coca-Cola Company,2,Equifax Inc,Acuity Brands Inc,,48
+Coca-Cola Company,2,Citigroup Inc,Ebay Inc,,1008
+Coca-Cola Company,1,Coca-Cola Company,Brown Forman Corp,,144
+Coca-Cola Company,2,Nrg Energy,Sunpower Corp,,375
+Coca-Cola Company,3,United Natural Foods Inc,Supervalu Inc,,10
+Coca-Cola Company,2,Us Foods Holding Corp,Principal Financial Group Inc,,324
+Coca-Cola Company,3,Sunpower Corp,Deutsche Bank,,4342
+Coca-Cola Company,1,Coca-Cola Company,Pinnacle Foods Inc,,12
+Coca-Cola Company,2,Equifax Inc,Cra International,,2262
+Coca-Cola Company,1,Coca-Cola Company,Deutsche Bank,,4368
+Coca-Cola Company,1,Coca-Cola Company,Archer Daniels Midland Co,,96
+Coca-Cola Company,1,Coca-Cola Company,Tyson Foods Inc,,84
+Coca-Cola Company,2,Coca Cola Bottling Co Consolidated /De/,Commonwealth Bank Of Australia,,1472
+Coca-Cola Company,3,Comscore Inc,Petmed Express Inc,,12
+Coca-Cola Company,1,Coca-Cola Company,Hershey Co,,84
+Coca-Cola Company,3,Dean Foods Co,Morningstar Inc,,424
+Coca-Cola Company,3,Oracle Corp,Salesforce Com Inc,,768
+Coca-Cola Company,3,Seacor Holdings Inc /New/,Bp Plc,,2272
+Coca-Cola Company,3,Broadcom Ltd,Ca Inc,,288
+Coca-Cola Company,1,Coca-Cola Company,Linkedin Corp,,60
+Coca-Cola Company,3,Norfolk Southern Corp,Csx Corp,,320
+Coca-Cola Company,1,Coca-Cola Company,Pepsico Inc,,312
+Coca-Cola Company,2,Flowers Foods Inc,Hostess Brands Inc,,216
+Coca-Cola Company,1,Coca-Cola Company,Boston Beer Co Inc,,48
+Coca-Cola Company,3,Ilg Inc,Liberty Broadband Corp,,6
+Coca-Cola Company,1,Coca-Cola Company,Nrg Energy,Transaction,540
+Coca-Cola Company,3,Plains All American Pipeline Lp,Vulcan Intl Cp,,6
+Coca-Cola Company,2,Hain Celestial Group Inc,United Natural Foods Inc,,60
+Coca-Cola Company,2,Freshpet Inc Cs,World Fuel Services Corp,,8
+Coca-Cola Company,3,Dover Corp,Rockwell Automation Inc,,42
+Coca-Cola Company,2,Nrg Energy,Dynegy Inc,,150
+Coca-Cola Company,1,Coca-Cola Company,Lancaster Colony Corp,,36
+Coca-Cola Company,3,Lancaster Colony Corp,Huntington Bancshares Inc/Md,,30
+Coca-Cola Company,2,Keurig Dr Pepper Inc,Dr Pepper Snapple Group Inc,,28
+Coca-Cola Company,1,Coca-Cola Company,Philip Morris International Inc,,108
+Coca-Cola Company,1,Coca-Cola Company,Nrg Energy,SupplyChain,720
+Coca-Cola Company,2,Santander Holdings Usa Inc,Laurentian Bk Cda Qu,,16
+Coca-Cola Company,3,Loews Corp,Cna Financial Corp,,3852
+Coca-Cola Company,1,Coca-Cola Company,Apple Inc,,312
+Coca-Cola Company,1,Coca-Cola Company,Unilever Plc,,132
+Coca-Cola Company,3,The Carlyle Group Lp,Invesco Ltd,,264
+Coca-Cola Company,3,Jones Lang Lasalle Inc,Sandp Global Inc,,8190
+Coca-Cola Company,1,Coca-Cola Company,Koninklijke Bunge Bv,,96
+Coca-Cola Company,3,Park Ohio Holdings Corp,Matson Inc,,42
+Coca-Cola Company,1,Coca-Cola Company,Broadcom Ltd,SupplyChain,3888
+Coca-Cola Company,3,Oracle Corp,Intel Corp,,1344
+Coca-Cola Company,2,Molson Coors Brewing Co,Flanigans Enterprises Inc,,432
+Coca-Cola Company,3,Plains All American Pipeline Lp,Gatx Corp,,72
+Coca-Cola Company,3,Netlogic Microsystems Inc,Actel Corp,,19
+Coca-Cola Company,3,Comscore Inc,Emc Corp,,2
+Coca-Cola Company,1,Coca-Cola Company,Corecivic Inc,SupplyChain,504
+Coca-Cola Company,2,Santander Holdings Usa Inc,Mbia Inc,Corporate,64
+Coca-Cola Company,2,Oci Partners Lp,Valero Energy Corp/Tx,,1442
+Coca-Cola Company,1,Coca-Cola Company,Jp Morgan Chase And Co,Corporate,4590
+Coca-Cola Company,3,Wyndham Worldwide Corp,Str Holdings Inc,,36
+Coca-Cola Company,2,Nrg Energy,Plains All American Pipeline Lp,Corporate,300
+Coca-Cola Company,3,Broadcom Ltd,Broadcom Ltd,,4860
+Coca-Cola Company,3,Ebay Inc,Ebay Inc,,1572
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Oci Partners Lp,,51
+Jp Morgan Chase And Co,2,Pra Group Inc,Regions Financial Corp,,104
+Jp Morgan Chase And Co,3,Lattice Semiconductor Corp,United Microelectronics Corp,,16
+Jp Morgan Chase And Co,3,International Business Machines Corp,Kenexa Corp,,91
+Jp Morgan Chase And Co,3,Pepsico Inc,Cse Global Ltd,,130
+Jp Morgan Chase And Co,3,Hp Inc,Teradata Corp,,55
+Jp Morgan Chase And Co,3,Rpm International Inc/De/,Sika Ag,,12
+Jp Morgan Chase And Co,2,Federal National Mortgage Association,Leidos Holdings Inc,,864
+Jp Morgan Chase And Co,3,Tenet Healthcare Corp,Terraform Power Inc,,20
+Jp Morgan Chase And Co,3,Msci Inc,Societe Generale,,45
+Jp Morgan Chase And Co,2,Duke Realty Corp,Brixmor Property Group Inc,,2961
+Jp Morgan Chase And Co,2,Morningstar Inc,Ubs Group Ag,,102912
+Jp Morgan Chase And Co,2,Agilent Technologies Inc,Perkinelmer Inc,,96
+Jp Morgan Chase And Co,2,Maiden Holdings Ltd,Voya Financial Inc,,2052
+Jp Morgan Chase And Co,3,Nasdaq Inc,Trimas Corp,,18
+Jp Morgan Chase And Co,3,Emergent Biosolutions,Pfizer Inc,,2034
+Jp Morgan Chase And Co,2,Agilent Technologies Inc,Shimadzu Corp,,42
+Jp Morgan Chase And Co,3,Morningstar Inc,Vanguard Group,,11934
+Jp Morgan Chase And Co,3,Estee Lauder Companies Inc,Ralph Lauren Corp,,42
+Jp Morgan Chase And Co,3,Canadian Pacific Railway Ltd/Cn,Tsr Inc,,187
+Jp Morgan Chase And Co,3,Perkinelmer Inc,Fmc Corp,,36
+Jp Morgan Chase And Co,3,Emergent Biosolutions,Astellas Pharma Inc,,32
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Public Storage,Transaction,20655
+Jp Morgan Chase And Co,3,Dna Brands Inc,Koc Holdings As,,4
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Maiden Holdings Ltd,,10098
+Jp Morgan Chase And Co,3,Rpm International Inc/De/,Spx Corp,,12
+Jp Morgan Chase And Co,3,Ally Financial,Magellan Health Inc,,165
+Jp Morgan Chase And Co,2,Berkshire Hathaway Inc,Restaurant Brands International,,1536
+Jp Morgan Chase And Co,3,Estee Lauder Companies Inc,Sap Se,,2618
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Cpi International Inc,,51
+Jp Morgan Chase And Co,2,Morningstar Inc,Apollo Global Management Llc,,4780
+Jp Morgan Chase And Co,2,Starbucks Corp,Square Inc,,91
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Deutsche Bank,Legal,19890
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Pra Group Inc,,204
+Jp Morgan Chase And Co,2,Brightsphere Investment Group Inc,Bank Of China Ltd Ad,Legal,432
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,General Dynamics Corp,,459
+Jp Morgan Chase And Co,2,Mastercard Inc,Ipsco Inc,,189
+Jp Morgan Chase And Co,2,Maiden Holdings Ltd,Emergent Biosolutions,,72
+Jp Morgan Chase And Co,3,Pnc Financial Services Group Inc,Bbandt Corp,,221
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Duke Realty Corp,,1020
+Jp Morgan Chase And Co,3,Maiden Holdings Ltd,Endurance Specialty Holdings Ltd,,18
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Pnc Financial Services Group Inc,,8330
+Jp Morgan Chase And Co,3,Ally Financial,Gap Inc,,344
+Jp Morgan Chase And Co,3,Kimberly-Clark Corp,Bank Of America Corp,,84246
+Jp Morgan Chase And Co,2,Federal National Mortgage Association,Federal Home Loan Mortgage Corp,,1708460
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Nomura Holdings Inc,,3825
+Jp Morgan Chase And Co,3,Nasdaq Inc,Cboe Global Markets Inc,,468
+Jp Morgan Chase And Co,2,Bank Of America Corp,Deutsche Bank,,8580
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Cold Spring Capital Inc,,153
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Smtc Corp,,102
+Jp Morgan Chase And Co,2,Fair Isaac Corp,Equifax Inc,,2112
+Jp Morgan Chase And Co,3,Emergent Biosolutions,Pfenex Inc,,16
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,The Northern Trust Company,,3808
+Jp Morgan Chase And Co,3,Square Inc,Starbucks Corp,,1742
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Realogy Holdings Corp,,204
+Jp Morgan Chase And Co,2,Smtc Corp,Iec Electronics Corp,,16
+Jp Morgan Chase And Co,3,Tenet Healthcare Corp,Vanguard Group,,98838
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Usa Capital Management Inc,,229.5
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Sandp Global Inc,,17671.5
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Federal National Mortgage Association,,8078.4
+Jp Morgan Chase And Co,3,Dominion Energy Inc,Wec Energy Group Inc,,108
+Jp Morgan Chase And Co,3,Perkinelmer Inc,Tibco Software Inc,,6
+Jp Morgan Chase And Co,2,Msa Safety Inc,United Rentals Inc /De,,108
+Jp Morgan Chase And Co,2,Chase Corp,American Biltrite Inc,,8
+Jp Morgan Chase And Co,2,Starbucks Corp,Pepsico Inc,,858
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Fair Isaac Corp,Corporate,2244
+Jp Morgan Chase And Co,2,Amazon Com Inc,Kelly Services Inc,,39
+Jp Morgan Chase And Co,3,Emc Corp,Rci Hospitality Holdings Inc,,268
+Jp Morgan Chase And Co,2,Starbucks Corp,Sysco Corp,,104
+Jp Morgan Chase And Co,2,Oasis Petroleum Inc,Uniti Group Inc,,50
+Jp Morgan Chase And Co,2,Sandp Global Inc,Linkedin Corp,,230
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Amazon Com Inc,,663
+Jp Morgan Chase And Co,3,Ciena Corp,Infinera Corp,,42
+Jp Morgan Chase And Co,3,Wandt Offshore Inc,Plains Gp Holdings Lp,,48
+Jp Morgan Chase And Co,2,Smtc Corp,Avnet Inc,,20
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Ecolab Inc,,408
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Mastercard Inc,,3825
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,V F Corp,,1377
+Jp Morgan Chase And Co,2,International Business Machines Corp,Emc Corp,,13
+Jp Morgan Chase And Co,2,Amazon Com Inc,Nike Inc,,130
+Jp Morgan Chase And Co,3,The Northern Trust Company,Harley Davidson Inc,,50
+Jp Morgan Chase And Co,3,Allstate Corp,The Travelers Companies Inc,,230
+Jp Morgan Chase And Co,3,Restaurant Brands International,Tim Hortons Inc,,16
+Jp Morgan Chase And Co,2,Oasis Petroleum Inc,Crown Castle International Corp,,385
+Jp Morgan Chase And Co,3,Kimberly-Clark Corp,Georgia Pacific Corp,,9
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Allstate Corp,,11960
+Jp Morgan Chase And Co,2,Berkshire Hathaway Inc,Corcept Therapeutics Inc,,480
+Jp Morgan Chase And Co,2,Chase Corp,Jp Morgan Chase And Co,,214506
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Jp Morgan Investment Management Inc,,2652
+Jp Morgan Chase And Co,3,Discover Financial Services,Nn Inc,,112
+Jp Morgan Chase And Co,3,Tenet Healthcare Corp,Kindred Healthcare Inc,,10
+Jp Morgan Chase And Co,2,Smtc Corp,Sanmina Corp,,10
+Jp Morgan Chase And Co,3,Ciena Corp,Legacy Bancorp Inc,,7
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Morningstar Inc,,748
+Jp Morgan Chase And Co,3,Federal Home Loan Mortgage Corp,Cognizant Technology Solutions Corp,,9396
+Jp Morgan Chase And Co,2,Federal National Mortgage Association,Philip Morris International Inc,,15552
+Jp Morgan Chase And Co,3,Comcast Corp A,The Carlyle Group Lp,,80
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Msa Safety Inc,,918
+Jp Morgan Chase And Co,2,Realogy Holdings Corp,Fidelity National Financial,,8
+Jp Morgan Chase And Co,2,Oci Partners Lp,Cf Industries Holdings,,5
+Jp Morgan Chase And Co,2,Intercontinental Exchange,Nasdaq Inc,,6258
+Jp Morgan Chase And Co,3,Cumulus Media Inc,Lincoln National Corp,,200
+Jp Morgan Chase And Co,3,Morningstar Inc,Altaba Inc,,45
+Jp Morgan Chase And Co,2,Agilent Technologies Inc,Stratagene  Corp,,21
+Jp Morgan Chase And Co,2,Starbucks Corp,Retail Opportunity Investments Corp,,26
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Student Transportation Inc,,204
+Jp Morgan Chase And Co,2,Franklin Financial Network Inc,Fifth Third Bancorp,,44
+Jp Morgan Chase And Co,3,Cf Industries Holdings,Terra Nitrogen Co L P /De,,5
+Jp Morgan Chase And Co,2,Fair Isaac Corp,Corelogic,,960
+Jp Morgan Chase And Co,3,Cbs Corp,Amazon Com Inc,,546
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Aon Plc,Transaction,1632
+Jp Morgan Chase And Co,3,Dominion Energy Inc,Brp Inc,,504
+Jp Morgan Chase And Co,2,Zimmer Biomet Holdings,Boston Scientific Corp,,840
+Jp Morgan Chase And Co,3,Tenet Healthcare Corp,Humana Inc,,35
+Jp Morgan Chase And Co,2,Berkshire Hathaway Inc,Kraft Foods Group Inc,,96
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,International Business Machines Corp,,663
+Jp Morgan Chase And Co,2,General Dynamics Corp,Chicos Fas Inc,,90
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Pimco Dynamic Credit Income Fun,,5508
+Jp Morgan Chase And Co,3,Estee Lauder Companies Inc,Coty Inc,,42
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Fair Isaac Corp,,663
+Jp Morgan Chase And Co,3,Lions Gate Entertainment Corp /Cn/,Curtiss-Wright Corp,,72
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Cbs Corp,,1428
+Jp Morgan Chase And Co,2,Msa Safety Inc,Fastenal Co,,72
+Jp Morgan Chase And Co,3,Nasdaq Inc,London Stock Exchange Group Plc,,1566
+Jp Morgan Chase And Co,2,Federal National Mortgage Association,Mci Inc,,216
+Jp Morgan Chase And Co,3,Corcept Therapeutics Inc,Sun Pharmaceutical Industries Inc,Legal,90
+Jp Morgan Chase And Co,3,Msci Inc,Evolent Health Inc,,45
+Jp Morgan Chase And Co,3,Morningstar Inc,Euronext Nv,,140
+Jp Morgan Chase And Co,3,Perkinelmer Inc,Honeywell International Inc,,348
+Jp Morgan Chase And Co,3,Canadian Pacific Railway Ltd/Cn,Air Products And Chemicals Inc /De/,Communication,672
+Jp Morgan Chase And Co,2,Sandp Global Inc,Verisk Analytics Inc,,216
+Jp Morgan Chase And Co,2,Cbs Corp,Bp Plc,,224
+Jp Morgan Chase And Co,2,Chase Corp,Rpm International Inc/De/,,24
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Berkshire Hathaway Inc,,11832
+Jp Morgan Chase And Co,2,General Dynamics Corp,Hlth Corp,,9
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Coastal Financial Corp,Communication,19584
+Jp Morgan Chase And Co,3,Pepsico Inc,Arc Group Inc,,26
+Jp Morgan Chase And Co,3,Mgic Investment Corp,Federal National Mortgage Association,,9828
+Jp Morgan Chase And Co,2,Oasis Petroleum Inc,Cross Country Healthcare Inc,,250
+Jp Morgan Chase And Co,3,Emergent Biosolutions,United Therapeutics Corp,,16
+Jp Morgan Chase And Co,3,Cbs Corp,Allied Capital Corp,,28
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Starbucks Corp,,1326
+Jp Morgan Chase And Co,3,Comcast Corp A,Dreamworks Animation Llc,Corporate,660
+Jp Morgan Chase And Co,3,Equifax Inc,Earthlink Holdings Llc,,6
+Jp Morgan Chase And Co,3,Qep Resources,Ultra Petroleum Corp,,6
+Jp Morgan Chase And Co,3,Cbs Corp,Netflix Inc,,1276
+Jp Morgan Chase And Co,2,Bank Of America Corp,Ust Inc,,114
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Bank Of America Corp,,8721
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Deutsche Bank,,17901
+Jp Morgan Chase And Co,3,Intercontinental Exchange,Bnp Paribas,,168
+Jp Morgan Chase And Co,2,Smtc Corp,Jabil Inc,,30
+Jp Morgan Chase And Co,2,Federal National Mortgage Association,Tenet Healthcare Corp,,1080
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,First Republic Bank,,9690
+Jp Morgan Chase And Co,2,Starbucks Corp,Kimberly-Clark Corp,,117
+Jp Morgan Chase And Co,2,Oci Partners Lp,Exxon Mobil Corp,,36
+Jp Morgan Chase And Co,2,Coastal Financial Corp,Fiserv Inc,,56
+Jp Morgan Chase And Co,2,Agilent Technologies Inc,Credit Suisse Group,,7046
+Jp Morgan Chase And Co,3,Fifth Third Bancorp,Credit Suisse Group,,572
+Jp Morgan Chase And Co,2,Federal National Mortgage Association,Msci Inc,,1715
+Jp Morgan Chase And Co,3,Maiden Holdings Ltd,Partnerre Ltd,,144
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Agilent Technologies Inc,,357
+Jp Morgan Chase And Co,3,Dominion Energy Inc,Nrg Energy,,405
+Jp Morgan Chase And Co,2,Moodys Corp /De/,Pearson Plc,,147
+Jp Morgan Chase And Co,3,Comcast Corp A,Verizon Communications Inc,,767
+Jp Morgan Chase And Co,3,Mgic Investment Corp,Suntrust Banks Inc,,405
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Moodys Corp /De/,Corporate,2499
+Jp Morgan Chase And Co,3,Dominion Energy Inc,Toshiba Corp,,550
+Jp Morgan Chase And Co,2,Sandp Global Inc,Estee Lauder Companies Inc,,252
+Jp Morgan Chase And Co,3,Corcept Therapeutics Inc,Ironwood Pharmaceuticals Inc,,30
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Federal Home Loan Mortgage Corp,,15249
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Zimmer Biomet Holdings,,571.2
+Jp Morgan Chase And Co,2,Agilent Technologies Inc,Hp Inc,,2618
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Franklin Financial Network Inc,,306
+Jp Morgan Chase And Co,3,Fidelity National Financial,Stewart Information Services Corp,,24
+Jp Morgan Chase And Co,2,Agilent Technologies Inc,Dna Brands Inc,,21
+Jp Morgan Chase And Co,2,Agilent Technologies Inc,Bruker Corp,,63
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Visa Inc,,8789
+Jp Morgan Chase And Co,3,Crown Castle International Corp,T-Mobile Us,,1260
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Maiden Holdings Ltd,Communication,8262
+Jp Morgan Chase And Co,3,Msci Inc,Cme Group Inc,,40
+Jp Morgan Chase And Co,2,Intercontinental Exchange,Coinbase Global Inc,Corporate,918
+Jp Morgan Chase And Co,2,Moodys Corp /De/,Fiserv Inc,,147
+Jp Morgan Chase And Co,2,Federal National Mortgage Association,Command Security Corp,,216
+Jp Morgan Chase And Co,3,Dominion Energy Inc,Agilent Technologies Inc,,63
+Jp Morgan Chase And Co,2,Moodys Corp /De/,Morningstar Inc,,3348
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Vereit Inc,,1428
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Intercontinental Exchange,,7221.6
+Jp Morgan Chase And Co,3,Hp Inc,Rockwell Automation Inc,,77
+Jp Morgan Chase And Co,3,Equifax Inc,Harte Hanks Inc,,18
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Ennis Inc,,408
+Jp Morgan Chase And Co,3,Kelly Services Inc,Goodyear Tire And Rubber Co /Oh/,,468
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Brightsphere Investment Group Inc,Corporate,816
+Jp Morgan Chase And Co,2,Maiden Holdings Ltd,Lattice Semiconductor Corp,,360
+Jp Morgan Chase And Co,3,Corelogic,Alliance Data Systems Corp,,12
+Jp Morgan Chase And Co,2,Oasis Petroleum Inc,Wandt Offshore Inc,,336
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Mgic Investment Corp,,1300
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Mastercard Inc,Basel,3442.5
+Jp Morgan Chase And Co,3,Emergent Biosolutions,Altimmune Inc,,20
+Jp Morgan Chase And Co,2,Mastercard Inc,Canadian Pacific Railway Ltd/Cn,,2268
+Jp Morgan Chase And Co,3,Hp Inc,Toshiba Corp,,685
+Jp Morgan Chase And Co,2,Moodys Corp /De/,Ims Health Holdings Inc,,126
+Jp Morgan Chase And Co,3,International Business Machines Corp,Wipro Ltd,,156
+Jp Morgan Chase And Co,3,International Business Machines Corp,Columbia Sportswear Co,,364
+Jp Morgan Chase And Co,2,International Business Machines Corp,Twitter Inc,,540
+Jp Morgan Chase And Co,2,Berkshire Hathaway Inc,Dominion Energy Inc,,2592
+Jp Morgan Chase And Co,3,Mrc Global Inc,Bhp Billiton Plc,,28
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Oasis Petroleum Inc,,510
+Jp Morgan Chase And Co,2,Oasis Petroleum Inc,Qep Resources,,345
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Goldman Sachs Group Inc,,78848
+Jp Morgan Chase And Co,3,Bruker Corp,Superconductor Technologies Inc,,12
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Moodys Corp /De/,,3034.5
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Visa Inc,Basel,10098
+Jp Morgan Chase And Co,2,Realogy Holdings Corp,Capital One Financial Corp,,116
+Jp Morgan Chase And Co,3,Hp Inc,Tsr Inc,,66
+Jp Morgan Chase And Co,2,Cbs Corp,Comcast Corp A,,280
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Chase Corp,,204
+Jp Morgan Chase And Co,2,Visa Inc,Discover Financial Services,,462
+Jp Morgan Chase And Co,3,Mgic Investment Corp,Rmr Real Estate Income Fund,,680
+Jp Morgan Chase And Co,2,Bank Of America Corp,First Republic Bank,,2166
+Jp Morgan Chase And Co,2,Smtc Corp,Ciena Corp,Corporate,56
+Jp Morgan Chase And Co,2,Zimmer Biomet Holdings,Globus Medical Inc,,70
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,City Office Reit Inc,,5508
+Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Vivos Inc,,357
+Jp Morgan Chase And Co,2,Bank Of America Corp,Mrc Global Inc,,912
+Jp Morgan Chase And Co,2,Berkshire Hathaway Inc,Home Depot Inc,,528
+Jp Morgan Chase And Co,2,Cbs Corp,Cumulus Media Inc,,112
+Jp Morgan Chase And Co,2,Cbs Corp,Lions Gate Entertainment Corp /Cn/,,140
+Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Ally Financial,,21020
+Jp Morgan Chase And Co,3,Fiserv Inc,National Australia Bank Ltd,,70
+Microsoft Corp,1,Microsoft Corp,Arlington Asset Investment Corp,,5940
+Microsoft Corp,3,Global Indemnity Ltd,Wr Berkley Corp,,80
+Microsoft Corp,3,Global Indemnity Ltd,Everest Re Group,,24
+Microsoft Corp,2,Starbucks Corp,Sysco Corp,,416
+Microsoft Corp,2,Adobe Inc,Comscore Inc,,30
+Microsoft Corp,2,Federal National Mortgage Association,Phh Corp,,1260
+Microsoft Corp,3,Hsbc Holdings Plc,Cold Spring Capital Inc,,57
+Microsoft Corp,2,Federal National Mortgage Association,Tenet Healthcare Corp,,280
+Microsoft Corp,1,Microsoft Corp,Sony Corp,,300
+Microsoft Corp,3,Nvidia Corp,Amkor Technology,,44
+Microsoft Corp,2,Equity Bancshares Inc,Spirit Aerosystems Holdings,,24
+Microsoft Corp,1,Microsoft Corp,Us Bancorp,,2812.5
+Microsoft Corp,3,Nvidia Corp,Fabrinet,,33
+Microsoft Corp,3,Amyris Inc,Harte Hanks Inc,,34.5
+Microsoft Corp,1,Microsoft Corp,Caleres Inc,,30
+Microsoft Corp,3,Enterprise Products Partners L P,Enbridge Inc,,435
+Microsoft Corp,1,Microsoft Corp,3M Company,,165
+Microsoft Corp,2,Cisco Systems Inc,Palo Alto Networks Inc,,432
+Microsoft Corp,2,Oracle Corp,Compuware Corp,,64
+Microsoft Corp,2,Bmc Software Inc,Fair Isaac Corp,,520
+Microsoft Corp,1,Microsoft Corp,Hp Inc,,330
+Microsoft Corp,2,Verizon Communications Inc,Alibaba Group Holding Ltd,,451
+Microsoft Corp,1,Microsoft Corp,Equity Bancshares Inc,,615
+Microsoft Corp,2,Oracle Corp,Hsbc Holdings Plc,,3024
+Microsoft Corp,1,Microsoft Corp,Nds Group Ltd,,15
+Microsoft Corp,2,Activision Blizzard,Facebook Inc,,3636
+Microsoft Corp,2,Bank Of America Corp,Ust Inc,,57
+Microsoft Corp,2,Cisco Systems Inc,Sprint Corp,,366
+Microsoft Corp,2,Starbucks Corp,Square Inc,SupplyChain,728
+Microsoft Corp,2,Amex Global Holdings Cv,Expedia Group Inc,Basel,1184
+Microsoft Corp,3,Pegasystems Inc,Virtusa Corp,,15
+Microsoft Corp,3,Symantec Corp,Commvault Systems Inc,,24
+Microsoft Corp,2,Amex Global Holdings Cv,Asx Ltd,,1064
+Microsoft Corp,1,Microsoft Corp,Verizon Communications Inc,,195
+Microsoft Corp,2,Bank Of America Corp,Avon Products Inc,,2565
+Microsoft Corp,2,Hewlett Packard Enterprise Comp,Nutanix Inc,,600
+Microsoft Corp,3,Bank Of New York Mellon Corp,Tsr Inc,,143
 Microsoft Corp,1,Microsoft Corp,Bank Of America Corp,,855
 Microsoft Corp,3,Hsbc Holdings Plc,Capital One Financial Corp,,20474
-Alphabet Inc,1,Alphabet Inc,Sandp Global Inc,,840
-Alphabet Inc,3,Caterpillar Inc,Wells Fargo And Company,,3880
-Coca-Cola Company,1,Coca-Cola Company,Embotelladora Andina Sa,,960
 Microsoft Corp,1,Microsoft Corp,Apache Corp,,75
 Microsoft Corp,3,Tenet Healthcare Corp,Terraform Power Inc,,20
-Alphabet Inc,3,Mid America Apartment Communities Inc,Royal Bank Of Canada,,936
-Alphabet Inc,3,Pnc Financial Services Group Inc,Mercantile Bank Corp,,17
-Alphabet Inc,2,Atandt Inc,Solis Tek Inc./Nv,,84
-Alphabet Inc,2,Altaba Inc,Facebook Inc,,4404
-Alphabet Inc,1,Alphabet Inc,Arlington Asset Investment Corp,,1008
-Alphabet Inc,2,Goldman Sachs Group Inc,Kraft Foods Group Inc,,32
-Alphabet Inc,1,Alphabet Inc,Microsoft Corp,,630
 Microsoft Corp,3,Intel Corp,Analog Devices Sas,,160
 Microsoft Corp,2,Starbucks Corp,Square Inc,,364
-Alphabet Inc,3,General Electric Company,Cheniere Energy Inc,,180
-Alphabet Inc,2,Honeywell International Inc,Garrett Motion Inc,,72
-Alphabet Inc,2,Ebay Inc,Naspers Ltd,,810
-Alphabet Inc,2,Altaba Inc,Tribune Media Co,,50
-Alphabet Inc,2,Atandt Inc,Warner Media Llc,,11073
-Alphabet Inc,1,Alphabet Inc,Cadence Bancorporation,Investigation,196
-Alphabet Inc,3,Formfactor Inc,Noranda Aluminum Holding Corp,,28
-Alphabet Inc,3,Duke Energy Corp,Bank Of The Carolinas Corp,,13
 Microsoft Corp,2,Apache Corp,Bp Plc,,160
-Coca-Cola Company,1,Coca-Cola Company,Nextera Energy,,648
-Alphabet Inc,2,Gilead Sciences Inc,Pfizer Inc,,1386
-Alphabet Inc,2,Sandp Global Inc,Apollo Global Management Llc,,450
-Alphabet Inc,2,Goldman Sachs Group Inc,Fair Isaac Corp,,128
 Microsoft Corp,1,Microsoft Corp,Nextera Energy,,270
 Microsoft Corp,1,Microsoft Corp,Starbucks Corp,,390
 Microsoft Corp,2,3M Company,Cna Financial Corp,,66
@@ -344,12 +781,6 @@ Microsoft Corp,2,Adobe Inc,Trade Desk Inc,,180
 Microsoft Corp,2,Bank Of America Corp,Vanguard Group,,26010
 Microsoft Corp,3,Hp Inc,John Hancock Preferred,,147
 Microsoft Corp,3,Enterprise Products Partners L P,Plains Gp Holdings Lp,,75
-Alphabet Inc,2,Honeywell International Inc,United Technologies Corp,Transaction,264
-Jp Morgan Chase And Co,3,Maiden Holdings Ltd,Endurance Specialty Holdings Ltd,,18
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Ecolab Inc,,768
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Pnc Financial Services Group Inc,,8330
-Jp Morgan Chase And Co,3,Ally Financial,Gap Inc,,344
-Coca-Cola Company,1,Coca-Cola Company,Costa Group Holdings Ltd,Transaction,168
 Microsoft Corp,2,Us Bancorp,Usb Realty Corp,,250
 Microsoft Corp,2,Mcafee Inc,Informatica Llc,,4
 Microsoft Corp,3,Symantec Corp,Carbonite Inc,,32
@@ -357,111 +788,238 @@ Microsoft Corp,2,Hp Inc,Hewitt Associates Inc,,11
 Microsoft Corp,2,Symantec Corp,Aon Plc,,480
 Microsoft Corp,2,Bank Of America Corp,Fair Isaac Corp,,2444
 Microsoft Corp,1,Microsoft Corp,Aol Inc,,15
-Jp Morgan Chase And Co,3,Kimberly-Clark Corp,Bank Of America Corp,,84246
-Jp Morgan Chase And Co,2,Federal National Mortgage Association,Federal Home Loan Mortgage Corp,,1708460
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Nomura Holdings Inc,,3825
-Alphabet Inc,1,Alphabet Inc,Nasdaq Inc,,84
-Alphabet Inc,1,Alphabet Inc,Bank Of New York Mellon Corp,,364
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Baidu Inc,,1664
-Goldman Sachs Group Inc,3,Tesla Inc,Societe Generale,Corporate,450
-Jp Morgan Chase And Co,3,Nasdaq Inc,Cboe Global Markets Inc,,468
-Goldman Sachs Group Inc,2,Cbs Corp,Microsoft Corp,,975
-Jp Morgan Chase And Co,2,Bank Of America Corp,Deutsche Bank,,8580
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Cold Spring Capital Inc,,153
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Smtc Corp,,102
-Jp Morgan Chase And Co,2,Fair Isaac Corp,Equifax Inc,,2112
-Alphabet Inc,2,Microsoft Corp,Dell Inc,,1782
-Goldman Sachs Group Inc,3,Intel Corp,Advanced Micro Devices Inc,,2992
-Goldman Sachs Group Inc,3,Booking Holdings Inc,Target Corp,,220
-Jp Morgan Chase And Co,3,Emergent Biosolutions,Pfenex Inc,,16
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,The Northern Trust Company,,3808
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Intercontinental Exchange,Communication,272640
-Goldman Sachs Group Inc,2,Valeant Pharmaceuticals International Inc,Perrigo Company Public Limited Company,,324
-Goldman Sachs Group Inc,2,Vroom Inc,Booking Holdings Inc,,80
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Franklin Financial Network Inc,,640
-Jp Morgan Chase And Co,3,Square Inc,Starbucks Corp,,1742
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Navistar International Corp,,4800
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Realogy Holdings Corp,,204
-Goldman Sachs Group Inc,3,Mastercard Inc,Ipsco Inc,,29
-Coca-Cola Company,1,Coca-Cola Company,Uniti Group Inc,,960
 Microsoft Corp,3,Phh Corp,Era Group Inc,,2
-Alphabet Inc,3,Formfactor Inc,Leggett And Platt Inc,,85
-Coca-Cola Company,3,Monster Beverage Corp,Citigroup Inc,,13524
-Coca-Cola Company,1,Coca-Cola Company,Bandg Foods Inc,,36
-Alphabet Inc,1,Alphabet Inc,Atandt Inc,,392
 Microsoft Corp,2,Nextera Energy,Philip Morris International Inc,,162
 Microsoft Corp,1,Microsoft Corp,Alphabet Inc,,1260
-Alphabet Inc,2,Southern Company,Dcp Midstream Lp,,462
-Alphabet Inc,3,Polycom Inc,Rmx Holdings Inc,,1
 Microsoft Corp,3,Agilent Technologies Inc,Shimadzu Corp,,21
 Microsoft Corp,1,Microsoft Corp,Google,,90
 Microsoft Corp,3,Global Indemnity Ltd,Rli Corp,,16
-Jp Morgan Chase And Co,2,Smtc Corp,Iec Electronics Corp,,16
-Alphabet Inc,1,Alphabet Inc,Banco Santander Sa,,392
 Microsoft Corp,2,Federal National Mortgage Association,Philip Morris International Inc,,8748
 Microsoft Corp,1,Microsoft Corp,Adobe Inc,,150
 Microsoft Corp,1,Microsoft Corp,Linkedin Corp,,2940
 Microsoft Corp,2,Sandp Global Inc,Thomson Reuters Corp,,464
 Microsoft Corp,3,Digital River Inc /De,Microsoft Corp,,7470
-Jp Morgan Chase And Co,3,Tenet Healthcare Corp,Vanguard Group,,98838
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Usa Capital Management Inc,,229.5
 Microsoft Corp,2,Altaba Inc,Mitsubishi Ufj Financial Group Inc,,130
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Us Bancorp,,8800
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Fair Isaac Corp,,384
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Sandp Global Inc,,17671.5
-Goldman Sachs Group Inc,3,Barnes Group Inc,Nucor Corp,,16
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Gsx Techedu Inc,,256
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Federal National Mortgage Association,,8078.4
-Jp Morgan Chase And Co,3,Dominion Energy Inc,Wec Energy Group Inc,,108
-Goldman Sachs Group Inc,3,Microsoft Corp,Salesforce Com Inc,,240
-Goldman Sachs Group Inc,3,Lions Gate Entertainment Corp /Cn/,Verizon Communications Inc,,3133
-Goldman Sachs Group Inc,3,Exxon Mobil Corp,Imperial Oil Ltd,,240
-Jp Morgan Chase And Co,3,Perkinelmer Inc,Tibco Software Inc,,6
-Jp Morgan Chase And Co,2,Msa Safety Inc,United Rentals Inc /De,,108
-Jp Morgan Chase And Co,2,Chase Corp,American Biltrite Inc,,8
-Jp Morgan Chase And Co,2,Starbucks Corp,Pepsico Inc,,858
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Fair Isaac Corp,Corporate,2244
-Goldman Sachs Group Inc,3,Mastercard Inc,Aluminum Corp Of China Ltd,Corporate,1485
-Goldman Sachs Group Inc,3,Barnes Group Inc,Commonwealth Bank Of Australia,,96
-Goldman Sachs Group Inc,2,Ecolab Inc,Halliburton Company,,165
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Vanguard Group,,9792
-Goldman Sachs Group Inc,3,Sherwin-Williams Company,Rait Financial Trust,,42
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Fair Isaac Corp,Financing,512
-Goldman Sachs Group Inc,3,Weatherford International Plc,Nabors Industries,,84
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Biotelemetry Inc,,1536
-Jp Morgan Chase And Co,2,Amazon Com Inc,Kelly Services Inc,,39
-Goldman Sachs Group Inc,3,Ness Technologies Inc,Wipro Ltd,,12
-Goldman Sachs Group Inc,2,Navistar International Corp,Mitsubishi Corp,,120
-Goldman Sachs Group Inc,2,Citigroup Inc,Realogy Holdings Corp,,1656
-Goldman Sachs Group Inc,3,Realogy Holdings Corp,Credit Suisse Group,,104
-Goldman Sachs Group Inc,3,Devon Energy Corp/De,Conocophillips Co,,144
-Jp Morgan Chase And Co,3,Emc Corp,Rci Hospitality Holdings Inc,,268
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Nn Inc,,1536
-Goldman Sachs Group Inc,3,General Electric Company,Assa Abloy Ab,,240
-Jp Morgan Chase And Co,2,Starbucks Corp,Sysco Corp,,104
-Jp Morgan Chase And Co,2,Oasis Petroleum Inc,Uniti Group Inc,,50
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Totalenergies Se,,1024
-Jp Morgan Chase And Co,2,Sandp Global Inc,Linkedin Corp,,230
 Microsoft Corp,2,Nuance Communications Inc,Nice Ltd,,100
-Pepsico Inc,1,Pepsico Inc,Hsbc Holdings Plc,,1404
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Amazon Com Inc,,663
-Goldman Sachs Group Inc,3,Tesla Inc,Golden Star Resources Ltd,,120
-Goldman Sachs Group Inc,3,Dowdupont Inc,Olin Corp,,1140
-Goldman Sachs Group Inc,3,Tesla Inc,Kellogg Company,,80
-Goldman Sachs Group Inc,3,Corelogic,First American Financial Corp,,12
-Goldman Sachs Group Inc,2,Gohealth Inc,Spartan Motors Inc,,3
-Alphabet Inc,2,Nasdaq Inc,Pdl Biopharma Inc,,510
 Microsoft Corp,1,Microsoft Corp,Amazon Com Inc,,390
 Microsoft Corp,2,Apple Inc,Nvidia Corp,,572
-Jp Morgan Chase And Co,3,Ciena Corp,Infinera Corp,,42
-Goldman Sachs Group Inc,3,Spartan Motors Inc,Methode Electronics Inc,,15
-Goldman Sachs Group Inc,2,Snap Inc,Equitable Holdings Llc,,224
-Jp Morgan Chase And Co,3,Wandt Offshore Inc,Plains Gp Holdings Lp,,48
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Valeant Pharmaceuticals International Inc,,1152
-Jp Morgan Chase And Co,2,Smtc Corp,Avnet Inc,,20
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Ecolab Inc,,408
-Goldman Sachs Group Inc,2,Sunedison Inc,Albemarle Corp,,48
 Microsoft Corp,1,Microsoft Corp,Enterprise Financial Services Corp,,270
+Microsoft Corp,3,Tenet Healthcare Corp,Kindred Healthcare Inc,,10
+Microsoft Corp,2,Cisco Systems Inc,Fortinet Inc,,192
+Microsoft Corp,2,Pepsico Inc,Alliance Data Systems Corp,,78
+Microsoft Corp,3,Red Hat Inc,Synopsys Inc,,192
+Microsoft Corp,2,International Business Machines Corp,Red Hat Inc,,2856
+Microsoft Corp,1,Microsoft Corp,Emc Corp,,30
+Microsoft Corp,3,Morgan Stanley International Holdings Inc,China Internet Cafe Holdings Group Inc,,120
+Microsoft Corp,2,Sandp Global Inc,Pearson Plc,,189
+Microsoft Corp,3,Cme Group Inc,Kemper Corp,,48
+Microsoft Corp,1,Microsoft Corp,Apple Inc,,975
+Microsoft Corp,2,Red Hat Inc,Ansys Inc,,80
+Microsoft Corp,2,3M Company,Middlesex Water Co,,66
+Microsoft Corp,3,Intel Corp,Micron Technology Inc,,176
+Microsoft Corp,3,Middlesex Water Co,Guaranty Bancorp,,20
+Microsoft Corp,3,Prudential Financial Inc,Metlife Inc,,480
+Microsoft Corp,3,Square Inc,Stifel Financial Corp,,189
+Microsoft Corp,3,Palo Alto Networks Inc,Taminco Corp,,6
+Microsoft Corp,2,Sandp Global Inc,Cme Group Inc,,4704
+Microsoft Corp,3,Comscore Inc,Sears Holdings Corp,,7
+Microsoft Corp,1,Microsoft Corp,Altaba Inc,,75
+Microsoft Corp,3,Korn Ferry International,Booz Allen Hamilton Holding Corp,,52
+Microsoft Corp,1,Microsoft Corp,Facebook Inc,,420
+Microsoft Corp,2,Federal National Mortgage Association,Morgan Stanley International Holdings Inc,,7200
+Microsoft Corp,3,Compuware Corp,Leidos Holdings Inc,,4
+Microsoft Corp,1,Microsoft Corp,Nuance Communications Inc,,6075
+Microsoft Corp,2,Vmware Inc,Enterprise Products Partners L P,,70
+Microsoft Corp,1,Microsoft Corp,Nuance Communications Inc,Corporate,900
+Microsoft Corp,1,Microsoft Corp,Symantec Corp,,200
+Microsoft Corp,2,Atandt Inc,Bank Of Communications Co Ltd,,98
+Microsoft Corp,1,Microsoft Corp,Oci Nv,,150
+Microsoft Corp,2,Altaba Inc,Yahoo Japan Corp,,120
+Microsoft Corp,3,Red Hat Inc,Progress Software Corp /Ma,,48
+Microsoft Corp,2,Federal National Mortgage Association,Global Indemnity Ltd,,432
+Microsoft Corp,2,Caleres Inc,Qvc Inc,,6
+Microsoft Corp,2,Hewlett Packard Enterprise Comp,Hp Inc,,23232
+Microsoft Corp,3,Enterprise Products Partners L P,Westlake Chemical Corp,,25
+Microsoft Corp,2,Apple Inc,Prudential Financial Inc,,416
+Microsoft Corp,3,Expedia Group Inc,Qvc Inc,,60
+Microsoft Corp,2,Oracle Corp,Intuit Inc,,1314
+Microsoft Corp,2,Us Bancorp,Vectren Corp,,550
+Microsoft Corp,3,Fortinet Inc,Fireeye Inc,,225
+Microsoft Corp,2,Alaska Air Group,Airbus Group Se,,1980
+Microsoft Corp,1,Microsoft Corp,Amex Global Holdings Cv,,420
+Microsoft Corp,1,Microsoft Corp,Red Hat Inc,,120
+Microsoft Corp,1,Microsoft Corp,Vmware Inc,,210
+Microsoft Corp,3,Pepsico Inc,Cse Global Ltd,,130
+Microsoft Corp,3,Eclipse Resources Corp,Bmo Financial Group,,1102
+Microsoft Corp,2,Bank Of America Corp,First Republic Bank,,1083
+Microsoft Corp,1,Microsoft Corp,Activision Blizzard,Communication,4725
+Microsoft Corp,2,Symantec Corp,Tsr Inc,,216
+Microsoft Corp,1,Microsoft Corp,Cisco Systems Inc,,480
+Microsoft Corp,3,Nvidia Corp,Baidu Inc,,143
+Microsoft Corp,3,Nvidia Corp,Life Storage,,66
+Microsoft Corp,1,Microsoft Corp,Glaxosmithkline Plc,Political,180
+Microsoft Corp,1,Microsoft Corp,Oci Partners Lp,,60
+Microsoft Corp,3,Middlesex Water Co,First Mortgage Bonds,,6
+Microsoft Corp,2,Cisco Systems Inc,Belden Inc,,192
+Microsoft Corp,2,Facebook Inc,Sonoma Pharmaceuticals Inc,,108
+Microsoft Corp,1,Microsoft Corp,Hewlett Packard Enterprise Comp,,270
+Microsoft Corp,3,Aon Plc,Hertz Global Holdings Inc,,426
+Microsoft Corp,2,Symantec Corp,Digital River Inc /De,,24
+Microsoft Corp,1,Microsoft Corp,Gap Inc,,120
+Microsoft Corp,3,Cisco Systems Inc,Wipro Ltd,,252
+Microsoft Corp,3,American Airlines Group Inc,Japan Airlines,,1600
+Microsoft Corp,2,Dell Inc,Capstead Mortgage Corp,,55
+Microsoft Corp,2,Hp Inc,Oracle Corp,,68172
+Microsoft Corp,2,Intercontinental Exchange,Thomson Reuters Corp,,144
+Microsoft Corp,1,Microsoft Corp,Salesforce Com Inc,,840
+Microsoft Corp,3,Hsbc Holdings Plc,Standard Bank Group Ltd,,288
+Microsoft Corp,3,Alliance Data Systems Corp,Regions Financial Corp,,312
+Microsoft Corp,3,Sprint Corp,Virgin Mobile Usa Inc,,132
+Microsoft Corp,1,Microsoft Corp,Bank Of New York Mellon Corp,,2925
+Microsoft Corp,2,Hp Inc,Intel Corp,,2720
+Microsoft Corp,1,Microsoft Corp,Federal National Mortgage Association,,540
+Microsoft Corp,3,Tsr Inc,Barnwell Industries Inc,,2
+Microsoft Corp,3,Enterprise Products Partners L P,Alon Usa Energy Inc,,10
+Microsoft Corp,3,Ilg Inc,Rci Hospitality Holdings Inc,,104
+Microsoft Corp,2,Apache Corp,Special Opportunities Fund Inc,,80
+Microsoft Corp,3,Red Hat Inc,Netapp Inc,,135
+Microsoft Corp,1,Microsoft Corp,Eclipse Resources Corp,,150
+Microsoft Corp,1,Microsoft Corp,Alaska Air Group,,75
+Microsoft Corp,3,Pegasystems Inc,Cognizant Technology Solutions Corp,,45
+Microsoft Corp,2,Red Hat Inc,Nokia Corp,,1216
+Microsoft Corp,1,Microsoft Corp,Bmc Software Inc,,15
+Microsoft Corp,2,Bank Of America Corp,Countrywide Plc,,1710
+Microsoft Corp,1,Microsoft Corp,Mcafee Inc,,60
+Microsoft Corp,3,Enterprise Products Partners L P,Marubeni Corp,,40
+Microsoft Corp,1,Microsoft Corp,Oracle Corp,,1440
+Microsoft Corp,1,Microsoft Corp,Activision Blizzard,Corporate,1890
+Microsoft Corp,3,Pegasystems Inc,Appian Corp,,25
+Microsoft Corp,2,Dell Inc,Simulations Plus Inc,,66
+Microsoft Corp,2,Adobe Inc,Pegasystems Inc,,150
+Microsoft Corp,2,Hp Inc,John Hancock Preferred,,121
+Microsoft Corp,3,Spirit Aerosystems Holdings,Spx Corp,,16
+Microsoft Corp,1,Microsoft Corp,Sandp Global Inc,,2025
+Microsoft Corp,2,Alaska Air Group,American Airlines Group Inc,,1780
+Microsoft Corp,3,Hsbc Holdings Plc,Huntington Ingalls Industries,,285
+Microsoft Corp,2,Hp Inc,Canon Inc,,2376
+Microsoft Corp,2,Amex Global Holdings Cv,Standard Chartered Plc,,5040
+Microsoft Corp,3,Comscore Inc,Adobe Inc,,20
+Microsoft Corp,3,Eclipse Resources Corp,Talos Petroleum Llc,,10
+Microsoft Corp,2,Emc Corp,Korn Ferry International,,4
+Microsoft Corp,3,Cme Group Inc,Societe Generale,,144
+Microsoft Corp,2,Hewlett Packard Enterprise Comp,Zipcar Inc,,12
+Microsoft Corp,2,Vmware Inc,Apple Inc,,17784
+Microsoft Corp,3,Comscore Inc,Iheartmedia Inc,,2
+Microsoft Corp,3,Symantec Corp,United Continental Holdings,,696
+Microsoft Corp,2,Hewlett Packard Enterprise Comp,Aruba Networks Inc,,24
+Microsoft Corp,1,Microsoft Corp,International Business Machines Corp,,1755
+Microsoft Corp,3,Expedia Group Inc,Altice,Corporate,4480
+Microsoft Corp,3,Expedia Group Inc,Apollo Global Management Llc,,80
+Microsoft Corp,2,Amex Global Holdings Cv,Capital One Financial Corp,,406
+Microsoft Corp,1,Microsoft Corp,Netflix Inc,,206.25
+Microsoft Corp,3,Brocade Communications Systems Inc,Hon Hai Precision Industry Co Ltd,,14
+Microsoft Corp,3,Enterprise Products Partners L P,Plains All American Pipeline Lp,,84
+Microsoft Corp,2,Hewlett Packard Enterprise Comp,Ruckus Wireless Inc,,12
+Microsoft Corp,3,Moodys Corp /De/,Cra International,,129
+Microsoft Corp,3,Oracle Corp,Netsuite Inc,,636
+Microsoft Corp,1,Microsoft Corp,Nokia Corp,,1330
+Microsoft Corp,3,Pepsico Inc,Quaker Chemical Corp,,39
+Microsoft Corp,3,Intuit Inc,Bank Of America Corp,,16302
+Microsoft Corp,3,Amyris Inc,Bp Plc,,672
+Microsoft Corp,2,Altaba Inc,Coherent Inc,,25
+Microsoft Corp,2,Google,Amyris Inc,,24
+Microsoft Corp,3,Red Hat Inc,Verint Systems Inc,,20
+Microsoft Corp,3,Agilent Technologies Inc,Zygo Corp,,7
+Microsoft Corp,2,Atandt Inc,Digital Realty Trust,,504
+Microsoft Corp,2,Federal National Mortgage Association,Agilent Technologies Inc,,868
+Microsoft Corp,3,Sprint Corp,Baker Hughes A Ge Co,,84
+Microsoft Corp,1,Microsoft Corp,Linkedin Corp,Corporate,4710
+Microsoft Corp,1,Microsoft Corp,London Stock Exchange Group Plc,,540
+Microsoft Corp,3,Cisco Systems Inc,Logmein Inc,,64
+Microsoft Corp,1,Microsoft Corp,Nintendo Co Ltd,,165
+Microsoft Corp,3,Symantec Corp,Reynolds American Inc,,8
+Microsoft Corp,2,Emc Corp,Brocade Communications Systems Inc,,2
+Microsoft Corp,1,Microsoft Corp,Intercontinental Exchange,,180
+Microsoft Corp,2,Sandp Global Inc,Canara Bank,,135
+Microsoft Corp,3,Cisco Systems Inc,Extreme Networks Inc,,95
+Microsoft Corp,2,Intercontinental Exchange,Coinbase Global Inc,Corporate,102
+Microsoft Corp,3,Hp Inc,Xerox Corp,,132
+Microsoft Corp,2,Emc Corp,Ilg Inc,,2
+Microsoft Corp,1,Microsoft Corp,Sap Se,,765
+Microsoft Corp,3,American Airlines Group Inc,Rockwell Collins Inc,Transaction,100
+Microsoft Corp,1,Microsoft Corp,Linkedin Corp,Communication,3810
+Microsoft Corp,3,Tier Reit Inc,Thomson Reuters Corp,,504
+Microsoft Corp,1,Microsoft Corp,Alaska Air Group,HumanResources,75
+Microsoft Corp,3,Pepsico Inc,Unilever Plc,,858
+Microsoft Corp,2,Symantec Corp,Verisign Inc/Ca,,896
+Microsoft Corp,2,Symantec Corp,Darwin Professional Underwriters Inc,,24
+Microsoft Corp,2,Red Hat Inc,Tibco Software Inc,,16
+Microsoft Corp,2,Altaba Inc,Tier Reit Inc,,15
+Microsoft Corp,1,Microsoft Corp,Atandt Inc,,420
+Microsoft Corp,2,International Business Machines Corp,Moodys Corp /De/,,476
+Microsoft Corp,2,Apache Corp,Mariner Energy Inc,,70
+Microsoft Corp,3,Tibco Software Inc,Dcp Midstream Lp,,35
+Microsoft Corp,1,Microsoft Corp,Pepsico Inc,,195
+Pepsico Inc,3,Scotts Miracle-Gro Co,Reckitt Benckiser,,50
+Pepsico Inc,2,Celsius Holdings Inc,Oragenics Inc,,10
+Pepsico Inc,2,Coca-Cola Company,Darling Ingredients Inc,,216
+Pepsico Inc,3,United States Steel Corp,Revlon Inc,,40
+Pepsico Inc,3,Corelogic,Bank Of America Corp,,190038
+Pepsico Inc,3,Microsoft Corp,Red Hat Inc,,168
+Pepsico Inc,2,Mondelez International Inc,Kraft Heinz Co,,720
+Pepsico Inc,2,United States Steel Corp,Alon Usa Energy Inc,,50
+Pepsico Inc,3,Cna Financial Corp,Churchill Capital Corp,,51
+Pepsico Inc,2,Coca-Cola Company,Kirin Holdings Co Ltd,,400
+Pepsico Inc,3,Corelogic,Verisk Analytics Inc,,24
+Pepsico Inc,3,Cna Financial Corp,Pfizer Inc,,468
+Pepsico Inc,2,Jp Morgan Chase And Co,Mastercard Inc,,25866
+Pepsico Inc,3,Weight Watchers International Inc,Hasbro Inc,,72
+Pepsico Inc,2,Starbucks Corp,Goodyear Tire And Rubber Co /Oh/,,702
+Pepsico Inc,3,Trimas Corp,Parker Hannifin Corp,,114
+Pepsico Inc,3,Merck And Co Inc,Dowdupont Inc,,168
+Pepsico Inc,2,Citigroup Inc,Tribune Media Co,,252
+Pepsico Inc,1,Pepsico Inc,Apollo Global Management Llc,Communication,780
+Pepsico Inc,3,Hain Celestial Group Inc,Ebro Foods Sa,,140
+Pepsico Inc,1,Pepsico Inc,Intercontinental Exchange,,2028
+Pepsico Inc,2,Mondelez International Inc,Kennametal Inc,,80
+Pepsico Inc,1,Pepsico Inc,Bioscrip Inc,,260
+Pepsico Inc,2,Morgan Stanley International Holdings Inc,Commercial Metals Co,,810
+Pepsico Inc,3,Coca-Cola Company,Tyson Foods Inc,,196
+Pepsico Inc,3,Bioscrip Inc,Harte Hanks Inc,,33
+Pepsico Inc,2,Apollo Global Management Llc,Fusion-Io Inc,,60
+Pepsico Inc,2,Apollo Global Management Llc,Caesars Entertainment Corp,,1440
+Pepsico Inc,3,General Dynamics Corp,Carscom Inc,,36
+Pepsico Inc,1,Pepsico Inc,Nasdaq Inc,,702
+Pepsico Inc,3,Prudential Financial Inc,American International Group Inc,,918
+Pepsico Inc,1,Pepsico Inc,Archer Daniels Midland Co,,208
+Pepsico Inc,1,Pepsico Inc,Morgan Stanley International Holdings Inc,,780
+Pepsico Inc,3,Caesars Entertainment Corp,Petco Animal Supplies Inc,,2
+Pepsico Inc,3,Physicians Realty Trust,Foundation Healthcare Inc,,2
+Pepsico Inc,2,General Motors Limited,Meritage Homes Corp,,528
+Pepsico Inc,1,Pepsico Inc,Deutsche Bank,Corporate,507
+Pepsico Inc,2,Coca-Cola Company,Lancaster Colony Corp,,144
+Pepsico Inc,3,Merck And Co Inc,Amtrust Financial Services Inc,,304
+Pepsico Inc,1,Pepsico Inc,Goldman Sachs Group Inc,,3328
+Pepsico Inc,1,Pepsico Inc,Quaker Chemical Corp,Communication,390
+Pepsico Inc,3,Microsoft Corp,Apple Inc,,5603
+Pepsico Inc,2,United States Steel Corp,Corelogic,,20
+Pepsico Inc,1,Pepsico Inc,General Electric Company,,260
+Pepsico Inc,1,Pepsico Inc,Quaker Chemical Corp,,234
+Pepsico Inc,3,Bank Of America Corp,Countrywide Plc,,26112
+Pepsico Inc,1,Pepsico Inc,Bank Of America Corp,Corporate,1482
+Pepsico Inc,2,Metlife Inc,General Dynamics Corp,,135
+Pepsico Inc,1,Pepsico Inc,Bank Of New York Mellon Corp,Corporate,1267.5
+Pepsico Inc,2,Dover Corp,Icc Holdings Inc,,36
+Pepsico Inc,3,T-Mobile Us,Juno Therapeutics,,186
+Pepsico Inc,1,Pepsico Inc,Wells Fargo And Company,,1040
+Pepsico Inc,1,Pepsico Inc,United States Steel Corp,Communication,390
+Pepsico Inc,3,Arch Capital Group Ltd,The Travelers Companies Inc,,140
+Pepsico Inc,1,Pepsico Inc,Facebook Inc,,312
+Pepsico Inc,2,Merck And Co Inc,Endocyte Inc,,1248
+Pepsico Inc,2,Bank Of America Corp,Ford Motor Company,,2052
+Pepsico Inc,3,Under Armour,Ucp Inc,,26
+Pepsico Inc,3,Sabre Corp,Gds Holdings Ltd,,1440
+Pepsico Inc,1,Pepsico Inc,Hsbc Holdings Plc,,1404
 Pepsico Inc,2,Atandt Inc,T-Mobile Us,,1260
 Pepsico Inc,3,Corelogic,Fleetcor Technologies Inc,,10
 Pepsico Inc,2,United States Steel Corp,Eastman Kodak Co,,60
@@ -476,44 +1034,17 @@ Pepsico Inc,3,Smtc Corp,Ipc Holdings Ltd,,2
 Pepsico Inc,3,Exela Technologies Inc,Olin Corp,,16
 Pepsico Inc,3,Smtc Corp,Iron Mountain A/S,,12
 Pepsico Inc,3,Emerson Electric Co,Regal Beloit Corp,,35
-Coca-Cola Company,1,Coca-Cola Company,Bank Of America Corp,,20178
-Coca-Cola Company,1,Coca-Cola Company,Dr Pepper Snapple Group Inc,,196
-Coca-Cola Company,1,Coca-Cola Company,Commonwealth Bank Of Australia,,4320
-Coca-Cola Company,3,Rci Hospitality Holdings Inc,New York Times Co,,36
 Pepsico Inc,1,Pepsico Inc,Walmart Inc,,972.4
 Pepsico Inc,3,Kennametal Inc,Harsco Corp,,12
 Pepsico Inc,1,Pepsico Inc,Monster Beverage Corp,,166.833333
 Pepsico Inc,1,Pepsico Inc,Cse Global Ltd,,130
-Coca-Cola Company,2,Herbalife Nutrition Ltd,Nu Skin Enterprises Inc,,32
-Coca-Cola Company,2,Hain Celestial Group Inc,Hanesbrands Inc,,20
-Coca-Cola Company,2,Sandp Global Inc,Cme Group Inc,,2808
-Coca-Cola Company,2,Molson Coors Brewing Co,Waste Management Inc,,504
-Coca-Cola Company,1,Coca-Cola Company,Suntory Beverage And Food Limited,,48
-Coca-Cola Company,3,Netlogic Microsystems Inc,L-3 Communications Holdings,,38
 Pepsico Inc,1,Pepsico Inc,Spire Corp,Communication,52
-Coca-Cola Company,2,Archer Daniels Midland Co,Dowdupont Inc,,224
-Coca-Cola Company,1,Coca-Cola Company,Nestle Sa Cham Et Ve,,540
-Coca-Cola Company,1,Coca-Cola Company,Seaboard Corp,,64
-Coca-Cola Company,3,Seacor Holdings Inc /New/,Kirby Corp,,9
-Coca-Cola Company,2,Santander Holdings Usa Inc,Norfolk Southern Corp,,120
-Coca-Cola Company,2,City Office Reit Inc,Jones Lang Lasalle Inc,,12
 Pepsico Inc,3,Amneal Pharmaceuticals Inc,Humana Inc,,21
 Pepsico Inc,1,Pepsico Inc,Nestle Sa Cham Et Ve,,585
 Pepsico Inc,1,Pepsico Inc,Moodys Corp /De/,,273
-Coca-Cola Company,2,Altria Group,Nci Inc,,108
-Coca-Cola Company,3,Lam Research Corp,Fibrogen Inc,,30
-Coca-Cola Company,2,Philip Morris International Inc,Unilever Nv Ord,,540
-Coca-Cola Company,2,Post Holdings Inc,Energizer Holdings Inc,,75
 Pepsico Inc,1,Pepsico Inc,Keurig Dr Pepper Inc,,130
-Coca-Cola Company,2,Broadcom Ltd,Netlogic Microsystems Inc,,1710
-Coca-Cola Company,1,Coca-Cola Company,Coca-Cola Amatil Ltd,,312
 Pepsico Inc,3,Weight Watchers International Inc,Big Lots Inc,,32
 Pepsico Inc,2,Apollo Global Management Llc,Compass Minerals International Inc,,180
-Coca-Cola Company,1,Coca-Cola Company,Us Foods Holding Corp,,36
-Coca-Cola Company,1,Coca-Cola Company,Adobe Inc,,1080
-Coca-Cola Company,1,Coca-Cola Company,Kellogg Company,,96
-Coca-Cola Company,3,Xl Group Ltd,Allianz Se,,72
-Coca-Cola Company,1,Coca-Cola Company,Morgan Stanley International Holdings Inc,Corporate,360
 Pepsico Inc,3,Comcast Corp A,Cal Dive International,,70
 Pepsico Inc,1,Pepsico Inc,Boston Beer Co Inc,,130
 Pepsico Inc,2,Metlife Inc,Career Education Corp,,75
@@ -528,198 +1059,18 @@ Pepsico Inc,2,Morgan Stanley International Holdings Inc,Allstate Corp,,5658
 Pepsico Inc,1,Pepsico Inc,Totalenergies Se,,78
 Pepsico Inc,1,Pepsico Inc,Conagra Brands Inc,,78
 Pepsico Inc,3,Hertz Global Holdings Inc,Nielsen Holdings Plc,,30
-Coca-Cola Company,3,Ebay Inc,Altaba Inc,,280
-Coca-Cola Company,2,Boston Beer Co Inc,Craft Brew Alliance,Corporate,288
-Coca-Cola Company,3,Dover Corp,Nordson Corp,,18
-Coca-Cola Company,1,Coca-Cola Company,Goldman Sachs Group Inc,Corporate,1536
-Microsoft Corp,3,Tenet Healthcare Corp,Kindred Healthcare Inc,,10
-Microsoft Corp,2,Cisco Systems Inc,Fortinet Inc,,192
-Microsoft Corp,2,Pepsico Inc,Alliance Data Systems Corp,,78
-Alphabet Inc,3,Formfactor Inc,Rio Tinto Plc,,378
-Alphabet Inc,1,Alphabet Inc,Altaba Inc,,70
-Alphabet Inc,1,Alphabet Inc,Facebook Inc,,504
-Alphabet Inc,2,Network 1 Technologies Inc,Adtran Inc,,96
 Pepsico Inc,1,Pepsico Inc,Morgan Stanley International Holdings Inc,Corporate,585
-Alphabet Inc,3,Clean Energy Fuels Corp,Kroger Company,,35
-Alphabet Inc,1,Alphabet Inc,Southern Company,,462
-Alphabet Inc,2,Oracle Corp,Intel Corp,,13008
-Alphabet Inc,1,Alphabet Inc,Apple Inc,,509.6
-Alphabet Inc,2,Apple Inc,Skyworks Solutions,,390
-Microsoft Corp,3,Red Hat Inc,Synopsys Inc,,192
-Microsoft Corp,2,International Business Machines Corp,Red Hat Inc,,2856
-Microsoft Corp,1,Microsoft Corp,Emc Corp,,30
-Microsoft Corp,3,Morgan Stanley International Holdings Inc,China Internet Cafe Holdings Group Inc,,120
-Alphabet Inc,3,Pfizer Inc,Glaxosmithkline Plc,,336
-Alphabet Inc,3,Cbs Corp,New York Times Co,,228
-Alphabet Inc,1,Alphabet Inc,Linkedin Corp,,28
-Alphabet Inc,2,Network 1 Technologies Inc,Polycom Inc,,54
-Coca-Cola Company,3,Automatic Data Processing Inc,Harley Davidson Inc,,48
-Coca-Cola Company,1,Coca-Cola Company,Dean Foods Co,,24
-Coca-Cola Company,1,Coca-Cola Company,Oci Partners Lp,,96
-Alphabet Inc,3,Juniper Networks Inc,Deutsche Telekom Ag,,105
-Microsoft Corp,2,Sandp Global Inc,Pearson Plc,,189
-Coca-Cola Company,2,Santander Holdings Usa Inc,Banco Santander-Chile,,8
-Microsoft Corp,3,Cme Group Inc,Kemper Corp,,48
-Microsoft Corp,1,Microsoft Corp,Apple Inc,,975
-Alphabet Inc,3,Pdl Biopharma Inc,Aercap Holdings Nv,Corporate,225
-Alphabet Inc,1,Alphabet Inc,Peerstream Inc,,14
-Alphabet Inc,3,Fair Isaac Corp,International Business Machines Corp,,4849
-Alphabet Inc,3,Formfactor Inc,Linear Technology Corp /Ca/,,87
-Microsoft Corp,2,Red Hat Inc,Ansys Inc,,80
-Microsoft Corp,2,3M Company,Middlesex Water Co,,66
-Microsoft Corp,3,Intel Corp,Micron Technology Inc,,176
-Microsoft Corp,3,Middlesex Water Co,Guaranty Bancorp,,20
-Microsoft Corp,3,Prudential Financial Inc,Metlife Inc,,480
-Microsoft Corp,3,Square Inc,Stifel Financial Corp,,189
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Mastercard Inc,,3825
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,V F Corp,,1377
-Microsoft Corp,3,Palo Alto Networks Inc,Taminco Corp,,6
-Microsoft Corp,2,Sandp Global Inc,Cme Group Inc,,4704
-Microsoft Corp,3,Comscore Inc,Sears Holdings Corp,,7
-Microsoft Corp,1,Microsoft Corp,Altaba Inc,,75
-Microsoft Corp,3,Korn Ferry International,Booz Allen Hamilton Holding Corp,,52
-Microsoft Corp,1,Microsoft Corp,Facebook Inc,,420
-Microsoft Corp,2,Federal National Mortgage Association,Morgan Stanley International Holdings Inc,,7200
-Microsoft Corp,3,Compuware Corp,Leidos Holdings Inc,,4
-Microsoft Corp,1,Microsoft Corp,Nuance Communications Inc,,6075
-Microsoft Corp,2,Vmware Inc,Enterprise Products Partners L P,,70
-Goldman Sachs Group Inc,2,Ecolab Inc,Swisher Hygiene Inc,,32
-Goldman Sachs Group Inc,3,Frontier Communications Corp,Mandt Bank Corp,,1992
-Goldman Sachs Group Inc,3,Perrigo Company Public Limited Company,Dcp Midstream Lp,,84
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Maiden Holdings Ltd,,9561.6
-Goldman Sachs Group Inc,2,Greensky Inc,Banco Santander Sa,,168
-Goldman Sachs Group Inc,2,Berkshire Hathaway Inc,Seritage Growth Properties,,144
-Goldman Sachs Group Inc,3,Dish Network Corp,Comcast Corp A,,90
-Goldman Sachs Group Inc,2,Wandt Offshore Inc,Exxon Mobil Corp,,492
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Sea Ltd,Corporate,725.333333
-Jp Morgan Chase And Co,2,International Business Machines Corp,Emc Corp,,13
-Jp Morgan Chase And Co,2,Amazon Com Inc,Nike Inc,,130
-Jp Morgan Chase And Co,3,The Northern Trust Company,Harley Davidson Inc,,50
-Alphabet Inc,3,Cbs Corp,Viacom Inc Cl B,,16445
-Goldman Sachs Group Inc,3,Lions Gate Entertainment Corp /Cn/,Vivendi Sa,,400
-Goldman Sachs Group Inc,2,Cbs Corp,Netflix Inc,,1397
-Jp Morgan Chase And Co,3,Allstate Corp,The Travelers Companies Inc,,230
-Goldman Sachs Group Inc,2,Berkshire Hathaway Inc,Union Pacific Corp,,528
-Jp Morgan Chase And Co,3,Restaurant Brands International,Tim Hortons Inc,,16
-Jp Morgan Chase And Co,2,Oasis Petroleum Inc,Crown Castle International Corp,,385
-Jp Morgan Chase And Co,3,Kimberly-Clark Corp,Georgia Pacific Corp,,9
-Goldman Sachs Group Inc,3,Fedex Corp,Sandp Global Inc,,30744
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Allstate Corp,,11960
-Jp Morgan Chase And Co,2,Berkshire Hathaway Inc,Corcept Therapeutics Inc,,480
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Metro Inc,SupplyChain,104000
-Jp Morgan Chase And Co,2,Chase Corp,Jp Morgan Chase And Co,,214506
-Microsoft Corp,1,Microsoft Corp,Nuance Communications Inc,Corporate,900
-Alphabet Inc,2,Abbvie Inc,Allergan Plc,,38208
-Alphabet Inc,2,The Walt Disney Co,Cbs Corp,,672
-Alphabet Inc,3,Kraft Foods Group Inc,Kimberly-Clark Corp,,9
-Alphabet Inc,2,Gilead Sciences Inc,Kite Pharma Inc,Corporate,77
-Coca-Cola Company,3,Reynolds American Inc,Msa Safety Inc,,162
-Microsoft Corp,1,Microsoft Corp,Symantec Corp,,200
-Alphabet Inc,2,Abbvie Inc,Vitae Pharmaceuticals Inc,,24
-Alphabet Inc,2,Crown Castle International Corp,Deutsche Telekom Ag,,16170
-Alphabet Inc,3,Apollo Global Management Llc,Apollo Commercial Real Estate Finance Inc,,50
-Microsoft Corp,2,Atandt Inc,Bank Of Communications Co Ltd,,98
-Microsoft Corp,1,Microsoft Corp,Oci Nv,,150
-Microsoft Corp,2,Altaba Inc,Yahoo Japan Corp,,120
-Microsoft Corp,3,Red Hat Inc,Progress Software Corp /Ma,,48
-Alphabet Inc,2,Gilead Sciences Inc,Rps Group Plc,,44
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Jp Morgan Investment Management Inc,,2652
-Goldman Sachs Group Inc,3,Kalvista Pharmaceuticals Inc,Csl Ltd,,140
-Goldman Sachs Group Inc,3,Realogy Holdings Corp,Zillow Group Inc,,72
-Microsoft Corp,2,Federal National Mortgage Association,Global Indemnity Ltd,,432
-Microsoft Corp,2,Caleres Inc,Qvc Inc,,6
-Microsoft Corp,2,Hewlett Packard Enterprise Comp,Hp Inc,,23232
-Microsoft Corp,3,Enterprise Products Partners L P,Westlake Chemical Corp,,25
-Microsoft Corp,2,Apple Inc,Prudential Financial Inc,,416
-Microsoft Corp,3,Expedia Group Inc,Qvc Inc,,60
-Microsoft Corp,2,Oracle Corp,Intuit Inc,,1314
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,General Motors Limited,,7392
-Jp Morgan Chase And Co,3,Discover Financial Services,Nn Inc,,112
-Jp Morgan Chase And Co,3,Tenet Healthcare Corp,Kindred Healthcare Inc,,10
-Jp Morgan Chase And Co,2,Smtc Corp,Sanmina Corp,,10
-Jp Morgan Chase And Co,3,Ciena Corp,Legacy Bancorp Inc,,7
-Alphabet Inc,3,Caterpillar Inc,Sotherly Hotels,,2352
-Alphabet Inc,3,Intel Corp,Performance Sports Group Ltd,,208
-Alphabet Inc,2,Sandp Global Inc,Ihs Markit Ltd,Corporate,315
-Alphabet Inc,2,Google,Glu Mobile Inc,,130
-Alphabet Inc,2,Apple Inc,Ares Capital Corp,,1625
-Alphabet Inc,1,Alphabet Inc,Honeywell International Inc,,336
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Vipshop Holdings Ltd,,320
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Greensky Inc,Corporate,1024
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Metro Inc,,74880
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Morningstar Inc,,748
-Jp Morgan Chase And Co,3,Federal Home Loan Mortgage Corp,Cognizant Technology Solutions Corp,,9396
-Jp Morgan Chase And Co,2,Federal National Mortgage Association,Philip Morris International Inc,,15552
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Thomson Reuters Corp,,6016
-Jp Morgan Chase And Co,3,Comcast Corp A,The Carlyle Group Lp,,80
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Msa Safety Inc,,918
-Jp Morgan Chase And Co,2,Realogy Holdings Corp,Fidelity National Financial,,8
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Andina Acq Cp Ord Sh,,160
-Jp Morgan Chase And Co,2,Oci Partners Lp,Cf Industries Holdings,,5
-Jp Morgan Chase And Co,2,Intercontinental Exchange,Nasdaq Inc,,6258
-Jp Morgan Chase And Co,3,Cumulus Media Inc,Lincoln National Corp,,200
-Goldman Sachs Group Inc,2,Sandp Global Inc,Ness Technologies Inc,Corporate,180
-Jp Morgan Chase And Co,3,Morningstar Inc,Altaba Inc,,45
-Jp Morgan Chase And Co,2,Agilent Technologies Inc,Stratagene  Corp,,21
-Goldman Sachs Group Inc,3,Dowdupont Inc,International Flavors And Fragrances Inc,,252
-Goldman Sachs Group Inc,2,Allstate Corp,Onemain Holdings Inc,,92
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Bank Of America Corp,Corporate,9120
-Jp Morgan Chase And Co,2,Starbucks Corp,Retail Opportunity Investments Corp,,26
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Student Transportation Inc,,204
-Goldman Sachs Group Inc,2,Adeptus Health Inc,Canadian Pacific Railway Ltd/Cn,,24
-Goldman Sachs Group Inc,2,Goodrich Petroleum Corp,American Axle And Manufacturing Holdings Inc,,96
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Contextlogic Inc,Corporate,192
-Goldman Sachs Group Inc,3,Allied Capital Corp,Greenlight Capital Lp,,12
-Jp Morgan Chase And Co,2,Franklin Financial Network Inc,Fifth Third Bancorp,,44
-Jp Morgan Chase And Co,3,Cf Industries Holdings,Terra Nitrogen Co L P /De,,5
-Jp Morgan Chase And Co,2,Fair Isaac Corp,Corelogic,,960
-Goldman Sachs Group Inc,2,Intercontinental Exchange,Deutsche Bank,,10764
-Jp Morgan Chase And Co,3,Cbs Corp,Amazon Com Inc,,546
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Aon Plc,Transaction,1632
-Jp Morgan Chase And Co,3,Dominion Energy Inc,Brp Inc,,504
-Goldman Sachs Group Inc,2,Navistar International Corp,Altimmune Inc,,900
-Microsoft Corp,2,Us Bancorp,Vectren Corp,,550
-Coca-Cola Company,2,Pepsico Inc,Nestle Sa Cham Et Ve,,4545
-Coca-Cola Company,2,Reynolds American Inc,Loews Corp,,28
-Alphabet Inc,1,Alphabet Inc,Oracle Corp,Legal,1848
-Microsoft Corp,3,Fortinet Inc,Fireeye Inc,,225
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Moodys Corp /De/,,224
-Jp Morgan Chase And Co,2,Zimmer Biomet Holdings,Boston Scientific Corp,,840
-Goldman Sachs Group Inc,3,Philip Morris International Inc,Colgate Palmolive Co,,90
-Coca-Cola Company,1,Coca-Cola Company,Coca-Cola European Partners Plc,,810
-Coca-Cola Company,3,Sunpower Corp,Credit Suisse Group,,962
-Coca-Cola Company,2,Citigroup Inc,Smtc Corp,,3390
-Coca-Cola Company,1,Coca-Cola Company,Fomento Economico Mexicano Sab De Cv,,864
-Coca-Cola Company,3,Comscore Inc,Microstrategy Inc,,6
-Coca-Cola Company,1,Coca-Cola Company,Reynolds American Inc,,12
-Coca-Cola Company,1,Coca-Cola Company,Hormel Foods Corp,,72
 Pepsico Inc,2,Merck And Co Inc,Amneal Pharmaceuticals Inc,,288
 Pepsico Inc,2,Starbucks Corp,Sabre Corp,,936
-Coca-Cola Company,3,Waste Management Inc,Cit Group Inc,,252
-Coca-Cola Company,3,Principal Financial Group Inc,Punjab National Bank,,24
-Coca-Cola Company,3,Pepsico Inc,Cse Global Ltd,,130
 Pepsico Inc,3,United States Steel Corp,Nucor Corp,,80
 Pepsico Inc,1,Pepsico Inc,Wells Fargo And Company,Corporate,2080
-Coca-Cola Company,1,Coca-Cola Company,Coca Cola Bottling Co Consolidated /De/,,48
-Coca-Cola Company,2,Hormel Foods Corp,Rci Hospitality Holdings Inc,,968
 Pepsico Inc,3,Reynolds American Inc,Msa Safety Inc,,198
 Pepsico Inc,3,Career Education Corp,Wintrust Financial Corp,,60
 Pepsico Inc,2,Metlife Inc,Morningstar Inc,,288
 Pepsico Inc,3,Morningstar Inc,Ubs Group Ag,,2304
-Coca-Cola Company,1,Coca-Cola Company,Keurig Dr Pepper Inc,,24
 Pepsico Inc,3,Merck And Co Inc,White Mountains Insurance Group,,48
 Pepsico Inc,2,Mondelez International Inc,Unilever Nv Ord,,5250
 Pepsico Inc,1,Pepsico Inc,London Stock Exchange Group Plc,Corporate,702
-Goldman Sachs Group Inc,2,Berkshire Hathaway Inc,Sherwin-Williams Company,,288
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Robinhood Markets Inc,Corporate,256
-Jp Morgan Chase And Co,3,Tenet Healthcare Corp,Humana Inc,,35
-Jp Morgan Chase And Co,2,Berkshire Hathaway Inc,Kraft Foods Group Inc,,96
-Goldman Sachs Group Inc,2,Huntsman Corp,Private Bancorp Of America Inc,,12
-Goldman Sachs Group Inc,3,Canadian Pacific Railway Ltd/Cn,Tsr Inc,,245
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,International Business Machines Corp,,663
-Goldman Sachs Group Inc,3,Frontier Communications Corp,Gartner Inc,,65
-Jp Morgan Chase And Co,2,General Dynamics Corp,Chicos Fas Inc,,90
-Alphabet Inc,1,Alphabet Inc,Goldman Sachs Group Inc,,3584
 Pepsico Inc,3,Weight Watchers International Inc,Clorox Company,,56
 Pepsico Inc,2,Conagra Brands Inc,Campbell Soup Company,,6048
 Pepsico Inc,2,Merck And Co Inc,Bayer Ag Ord,,1248
@@ -735,36 +1086,14 @@ Pepsico Inc,3,Sabre Corp,Aluminum Corp Of China Ltd,,1440
 Pepsico Inc,1,Pepsico Inc,Unilever Plc,,643.5
 Pepsico Inc,1,Pepsico Inc,Alexander And Baldwin Inc,Product,234
 Pepsico Inc,3,Microsoft Corp,Oracle Corp,,1644
-Coca-Cola Company,2,General Mills Inc,Annie'S Inc,,108
 Pepsico Inc,3,J M Smucker Co,Dunkin' Brands Group,,40
 Pepsico Inc,1,Pepsico Inc,Thomson Reuters Corp,,104
 Pepsico Inc,2,Merck And Co Inc,Cna Financial Corp,,1296
 Pepsico Inc,2,General Motors Limited,General Motors Financial Company Inc,,396
-Coca-Cola Company,3,Sunpower Corp,Serica Energy Plc,,75
-Coca-Cola Company,1,Coca-Cola Company,National Beverage Corp,,96
-Coca-Cola Company,1,Coca-Cola Company,Freshpet Inc Cs,,48
-Coca-Cola Company,1,Coca-Cola Company,Embotelladora Andina Sa,Transaction,4416
 Pepsico Inc,2,Apollo Global Management Llc,Umb Financial Corp,,120
-Coca-Cola Company,3,Ebay Inc,Amazon Com Inc,,468
-Coca-Cola Company,3,Monster Beverage Corp,Under Armour,,91
-Coca-Cola Company,3,Federal Home Loan Mortgage Corp,Sandp Global Inc,,13824
-Coca-Cola Company,2,Nrg Energy,Rpm International Inc/De/,,75
-Coca-Cola Company,1,Coca-Cola Company,Santander Holdings Usa Inc,Corporate,24
-Coca-Cola Company,1,Coca-Cola Company,Hain Celestial Group Inc,,48
-Coca-Cola Company,1,Coca-Cola Company,Treehouse Foods,,36
-Coca-Cola Company,3,Canadian Pacific Railway Ltd/Cn,Kansas City Southern,,48
-Coca-Cola Company,2,Santander Holdings Usa Inc,Mercantil Bank Holding Corp,,24
-Coca-Cola Company,3,Gain Capital Holdings,Gartner Inc,,4210
-Coca-Cola Company,3,Dollar General Corp,Dollar Tree Inc,,96
 Pepsico Inc,1,Pepsico Inc,Citigroup Inc,,3094
 Pepsico Inc,2,Intercontinental Exchange,Comfort Systems Usa Inc,,36
-Coca-Cola Company,1,Coca-Cola Company,Whitbread Plc [United Kingdom],,288
 Pepsico Inc,1,Pepsico Inc,Kellogg Company,,138.666667
-Coca-Cola Company,2,Campbell Soup Company,Intercontinental Exchange,,228420
-Coca-Cola Company,1,Coca-Cola Company,Chevron Corp,,144
-Coca-Cola Company,2,Brown Forman Corp,Ilg Inc,,48
-Coca-Cola Company,3,Smtc Corp,Ipc Holdings Ltd,,2
-Coca-Cola Company,3,Smtc Corp,Anthem Inc,,16
 Pepsico Inc,1,Pepsico Inc,Vodafone Group Plc,,234
 Pepsico Inc,3,Collier Creek Holdings,Price T Rowe Group Inc,,240
 Pepsico Inc,3,Eastman Kodak Co,Compuware Corp,,6
@@ -772,184 +1101,10 @@ Pepsico Inc,3,Arch Capital Group Ltd,Axis Capital Holdings,,168
 Pepsico Inc,2,United States Steel Corp,Physicians Realty Trust,,200
 Pepsico Inc,2,Jp Morgan Chase And Co,Emc Corp,,714
 Pepsico Inc,1,Pepsico Inc,Pioneer Food Group Ltd,Corporate,175.5
-Coca-Cola Company,1,Coca-Cola Company,Coca Cola Bottling Co Consolidated /De/,SupplyChain,288
-Microsoft Corp,2,Alaska Air Group,Airbus Group Se,,1980
-Alphabet Inc,3,Supervalu Inc,Safeway Inc,,1
-Alphabet Inc,2,Microsoft Corp,Sap Se,,6936
 Pepsico Inc,2,Intercontinental Exchange,Cogent Communications Holdings Inc,Corporate,48
 Pepsico Inc,2,Campbell Soup Company,Hertz Global Holdings Inc,,210
-Microsoft Corp,1,Microsoft Corp,Amex Global Holdings Cv,,420
-Microsoft Corp,1,Microsoft Corp,Red Hat Inc,,120
-Microsoft Corp,1,Microsoft Corp,Vmware Inc,,210
-Alphabet Inc,3,Skyworks Solutions,Advanced Analogic Technologies Inc,,12
-Alphabet Inc,2,Gilead Sciences Inc,Teva Pharmaceutical Industries Ltd,,88
-Alphabet Inc,3,Warner Media Llc,Central European Media Enterprises Ltd,,45
-Microsoft Corp,3,Pepsico Inc,Cse Global Ltd,,130
-Microsoft Corp,3,Eclipse Resources Corp,Bmo Financial Group,,1102
-Alphabet Inc,3,Intel Corp,Taiwan Semiconductor Manufacturing,,192
-Alphabet Inc,1,Alphabet Inc,Amazon Com Inc,,1092
-Alphabet Inc,3,Dcp Midstream Lp,Atmos Energy Corp,,36
-Alphabet Inc,2,Facebook Inc,Google,Communication,1427
-Alphabet Inc,2,Ebay Inc,Goodyear Tire And Rubber Co /Oh/,HumanResources,1296
-Alphabet Inc,3,Dcp Midstream Lp,Williams Companies Inc,,252
-Alphabet Inc,2,Microsoft Corp,Formfactor Inc,,1350
-Alphabet Inc,2,Southern Company,General Electric Company,,5840
-Microsoft Corp,2,Bank Of America Corp,First Republic Bank,,1083
-Alphabet Inc,2,Gilead Sciences Inc,Mckesson Corp,,154
-Alphabet Inc,1,Alphabet Inc,Fitbit Inc,Corporate,2870
-Alphabet Inc,2,Southern Company,Clean Energy Fuels Corp,,330
-Microsoft Corp,1,Microsoft Corp,Activision Blizzard,Communication,4725
-Microsoft Corp,2,Symantec Corp,Tsr Inc,,216
-Microsoft Corp,1,Microsoft Corp,Cisco Systems Inc,,480
-Alphabet Inc,3,Salesforce Com Inc,Axon Enterprise Inc,,56
-Alphabet Inc,2,Bank Of New York Mellon Corp,Associated Capital Group Inc,,26
-Alphabet Inc,1,Alphabet Inc,Baidu Inc,,182
-Alphabet Inc,3,Federal National Mortgage Association,Credit Suisse Group,,1872
-Coca-Cola Company,3,Wells Fargo And Company,Mastercard Inc,,3474
-Alphabet Inc,1,Alphabet Inc,Google,HumanResources,42
-Coca-Cola Company,3,Overseas Shipholding Group Inc,Sterling Bancorp Inc,,126
-Microsoft Corp,3,Nvidia Corp,Baidu Inc,,143
-Alphabet Inc,3,Cardinal Health Inc,Ppg Industries Inc,,49
-Alphabet Inc,2,Altaba Inc,Surmodics Inc,,75
-Alphabet Inc,3,Formfactor Inc,Bruker Corp,,9
-Alphabet Inc,2,Southern Company,Pnc Financial Services Group Inc,,748
-Alphabet Inc,2,Altaba Inc,Cognizant Technology Solutions Corp,,225
-Alphabet Inc,3,Change Healthcare Holdings Inc,Eastman Chemical Company,,42
-Microsoft Corp,3,Nvidia Corp,Life Storage,,66
-Microsoft Corp,1,Microsoft Corp,Glaxosmithkline Plc,Political,180
-Microsoft Corp,1,Microsoft Corp,Oci Partners Lp,,60
-Microsoft Corp,3,Middlesex Water Co,First Mortgage Bonds,,6
-Microsoft Corp,2,Cisco Systems Inc,Belden Inc,,192
-Microsoft Corp,2,Facebook Inc,Sonoma Pharmaceuticals Inc,,108
-Microsoft Corp,1,Microsoft Corp,Hewlett Packard Enterprise Comp,,270
-Microsoft Corp,3,Aon Plc,Hertz Global Holdings Inc,,426
-Microsoft Corp,2,Symantec Corp,Digital River Inc /De,,24
-Microsoft Corp,1,Microsoft Corp,Gap Inc,,120
-Microsoft Corp,3,Cisco Systems Inc,Wipro Ltd,,252
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Pimco Dynamic Credit Income Fun,,5508
-Microsoft Corp,3,American Airlines Group Inc,Japan Airlines,,1600
-Alphabet Inc,3,Paypal Holdings,Jp Morgan Chase And Co,,19278
-Microsoft Corp,2,Dell Inc,Capstead Mortgage Corp,,55
-Microsoft Corp,2,Hp Inc,Oracle Corp,,68172
-Alphabet Inc,3,Salesforce Com Inc,Univar Usa Inc,,64
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Reata Pharmaceuticals Inc,Corporate,288
-Jp Morgan Chase And Co,3,Estee Lauder Companies Inc,Coty Inc,,42
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Fair Isaac Corp,,663
-Jp Morgan Chase And Co,3,Lions Gate Entertainment Corp /Cn/,Curtiss-Wright Corp,,72
-Alphabet Inc,2,Network 1 Technologies Inc,Microsemi Corp,,24
-Alphabet Inc,1,Alphabet Inc,Gilead Sciences Inc,,616
-Goldman Sachs Group Inc,3,Chase Corp,Rogers Communications Inc,,24
-Goldman Sachs Group Inc,2,Maiden Holdings Ltd,European Equity Fund,,1350
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Adeptus Health Inc,,176
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Cbs Corp,,1428
-Jp Morgan Chase And Co,2,Msa Safety Inc,Fastenal Co,,72
-Jp Morgan Chase And Co,3,Nasdaq Inc,London Stock Exchange Group Plc,,1566
-Jp Morgan Chase And Co,2,Federal National Mortgage Association,Mci Inc,,216
-Goldman Sachs Group Inc,2,Natera Inc,Myriad Genetics Inc,,60
-Goldman Sachs Group Inc,2,Bright Health Inc,London Stock Exchange Group Plc,,10170
-Goldman Sachs Group Inc,3,Perrigo Company Public Limited Company,Dollar General Corp,,48
-Goldman Sachs Group Inc,3,Spartan Motors Inc,Standard Motor Products Inc,,18
-Goldman Sachs Group Inc,2,Nn Inc,Regions Financial Corp,,416
-Goldman Sachs Group Inc,3,Corelogic,Mgic Investment Corp,,10
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Peerstream Inc,Corporate,112
-Jp Morgan Chase And Co,3,Corcept Therapeutics Inc,Sun Pharmaceutical Industries Inc,Legal,90
-Goldman Sachs Group Inc,2,Vroom Inc,Chase Corp,,24
 Pepsico Inc,3,Arch Capital Group Ltd,Watford Holdings Ltd,Communication,336
-Microsoft Corp,2,Intercontinental Exchange,Thomson Reuters Corp,,144
-Alphabet Inc,1,Alphabet Inc,Yandex Nv,,84
-Alphabet Inc,3,Formfactor Inc,Startek Inc,,6
-Alphabet Inc,3,United Technologies Corp,Lockheed Martin Corp,,363
-Alphabet Inc,1,Alphabet Inc,Netflix Inc,,154
-Alphabet Inc,3,Crown Castle International Corp,Hrg Group Inc,,70
-Alphabet Inc,2,Sandp Global Inc,Cme Group Inc,Transaction,3080
-Alphabet Inc,1,Alphabet Inc,The Walt Disney Co,,336
-Coca-Cola Company,2,Flowers Foods Inc,Oxford Bank Corp,,9
-Coca-Cola Company,2,Jp Morgan Chase And Co,Federal Home Loan Mortgage Corp,,72436
-Alphabet Inc,2,Abbvie Inc,Neurocrine Biosciences Inc,,420
-Alphabet Inc,1,Alphabet Inc,Transalta Corp,Transaction,11760
-Microsoft Corp,1,Microsoft Corp,Salesforce Com Inc,,840
-Microsoft Corp,3,Hsbc Holdings Plc,Standard Bank Group Ltd,,288
-Microsoft Corp,3,Alliance Data Systems Corp,Regions Financial Corp,,312
-Microsoft Corp,3,Sprint Corp,Virgin Mobile Usa Inc,,132
-Goldman Sachs Group Inc,2,Goodrich Petroleum Corp,Cms Energy Corp,,44
-Jp Morgan Chase And Co,3,Msci Inc,Evolent Health Inc,,45
-Jp Morgan Chase And Co,3,Morningstar Inc,Euronext Nv,,140
-Goldman Sachs Group Inc,2,Huntsman Corp,Icon Plc,,72
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Alnylam Pharmaceuticals Inc,Corporate,640
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Sunedison Inc,,1728
-Alphabet Inc,3,Avaya Inc,Gartner Inc,,125
-Microsoft Corp,1,Microsoft Corp,Bank Of New York Mellon Corp,,2925
-Microsoft Corp,2,Hp Inc,Intel Corp,,2720
-Microsoft Corp,1,Microsoft Corp,Federal National Mortgage Association,,540
-Microsoft Corp,3,Tsr Inc,Barnwell Industries Inc,,2
-Microsoft Corp,3,Enterprise Products Partners L P,Alon Usa Energy Inc,,10
-Microsoft Corp,3,Ilg Inc,Rci Hospitality Holdings Inc,,104
-Microsoft Corp,2,Apache Corp,Special Opportunities Fund Inc,,80
-Jp Morgan Chase And Co,3,Perkinelmer Inc,Honeywell International Inc,,348
-Jp Morgan Chase And Co,3,Canadian Pacific Railway Ltd/Cn,Air Products And Chemicals Inc /De/,Communication,672
-Jp Morgan Chase And Co,2,Sandp Global Inc,Verisk Analytics Inc,,216
-Jp Morgan Chase And Co,2,Cbs Corp,Bp Plc,,224
-Alphabet Inc,3,Avaya Inc,Apple Inc,,8840
-Alphabet Inc,1,Alphabet Inc,Oci Partners Lp,,14
-Alphabet Inc,3,Caterpillar Inc,Rps Group Plc,,246
-Goldman Sachs Group Inc,2,Wandt Offshore Inc,Noble Energy Inc,,64
-Jp Morgan Chase And Co,2,Chase Corp,Rpm International Inc/De/,,24
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Snap Inc,,512
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Bank Of America Corp,,1824
-Goldman Sachs Group Inc,3,Agios Pharmaceuticals Inc,Genentech Inc,,10
-Goldman Sachs Group Inc,2,Cbs Corp,Allied Capital Corp,,56
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Huntsman Corp,Corporate,448
-Goldman Sachs Group Inc,3,Canadian Pacific Railway Ltd/Cn,Genesee And Wyoming Inc,,24
-Goldman Sachs Group Inc,2,Intercontinental Exchange,Coinbase Global Inc,Corporate,816
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Berkshire Hathaway Inc,,11832
-Goldman Sachs Group Inc,2,Alnylam Pharmaceuticals Inc,Dna Brands Inc,,48
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Agco Corp,Corporate,19648
-Jp Morgan Chase And Co,2,General Dynamics Corp,Hlth Corp,,9
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Coastal Financial Corp,Communication,19584
-Jp Morgan Chase And Co,3,Pepsico Inc,Arc Group Inc,,26
-Jp Morgan Chase And Co,3,Mgic Investment Corp,Federal National Mortgage Association,,9828
-Jp Morgan Chase And Co,2,Oasis Petroleum Inc,Cross Country Healthcare Inc,,250
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Altice,Corporate,2986.666667
-Jp Morgan Chase And Co,3,Emergent Biosolutions,United Therapeutics Corp,,16
-Jp Morgan Chase And Co,3,Cbs Corp,Allied Capital Corp,,28
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Starbucks Corp,,1326
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Marcus Corp,,1408
-Goldman Sachs Group Inc,2,Uber Technologies Inc,Lyft Inc,,3510
-Goldman Sachs Group Inc,3,Tesla Inc,Jp Morgan Chase And Co,,15300
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Level Brands Inc,,128
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Uber Technologies Inc,,8960
-Goldman Sachs Group Inc,2,Berkshire Hathaway Inc,Kraft Heinz Co,,9936
-Goldman Sachs Group Inc,3,Equitable Holdings Llc,Julius Baer Group,,42
-Jp Morgan Chase And Co,3,Comcast Corp A,Dreamworks Animation Llc,Corporate,660
-Goldman Sachs Group Inc,2,Altice,Frontier Communications Corp,,3024
-Goldman Sachs Group Inc,2,Bright Health Inc,Centene Corp,,36
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Sunedison Inc,Corporate,768
-Goldman Sachs Group Inc,2,Franklin Financial Network Inc,Civitas Bankgroup Inc,,4
 Pepsico Inc,3,Allstate Corp,Onemain Holdings Inc,,46
-Alphabet Inc,2,Sandp Global Inc,Quanta Services Inc,,450
-Coca-Cola Company,3,Overseas Shipholding Group Inc,Impinj Inc,,15
-Alphabet Inc,3,Cardinal Health Inc,Icu Medical Inc/De,,42
-Goldman Sachs Group Inc,2,Bank Of America Corp,Advance Auto Parts Inc,,2280
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Sandp Global Inc,,7200
-Goldman Sachs Group Inc,2,Uber Technologies Inc,Tesla Inc,,1400
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Lucid Inc,,32
-Goldman Sachs Group Inc,3,Dish Network Corp,Dte Energy Co,,11220
-Jp Morgan Chase And Co,3,Equifax Inc,Earthlink Holdings Llc,,6
-Jp Morgan Chase And Co,3,Qep Resources,Ultra Petroleum Corp,,6
-Jp Morgan Chase And Co,3,Cbs Corp,Netflix Inc,,1276
-Goldman Sachs Group Inc,2,Nn Inc,Kaman Corp,,48
-Jp Morgan Chase And Co,2,Bank Of America Corp,Ust Inc,,114
-Coca-Cola Company,3,Mondelez International Inc,Kennametal Inc,,80
-Coca-Cola Company,3,Nci Inc,Northrop Grumman Corp,,9
-Coca-Cola Company,1,Coca-Cola Company,Applied Biosystems Inc,,216
-Coca-Cola Company,3,Broadcom Ltd,Finisar Corp,,27
-Coca-Cola Company,1,Coca-Cola Company,Bank Of America Corp,Corporate,1026
-Coca-Cola Company,3,Sunpower Corp,Archer Daniels Midland Co,,216
-Coca-Cola Company,3,Exxon Mobil Corp,White Mountains Insurance Group,,72
-Coca-Cola Company,1,Coca-Cola Company,Coca Cola Femsa Sab De Cv,,252
-Coca-Cola Company,1,Coca-Cola Company,Beyond Meat Inc,,96
-Coca-Cola Company,2,Flowers Foods Inc,Lancaster Colony Corp,,99
-Coca-Cola Company,1,Coca-Cola Company,Innovate Biopharmaceuticals Inc,,60
 Pepsico Inc,3,Physicians Realty Trust,News Corp,,52
 Pepsico Inc,1,Pepsico Inc,Jp Morgan Chase And Co,Corporate,3978
 Pepsico Inc,2,Merck And Co Inc,Astellas Pharma Inc,,384
@@ -959,22 +1114,7 @@ Pepsico Inc,3,First Solar Inc,Apple Inc,,9295
 Pepsico Inc,1,Pepsico Inc,Spark Ltd,,117
 Pepsico Inc,2,General Motors Limited,Public Storage,,990
 Pepsico Inc,3,Ford Motor Company,Focus Financial Partners Inc,,144
-Coca-Cola Company,3,Xl Group Ltd,Markel Corp,,108
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Bank Of America Corp,,8721
-Microsoft Corp,3,Red Hat Inc,Netapp Inc,,135
-Microsoft Corp,1,Microsoft Corp,Eclipse Resources Corp,,150
 Pepsico Inc,1,Pepsico Inc,Tesco Plc,,520
-Goldman Sachs Group Inc,2,Federal National Mortgage Association,Philip Morris International Inc,,2916
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Deutsche Bank,,17901
-Jp Morgan Chase And Co,3,Intercontinental Exchange,Bnp Paribas,,168
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Tencent Music Entertainment Group,,256
-Goldman Sachs Group Inc,3,Navistar International Corp,Citigroup Inc,,504
-Goldman Sachs Group Inc,2,Barnes Group Inc,General Electric Company,,12360
-Goldman Sachs Group Inc,2,Alnylam Pharmaceuticals Inc,Astrazeneca Plc,,312
-Jp Morgan Chase And Co,2,Smtc Corp,Jabil Inc,,30
-Goldman Sachs Group Inc,2,Altice,Dish Network Corp,,2664
-Jp Morgan Chase And Co,2,Federal National Mortgage Association,Tenet Healthcare Corp,,1080
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,First Republic Bank,,9690
 Pepsico Inc,3,Caesars Entertainment Corp,Kerzner International Ltd,,2
 Pepsico Inc,2,Bank Of New York Mellon Corp,Magellan Health Inc,,1365
 Pepsico Inc,1,Pepsico Inc,Citigroup Inc,Corporate,2730
@@ -993,40 +1133,13 @@ Pepsico Inc,1,Pepsico Inc,Metlife Inc,,195
 Pepsico Inc,1,Pepsico Inc,Hertz Global Holdings Inc,,312
 Pepsico Inc,3,Alon Usa Energy Inc,Valero Energy Corp/Tx,,2898
 Pepsico Inc,1,Pepsico Inc,Merck And Co Inc,,312
-Coca-Cola Company,3,Sunpower Corp,Cypress Semiconductor Corp /De/,,280
-Coca-Cola Company,1,Coca-Cola Company,Kraft Heinz Co,,216
-Coca-Cola Company,1,Coca-Cola Company,Citigroup Inc,Corporate,504
-Coca-Cola Company,1,Coca-Cola Company,Twitter Inc,,300
-Coca-Cola Company,1,Coca-Cola Company,Darling Ingredients Inc,,48
-Coca-Cola Company,2,Lamb Weston Holdings Inc,Sunedison Inc,,80
 Pepsico Inc,1,Pepsico Inc,Merck Kgaa,,156
 Pepsico Inc,3,Exela Technologies Inc,Evertec Inc,,20
-Coca-Cola Company,3,Seacor Holdings Inc /New/,Verint Systems Inc,,15
-Coca-Cola Company,1,Coca-Cola Company,Campbell Soup Company,,84
-Coca-Cola Company,3,Twitter Inc,Linkedin Corp,,42
-Coca-Cola Company,1,Coca-Cola Company,Kirin Holdings Co Ltd,,60
-Coca-Cola Company,1,Coca-Cola Company,Unilever Nv Ord,,180
-Coca-Cola Company,3,Norfolk Southern Corp,Penn National Gaming Inc,,168
 Pepsico Inc,1,Pepsico Inc,Pioneer Food Group Ltd,,65
-Coca-Cola Company,1,Coca-Cola Company,Coca-Cola European Partners Plc,SupplyChain,864
-Coca-Cola Company,1,Coca-Cola Company,Coca-Cola European Partners Plc,Corporate,810
-Coca-Cola Company,2,Santander Holdings Usa Inc,Canadian Pacific Railway Ltd/Cn,,918
-Coca-Cola Company,3,Plains All American Pipeline Lp,California Resources Corp,,12
-Coca-Cola Company,1,Coca-Cola Company,Post Holdings Inc,,60
-Coca-Cola Company,1,Coca-Cola Company,Coca-Cola Bottlers Japan Holdings Inc,,160
-Coca-Cola Company,3,Broadcom Ltd,Crowdstrike Holdings Inc,,36
-Coca-Cola Company,2,Adobe Inc,Comscore Inc,,20
-Coca-Cola Company,2,Molson Coors Brewing Co,Macatawa Bank Corp,,1968
 Pepsico Inc,3,Collier Creek Holdings,Pinnacle Foods Inc,Corporate,158
 Pepsico Inc,1,Pepsico Inc,Starbucks Corp,,1081.6
 Pepsico Inc,1,Pepsico Inc,Mondelez International Inc,,130
 Pepsico Inc,2,Ltc Properties Inc,Trimas Corp,,180
-Coca-Cola Company,1,Coca-Cola Company,Barclays Plc,Corporate,168
-Coca-Cola Company,1,Coca-Cola Company,Monster Beverage Corp,,308
-Coca-Cola Company,1,Coca-Cola Company,Coca Cola Femsa Sab De Cv,Corporate,2604
-Coca-Cola Company,1,Coca-Cola Company,Facebook Inc,,360
-Coca-Cola Company,1,Coca-Cola Company,Fomento Economico Mexicano Sab De Cv,Corporate,8928
-Coca-Cola Company,1,Coca-Cola Company,City Office Reit Inc,,36
 Pepsico Inc,3,Apple Inc,Skyworks Solutions,,78
 Pepsico Inc,1,Pepsico Inc,Coca-Cola Company,,546
 Pepsico Inc,1,Pepsico Inc,Dr Pepper Snapple Group Inc,,227.5
@@ -1034,169 +1147,9 @@ Pepsico Inc,1,Pepsico Inc,Bnp Paribas,Corporate,546
 Pepsico Inc,3,Prudential Financial Inc,Vanguard Group,,52632
 Pepsico Inc,1,Pepsico Inc,Walmart Inc,Transaction,1287
 Pepsico Inc,3,Trimas Corp,Metaldyne Performance Group Inc,,3
-Coca-Cola Company,2,Equifax Inc,Automatic Data Processing Inc,,144
-Coca-Cola Company,2,Citigroup Inc,Home Depot Inc,,924
 Pepsico Inc,1,Pepsico Inc,Ltc Properties Inc,Communication,65
 Pepsico Inc,2,Coca-Cola Company,Hain Celestial Group Inc,,192
-Coca-Cola Company,2,Jefferies Financial Group Inc,Lam Research Corp,,288
-Microsoft Corp,1,Microsoft Corp,Alaska Air Group,,75
-Microsoft Corp,3,Pegasystems Inc,Cognizant Technology Solutions Corp,,45
-Microsoft Corp,2,Red Hat Inc,Nokia Corp,,1216
-Microsoft Corp,1,Microsoft Corp,Bmc Software Inc,,15
-Alphabet Inc,3,Dcp Midstream Lp,Prgx Global Inc,,21
-Alphabet Inc,1,Alphabet Inc,Alibaba Group Holding Ltd,,154
-Alphabet Inc,3,Cme Group Inc,Nyse Euronext,,36
-Alphabet Inc,3,Dell Inc,Royal Dutch Shell,,319
-Alphabet Inc,3,Apollo Global Management Llc,Ciner Resources Lp,,20
-Alphabet Inc,2,Oci Partners Lp,Intercontinental Exchange,,18048
-Alphabet Inc,2,Gilead Sciences Inc,Mid America Apartment Communities Inc,,132
-Alphabet Inc,2,Altaba Inc,Hortonworks,,1125
-Alphabet Inc,3,Skyworks Solutions,Lawson Software Inc,,12
-Alphabet Inc,2,Twitter Inc,Shopify Inc,,350
-Coca-Cola Company,3,Plains All American Pipeline Lp,Energy World Corp Ltd,,6
-Coca-Cola Company,1,Coca-Cola Company,Whitbread Plc [United Kingdom],Transaction,504
-Microsoft Corp,2,Bank Of America Corp,Countrywide Plc,,1710
-Microsoft Corp,1,Microsoft Corp,Mcafee Inc,,60
-Coca-Cola Company,2,Monster Beverage Corp,Coca-Cola European Partners Plc,,2646
-Alphabet Inc,2,Network 1 Technologies Inc,Avaya Inc,,36
-Alphabet Inc,1,Alphabet Inc,Illumina Inc,,84
-Alphabet Inc,2,Ebay Inc,Mercadolibre Inc,Transaction,2880
-Alphabet Inc,2,Southern Company,Benchmark Electronics Inc,,176
-Alphabet Inc,2,Apple Inc,American Apparel Inc,,260
-Alphabet Inc,1,Alphabet Inc,Network 1 Technologies Inc,,252
-Microsoft Corp,3,Enterprise Products Partners L P,Marubeni Corp,,40
-Microsoft Corp,1,Microsoft Corp,Oracle Corp,,1440
-Microsoft Corp,1,Microsoft Corp,Activision Blizzard,Corporate,1890
-Microsoft Corp,3,Pegasystems Inc,Appian Corp,,25
-Microsoft Corp,2,Dell Inc,Simulations Plus Inc,,66
-Microsoft Corp,2,Adobe Inc,Pegasystems Inc,,150
-Microsoft Corp,2,Hp Inc,John Hancock Preferred,,121
-Microsoft Corp,3,Spirit Aerosystems Holdings,Spx Corp,,16
-Microsoft Corp,1,Microsoft Corp,Sandp Global Inc,,2025
-Microsoft Corp,2,Alaska Air Group,American Airlines Group Inc,,1780
-Microsoft Corp,3,Hsbc Holdings Plc,Huntington Ingalls Industries,,285
-Microsoft Corp,2,Hp Inc,Canon Inc,,2376
-Alphabet Inc,3,Supervalu Inc,Shopify Inc,Transaction,56
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Sumitomo Mitsui Financial Group Inc,,2232
-Jp Morgan Chase And Co,2,Starbucks Corp,Kimberly-Clark Corp,,117
-Jp Morgan Chase And Co,2,Oci Partners Lp,Exxon Mobil Corp,,36
-Jp Morgan Chase And Co,2,Coastal Financial Corp,Fiserv Inc,,56
-Goldman Sachs Group Inc,2,Wandt Offshore Inc,Qep Resources,,24
-Coca-Cola Company,1,Coca-Cola Company,Coca-Cola Amatil Ltd,Corporate,2016
-Alphabet Inc,2,Southern Company,Duke Energy Corp,Corporate,2431
-Alphabet Inc,3,Clean Energy Fuels Corp,Starbucks Corp,,442
-Microsoft Corp,2,Amex Global Holdings Cv,Standard Chartered Plc,,5040
-Microsoft Corp,3,Comscore Inc,Adobe Inc,,20
-Microsoft Corp,3,Eclipse Resources Corp,Talos Petroleum Llc,,10
-Jp Morgan Chase And Co,2,Agilent Technologies Inc,Credit Suisse Group,,7046
-Jp Morgan Chase And Co,3,Fifth Third Bancorp,Credit Suisse Group,,572
-Jp Morgan Chase And Co,2,Federal National Mortgage Association,Msci Inc,,1715
-Alphabet Inc,3,Entergy Corp,Berkshire Hathaway Inc,,160
-Alphabet Inc,3,Glu Mobile Inc,Global Equity International Inc,,10
-Alphabet Inc,2,Verizon Communications Inc,Reckitt Benckiser,,520
-Goldman Sachs Group Inc,3,Marriott International Inc /Md/,Marriott Vacations Worldwide Corp,,32
-Goldman Sachs Group Inc,3,Advance Auto Parts Inc,O Reilly Automotive Inc,,35
-Jp Morgan Chase And Co,3,Maiden Holdings Ltd,Partnerre Ltd,,144
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Agilent Technologies Inc,,357
-Goldman Sachs Group Inc,3,Sherwin-Williams Company,Sika Ag,,72
-Goldman Sachs Group Inc,2,Discovery Comm Inc,Lions Gate Entertainment Corp /Cn/,,150
-Goldman Sachs Group Inc,3,General Electric Company,London Stock Exchange Group Plc,,1458
-Jp Morgan Chase And Co,3,Dominion Energy Inc,Nrg Energy,,405
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Pimco Dynamic Credit Income Fun,Corporate,832
-Jp Morgan Chase And Co,2,Moodys Corp /De/,Pearson Plc,,147
-Jp Morgan Chase And Co,3,Comcast Corp A,Verizon Communications Inc,,767
-Goldman Sachs Group Inc,3,Matador Resources Co,Goodrich Petroleum Corp,,12
-Jp Morgan Chase And Co,3,Mgic Investment Corp,Suntrust Banks Inc,,405
-Alphabet Inc,3,Cme Group Inc,Sandp Global Inc,,8406
-Goldman Sachs Group Inc,2,Sandp Global Inc,Pearson Plc,,630
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Moodys Corp /De/,Corporate,2499
-Jp Morgan Chase And Co,3,Dominion Energy Inc,Toshiba Corp,,550
-Jp Morgan Chase And Co,2,Sandp Global Inc,Estee Lauder Companies Inc,,252
-Goldman Sachs Group Inc,3,Microsoft Corp,Altaba Inc,,500
-Goldman Sachs Group Inc,2,Bank Of New York Mellon Corp,Tsr Inc,,99
-Alphabet Inc,3,Intel Corp,Ebay Inc,,1260
-Coca-Cola Company,3,Acuity Brands Inc,Zep Inc,,12
-Alphabet Inc,3,Avaya Inc,Imperva Inc,,2
-Alphabet Inc,3,Polycom Inc,Hon Hai Precision Industry Co Ltd,,343
-Alphabet Inc,3,Intercontinental Exchange,Blackbaud Inc,,174
-Alphabet Inc,1,Alphabet Inc,Transalta Corp,Corporate,8120
-Alphabet Inc,3,Aol Inc,Alliance Data Systems Corp,,6
-Microsoft Corp,2,Emc Corp,Korn Ferry International,,4
-Microsoft Corp,3,Cme Group Inc,Societe Generale,,144
-Microsoft Corp,2,Hewlett Packard Enterprise Comp,Zipcar Inc,,12
-Microsoft Corp,2,Vmware Inc,Apple Inc,,17784
-Microsoft Corp,3,Comscore Inc,Iheartmedia Inc,,2
-Alphabet Inc,2,Amazon Com Inc,Kelly Services Inc,,234
-Microsoft Corp,3,Symantec Corp,United Continental Holdings,,696
-Coca-Cola Company,1,Coca-Cola Company,Lamb Weston Holdings Inc,,60
-Alphabet Inc,3,Dell Inc,Marathon Oil Corp,,165
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Didi Global Inc,Corporate,128
-Goldman Sachs Group Inc,3,Mastercard Inc,Hess Corp,,63
-Jp Morgan Chase And Co,3,Corcept Therapeutics Inc,Ironwood Pharmaceuticals Inc,,30
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Federal Home Loan Mortgage Corp,,15249
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Zimmer Biomet Holdings,,571.2
-Alphabet Inc,3,Ares Capital Corp,General Electric Company,,5440
-Alphabet Inc,3,Garrett Motion Inc,Lear Corp,,72
-Alphabet Inc,3,Pfizer Inc,Springworks Therapeutics Inc,,54
-Alphabet Inc,2,Atandt Inc,Lloyds Banking Group Plc,,1596
-Alphabet Inc,2,Microsoft Corp,Salesforce Com Inc,,4464
-Alphabet Inc,3,Ihs Markit Ltd,Blackrock Group Limited,,1456
-Alphabet Inc,3,Apollo Global Management Llc,Lyondellbasell Industries Nv,,140
-Alphabet Inc,2,Booking Holdings Inc,Ctrip Com International Ltd,,110
-Jp Morgan Chase And Co,2,Agilent Technologies Inc,Hp Inc,,2618
-Goldman Sachs Group Inc,3,Perrigo Company Public Limited Company,Sanofi Sa,,84
-Goldman Sachs Group Inc,2,Peerstream Inc,Facebook Inc,,768
-Goldman Sachs Group Inc,2,Venator Materials Plc,White Mountain Titanium Corp,,6
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Franklin Financial Network Inc,,306
-Jp Morgan Chase And Co,3,Fidelity National Financial,Stewart Information Services Corp,,24
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Uber Technologies Inc,Corporate,1866.666667
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Intercontinental Exchange,,4800
-Goldman Sachs Group Inc,3,Msci Inc,Imi Plc Ord,,20
-Goldman Sachs Group Inc,2,Reata Pharmaceuticals Inc,Kalvista Pharmaceuticals Inc,,6
-Jp Morgan Chase And Co,2,Agilent Technologies Inc,Dna Brands Inc,,21
-Jp Morgan Chase And Co,2,Agilent Technologies Inc,Bruker Corp,,63
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Visa Inc,,8789
-Goldman Sachs Group Inc,2,Valeant Pharmaceuticals International Inc,Glaxosmithkline Plc,,324
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Allstate Corp,,2944
-Jp Morgan Chase And Co,3,Crown Castle International Corp,T-Mobile Us,,1260
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Maiden Holdings Ltd,Communication,8262
-Jp Morgan Chase And Co,3,Msci Inc,Cme Group Inc,,40
-Jp Morgan Chase And Co,2,Intercontinental Exchange,Coinbase Global Inc,Corporate,918
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Berkshire Hathaway Inc,Transaction,12288
-Goldman Sachs Group Inc,2,Alnylam Pharmaceuticals Inc,Agios Pharmaceuticals Inc,,120
-Goldman Sachs Group Inc,3,Noble Energy Inc,Plains All American Pipeline Lp,,936
-Goldman Sachs Group Inc,2,Federal National Mortgage Association,Workiva Inc,,108
-Goldman Sachs Group Inc,3,Seritage Growth Properties,Jp Morgan Chase And Co,,35190
-Goldman Sachs Group Inc,3,Alphabet Inc,Altaba Inc,,150
-Goldman Sachs Group Inc,2,Wandt Offshore Inc,Westlake Chemical Corp,,80
-Jp Morgan Chase And Co,2,Moodys Corp /De/,Fiserv Inc,,147
-Jp Morgan Chase And Co,2,Federal National Mortgage Association,Command Security Corp,,216
-Jp Morgan Chase And Co,3,Dominion Energy Inc,Agilent Technologies Inc,,63
-Jp Morgan Chase And Co,2,Moodys Corp /De/,Morningstar Inc,,3348
-Goldman Sachs Group Inc,2,Alnylam Pharmaceuticals Inc,Exela Technologies Inc,,2400
-Goldman Sachs Group Inc,3,Exela Technologies Inc,Harley Davidson Inc,,64
-Goldman Sachs Group Inc,3,Centene Corp,Harte Hanks Inc,,18
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Fair Isaac Corp,Communication,3200
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Berkshire Hathaway Inc,,12800
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Vereit Inc,,1428
 Pepsico Inc,3,Ford Motor Company,Singapore Exchange Ltd,,108
-Goldman Sachs Group Inc,2,Navistar International Corp,Paccar Inc,,96
-Goldman Sachs Group Inc,3,Microsoft Corp,Vmware Inc,,420
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Xp Inc,Corporate,208
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Iqiyi Inc,,384
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Marcus Corp,Corporate,384
-Alphabet Inc,1,Alphabet Inc,Network Cn Inc,,14
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Intercontinental Exchange,,7221.6
-Goldman Sachs Group Inc,3,Ness Technologies Inc,Elbit Systems Ltd,,3
-Coca-Cola Company,2,Equifax Inc,Acuity Brands Inc,,48
-Coca-Cola Company,2,Citigroup Inc,Ebay Inc,,1008
-Coca-Cola Company,1,Coca-Cola Company,Brown Forman Corp,,144
-Coca-Cola Company,2,Nrg Energy,Sunpower Corp,,375
-Coca-Cola Company,3,United Natural Foods Inc,Supervalu Inc,,10
-Coca-Cola Company,2,Us Foods Holding Corp,Principal Financial Group Inc,,324
-Coca-Cola Company,3,Sunpower Corp,Deutsche Bank,,4342
-Coca-Cola Company,1,Coca-Cola Company,Pinnacle Foods Inc,,12
-Coca-Cola Company,2,Equifax Inc,Cra International,,2262
 Pepsico Inc,2,Atandt Inc,Digital Realty Trust,,2520
 Pepsico Inc,2,United States Steel Corp,Coastal Contacts Inc,,70
 Pepsico Inc,2,Visa Inc,Mastercard Inc,,52830
@@ -1205,17 +1158,6 @@ Pepsico Inc,3,Mastercard Inc,Switch Inc,,72
 Pepsico Inc,2,Metlife Inc,Sun Life Financial Inc,,270
 Pepsico Inc,2,Boston Beer Co Inc,Weight Watchers International Inc,,64
 Pepsico Inc,1,Pepsico Inc,Chicos Fas Inc,,520
-Goldman Sachs Group Inc,3,Chase Corp,American Biltrite Inc,,4
-Goldman Sachs Group Inc,2,Franklin Financial Network Inc,Fedex Corp,,22
-Jp Morgan Chase And Co,3,Hp Inc,Rockwell Automation Inc,,77
-Jp Morgan Chase And Co,3,Equifax Inc,Harte Hanks Inc,,18
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Ennis Inc,,408
-Jp Morgan Chase And Co,3,Kelly Services Inc,Goodyear Tire And Rubber Co /Oh/,,468
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Brightsphere Investment Group Inc,Corporate,816
-Goldman Sachs Group Inc,2,Snap Inc,Alphabet Inc,,28938
-Jp Morgan Chase And Co,2,Maiden Holdings Ltd,Lattice Semiconductor Corp,,360
-Jp Morgan Chase And Co,3,Corelogic,Alliance Data Systems Corp,,12
-Jp Morgan Chase And Co,2,Oasis Petroleum Inc,Wandt Offshore Inc,,336
 Pepsico Inc,2,Hertz Global Holdings Inc,Alamo Group Inc,,24
 Pepsico Inc,2,Ltc Properties Inc,Prudential Financial Inc,Corporate,80
 Pepsico Inc,2,Monster Beverage Corp,Halcon Resources Corp,,168
@@ -1230,45 +1172,14 @@ Pepsico Inc,3,Exela Technologies Inc,Caesars Acquisition Co,,4
 Pepsico Inc,1,Pepsico Inc,Royal Dutch Shell,,377
 Pepsico Inc,1,Pepsico Inc,Sandp Global Inc,,2035.8
 Pepsico Inc,2,General Electric Company,Baker Hughes A Ge Co,,2016
-Coca-Cola Company,1,Coca-Cola Company,Deutsche Bank,,4368
-Coca-Cola Company,1,Coca-Cola Company,Archer Daniels Midland Co,,96
-Coca-Cola Company,1,Coca-Cola Company,Tyson Foods Inc,,84
-Coca-Cola Company,2,Coca Cola Bottling Co Consolidated /De/,Commonwealth Bank Of Australia,,1472
 Pepsico Inc,2,Atandt Inc,Icc Holdings Inc,,70
-Coca-Cola Company,3,Comscore Inc,Petmed Express Inc,,12
-Coca-Cola Company,1,Coca-Cola Company,Hershey Co,,84
-Coca-Cola Company,3,Dean Foods Co,Morningstar Inc,,424
-Coca-Cola Company,3,Oracle Corp,Salesforce Com Inc,,768
-Coca-Cola Company,3,Seacor Holdings Inc /New/,Bp Plc,,2272
-Coca-Cola Company,3,Broadcom Ltd,Ca Inc,,288
-Coca-Cola Company,1,Coca-Cola Company,Linkedin Corp,,60
 Pepsico Inc,2,Citigroup Inc,Smtc Corp,,5496
 Pepsico Inc,1,Pepsico Inc,Essa Bancorp Inc,Transaction,299
-Coca-Cola Company,3,Norfolk Southern Corp,Csx Corp,,320
-Coca-Cola Company,1,Coca-Cola Company,Pepsico Inc,,312
-Coca-Cola Company,2,Flowers Foods Inc,Hostess Brands Inc,,216
-Coca-Cola Company,1,Coca-Cola Company,Boston Beer Co Inc,,48
-Coca-Cola Company,3,Ilg Inc,Liberty Broadband Corp,,6
-Coca-Cola Company,1,Coca-Cola Company,Nrg Energy,Transaction,540
-Coca-Cola Company,3,Plains All American Pipeline Lp,Vulcan Intl Cp,,6
 Pepsico Inc,2,Apollo Global Management Llc,Republic Services,,120
-Coca-Cola Company,2,Hain Celestial Group Inc,United Natural Foods Inc,,60
-Coca-Cola Company,2,Freshpet Inc Cs,World Fuel Services Corp,,8
-Coca-Cola Company,3,Dover Corp,Rockwell Automation Inc,,42
-Coca-Cola Company,2,Nrg Energy,Dynegy Inc,,150
 Pepsico Inc,3,Monster Beverage Corp,Marsh And Mclennan Companies Inc,,56
 Pepsico Inc,2,Coca-Cola Company,Ingredion Inc,,192
-Coca-Cola Company,1,Coca-Cola Company,Lancaster Colony Corp,,36
 Pepsico Inc,1,Pepsico Inc,Atandt Inc,,364
-Coca-Cola Company,3,Lancaster Colony Corp,Huntington Bancshares Inc/Md,,30
-Coca-Cola Company,2,Keurig Dr Pepper Inc,Dr Pepper Snapple Group Inc,,28
 Pepsico Inc,2,Metlife Inc,Brighthouse Financial Inc,,270
-Coca-Cola Company,1,Coca-Cola Company,Philip Morris International Inc,,108
-Coca-Cola Company,1,Coca-Cola Company,Nrg Energy,SupplyChain,720
-Coca-Cola Company,2,Santander Holdings Usa Inc,Laurentian Bk Cda Qu,,16
-Coca-Cola Company,3,Loews Corp,Cna Financial Corp,,3852
-Coca-Cola Company,1,Coca-Cola Company,Apple Inc,,312
-Coca-Cola Company,1,Coca-Cola Company,Unilever Plc,,132
 Pepsico Inc,1,Pepsico Inc,Owens Corning Inc,,728
 Pepsico Inc,1,Pepsico Inc,Unilever Nv Ord,,975
 Pepsico Inc,1,Pepsico Inc,Heineken N V/S,,546
@@ -1276,7 +1187,6 @@ Pepsico Inc,3,Kellogg Company,Nokia Corp,,722
 Pepsico Inc,3,Intercontinental Exchange,Tullet Prebon Plc,,24
 Pepsico Inc,2,Bank Of America Corp,Basic Energy Services Inc,,3321
 Pepsico Inc,2,Spire Corp,First Solar Inc,,36
-Coca-Cola Company,3,The Carlyle Group Lp,Invesco Ltd,,264
 Pepsico Inc,2,General Motors Limited,Microsoft Corp,,330
 Pepsico Inc,2,Ltc Properties Inc,Air Lease Corp,,160
 Pepsico Inc,1,Pepsico Inc,Bank Of New York Mellon Corp,,422.5
@@ -1284,176 +1194,7 @@ Pepsico Inc,3,Alon Usa Energy Inc,Welltower Inc,,288
 Pepsico Inc,2,Morgan Stanley International Holdings Inc,Msci Inc,,7275
 Pepsico Inc,1,Pepsico Inc,Celsius Holdings Inc,,130
 Pepsico Inc,2,Morgan Stanley International Holdings Inc,Mitsubishi Ufj Financial Group Inc,Transaction,5850
-Coca-Cola Company,3,Jones Lang Lasalle Inc,Sandp Global Inc,,8190
-Microsoft Corp,2,Hewlett Packard Enterprise Comp,Aruba Networks Inc,,24
-Microsoft Corp,1,Microsoft Corp,International Business Machines Corp,,1755
-Microsoft Corp,3,Expedia Group Inc,Altice,Corporate,4480
-Microsoft Corp,3,Expedia Group Inc,Apollo Global Management Llc,,80
-Alphabet Inc,2,Abbvie Inc,Supervalu Inc,,48
-Alphabet Inc,3,Apollo Global Management Llc,Amc Entertainment Inc,,66
-Alphabet Inc,2,Netflix Inc,Twitter Inc,,18260
-Alphabet Inc,3,Federal National Mortgage Association,Realogy Holdings Corp,,3480
-Alphabet Inc,2,Microsoft Corp,Oci Partners Lp,,1267
-Alphabet Inc,2,Abbvie Inc,Cardinal Health Inc,,721
-Microsoft Corp,2,Amex Global Holdings Cv,Capital One Financial Corp,,406
-Microsoft Corp,1,Microsoft Corp,Netflix Inc,,206.25
-Microsoft Corp,3,Brocade Communications Systems Inc,Hon Hai Precision Industry Co Ltd,,14
-Microsoft Corp,3,Enterprise Products Partners L P,Plains All American Pipeline Lp,,84
-Microsoft Corp,2,Hewlett Packard Enterprise Comp,Ruckus Wireless Inc,,12
-Microsoft Corp,3,Moodys Corp /De/,Cra International,,129
-Alphabet Inc,2,Abbvie Inc,Abbott Laboratories Limited,,8352
-Alphabet Inc,1,Alphabet Inc,Oracle Corp,,2352
-Alphabet Inc,2,Sandp Global Inc,Federal National Mortgage Association,,9612
-Microsoft Corp,3,Oracle Corp,Netsuite Inc,,636
-Microsoft Corp,1,Microsoft Corp,Nokia Corp,,1330
-Alphabet Inc,2,Network 1 Technologies Inc,Juniper Networks Inc,,252
-Alphabet Inc,2,Abbvie Inc,Mckesson Corp,,490
-Alphabet Inc,3,Formfactor Inc,Tokyo Electron Ltd,,24
-Alphabet Inc,3,Microsemi Corp,Visa Inc,,275
-Alphabet Inc,3,Duke Energy Corp,Bloom Energy Corp,Corporate,312
-Alphabet Inc,2,Oracle Corp,Security Bank Corp,,216
-Alphabet Inc,2,Netflix Inc,Warner Media Llc,,237
-Coca-Cola Company,1,Coca-Cola Company,Koninklijke Bunge Bv,,96
-Alphabet Inc,2,Bank Of New York Mellon Corp,Darwin Professional Underwriters Inc,,26
-Microsoft Corp,3,Pepsico Inc,Quaker Chemical Corp,,39
-Microsoft Corp,3,Intuit Inc,Bank Of America Corp,,16302
-Alphabet Inc,3,Capital One Financial Corp,Conduent Inc,,1450
-Alphabet Inc,3,Dcp Midstream Lp,Eqt Corp,,42
-Alphabet Inc,3,Dell Inc,Pepsico Inc,,143
-Alphabet Inc,3,Ares Capital Corp,Ares Management Gp Llc,,1260
-Alphabet Inc,3,Gilead Sciences Inc,Allied Capital Corp,,1536
-Microsoft Corp,3,Amyris Inc,Bp Plc,,672
-Microsoft Corp,2,Altaba Inc,Coherent Inc,,25
-Microsoft Corp,2,Google,Amyris Inc,,24
-Microsoft Corp,3,Red Hat Inc,Verint Systems Inc,,20
-Microsoft Corp,3,Agilent Technologies Inc,Zygo Corp,,7
-Coca-Cola Company,3,Park Ohio Holdings Corp,Matson Inc,,42
-Microsoft Corp,2,Atandt Inc,Digital Realty Trust,,504
-Microsoft Corp,2,Federal National Mortgage Association,Agilent Technologies Inc,,868
-Microsoft Corp,3,Sprint Corp,Baker Hughes A Ge Co,,84
-Microsoft Corp,1,Microsoft Corp,Linkedin Corp,Corporate,4710
-Microsoft Corp,1,Microsoft Corp,London Stock Exchange Group Plc,,540
-Microsoft Corp,3,Cisco Systems Inc,Logmein Inc,,64
-Microsoft Corp,1,Microsoft Corp,Nintendo Co Ltd,,165
-Microsoft Corp,3,Symantec Corp,Reynolds American Inc,,8
-Microsoft Corp,2,Emc Corp,Brocade Communications Systems Inc,,2
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Zymergen Inc,Corporate,128
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Mgic Investment Corp,,1300
-Microsoft Corp,1,Microsoft Corp,Intercontinental Exchange,,180
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Mastercard Inc,Basel,3442.5
-Alphabet Inc,2,Nasdaq Inc,Change Healthcare Holdings Inc,,72
-Alphabet Inc,3,Pfizer Inc,Agilent Technologies Inc,,126
-Jp Morgan Chase And Co,3,Emergent Biosolutions,Altimmune Inc,,20
-Goldman Sachs Group Inc,3,Santander Consumer Usa Holdings,Fair Isaac Corp,,296
-Goldman Sachs Group Inc,3,Liberty Broadband Corp,Ooma Inc,,18
-Goldman Sachs Group Inc,3,Corelogic,Fidelity National Information Services,,20
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Fair Isaac Corp,Transaction,896
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Nn Inc,Corporate,1024
-Jp Morgan Chase And Co,2,Mastercard Inc,Canadian Pacific Railway Ltd/Cn,,2268
-Jp Morgan Chase And Co,3,Hp Inc,Toshiba Corp,,685
-Jp Morgan Chase And Co,2,Moodys Corp /De/,Ims Health Holdings Inc,,126
-Alphabet Inc,2,Ebay Inc,Paypal Holdings,,12312
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,University Bancorp Inc /De/,,32
-Jp Morgan Chase And Co,3,International Business Machines Corp,Wipro Ltd,,156
-Goldman Sachs Group Inc,2,Us Bancorp,Concord Communications Inc,,100
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Venator Materials Plc,Corporate,224
-Goldman Sachs Group Inc,3,Winnebago Industries Inc,Goldman Sachs Group Inc,,3456
-Goldman Sachs Group Inc,3,Intel Corp,Intuit Inc,,144
-Goldman Sachs Group Inc,2,Wells Fargo And Company,Mastercard Inc,,33390
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Barnes Group Inc,Political,64
-Jp Morgan Chase And Co,3,International Business Machines Corp,Columbia Sportswear Co,,364
-Goldman Sachs Group Inc,3,Dowdupont Inc,Dupont E I De Nemours And Co,,770
-Jp Morgan Chase And Co,2,International Business Machines Corp,Twitter Inc,,540
-Microsoft Corp,2,Sandp Global Inc,Canara Bank,,135
-Coca-Cola Company,1,Coca-Cola Company,Broadcom Ltd,SupplyChain,3888
-Coca-Cola Company,3,Oracle Corp,Intel Corp,,1344
-Microsoft Corp,3,Cisco Systems Inc,Extreme Networks Inc,,95
-Alphabet Inc,1,Alphabet Inc,Booking Holdings Inc,,140
-Microsoft Corp,2,Intercontinental Exchange,Coinbase Global Inc,Corporate,102
-Microsoft Corp,3,Hp Inc,Xerox Corp,,132
-Microsoft Corp,2,Emc Corp,Ilg Inc,,2
-Alphabet Inc,3,Dcp Midstream Lp,Tri-Continental Corp,,28
-Microsoft Corp,1,Microsoft Corp,Sap Se,,765
-Coca-Cola Company,2,Molson Coors Brewing Co,Flanigans Enterprises Inc,,432
-Alphabet Inc,2,Sandp Global Inc,Dean Foods Co,,90
-Alphabet Inc,1,Alphabet Inc,Ardmore Shipping Corp,,112
-Microsoft Corp,3,American Airlines Group Inc,Rockwell Collins Inc,Transaction,100
-Microsoft Corp,1,Microsoft Corp,Linkedin Corp,Communication,3810
-Microsoft Corp,3,Tier Reit Inc,Thomson Reuters Corp,,504
-Microsoft Corp,1,Microsoft Corp,Alaska Air Group,HumanResources,75
-Goldman Sachs Group Inc,3,Matador Resources Co,Jv Group Inc,,6
-Goldman Sachs Group Inc,2,Federal National Mortgage Association,Corelogic,,72
-Alphabet Inc,2,Honeywell International Inc,Markel Corp,,72
-Alphabet Inc,3,Cbs Corp,Netflix Inc,,1496
-Microsoft Corp,3,Pepsico Inc,Unilever Plc,,858
-Microsoft Corp,2,Symantec Corp,Verisign Inc/Ca,,896
-Microsoft Corp,2,Symantec Corp,Darwin Professional Underwriters Inc,,24
-Microsoft Corp,2,Red Hat Inc,Tibco Software Inc,,16
-Microsoft Corp,2,Altaba Inc,Tier Reit Inc,,15
-Microsoft Corp,1,Microsoft Corp,Atandt Inc,,420
-Microsoft Corp,2,International Business Machines Corp,Moodys Corp /De/,,476
-Microsoft Corp,2,Apache Corp,Mariner Energy Inc,,70
-Alphabet Inc,2,Ebay Inc,Gap Inc,,288
-Goldman Sachs Group Inc,2,Valeant Pharmaceuticals International Inc,Eisai Co Ltd,,72
-Jp Morgan Chase And Co,2,Berkshire Hathaway Inc,Dominion Energy Inc,,2592
-Jp Morgan Chase And Co,3,Mrc Global Inc,Bhp Billiton Plc,,28
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Oasis Petroleum Inc,,510
-Jp Morgan Chase And Co,2,Oasis Petroleum Inc,Qep Resources,,345
-Alphabet Inc,3,Adobe Inc,Wells Fargo And Company,,21280
-Goldman Sachs Group Inc,2,Snap Inc,Intel Corp,,256
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Goldman Sachs Group Inc,,78848
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Rivian Automotive Inc  De,Corporate,32
-Jp Morgan Chase And Co,3,Bruker Corp,Superconductor Technologies Inc,,12
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Moodys Corp /De/,,3034.5
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Visa Inc,Basel,10098
-Goldman Sachs Group Inc,2,Berkshire Hathaway Inc,General Electric Company,,8080
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Mulberry Health Inc,Corporate,128
-Jp Morgan Chase And Co,2,Realogy Holdings Corp,Capital One Financial Corp,,116
-Jp Morgan Chase And Co,3,Hp Inc,Tsr Inc,,66
-Jp Morgan Chase And Co,2,Cbs Corp,Comcast Corp A,,280
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Chase Corp,,204
-Goldman Sachs Group Inc,2,Snap Inc,Linkedin Corp,,32
-Goldman Sachs Group Inc,2,Cme Group Inc,Societe Generale,,288
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Jp Morgan Chase And Co,Corporate,48960
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Vroom Inc,Corporate,80
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Citigroup Inc,,1344
-Goldman Sachs Group Inc,2,Sunedison Inc,Smc Cp,,704
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Adeptus Health Inc,Corporate,320
-Goldman Sachs Group Inc,3,Perrigo Company Public Limited Company,Cardinal Health Inc,,126
-Jp Morgan Chase And Co,2,Visa Inc,Discover Financial Services,,462
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Camping World Inc,Corporate,1600
-Jp Morgan Chase And Co,3,Mgic Investment Corp,Rmr Real Estate Income Fund,,680
-Jp Morgan Chase And Co,2,Bank Of America Corp,First Republic Bank,,2166
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Cme Group Inc,,256
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Wells Fargo And Company,,1280
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Natera Inc,Corporate,768
-Jp Morgan Chase And Co,2,Smtc Corp,Ciena Corp,Corporate,56
-Goldman Sachs Group Inc,2,Discovery Comm Inc,Liberty Broadband Corp,,90
-Goldman Sachs Group Inc,2,Marcus Corp,Marriott International Inc /Md/,,696
-Jp Morgan Chase And Co,2,Zimmer Biomet Holdings,Globus Medical Inc,,70
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,City Office Reit Inc,,5508
-Goldman Sachs Group Inc,2,Ecolab Inc,Weatherford International Plc,,192
-Alphabet Inc,1,Alphabet Inc,Verizon Communications Inc,,182
-Alphabet Inc,2,Southern Company,Entergy Corp,,55
-Jp Morgan Chase And Co,1,Jp Morgan Chase And Co,Vivos Inc,,357
-Jp Morgan Chase And Co,2,Bank Of America Corp,Mrc Global Inc,,912
-Jp Morgan Chase And Co,2,Berkshire Hathaway Inc,Home Depot Inc,,528
-Goldman Sachs Group Inc,2,Snap Inc,Riverbed Technology Limited,,16
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Oak Street Health Llc,Corporate,160
-Goldman Sachs Group Inc,3,Realogy Holdings Corp,Servicemaster Global Holdings Inc,,96
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Morgan Stanley International Holdings Inc,,960
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Goodrich Petroleum Corp,,832
-Alphabet Inc,3,Entergy Corp,Calpine Corp,,20
-Coca-Cola Company,3,Plains All American Pipeline Lp,Gatx Corp,,72
-Coca-Cola Company,3,Netlogic Microsystems Inc,Actel Corp,,19
-Coca-Cola Company,3,Comscore Inc,Emc Corp,,2
-Coca-Cola Company,1,Coca-Cola Company,Corecivic Inc,SupplyChain,504
-Coca-Cola Company,2,Santander Holdings Usa Inc,Mbia Inc,Corporate,64
-Coca-Cola Company,2,Oci Partners Lp,Valero Energy Corp/Tx,,1442
 Pepsico Inc,1,Pepsico Inc,Collier Creek Holdings,,52
-Coca-Cola Company,1,Coca-Cola Company,Jp Morgan Chase And Co,Corporate,4590
-Coca-Cola Company,3,Wyndham Worldwide Corp,Str Holdings Inc,,36
-Coca-Cola Company,2,Nrg Energy,Plains All American Pipeline Lp,Corporate,300
 Pepsico Inc,3,Merck And Co Inc,Oci Partners Lp,,884
 Pepsico Inc,1,Pepsico Inc,Barclays Plc,Corporate,182
 Pepsico Inc,3,Oragenics Inc,Medicinova Inc,,20
@@ -1464,29 +1205,10 @@ Pepsico Inc,3,Corelogic,Alliance Data Systems Corp,,24
 Pepsico Inc,2,Hsbc Holdings Plc,Scotts Miracle-Gro Co,,270
 Pepsico Inc,3,Arch Capital Group Ltd,Philip Morris International Inc,,2844
 Pepsico Inc,2,Hertz Global Holdings Inc,Exela Technologies Inc,Transaction,384
-Goldman Sachs Group Inc,2,Camping World Inc,First Industrial Realty Trust Inc,,144
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Ihs Markit Ltd,,224
-Jp Morgan Chase And Co,2,Cbs Corp,Cumulus Media Inc,,112
-Jp Morgan Chase And Co,2,Cbs Corp,Lions Gate Entertainment Corp /Cn/,,140
-Jp Morgan Chase And Co,2,Federal Home Loan Mortgage Corp,Ally Financial,,21020
-Goldman Sachs Group Inc,3,Kraft Heinz Co,Johnson And Johnson Services Inc,,396
-Goldman Sachs Group Inc,1,Goldman Sachs Group Inc,Credit Suisse Group,Corporate,4160
-Goldman Sachs Group Inc,2,Camping World Inc,Winnebago Industries Inc,,144
-Alphabet Inc,2,Illumina Inc,Ubs Group Ag,,576
-Microsoft Corp,3,Tibco Software Inc,Dcp Midstream Lp,,35
-Microsoft Corp,1,Microsoft Corp,Pepsico Inc,,195
 Pepsico Inc,1,Pepsico Inc,Danone Sa,,156
-Alphabet Inc,2,Crown Castle International Corp,Telstra Corp Ltd,,252
-Goldman Sachs Group Inc,3,Dowdupont Inc,Chemours Co,,3108
-Goldman Sachs Group Inc,3,Tesla Inc,Vivint Solar Inc,,40
-Goldman Sachs Group Inc,2,Goodrich Petroleum Corp,Matador Resources Co,,12
-Jp Morgan Chase And Co,3,Fiserv Inc,National Australia Bank Ltd,,70
-Goldman Sachs Group Inc,2,General Motors Limited,Honda Motor Company,,726
 Pepsico Inc,3,Microsoft Corp,Linkedin Corp,,1440
 Pepsico Inc,3,Merck And Co Inc,Newlink Genetics Corp,,96
 Pepsico Inc,2,Boston Beer Co Inc,Diageo Plc,,1320
 Pepsico Inc,2,Merck And Co Inc,Immune Design Corp,,288
 Pepsico Inc,2,Bank Of America Corp,Bank Of America Corp,,664620
-Coca-Cola Company,3,Broadcom Ltd,Broadcom Ltd,,4860
-Coca-Cola Company,3,Ebay Inc,Ebay Inc,,1572
 Pepsico Inc,3,Umb Financial Corp,Umb Financial Corp,,16
